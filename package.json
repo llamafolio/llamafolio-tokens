@@ -1,0 +1,19 @@
+{
+  "name": "llamafolio-tokens",
+  "version": "1.0.0",
+  "description": "List of tokens used by LlamaFolio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llamafolio/llamafolio-tokens.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llamafolio/llamafolio-tokens/issues"
+  },
+  "homepage": "https://github.com/llamafolio/llamafolio-tokens#readme"
+}
