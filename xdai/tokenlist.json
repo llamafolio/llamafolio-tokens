@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x0000000000000000000000000000000000000000",
+    "name": "xDai",
+    "symbol": "xDai",
+    "decimals": 18,
+    "coingeckoId": "xdai",
+    "native": true
+  },
+  {
     "address": "0xff1b4d71ae12538d86777a954b136cf723fccefd",
     "name": "RealToken S 14882 Troester St Detroit MI",
     "symbol": "REALTOKEN-S-14882-TROESTER-ST-DETROIT-MI",
@@ -2140,12 +2148,5 @@
     "symbol": "UNCX",
     "decimals": 18,
     "coingeckoId": "unicrypt-2"
-  },
-  {
-    "address": "0x0000000000000000000000000000000000000000",
-    "name": "xDai",
-    "symbol": "xDai",
-    "decimals": 18,
-    "coingeckoId": null
   }
 ]

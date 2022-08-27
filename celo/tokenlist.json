@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x471ece3750da237f93b8e339c536989b8978a438",
+    "name": "Celo",
+    "symbol": "CELO",
+    "decimals": 18,
+    "coingeckoId": "celo",
+    "native": true
+  },
+  {
     "address": "0xef4229c8c3250c675f21bcefa42f58efbff6002a",
     "name": "Optics v2 USDC",
     "symbol": "USDC",
@@ -299,13 +307,6 @@
     "symbol": "SBR",
     "decimals": 18,
     "coingeckoId": null
-  },
-  {
-    "address": "0x471ece3750da237f93b8e339c536989b8978a438",
-    "name": "Celo",
-    "symbol": "CELO",
-    "decimals": 18,
-    "coingeckoId": "celo"
   },
   {
     "address": "0x46c9757c5497c5b1f2eb73ae79b6b67d119b0b58",

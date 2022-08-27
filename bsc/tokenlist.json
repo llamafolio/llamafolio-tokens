@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x0000000000000000000000000000000000000000",
+    "name": "BNB",
+    "symbol": "BNB",
+    "decimals": 18,
+    "coingeckoId": "binancecoin",
+    "native": true
+  },
+  {
     "address": "0xffeecbf8d7267757c2dc3d13d730e97e15bfdf7f",
     "name": "BoringDAO",
     "symbol": "BORING",
@@ -9468,13 +9476,6 @@
     "name": "Chi Gastoken by 1inch",
     "symbol": "CHI",
     "decimals": 0,
-    "coingeckoId": null
-  },
-  {
-    "address": "0x0000000000000000000000000000000000000000",
-    "name": "BNB",
-    "symbol": "BNB",
-    "decimals": 18,
     "coingeckoId": null
   }
 ]

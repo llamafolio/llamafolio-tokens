@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x0000000000000000000000000000000000000000",
+    "name": "FTM",
+    "symbol": "FTM",
+    "decimals": 18,
+    "coingeckoId": "fantom",
+    "native": true
+  },
+  {
     "address": "0xfa1fbb8ef55a4855e5688c0ee13ac3f202486286",
     "name": "Fantohm",
     "symbol": "FHM",
@@ -2315,12 +2323,5 @@
     "symbol": "IB",
     "decimals": 18,
     "coingeckoId": "iron-bank"
-  },
-  {
-    "address": "0x0000000000000000000000000000000000000000",
-    "name": "FTM",
-    "symbol": "FTM",
-    "decimals": 18,
-    "coingeckoId": null
   }
 ]

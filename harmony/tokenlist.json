@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x0000000000000000000000000000000000000000",
+    "name": "ONE",
+    "symbol": "ONE",
+    "decimals": 18,
+    "coingeckoId": "harmony",
+    "native": true
+  },
+  {
     "address": "0xf498a433819a5db3dfcc110100527cf4bfcafe47",
     "name": "Yieldly",
     "symbol": "1YLDY",
@@ -614,12 +622,5 @@
     "symbol": "VITC",
     "decimals": 18,
     "coingeckoId": "vitamin-coin"
-  },
-  {
-    "address": "0x0000000000000000000000000000000000000000",
-    "name": "ONE",
-    "symbol": "ONE",
-    "decimals": 18,
-    "coingeckoId": null
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x0000000000000000000000000000000000000000",
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18,
+    "coingeckoId": "ethereum",
+    "native": true
+  },
+  {
     "address": "0xfffffffff15abf397da76f1dcc1a1604f45126db",
     "name": "FalconSwap Token",
     "symbol": "FSW",
@@ -12717,12 +12725,5 @@
     "symbol": "CHI",
     "decimals": 0,
     "coingeckoId": "chi-gastoken"
-  },
-  {
-    "address": "0x0000000000000000000000000000000000000000",
-    "name": "ETH",
-    "symbol": "ETH",
-    "decimals": 18,
-    "coingeckoId": null
   }
 ]

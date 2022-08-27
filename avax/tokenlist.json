@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x0000000000000000000000000000000000000000",
+    "name": "Avalanche",
+    "symbol": "AVAX",
+    "decimals": 18,
+    "coingeckoId": "avalanche-2",
+    "native": true
+  },
+  {
     "address": "0xff579d6259dedcc80488c9b89d2820bcb5609160",
     "name": "Louverture",
     "symbol": "LVT",
@@ -2525,12 +2533,5 @@
     "symbol": "ACRE",
     "decimals": 18,
     "coingeckoId": "arable-protocol"
-  },
-  {
-    "address": "0x0000000000000000000000000000000000000000",
-    "name": "Avalanche",
-    "symbol": "AVAX",
-    "decimals": 18,
-    "coingeckoId": null
   }
 ]
