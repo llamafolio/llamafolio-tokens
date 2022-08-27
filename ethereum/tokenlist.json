@@ -127,13 +127,6 @@
     "coingeckoId": "moss-carbon-credit"
   },
   {
-    "address": "0xfc1e690f61efd961294b3e1ce3313fbd8aa4f85d",
-    "name": "Aave Interest bearing DAI",
-    "symbol": "aDAI",
-    "decimals": 18,
-    "coingeckoId": "aave-dai-v1"
-  },
-  {
     "address": "0xfb7b4564402e5500db5bb6d63ae671302777c75a",
     "name": "DEXTools",
     "symbol": "DEXT",
@@ -1093,13 +1086,6 @@
     "coingeckoId": "mywish"
   },
   {
-    "address": "0xd109b2a304587569c84308c55465cd9ff0317bfb",
-    "name": "Aave AMM Market BptBALWETH",
-    "symbol": "aAmmBptBALWETH",
-    "decimals": 18,
-    "coingeckoId": "aave-amm-bptbalweth"
-  },
-  {
     "address": "0xd0983dd6a0334c71d0478255d1f794508026b888",
     "name": "EGG Protocol",
     "symbol": "EGG",
@@ -1373,13 +1359,6 @@
     "coingeckoId": "etherisc"
   },
   {
-    "address": "0xc713e5e149d5d0715dcd1c156a020976e7e56b88",
-    "name": "Aave interest bearing MKR",
-    "symbol": "aMKR",
-    "decimals": 18,
-    "coingeckoId": "aave-mkr"
-  },
-  {
     "address": "0xc6e145421fd494b26dcf2bfeb1b02b7c5721978f",
     "name": "Crypto Perx",
     "symbol": "CRPX",
@@ -1455,13 +1434,6 @@
     "symbol": "COCOS",
     "decimals": 18,
     "coingeckoId": "cocos-bcx"
-  },
-  {
-    "address": "0xc4e15973e6ff2a35cc804c2cf9d2a1b817a8b40f",
-    "name": "Interest-Bearing BTC",
-    "symbol": "ibBTC",
-    "decimals": 18,
-    "coingeckoId": "interest-bearing-bitcoin"
   },
   {
     "address": "0xc4de189abf94c57f396bd4c52ab13b954febefd8",
@@ -1623,13 +1595,6 @@
     "symbol": "RARE",
     "decimals": 18,
     "coingeckoId": "superrare"
-  },
-  {
-    "address": "0xba3d9687cf50fe253cd2e1cfeede1d6787344ed5",
-    "name": "Aave Interest bearing Aave Token",
-    "symbol": "aAAVE",
-    "decimals": 18,
-    "coingeckoId": null
   },
   {
     "address": "0xba100000625a3754423978a60c9317c58a424e3d",
@@ -1961,13 +1926,6 @@
     "coingeckoId": "tronclassic"
   },
   {
-    "address": "0xac6df26a590f08dcc95d5a4705ae8abbc88509ef",
-    "name": "Aave interest bearing ENJ",
-    "symbol": "aENJ",
-    "decimals": 18,
-    "coingeckoId": "aave-enj"
-  },
-  {
     "address": "0xac0104cca91d167873b8601d2e71eb3d4d8c33e0",
     "name": "Crowns",
     "symbol": "CWS",
@@ -2057,13 +2015,6 @@
     "symbol": "UST",
     "decimals": 6,
     "coingeckoId": "terrausd-wormhole"
-  },
-  {
-    "address": "0xa685a61171bb30d4072b338c80cb7b2c865c873e",
-    "name": "Aave interest bearing MANA",
-    "symbol": "aMANA",
-    "decimals": 18,
-    "coingeckoId": "aave-mana"
   },
   {
     "address": "0xa665fed1b0c9da00e91ca582f77df36e325048c5",
@@ -2248,13 +2199,6 @@
     "coingeckoId": "depay"
   },
   {
-    "address": "0xa06bc25b5805d5f8d82847d191cb4af5a3e873e0",
-    "name": "Aave interest bearing LINK",
-    "symbol": "aLINK",
-    "decimals": 18,
-    "coingeckoId": "aave-link"
-  },
-  {
     "address": "0xa0246c9032bc3a600820415ae600c6388619a14d",
     "name": "FARM Reward Token",
     "symbol": "FARM",
@@ -2360,13 +2304,6 @@
     "coingeckoId": "saito"
   },
   {
-    "address": "0xffc97d72e13e01096502cb8eb52dee56f74dad7b",
-    "name": "Aave interest bearing AAVE",
-    "symbol": "aAAVE",
-    "decimals": 18,
-    "coingeckoId": "aave-aave"
-  },
-  {
     "address": "0xff75ced57419bcaebe5f05254983b013b0646ef5",
     "name": "Cook Token",
     "symbol": "COOK",
@@ -2386,13 +2323,6 @@
     "symbol": "ETHM",
     "decimals": 18,
     "coingeckoId": "ethereum-meta"
-  },
-  {
-    "address": "0xfc4b8ed459e00e5400be803a9bb3954234fd50e3",
-    "name": "Aave Interest bearing WBTC",
-    "symbol": "aWBTC",
-    "decimals": 8,
-    "coingeckoId": "aave-wbtc-v1"
   },
   {
     "address": "0xfb1e5f5e984c28ad7e228cdaa1f8a0919bb6a09b",
@@ -2955,13 +2885,6 @@
     "coingeckoId": "nfty-token"
   },
   {
-    "address": "0xe1ba0fb44ccb0d11b80f92f4f8ed94ca3ff51d00",
-    "name": "Aave Interest bearing BAT",
-    "symbol": "aBAT",
-    "decimals": 18,
-    "coingeckoId": "aave-bat-v1"
-  },
-  {
     "address": "0xe17f017475a709de58e976081eb916081ff4c9d5",
     "name": "RMPL",
     "symbol": "RMPL",
@@ -3002,13 +2925,6 @@
     "symbol": "CUBE",
     "decimals": 8,
     "coingeckoId": "somnium-space-cubes"
-  },
-  {
-    "address": "0xdf7ff54aacacbff42dfe29dd6144a69b629f8c9e",
-    "name": "Aave interest bearing ZRX",
-    "symbol": "aZRX",
-    "decimals": 18,
-    "coingeckoId": "aave-zrx"
   },
   {
     "address": "0xdf49c9f599a0a9049d97cff34d0c30e468987389",
@@ -3543,13 +3459,6 @@
     "coingeckoId": "trustswap"
   },
   {
-    "address": "0xcc12abe4ff81c9378d670de1b57f8e0dd228d77a",
-    "name": "Aave interest bearing REN",
-    "symbol": "aREN",
-    "decimals": 18,
-    "coingeckoId": "aave-ren"
-  },
-  {
     "address": "0xcb56b52316041a62b6b5d0583dce4a8ae7a3c629",
     "name": "Cigarette Token",
     "symbol": "CIG",
@@ -3872,13 +3781,6 @@
     "coingeckoId": "meter-governance-mapped-by-meter-io"
   },
   {
-    "address": "0xbcca60bb61934080951369a648fb03df4f96263c",
-    "name": "Aave interest bearing USDC",
-    "symbol": "aUSDC",
-    "decimals": 6,
-    "coingeckoId": "aave-usdc"
-  },
-  {
     "address": "0xbc6669e7914a2b327ae428184086d8ac88d74efc",
     "name": "Car Coin",
     "symbol": "CCM",
@@ -4033,13 +3935,6 @@
     "coingeckoId": "digitalbits"
   },
   {
-    "address": "0xb9d7cb55f463405cdfbe4e90a6d2df01c2b92bf1",
-    "name": "Aave interest bearing UNI",
-    "symbol": "aUNI",
-    "decimals": 18,
-    "coingeckoId": "aave-uni"
-  },
-  {
     "address": "0xb98d4c97425d9908e66e53a6fdf673acca0be986",
     "name": "ArcBlock",
     "symbol": "ABT",
@@ -4180,13 +4075,6 @@
     "coingeckoId": "covalent-cova"
   },
   {
-    "address": "0xb29130cbcc3f791f077eade0266168e808e5151e",
-    "name": "Aave interest bearing 1INCH",
-    "symbol": "a1INCH",
-    "decimals": 18,
-    "coingeckoId": null
-  },
-  {
     "address": "0xb26631c6dda06ad89b93c71400d25692de89c068",
     "name": "Minds",
     "symbol": "MINDS",
@@ -4234,13 +4122,6 @@
     "symbol": "ICOM",
     "decimals": 18,
     "coingeckoId": "icommunity"
-  },
-  {
-    "address": "0xb124541127a0a657f056d9dd06188c4f1b0e5aab",
-    "name": "Aave Interest bearing Uniswap",
-    "symbol": "aUNI",
-    "decimals": 18,
-    "coingeckoId": null
   },
   {
     "address": "0xb1191f691a355b43542bea9b8847bc73e7abb137",
@@ -4516,13 +4397,6 @@
     "coingeckoId": "goku"
   },
   {
-    "address": "0xa64bd6c70cb9051f6a9ba1f163fdc07e0dfb5f84",
-    "name": "Aave Interest bearing LINK",
-    "symbol": "aLINK",
-    "decimals": 18,
-    "coingeckoId": "aave-link-v1"
-  },
-  {
     "address": "0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0",
     "name": "Loom Network",
     "symbol": "LOOM",
@@ -4577,13 +4451,6 @@
     "symbol": "TEMP",
     "decimals": 18,
     "coingeckoId": "tempus"
-  },
-  {
-    "address": "0xa361718326c15715591c299427c62086f69923d9",
-    "name": "Aave interest bearing BUSD",
-    "symbol": "aBUSD",
-    "decimals": 18,
-    "coingeckoId": "aave-busd"
   },
   {
     "address": "0xa31b1767e09f842ecfd4bc471fe44f830e3891aa",
@@ -4668,13 +4535,6 @@
     "symbol": "GOPX2",
     "decimals": 18,
     "coingeckoId": "game-on-players"
-  },
-  {
-    "address": "0x9ff58f4ffb29fa2266ab25e75e2a8b3503311656",
-    "name": "Aave interest bearing WBTC",
-    "symbol": "aWBTC",
-    "decimals": 8,
-    "coingeckoId": "aave-wbtc"
   },
   {
     "address": "0x9fa69536d1cda4a04cfb50688294de75b505a9ae",
@@ -4768,13 +4628,6 @@
     "coingeckoId": "yearn-lazy-ape"
   },
   {
-    "address": "0x9ba00d6856a4edf4665bca2c2309936572473b7e",
-    "name": "Aave Interest bearing USDC",
-    "symbol": "aUSDC",
-    "decimals": 6,
-    "coingeckoId": "aave-usdc-v1"
-  },
-  {
     "address": "0x9b62ec1453cea5dde760aaf662048ca6eeb66e7f",
     "name": "ECELL",
     "symbol": "ECELL",
@@ -4864,13 +4717,6 @@
     "symbol": "Metis",
     "decimals": 18,
     "coingeckoId": "metis-token"
-  },
-  {
-    "address": "0x9d91be44c06d373a8a226e1f3b146956083803eb",
-    "name": "Aave Interest bearing KNC",
-    "symbol": "aKNC",
-    "decimals": 18,
-    "coingeckoId": "aave-knc-v1"
   },
   {
     "address": "0x9d79d5b61de59d882ce90125b18f74af650acb93",
@@ -6357,13 +6203,6 @@
     "coingeckoId": "shintama"
   },
   {
-    "address": "0x7deb5e830be29f91e298ba5ff1356bb7f8146998",
-    "name": "Aave Interest bearing MKR",
-    "symbol": "aMKR",
-    "decimals": 18,
-    "coingeckoId": "aave-mkr-v1"
-  },
-  {
     "address": "0x7db5af2b9624e1b3b4bb69d6debd9ad1016a58ac",
     "name": "Volt Inu",
     "symbol": "VOLT",
@@ -6511,13 +6350,6 @@
     "coingeckoId": "golem"
   },
   {
-    "address": "0x7d2d3688df45ce7c552e19c27e007673da9204b8",
-    "name": "Aave Interest bearing LEND",
-    "symbol": "aLEND",
-    "decimals": 18,
-    "coingeckoId": null
-  },
-  {
     "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
     "name": "MATIC",
     "symbol": "MATIC",
@@ -6537,13 +6369,6 @@
     "symbol": "SAN",
     "decimals": 18,
     "coingeckoId": "santiment-network-token"
-  },
-  {
-    "address": "0x7c07f7abe10ce8e33dc6c5ad68fe033085256a84",
-    "name": "Interest Compounding ETH Index",
-    "symbol": "icETH",
-    "decimals": 18,
-    "coingeckoId": "interest-compounding-eth-index"
   },
   {
     "address": "0x7bef710a5759d197ec0bf621c3df802c2d60d848",
@@ -7008,13 +6833,6 @@
     "coingeckoId": "loot"
   },
   {
-    "address": "0x71fc860f7d3a592a4a98740e39db31d25db65ae8",
-    "name": "Aave Interest bearing USDT",
-    "symbol": "aUSDT",
-    "decimals": 6,
-    "coingeckoId": "aave-usdt-v1"
-  },
-  {
     "address": "0x71dc40668682a124231301414167e4cf7f55383c",
     "name": "Mimir Token",
     "symbol": "MIMIR",
@@ -7050,13 +6868,6 @@
     "coingeckoId": "killswitch"
   },
   {
-    "address": "0x712db54daa836b53ef1ecbb9c6ba3b9efb073f40",
-    "name": "Aave Interest bearing ENJ",
-    "symbol": "aENJ",
-    "decimals": 18,
-    "coingeckoId": "aave-enj-v1"
-  },
-  {
     "address": "0x7121d00b4fa18f13da6c2e30d19c04844e6afdc8",
     "name": "LUFFY",
     "symbol": "LUFFY",
@@ -7069,13 +6880,6 @@
     "symbol": "SOURCE",
     "decimals": 18,
     "coingeckoId": "resource-protocol"
-  },
-  {
-    "address": "0x71010a9d003445ac60c4e6a7017c1e89a477b438",
-    "name": "Aave Interest bearing REP",
-    "symbol": "aREP",
-    "decimals": 18,
-    "coingeckoId": null
   },
   {
     "address": "0x70e8de73ce538da2beed35d14187f6959a8eca96",
@@ -7239,20 +7043,6 @@
     "coingeckoId": null
   },
   {
-    "address": "0x6fb0855c404e09c47c3fbca25f08d4e41f9f062f",
-    "name": "Aave Interest bearing ZRX",
-    "symbol": "aZRX",
-    "decimals": 18,
-    "coingeckoId": "aave-zrx-v1"
-  },
-  {
-    "address": "0x6fce4a401b6b80ace52baaefe4421bd188e76f6f",
-    "name": "Aave Interest bearing MANA",
-    "symbol": "aMANA",
-    "decimals": 18,
-    "coingeckoId": "aave-mana-v1"
-  },
-  {
     "address": "0x6f87d756daf0503d08eb8993686c7fc01dc44fb1",
     "name": "UniTrade",
     "symbol": "TRADE",
@@ -7272,13 +7062,6 @@
     "symbol": "ORCA",
     "decimals": 18,
     "coingeckoId": null
-  },
-  {
-    "address": "0x6ee0f7bb50a54ab5253da0667b0dc2ee526c30a8",
-    "name": "Aave Interest bearing Binance USD",
-    "symbol": "aBUSD",
-    "decimals": 18,
-    "coingeckoId": "aave-busd-v1"
   },
   {
     "address": "0x6e98e5401adcb0d76f4debfc3d794b3031f48790",
@@ -7328,13 +7111,6 @@
     "symbol": "cBAT",
     "decimals": 8,
     "coingeckoId": "compound-basic-attention-token"
-  },
-  {
-    "address": "0x6c5024cd4f8a59110119c56f8933403a539555eb",
-    "name": "Aave interest bearing SUSD",
-    "symbol": "aSUSD",
-    "decimals": 18,
-    "coingeckoId": "aave-susd"
   },
   {
     "address": "0x6bea7cfef803d1e3d5f7c0103f7ded065644e197",
@@ -7454,13 +7230,6 @@
     "symbol": "POOLZ",
     "decimals": 18,
     "coingeckoId": "poolz-finance"
-  },
-  {
-    "address": "0x69948cc03f478b95283f7dbf1ce764d0fc7ec54c",
-    "name": "Aave Interest bearing REN",
-    "symbol": "aREN",
-    "decimals": 18,
-    "coingeckoId": "aave-ren-v1"
   },
   {
     "address": "0x698c6ac9ca5f16cabc5a636d3a619329c0958cba",
@@ -7804,13 +7573,6 @@
     "symbol": "AIOZ",
     "decimals": 18,
     "coingeckoId": "aioz-network"
-  },
-  {
-    "address": "0x625ae63000f46200499120b906716420bd059240",
-    "name": "Aave Interest bearing SUSD",
-    "symbol": "aSUSD",
-    "decimals": 18,
-    "coingeckoId": "aave-susd-v1"
   },
   {
     "address": "0x6251e725cd45fb1af99354035a414a2c0890b929",
@@ -8464,13 +8226,6 @@
     "coingeckoId": "volatility-protocol-token"
   },
   {
-    "address": "0x5165d24277cd063f5ac44efd447b27025e888f37",
-    "name": "Aave interest bearing YFI",
-    "symbol": "aYFI",
-    "decimals": 18,
-    "coingeckoId": "aave-yfi"
-  },
-  {
     "address": "0x515d7e9d75e2b76db60f8a051cd890eba23286bc",
     "name": "Governor",
     "symbol": "GDAO",
@@ -8756,13 +8511,6 @@
     "symbol": "cETH",
     "decimals": 8,
     "coingeckoId": "compound-ether"
-  },
-  {
-    "address": "0x4da9b813057d04baef4e5800e36083717b4a0341",
-    "name": "Aave Interest bearing TUSD",
-    "symbol": "aTUSD",
-    "decimals": 18,
-    "coingeckoId": "aave-tusd-v1"
   },
   {
     "address": "0x4d953cf077c0c95ba090226e59a18fcf97db44ec",
@@ -9563,13 +9311,6 @@
     "coingeckoId": "playdapp"
   },
   {
-    "address": "0x3a3a65aab0dd2a17e3f1947ba16138cd37d08c04",
-    "name": "Aave Interest bearing ETH",
-    "symbol": "aETH",
-    "decimals": 18,
-    "coingeckoId": "aave-eth-v1"
-  },
-  {
     "address": "0x3a1311b8c404629e38f61d566cefefed083b9670",
     "name": "Piccolo Inu",
     "symbol": "PINU",
@@ -9596,13 +9337,6 @@
     "symbol": "kSEED",
     "decimals": 18,
     "coingeckoId": "kush-finance"
-  },
-  {
-    "address": "0x3ed3b47dd13ec9a98b44e6204a523e766b225811",
-    "name": "Aave interest bearing USDT",
-    "symbol": "aUSDT",
-    "decimals": 6,
-    "coingeckoId": "aave-usdt"
   },
   {
     "address": "0x3ef389f264e07fff3106a3926f2a166d1393086f",
@@ -9773,13 +9507,6 @@
     "coingeckoId": "wrapped-xrp"
   },
   {
-    "address": "0x39c6b3e42d6a679d7d776778fe880bc9487c2eda",
-    "name": "Aave interest bearing KNC",
-    "symbol": "aKNC",
-    "decimals": 18,
-    "coingeckoId": "aave-knc"
-  },
-  {
     "address": "0x39aa39c021dfbae8fac545936693ac917d5e7563",
     "name": "Compound USD Coin",
     "symbol": "cUSDC",
@@ -9946,13 +9673,6 @@
     "symbol": "crMTA",
     "decimals": 8,
     "coingeckoId": null
-  },
-  {
-    "address": "0x35f6b052c598d933d69a4eec4d04c73a191fe6c2",
-    "name": "Aave interest bearing SNX",
-    "symbol": "aSNX",
-    "decimals": 18,
-    "coingeckoId": "aave-snx"
   },
   {
     "address": "0x35a18000230da775cac24873d00ff85bccded550",
@@ -10184,13 +9904,6 @@
     "symbol": "CRU",
     "decimals": 18,
     "coingeckoId": "crust-network"
-  },
-  {
-    "address": "0x328c4c80bc7aca0834db37e6600a6c49e12da4de",
-    "name": "Aave Interest bearing SNX",
-    "symbol": "aSNX",
-    "decimals": 18,
-    "coingeckoId": "aave-snx-v1"
   },
   {
     "address": "0x327673ae6b33bd3d90f0096870059994f30dc8af",
@@ -11684,13 +11397,6 @@
     "coingeckoId": "howdoo"
   },
   {
-    "address": "0x12e51e77daaa58aa0e9247db7510ea4b46f9bead",
-    "name": "Aave Interest bearing YFI",
-    "symbol": "aYFI",
-    "decimals": 18,
-    "coingeckoId": null
-  },
-  {
     "address": "0x12d102f06da35cc0111eb58017fd2cd28537d0e1",
     "name": "Vox.Finance",
     "symbol": "VOX",
@@ -11815,13 +11521,6 @@
     "symbol": "DFIAT",
     "decimals": 18,
     "coingeckoId": "defiato"
-  },
-  {
-    "address": "0x101cc05f4a51c0319f570d5e146a8c625198e636",
-    "name": "Aave interest bearing TUSD",
-    "symbol": "aTUSD",
-    "decimals": 18,
-    "coingeckoId": "aave-tusd"
   },
   {
     "address": "0x10010078a54396f62c96df8532dc2b4847d47ed3",
@@ -12405,13 +12104,6 @@
     "coingeckoId": null
   },
   {
-    "address": "0x05ec93c0365baaeabf7aeffb0972ea7ecdd39cf1",
-    "name": "Aave interest bearing BAT",
-    "symbol": "aBAT",
-    "decimals": 18,
-    "coingeckoId": "aave-bat"
-  },
-  {
     "address": "0x05d3606d5c81eb9b7b18530995ec9b29da05faba",
     "name": "TomoChain",
     "symbol": "TOMOE",
@@ -12559,25 +12251,11 @@
     "coingeckoId": "huobi-btc"
   },
   {
-    "address": "0x030ba81f1c18d280636f32af80b9aad02cf0854e",
-    "name": "Aave interest bearing WETH",
-    "symbol": "aWETH",
-    "decimals": 18,
-    "coingeckoId": "aave-weth"
-  },
-  {
     "address": "0x0309c98b1bffa350bcb3f9fb9780970ca32a5060",
     "name": "BasketDAO DeFi Index",
     "symbol": "BDI",
     "decimals": 18,
     "coingeckoId": "basketdao-defi-index"
-  },
-  {
-    "address": "0x028171bca77440897b824ca71d1c56cac55b68a3",
-    "name": "Aave interest bearing DAI",
-    "symbol": "aDAI",
-    "decimals": 18,
-    "coingeckoId": "aave-dai"
   },
   {
     "address": "0x0258f474786ddfd37abce6df6bbb1dd5dfc4434a",

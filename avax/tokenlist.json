@@ -169,13 +169,6 @@
     "coingeckoId": null
   },
   {
-    "address": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
-    "name": "Aave Avalanche WETH",
-    "symbol": "aAvaWETH",
-    "decimals": 18,
-    "coingeckoId": "aave-weth"
-  },
-  {
     "address": "0xe19a1684873fab5fb694cfd06607100a632ff21c",
     "name": "BavaToken",
     "symbol": "BAVA",
@@ -1296,13 +1289,6 @@
     "coingeckoId": "joe-hat-token"
   },
   {
-    "address": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee",
-    "name": "Aave Avalanche DAI",
-    "symbol": "aAvaDAI",
-    "decimals": 18,
-    "coingeckoId": "aave-dai"
-  },
-  {
     "address": "0x827eb4bada6cb76c90f887969b3fe5fad585ffe3",
     "name": "XETA",
     "symbol": "XETA",
@@ -1534,13 +1520,6 @@
     "coingeckoId": "ape-universe"
   },
   {
-    "address": "0x6ab707aca953edaefbc4fd23ba73294241490620",
-    "name": "Aave Avalanche USDT",
-    "symbol": "aAvaUSDT",
-    "decimals": 6,
-    "coingeckoId": "aave-usdt"
-  },
-  {
     "address": "0x6d923f688c7ff287dc3a5943caeefc994f97b290",
     "name": "SmarterCoin",
     "symbol": "SMRTr",
@@ -1637,13 +1616,6 @@
     "symbol": "KALM",
     "decimals": 18,
     "coingeckoId": "kalmar"
-  },
-  {
-    "address": "0x625e7708f30ca75bfd92586e17077590c60eb4cd",
-    "name": "Aave Avalanche USDC",
-    "symbol": "aAvaUSDC",
-    "decimals": 6,
-    "coingeckoId": "aave-usdc"
   },
   {
     "address": "0x6241af3817db48a7f9e19fd9446d78e50936d275",
@@ -2318,13 +2290,6 @@
     "coingeckoId": "binance-usd"
   },
   {
-    "address": "0x191c10aa4af7c30e871e70c95db0e4eb77237530",
-    "name": "Aave Avalanche LINK",
-    "symbol": "aAvaLINK",
-    "decimals": 18,
-    "coingeckoId": "aave-link"
-  },
-  {
     "address": "0x1762f180381ca1de617aa1f1b90a359376e67ca5",
     "name": "AVA SPELL",
     "symbol": "ASPELL",
@@ -2463,13 +2428,6 @@
     "symbol": "APE",
     "decimals": 18,
     "coingeckoId": null
-  },
-  {
-    "address": "0x078f358208685046a11c85e8ad32895ded33a249",
-    "name": "Aave Avalanche WBTC",
-    "symbol": "aAvaWBTC",
-    "decimals": 8,
-    "coingeckoId": "aave-wbtc"
   },
   {
     "address": "0x06ebc9c542357e2129d16717cd02c02fbc835d33",

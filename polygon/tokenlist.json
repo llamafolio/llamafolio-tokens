@@ -323,13 +323,6 @@
     "coingeckoId": "ig-gold"
   },
   {
-    "address": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
-    "name": "Aave Polygon WETH",
-    "symbol": "aPolWETH",
-    "decimals": 18,
-    "coingeckoId": "aave-weth"
-  },
-  {
     "address": "0xe4bf2864ebec7b7fdf6eeca9bacae7cdfdaffe78",
     "name": "DODO bird (PoS)",
     "symbol": "DODO",
@@ -347,13 +340,6 @@
     "address": "0xe212f92e5af85268b33d2aa587b51f49c3b945be",
     "name": "Stake DAO BTC",
     "symbol": "sdcrvRenWSBTC",
-    "decimals": 18,
-    "coingeckoId": null
-  },
-  {
-    "address": "0xe20f7d1f0ec39c4d5db01f53554f2ef54c71f613",
-    "name": "Matic Aave interest bearing YFI",
-    "symbol": "maYFI",
     "decimals": 18,
     "coingeckoId": null
   },
@@ -1191,13 +1177,6 @@
     "coingeckoId": "meta"
   },
   {
-    "address": "0xf4b8888427b00d7caf21654408b7cba2ecf4ebd9",
-    "name": "Matic Aave interest bearing TUSD",
-    "symbol": "maTUSD",
-    "decimals": 18,
-    "coingeckoId": null
-  },
-  {
     "address": "0xf4b0903774532aee5ee567c02aab681a81539e92",
     "name": "PolyGaj",
     "symbol": "GAJ",
@@ -1366,13 +1345,6 @@
     "coingeckoId": "stasis-eurs"
   },
   {
-    "address": "0xe0b22e0037b130a9f56bbb537684e6fa18192341",
-    "name": "Matic Aave interest bearing DAI",
-    "symbol": "maDAI",
-    "decimals": 18,
-    "coingeckoId": null
-  },
-  {
     "address": "0xe0b52e49357fd4daf2c15e02058dce6bc0057db4",
     "name": "agEUR",
     "symbol": "agEUR",
@@ -1441,13 +1413,6 @@
     "symbol": "BANK",
     "decimals": 18,
     "coingeckoId": "bankless-dao"
-  },
-  {
-    "address": "0xdae5f1590db13e3b40423b5b5c5fbf175515910b",
-    "name": "Matic Aave interest bearing USDT",
-    "symbol": "maUSDT",
-    "decimals": 6,
-    "coingeckoId": null
   },
   {
     "address": "0xda6f726e2088f129d3ecb2257206adf7d8537ba5",
@@ -2129,25 +2094,11 @@
     "coingeckoId": "quickchart"
   },
   {
-    "address": "0x98ea609569bd25119707451ef982b90e3eb719cd",
-    "name": "Matic Aave interest bearing LINK",
-    "symbol": "maLINK",
-    "decimals": 18,
-    "coingeckoId": null
-  },
-  {
     "address": "0x980111ae1b84e50222c8843e3a7a038f36fecd2b",
     "name": "StackOS",
     "symbol": "STACK",
     "decimals": 18,
     "coingeckoId": "stackos"
-  },
-  {
-    "address": "0x9719d867a500ef117cc201206b8ab51e794d3f82",
-    "name": "Matic Aave interest bearing USDC",
-    "symbol": "maUSDC",
-    "decimals": 6,
-    "coingeckoId": "matic-aave-usdc"
   },
   {
     "address": "0x968f6f898a6df937fc1859b323ac2f14643e3fed",
@@ -2290,13 +2241,6 @@
     "coingeckoId": "autobahn-network"
   },
   {
-    "address": "0x8df3aad3a84da6b69a4da8aec3ea40d9091b2ac4",
-    "name": "Aave Matic Market WMATIC",
-    "symbol": "amWMATIC",
-    "decimals": 18,
-    "coingeckoId": "aave-polygon-wmatic"
-  },
-  {
     "address": "0x8d520c8e66091cfd6743fe37fbe3a09505616c4b",
     "name": "CosplayToken (PoS)",
     "symbol": "COT",
@@ -2316,13 +2260,6 @@
     "symbol": "jCAD",
     "decimals": 18,
     "coingeckoId": "jarvis-synthetic-canadian-dollar"
-  },
-  {
-    "address": "0x8c8bdbe9cee455732525086264a4bf9cf821c498",
-    "name": "Matic Aave interest bearing UNI",
-    "symbol": "maUNI",
-    "decimals": 18,
-    "coingeckoId": null
   },
   {
     "address": "0x8a2870fb69a90000d6439b7adfb01d4ba383a415",
@@ -2546,13 +2483,6 @@
     "name": "Matic Deflect Protocol",
     "symbol": "mDEF",
     "decimals": 9,
-    "coingeckoId": null
-  },
-  {
-    "address": "0x823cd4264c1b951c9209ad0deaea9988fe8429bf",
-    "name": "Matic Aave interest bearing AAVE",
-    "symbol": "maAAVE",
-    "decimals": 18,
     "coingeckoId": null
   },
   {
@@ -3151,13 +3081,6 @@
     "coingeckoId": "impermax"
   },
   {
-    "address": "0x60d55f02a771d515e077c9c2403a1ef324885cec",
-    "name": "Aave Matic Market USDT",
-    "symbol": "amUSDT",
-    "decimals": 6,
-    "coingeckoId": "aave-polygon-usdt"
-  },
-  {
     "address": "0x60ac2e84078ce30cbc68e3d7b18bcf613271ce6b",
     "name": "ALOHA",
     "symbol": "ALOHA",
@@ -3282,13 +3205,6 @@
     "symbol": "BNB",
     "decimals": 18,
     "coingeckoId": null
-  },
-  {
-    "address": "0x5c2ed810328349100a66b82b78a1791b101c9d61",
-    "name": "Aave Matic Market WBTC",
-    "symbol": "amWBTC",
-    "decimals": 8,
-    "coingeckoId": "aave-polygon-wbtc"
   },
   {
     "address": "0x5bef2617ecca9a39924c09017c5f1e25efbb3ba8",
@@ -3625,13 +3541,6 @@
     "symbol": "WHIRL",
     "decimals": 18,
     "coingeckoId": "omniwhirl"
-  },
-  {
-    "address": "0x4eac4c4e9050464067d673102f8e24b2fcceb350",
-    "name": "Interest-Bearing BTC",
-    "symbol": "ibBTC",
-    "decimals": 18,
-    "coingeckoId": null
   },
   {
     "address": "0x4e8dc2149eac3f3def36b1c281ea466338249371",
@@ -4474,13 +4383,6 @@
     "coingeckoId": "entropyfi"
   },
   {
-    "address": "0x28424507fefb6f7f8e9d3860f56504e4e5f5f390",
-    "name": "Aave Matic Market WETH",
-    "symbol": "amWETH",
-    "decimals": 18,
-    "coingeckoId": "aave-polygon-weth"
-  },
-  {
     "address": "0x282d8efce846a88b159800bd4130ad77443fa1a1",
     "name": "Ocean Token",
     "symbol": "mOCEAN",
@@ -4493,13 +4395,6 @@
     "symbol": "FLUX",
     "decimals": 18,
     "coingeckoId": null
-  },
-  {
-    "address": "0x27f8d03b3a2196956ed754badc28d73be8830a6e",
-    "name": "Aave Matic Market DAI",
-    "symbol": "amDAI",
-    "decimals": 18,
-    "coingeckoId": "aave-polygon-dai"
   },
   {
     "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
@@ -4677,13 +4572,6 @@
     "coingeckoId": "matrixswap"
   },
   {
-    "address": "0x20d3922b4a1a8560e1ac99fba4fade0c849e2142",
-    "name": "Matic Aave interest bearing WETH",
-    "symbol": "maWETH",
-    "decimals": 18,
-    "coingeckoId": "matic-aave-weth"
-  },
-  {
     "address": "0x2052344ceace7f140da3e819c7729fef72f97851",
     "name": "1Million Token (PoS)",
     "symbol": "1MT",
@@ -4712,25 +4600,11 @@
     "coingeckoId": "stader"
   },
   {
-    "address": "0x1d2a0e5ec8e5bbdca5cb219e649b565d8e5c3360",
-    "name": "Aave Matic Market AAVE",
-    "symbol": "AMAAVE",
-    "decimals": 18,
-    "coingeckoId": "aave-polygon-aave"
-  },
-  {
     "address": "0x1a3acf6d19267e2d3e7f898f42803e90c9219062",
     "name": "FXS",
     "symbol": "FXS",
     "decimals": 18,
     "coingeckoId": "frax-share"
-  },
-  {
-    "address": "0x1a13f4ca1d028320a707d99520abfefca3998b7f",
-    "name": "Aave Matic Market USDC",
-    "symbol": "amUSDC",
-    "decimals": 6,
-    "coingeckoId": "aave-polygon-usdc"
   },
   {
     "address": "0x1fcbe5937b0cc2adf69772d228fa4205acf4d9b2",

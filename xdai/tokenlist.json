@@ -274,13 +274,6 @@
     "coingeckoId": "yearn-finance"
   },
   {
-    "address": "0xbcfb2b889f7baa29dd7a7b447b6c87aca572f4f4",
-    "name": "Aave Interest bearing DAI on xDai",
-    "symbol": "ADAI",
-    "decimals": 18,
-    "coingeckoId": null
-  },
-  {
     "address": "0xbdb90bdadae84af0b07abf4cefcc7989f909f9bd",
     "name": "bns.finance on xDai",
     "symbol": "BNSD",

@@ -106,20 +106,6 @@
     "coingeckoId": "modefi"
   },
   {
-    "address": "0xe578c856933d8e1082740bf7661e379aa2a30b26",
-    "name": "Geist USDC",
-    "symbol": "gUSDC",
-    "decimals": 6,
-    "coingeckoId": "geist-usdc"
-  },
-  {
-    "address": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
-    "name": "Aave Fantom WETH",
-    "symbol": "aFanWETH",
-    "decimals": 18,
-    "coingeckoId": "aave-weth"
-  },
-  {
     "address": "0xe2fb177009ff39f52c0134e8007fa0e4baacbd07",
     "name": "SoulPower",
     "symbol": "SOUL",
@@ -904,13 +890,6 @@
     "coingeckoId": "wrapped-hec"
   },
   {
-    "address": "0x940f41f0ec9ba1a34cf001cc03347ac092f5f6b5",
-    "name": "Geist fUSDT",
-    "symbol": "gfUSDT",
-    "decimals": 6,
-    "coingeckoId": "geist-fusdt"
-  },
-  {
     "address": "0x92df3eabf7c1c2a6b3d5793f6d53778ea78c48b2",
     "name": "Atlas Cloud",
     "symbol": "ATLAS",
@@ -1107,13 +1086,6 @@
     "coingeckoId": null
   },
   {
-    "address": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee",
-    "name": "Aave Fantom DAI",
-    "symbol": "aFanDAI",
-    "decimals": 18,
-    "coingeckoId": "aave-dai"
-  },
-  {
     "address": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
     "name": "AtariToken",
     "symbol": "ATRI",
@@ -1268,13 +1240,6 @@
     "coingeckoId": "tomb"
   },
   {
-    "address": "0x6ab707aca953edaefbc4fd23ba73294241490620",
-    "name": "Aave Fantom USDT",
-    "symbol": "aFanUSDT",
-    "decimals": 6,
-    "coingeckoId": "aave-usdt"
-  },
-  {
     "address": "0x6ab5660f0b1f174cfa84e9977c15645e4848f5d6",
     "name": "GSCARAB",
     "symbol": "GSCARAB",
@@ -1422,13 +1387,6 @@
     "coingeckoId": "cryptokek"
   },
   {
-    "address": "0x625e7708f30ca75bfd92586e17077590c60eb4cd",
-    "name": "Aave Fantom USDC",
-    "symbol": "aFanUSDC",
-    "decimals": 6,
-    "coingeckoId": "aave-usdc"
-  },
-  {
     "address": "0x60d8d17d6b824e19f77eaccaf16ed7ba6fb209c2",
     "name": "Serenity V2",
     "symbol": "SERENE",
@@ -1546,13 +1504,6 @@
     "symbol": "SING",
     "decimals": 18,
     "coingeckoId": null
-  },
-  {
-    "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
-    "name": "Aave Fantom CRV",
-    "symbol": "aFanCRV",
-    "decimals": 18,
-    "coingeckoId": "aave-crv"
   },
   {
     "address": "0x511d35c52a3c244e7b8bd92c0c297755fbd89212",
@@ -1765,20 +1716,6 @@
     "coingeckoId": "shade-cash"
   },
   {
-    "address": "0x39b3bd37208cbade74d0fcbdbb12d606295b430a",
-    "name": "Geist FTM",
-    "symbol": "gFTM",
-    "decimals": 18,
-    "coingeckoId": "geist-ftm"
-  },
-  {
-    "address": "0x38aca5484b8603373acc6961ecd57a6a594510a3",
-    "name": "Geist WBTC",
-    "symbol": "gWBTC",
-    "decimals": 8,
-    "coingeckoId": "geist-wbtc"
-  },
-  {
     "address": "0x38540b4613d2e57ecf190d3486ae6f74591eb8a9",
     "name": "AliumToken on Fantom",
     "symbol": "ALM",
@@ -1940,13 +1877,6 @@
     "coingeckoId": "iron-bsc"
   },
   {
-    "address": "0x25c130b2624cf12a4ea30143ef50c5d68cefa22f",
-    "name": "Geist ETH",
-    "symbol": "gETH",
-    "decimals": 18,
-    "coingeckoId": "geist-eth"
-  },
-  {
     "address": "0x25a528af62e56512a19ce8c3cab427807c28cc19",
     "name": "DSLA",
     "symbol": "DSLA",
@@ -2078,13 +2008,6 @@
     "symbol": "axlUSDC",
     "decimals": 6,
     "coingeckoId": "axlusdc"
-  },
-  {
-    "address": "0x191c10aa4af7c30e871e70c95db0e4eb77237530",
-    "name": "Aave Fantom LINK",
-    "symbol": "aFanLINK",
-    "decimals": 18,
-    "coingeckoId": "aave-link"
   },
   {
     "address": "0x188a168280589bc3e483d77aae6b4a1d26bd22dc",
@@ -2232,20 +2155,6 @@
     "symbol": "DP",
     "decimals": 18,
     "coingeckoId": "dark-planet"
-  },
-  {
-    "address": "0x07e6332dd090d287d3489245038daf987955dcfb",
-    "name": "Geist DAI",
-    "symbol": "gDAI",
-    "decimals": 18,
-    "coingeckoId": "geist-dai"
-  },
-  {
-    "address": "0x078f358208685046a11c85e8ad32895ded33a249",
-    "name": "Aave Fantom WBTC",
-    "symbol": "aFanWBTC",
-    "decimals": 8,
-    "coingeckoId": "aave-wbtc"
   },
   {
     "address": "0x078eef5a2fb533e1a4d487ef64b27df113d12c32",

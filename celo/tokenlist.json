@@ -169,13 +169,6 @@
     "coingeckoId": "ethichub"
   },
   {
-    "address": "0x9802d866fde4563d088a6619f7cef82c0b991a55",
-    "name": "Moola cREAL",
-    "symbol": "mcREAL",
-    "decimals": 18,
-    "coingeckoId": "moola-interest-bearing-creal"
-  },
-  {
     "address": "0x94140c2ea9d208d8476ca4e3045254169791c59e",
     "name": "Premio",
     "symbol": "PREMIO",
