@@ -12403,5 +12403,19 @@
     "symbol": "CHI",
     "decimals": 0,
     "coingeckoId": "chi-gastoken"
+  },
+  {
+    "address": "0x9ae380f0272e2162340a5bb646c354271c0f5cfc",
+    "name": "Conic",
+    "symbol": "CNC",
+    "decimals": 18,
+    "coingeckoId": "conic-finance"
+  },
+  {
+    "address": "0xb3ad645db386d7f6d753b2b9c3f4b853da6890b8",
+    "name": "Concentrator",
+    "symbol": "CTR",
+    "decimals": 18,
+    "coingeckoId": "concentrator"
   }
 ]
