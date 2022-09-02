@@ -19,7 +19,8 @@
     "name": "QiDAO",
     "symbol": "MAI",
     "decimals": 18,
-    "coingeckoId": "mimatic"
+    "coingeckoId": "mimatic",
+    "stable": true
   },
   {
     "address": "0xfb4d42bed5618fb1a377ddb64eb56b92a6d117f2",
@@ -180,7 +181,8 @@
     "name": "FRAX",
     "symbol": "FRAX",
     "decimals": 18,
-    "coingeckoId": "frax"
+    "coingeckoId": "frax",
+    "stable": true
   },
   {
     "address": "0xddcb3ffd12750b45d32e084887fdf1aabab34239",
@@ -558,7 +560,8 @@
     "name": "DEI",
     "symbol": "DEI",
     "decimals": 18,
-    "coingeckoId": "dei-token"
+    "coingeckoId": "dei-token",
+    "stable": true
   },
   {
     "address": "0xde12c7959e1a72bbe8a5f7a1dc8f8eef9ab011b3",
@@ -859,7 +862,8 @@
     "name": "TUSD",
     "symbol": "TUSD",
     "decimals": 18,
-    "coingeckoId": "true-usd"
+    "coingeckoId": "true-usd",
+    "stable": true
   },
   {
     "address": "0x9767203e89dcd34851240b3919d4900d3e5069f1",
@@ -992,7 +996,8 @@
     "name": "Dai Stablecoin",
     "symbol": "DAI",
     "decimals": 18,
-    "coingeckoId": "dai"
+    "coingeckoId": "dai",
+    "stable": true
   },
   {
     "address": "0x89d5e71e275b4be094df9551627bcf4e3b24ce22",
@@ -1076,7 +1081,8 @@
     "name": "Magic Internet Money",
     "symbol": "MIM",
     "decimals": 18,
-    "coingeckoId": "magic-internet-money"
+    "coingeckoId": "magic-internet-money",
+    "stable": true
   },
   {
     "address": "0x82f8cb20c14f134fe6ebf7ac3b903b2117aafa62",
@@ -1195,7 +1201,8 @@
     "name": "TOR",
     "symbol": "TOR",
     "decimals": 18,
-    "coingeckoId": "tor"
+    "coingeckoId": "tor",
+    "stable": true
   },
   {
     "address": "0x7381ed41f6de418dde5e84b55590422a57917886",
@@ -1769,7 +1776,8 @@
     "name": "Dola USD Stablecoin",
     "symbol": "DOLA",
     "decimals": 18,
-    "coingeckoId": "dola-usd"
+    "coingeckoId": "dola-usd",
+    "stable": true
   },
   {
     "address": "0x3028b4395f98777123c7da327010c40f3c7cc4ef",
@@ -2070,7 +2078,8 @@
     "name": "PAR Stablecoin",
     "symbol": "PAR",
     "decimals": 18,
-    "coingeckoId": "par-stablecoin"
+    "coingeckoId": "par-stablecoin",
+    "stable": true
   },
   {
     "address": "0x112df7e3b4b7ab424f07319d4e92f41e6608c48b",
@@ -2133,7 +2142,8 @@
     "name": "Synth sUSD",
     "symbol": "sUSD",
     "decimals": 18,
-    "coingeckoId": "nusd"
+    "coingeckoId": "nusd",
+    "stable": true
   },
   {
     "address": "0x0def844ed26409c5c46dda124ec28fb064d90d27",
@@ -2196,14 +2206,16 @@
     "name": "Frapped USDT",
     "symbol": "FUSDT",
     "decimals": 6,
-    "coingeckoId": "tether"
+    "coingeckoId": "tether",
+    "stable": true
   },
   {
     "address": "0x04068da6c83afcfa0e13ba15a6696662335d5b75",
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "coingeckoId": "usd-coin"
+    "coingeckoId": "usd-coin",
+    "stable": true
   },
   {
     "address": "0x03943c3ef00d92e130185cebc0bcc435def2cc94",

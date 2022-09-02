@@ -103,7 +103,8 @@
     "name": "Celo Euro",
     "symbol": "cEUR",
     "decimals": 18,
-    "coingeckoId": "celo-euro"
+    "coingeckoId": "celo-euro",
+    "stable": true
   },
   {
     "address": "0xd8761dd6c7cb54febd33add699f5e4440b62e01b",
@@ -145,7 +146,8 @@
     "name": "Mai Stablecoin",
     "symbol": "MAI",
     "decimals": 18,
-    "coingeckoId": "mimatic"
+    "coingeckoId": "mimatic",
+    "stable": true
   },
   {
     "address": "0xa649325aa7c5093d12d6f98eb4378deae68ce23f",
@@ -236,7 +238,8 @@
     "name": "Celo Dollar",
     "symbol": "cUSD",
     "decimals": 18,
-    "coingeckoId": "celo-dollar"
+    "coingeckoId": "celo-dollar",
+    "stable": true
   },
   {
     "address": "0x74c0c58b99b68cf16a717279ac2d056a34ba2bfe",

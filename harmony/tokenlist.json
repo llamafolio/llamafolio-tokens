@@ -96,7 +96,8 @@
     "name": "Frax",
     "symbol": "FRAX",
     "decimals": 18,
-    "coingeckoId": "frax"
+    "coingeckoId": "frax",
+    "stable": true
   },
   {
     "address": "0xf38593388079f7f5130d605e38abf6090d981ec2",
@@ -110,7 +111,8 @@
     "name": "Dai Stablecoin",
     "symbol": "DAI",
     "decimals": 18,
-    "coingeckoId": "dai"
+    "coingeckoId": "dai",
+    "stable": true
   },
   {
     "address": "0xea589e93ff18b1a1f1e9bac7ef3e86ab62addc79",
@@ -145,7 +147,8 @@
     "name": "Binance USD",
     "symbol": "BUSD",
     "decimals": 18,
-    "coingeckoId": "binance-usd"
+    "coingeckoId": "binance-usd",
+    "stable": true
   },
   {
     "address": "0xe064a68994e9380250cfee3e8c0e2ac5c0924548",
@@ -208,7 +211,8 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "coingeckoId": "usd-coin"
+    "coingeckoId": "usd-coin",
+    "stable": true
   },
   {
     "address": "0x95ce547d730519a90def30d647f37d9e5359b6ae",
@@ -397,7 +401,8 @@
     "name": "miMatic",
     "symbol": "MAI",
     "decimals": 18,
-    "coingeckoId": "mimatic"
+    "coingeckoId": "mimatic",
+    "stable": true
   },
   {
     "address": "0x3e018675c0ef63eb361b9ef4bfea3a3294c74c7b",
@@ -418,7 +423,8 @@
     "name": "Tether USD",
     "symbol": "USDT",
     "decimals": 6,
-    "coingeckoId": "tether"
+    "coingeckoId": "tether",
+    "stable": true
   },
   {
     "address": "0x3aa9470bdf720d7ff3d3fb78231803431970a329",

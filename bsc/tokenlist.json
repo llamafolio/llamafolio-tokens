@@ -89,7 +89,8 @@
     "name": "Magic Internet Money",
     "symbol": "MIM",
     "decimals": 18,
-    "coingeckoId": "magic-internet-money"
+    "coingeckoId": "magic-internet-money",
+    "stable": true
   },
   {
     "address": "0xfdfd27ae39cebefdbaac8615f18aa68ddd0f15f5",
@@ -432,7 +433,8 @@
     "name": "Binance Pegged BUSD",
     "symbol": "BUSD",
     "decimals": 18,
-    "coingeckoId": "binance-usd"
+    "coingeckoId": "binance-usd",
+    "stable": true
   },
   {
     "address": "0xe9c64384deb0c2bf06d991a8d708c77eb545e3d5",
@@ -481,7 +483,8 @@
     "name": "USD+",
     "symbol": "USD+",
     "decimals": 6,
-    "coingeckoId": "usd"
+    "coingeckoId": "usd",
+    "stable": true
   },
   {
     "address": "0xe7c9c6bc87b86f9e5b57072f907ee6460b593924",
@@ -901,7 +904,8 @@
     "name": "Decentralized USD",
     "symbol": "USDD",
     "decimals": 18,
-    "coingeckoId": "usdd"
+    "coingeckoId": "usdd",
+    "stable": true
   },
   {
     "address": "0xd10fe9d371c22416df34340287cd5d9029842fc3",
@@ -2994,7 +2998,8 @@
     "name": "dForce USD",
     "symbol": "USX",
     "decimals": 18,
-    "coingeckoId": "token-dforce-usd"
+    "coingeckoId": "token-dforce-usd",
+    "stable": true
   },
   {
     "address": "0xb44c63a09adf51f5e62cc7b63628b1b789941fa0",
@@ -3897,7 +3902,8 @@
     "name": "FRAX",
     "symbol": "FRAX",
     "decimals": 18,
-    "coingeckoId": "frax"
+    "coingeckoId": "frax",
+    "stable": true
   },
   {
     "address": "0x9096b4309224d751fcb43d7eb178dcffc122ad15",
@@ -4107,7 +4113,8 @@
     "name": "Binance Pegged USD Coin",
     "symbol": "USDC",
     "decimals": 18,
-    "coingeckoId": "usd-coin"
+    "coingeckoId": "usd-coin",
+    "stable": true
   },
   {
     "address": "0x8a65b987d9813f0a97446eda0de918b2573ae406",
@@ -6179,7 +6186,8 @@
     "name": "Binance Pegged USDT",
     "symbol": "USDT",
     "decimals": 18,
-    "coingeckoId": "tether"
+    "coingeckoId": "tether",
+    "stable": true
   },
   {
     "address": "0x559100c4c697ad514340943625bceeff8605cdc3",
@@ -6627,7 +6635,8 @@
     "name": "VAI Stablecoin",
     "symbol": "VAI",
     "decimals": 18,
-    "coingeckoId": "vai"
+    "coingeckoId": "vai",
+    "stable": true
   },
   {
     "address": "0x4ba0057f784858a48fe351445c672ff2a3d43515",
@@ -7208,7 +7217,8 @@
     "name": "miMatic",
     "symbol": "MAI",
     "decimals": 18,
-    "coingeckoId": "mimatic"
+    "coingeckoId": "mimatic",
+    "stable": true
   },
   {
     "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
@@ -8321,7 +8331,8 @@
     "name": "TOR",
     "symbol": "TOR",
     "decimals": 18,
-    "coingeckoId": "tor"
+    "coingeckoId": "tor",
+    "stable": true
   },
   {
     "address": "0x1c3c3941acb8a9be35e50f086fae6a481f7d9df7",
@@ -8524,7 +8535,8 @@
     "name": "Binance Pegged DAI",
     "symbol": "DAI",
     "decimals": 18,
-    "coingeckoId": "dai"
+    "coingeckoId": "dai",
+    "stable": true
   },
   {
     "address": "0x1a2fb0af670d0234c2857fad35b789f8cb725584",
@@ -8762,7 +8774,8 @@
     "name": "True USD",
     "symbol": "TUSD",
     "decimals": 18,
-    "coingeckoId": "true-usd"
+    "coingeckoId": "true-usd",
+    "stable": true
   },
   {
     "address": "0x13958e1eb63dfb8540eaf6ed7dcbbc1a60fd52af",

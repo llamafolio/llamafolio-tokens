@@ -544,7 +544,8 @@
     "name": "USDC on xDai",
     "symbol": "USDC",
     "decimals": 6,
-    "coingeckoId": "usd-coin"
+    "coingeckoId": "usd-coin",
+    "stable": true
   },
   {
     "address": "0xd5d1adf54fbf73a00b197ddcfdad7cc27d93002f",
@@ -1671,7 +1672,8 @@
     "name": "miMatic",
     "symbol": "MAI",
     "decimals": 18,
-    "coingeckoId": "mimatic"
+    "coingeckoId": "mimatic",
+    "stable": true
   },
   {
     "address": "0x3c56d5e887d8fa7ae1ba65bf7eccc25ec09eaf18",
