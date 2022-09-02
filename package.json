@@ -4,7 +4,8 @@
   "description": "List of tokens used by LlamaFolio.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "stable": "node scripts/stable.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/llamafolio/llamafolio-tokens/issues"
   },
-  "homepage": "https://github.com/llamafolio/llamafolio-tokens#readme"
+  "homepage": "https://github.com/llamafolio/llamafolio-tokens#readme",
+  "devDependencies": {
+    "node-fetch": "^2.6.7"
+  }
 }

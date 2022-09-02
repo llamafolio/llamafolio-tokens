@@ -656,7 +656,8 @@
     "name": "mStable USD",
     "symbol": "MUSD",
     "decimals": 18,
-    "coingeckoId": "musd"
+    "coingeckoId": "musd",
+    "stable": true
   },
   {
     "address": "0xe2d8f9557fd46ad134c8fb5eabf6f4da3e0d3f68",
@@ -852,7 +853,8 @@
     "name": "HUSD",
     "symbol": "HUSD",
     "decimals": 8,
-    "coingeckoId": "husd"
+    "coingeckoId": "husd",
+    "stable": true
   },
   {
     "address": "0xdeaa665ab71785ccf576dc76e5fcb5a2283ea0c6",
@@ -873,14 +875,16 @@
     "name": "STASIS EURS Token",
     "symbol": "EURS",
     "decimals": 2,
-    "coingeckoId": "stasis-eurs"
+    "coingeckoId": "stasis-eurs",
+    "stable": true
   },
   {
     "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
     "name": "Tether USD",
     "symbol": "USDT",
     "decimals": 6,
-    "coingeckoId": "tether"
+    "coingeckoId": "tether",
+    "stable": true
   },
   {
     "address": "0xda1e53e088023fe4d1dc5a418581748f52cbd1b8",
@@ -1783,7 +1787,8 @@
     "name": "Float FLOAT",
     "symbol": "FLOAT",
     "decimals": 18,
-    "coingeckoId": "float-protocol-float"
+    "coingeckoId": "float-protocol-float",
+    "stable": true
   },
   {
     "address": "0xb0280743b44bf7db4b6be482b2ba7b75e5da096c",
@@ -3561,7 +3566,8 @@
     "name": "Euro Tether",
     "symbol": "EURT",
     "decimals": 6,
-    "coingeckoId": "tether-eurt"
+    "coingeckoId": "tether-eurt",
+    "stable": true
   },
   {
     "address": "0xc57d533c50bc22247d49a368880fb49a1caa39f7",
@@ -3848,7 +3854,8 @@
     "name": "Alchemix USD",
     "symbol": "alUSD",
     "decimals": 18,
-    "coingeckoId": "alchemix-usd"
+    "coingeckoId": "alchemix-usd",
+    "stable": true
   },
   {
     "address": "0xbc19712feb3a26080ebf6f2f7849b417fdd792ca",
@@ -4513,7 +4520,8 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "coingeckoId": "usd-coin"
+    "coingeckoId": "usd-coin",
+    "stable": true
   },
   {
     "address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
@@ -4849,7 +4857,8 @@
     "name": "Magic Internet Money",
     "symbol": "MIM",
     "decimals": 18,
-    "coingeckoId": "magic-internet-money"
+    "coingeckoId": "magic-internet-money",
+    "stable": true
   },
   {
     "address": "0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec",
@@ -5017,7 +5026,8 @@
     "name": "FEI",
     "symbol": "FEI",
     "decimals": 18,
-    "coingeckoId": "fei-usd"
+    "coingeckoId": "fei-usd",
+    "stable": true
   },
   {
     "address": "0x9534ad65fb398e27ac8f4251dae1780b989d136e",
@@ -5451,7 +5461,8 @@
     "name": "USDP",
     "symbol": "USDP",
     "decimals": 18,
-    "coingeckoId": "paxos-standard"
+    "coingeckoId": "paxos-standard",
+    "stable": true
   },
   {
     "address": "0x8e6cd950ad6ba651f6dd608dc70e5886b1aa6b24",
@@ -5815,7 +5826,8 @@
     "name": "DolaUSDStablecoin",
     "symbol": "DOLA",
     "decimals": 18,
-    "coingeckoId": "dola-usd"
+    "coingeckoId": "dola-usd",
+    "stable": true
   },
   {
     "address": "0x8642a849d0dcb7a15a974794668adcfbe4794b56",
@@ -5864,7 +5876,8 @@
     "name": "FRAX",
     "symbol": "FRAX",
     "decimals": 18,
-    "coingeckoId": "frax"
+    "coingeckoId": "frax",
+    "stable": true
   },
   {
     "address": "0x853bb55c1f469902f088a629db8c8803a9be3857",
@@ -7166,7 +7179,8 @@
     "name": "Dai Stablecoin",
     "symbol": "DAI",
     "decimals": 18,
-    "coingeckoId": "dai"
+    "coingeckoId": "dai",
+    "stable": true
   },
   {
     "address": "0x6b0b3a982b4634ac68dd83a4dbf02311ce324181",
@@ -7292,7 +7306,8 @@
     "name": "PAR Stablecoin",
     "symbol": "PAR",
     "decimals": 18,
-    "coingeckoId": "par-stablecoin"
+    "coingeckoId": "par-stablecoin",
+    "stable": true
   },
   {
     "address": "0x67c597624b17b16fb77959217360b7cd18284253",
@@ -7341,7 +7356,8 @@
     "name": "Neutrino",
     "symbol": "USDN",
     "decimals": 18,
-    "coingeckoId": "neutrino"
+    "coingeckoId": "neutrino",
+    "stable": true
   },
   {
     "address": "0x6710c63432a2de02954fc0f851db07146a6c0312",
@@ -7719,7 +7735,8 @@
     "name": "LUSD",
     "symbol": "LUSD",
     "decimals": 18,
-    "coingeckoId": "liquity-usd"
+    "coingeckoId": "liquity-usd",
+    "stable": true
   },
   {
     "address": "0x5f944b0c4315cb7c3a846b025ab4045da44abf6c",
@@ -8034,7 +8051,8 @@
     "name": "Synth sUSD",
     "symbol": "sUSD",
     "decimals": 18,
-    "coingeckoId": "nusd"
+    "coingeckoId": "nusd",
+    "stable": true
   },
   {
     "address": "0x579cea1889991f68acc35ff5c3dd0621ff29b0c9",
@@ -8090,7 +8108,8 @@
     "name": "VOLT",
     "symbol": "VOLT",
     "decimals": 18,
-    "coingeckoId": "volt-protocol"
+    "coingeckoId": "volt-protocol",
+    "stable": true
   },
   {
     "address": "0x5590e22f78441da30463b55c3db0b5ea80cabcca",
@@ -8468,7 +8487,8 @@
     "name": "BUSD",
     "symbol": "BUSD",
     "decimals": 18,
-    "coingeckoId": "binance-usd"
+    "coingeckoId": "binance-usd",
+    "stable": true
   },
   {
     "address": "0x4fe5851c9af07df9e5ad8217afae1ea72737ebda",
@@ -8881,7 +8901,8 @@
     "name": "Spice USD",
     "symbol": "USDS",
     "decimals": 18,
-    "coingeckoId": "spiceusd"
+    "coingeckoId": "spiceusd",
+    "stable": true
   },
   {
     "address": "0x45f24baeef268bb6d63aee5129015d69702bcdfa",
@@ -10239,7 +10260,8 @@
     "name": "Origin Dollar",
     "symbol": "OUSD",
     "decimals": 18,
-    "coingeckoId": "origin-dollar"
+    "coingeckoId": "origin-dollar",
+    "stable": true
   },
   {
     "address": "0x2a537fa9ffaea8c1a41d3c2b68a9cb791529366d",
@@ -10813,7 +10835,8 @@
     "name": "USDK",
     "symbol": "USDK",
     "decimals": 18,
-    "coingeckoId": "usdk"
+    "coingeckoId": "usdk",
+    "stable": true
   },
   {
     "address": "0x1b40183efb4dd766f11bda7a7c3ad8982e998421",
@@ -10827,14 +10850,16 @@
     "name": "Euro Coin",
     "symbol": "EUROC",
     "decimals": 6,
-    "coingeckoId": "euro-coin"
+    "coingeckoId": "euro-coin",
+    "stable": true
   },
   {
     "address": "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
     "name": "AGEUR",
     "symbol": "AGEUR",
     "decimals": 18,
-    "coingeckoId": "ageur"
+    "coingeckoId": "ageur",
+    "stable": true
   },
   {
     "address": "0x1fbd3df007eb8a7477a1eab2c63483dcc24effd6",
@@ -11051,7 +11076,8 @@
     "name": "Reserve",
     "symbol": "RSV",
     "decimals": 18,
-    "coingeckoId": "reserve"
+    "coingeckoId": "reserve",
+    "stable": true
   },
   {
     "address": "0x196c81385bc536467433014042788eb707703934",
@@ -11849,7 +11875,8 @@
     "name": "Decentralized USD",
     "symbol": "USDD",
     "decimals": 18,
-    "coingeckoId": "usdd"
+    "coingeckoId": "usdd",
+    "stable": true
   },
   {
     "address": "0x0be4447860ddf283884bbaa3702749706750b09e",
@@ -12115,7 +12142,8 @@
     "name": "GeminiDollar",
     "symbol": "GUSD",
     "decimals": 2,
-    "coingeckoId": "gemini-dollar"
+    "coingeckoId": "gemini-dollar",
+    "stable": true
   },
   {
     "address": "0x0563dce613d559a47877ffd1593549fb9d3510d6",
@@ -12199,7 +12227,8 @@
     "name": "RAI",
     "symbol": "RAI",
     "decimals": 18,
-    "coingeckoId": "rai"
+    "coingeckoId": "rai",
+    "stable": true
   },
   {
     "address": "0x03be5c903c727ee2c8c4e9bc0acc860cca4715e2",
@@ -12388,7 +12417,8 @@
     "name": "TUSD",
     "symbol": "TUSD",
     "decimals": 18,
-    "coingeckoId": "true-usd"
+    "coingeckoId": "true-usd",
+    "stable": true
   },
   {
     "address": "0x000000000000d0151e748d25b766e77efe2a6c83",

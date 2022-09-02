@@ -432,7 +432,8 @@
     "name": "(PoS) Binance USD",
     "symbol": "BUSD",
     "decimals": 18,
-    "coingeckoId": "binance-usd"
+    "coingeckoId": "binance-usd",
+    "stable": true
   },
   {
     "address": "0xd9e838dd60c8ea1e7dd4e670913323bb87db112c",
@@ -733,7 +734,8 @@
     "name": "Tether USD",
     "symbol": "USDT",
     "decimals": 6,
-    "coingeckoId": "tether"
+    "coingeckoId": "tether",
+    "stable": true
   },
   {
     "address": "0xc1c93d475dc82fe72dbc7074d55f5a734f8ceeae",
@@ -1013,7 +1015,8 @@
     "name": "miMatic",
     "symbol": "MAI",
     "decimals": 18,
-    "coingeckoId": "mimatic"
+    "coingeckoId": "mimatic",
+    "stable": true
   },
   {
     "address": "0xa353deb6fb81df3844d8bd614d33d040fdbb8188",
@@ -1335,21 +1338,24 @@
     "name": "PAR Stablecoin",
     "symbol": "PAR",
     "decimals": 18,
-    "coingeckoId": "par-stablecoin"
+    "coingeckoId": "par-stablecoin",
+    "stable": true
   },
   {
     "address": "0xe111178a87a3bff0c8d18decba5798827539ae99",
     "name": "STASIS EURS Token (PoS)",
     "symbol": "EURS",
     "decimals": 2,
-    "coingeckoId": "stasis-eurs"
+    "coingeckoId": "stasis-eurs",
+    "stable": true
   },
   {
     "address": "0xe0b52e49357fd4daf2c15e02058dce6bc0057db4",
     "name": "agEUR",
     "symbol": "agEUR",
     "decimals": 18,
-    "coingeckoId": "ageur"
+    "coingeckoId": "ageur",
+    "stable": true
   },
   {
     "address": "0xe06bd4f5aac8d0aa337d13ec88db6defc6eaeefe",
@@ -2217,7 +2223,8 @@
     "name": "Dai Stablecoin",
     "symbol": "DAI",
     "decimals": 18,
-    "coingeckoId": "dai"
+    "coingeckoId": "dai",
+    "stable": true
   },
   {
     "address": "0x8f18dc399594b451eda8c5da02d0563c0b2d0f16",
@@ -3610,7 +3617,8 @@
     "name": "Magic Internet Money",
     "symbol": "MIM",
     "decimals": 18,
-    "coingeckoId": "magic-internet-money"
+    "coingeckoId": "magic-internet-money",
+    "stable": true
   },
   {
     "address": "0x49fc111e5ddd5580f48d6fdc4314540cb3a5cc4b",
@@ -3673,7 +3681,8 @@
     "name": "FRAX",
     "symbol": "FRAX",
     "decimals": 18,
-    "coingeckoId": "frax"
+    "coingeckoId": "frax",
+    "stable": true
   },
   {
     "address": "0x4597c8a59ab28b36840b82b3a674994a279593d0",
@@ -4226,7 +4235,8 @@
     "name": "Spice USD",
     "symbol": "USDS",
     "decimals": 18,
-    "coingeckoId": "spiceusd"
+    "coingeckoId": "spiceusd",
+    "stable": true
   },
   {
     "address": "0x2e2dde47952b9c7defde7424d00dd2341ad927ca",
@@ -4240,7 +4250,8 @@
     "name": "TUSD",
     "symbol": "TUSD",
     "decimals": 18,
-    "coingeckoId": "true-usd"
+    "coingeckoId": "true-usd",
+    "stable": true
   },
   {
     "address": "0x2df54842cd85c60f21b4871e09bcc6047b2dcc4d",
@@ -4401,7 +4412,8 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "coingeckoId": "usd-coin"
+    "coingeckoId": "usd-coin",
+    "stable": true
   },
   {
     "address": "0x2727ab1c2d22170abc9b595177b2d5c6e1ab7b7b",
@@ -4506,7 +4518,8 @@
     "name": "USD+",
     "symbol": "USD+",
     "decimals": 6,
-    "coingeckoId": "usd"
+    "coingeckoId": "usd",
+    "stable": true
   },
   {
     "address": "0x235737dbb56e8517391473f7c964db31fa6ef280",
@@ -5311,7 +5324,8 @@
     "name": "Neutrino USD",
     "symbol": "USDN",
     "decimals": 18,
-    "coingeckoId": "neutrino"
+    "coingeckoId": "neutrino",
+    "stable": true
   },
   {
     "address": "0x011734f6ed20e8d011d85cf7894814b897420acf",
@@ -5325,7 +5339,8 @@
     "name": "Rai Reflex Index (PoS)",
     "symbol": "RAI",
     "decimals": 18,
-    "coingeckoId": "rai"
+    "coingeckoId": "rai",
+    "stable": true
   },
   {
     "address": "0x000de668684839f97d4845f32a43e913366ec08c",
