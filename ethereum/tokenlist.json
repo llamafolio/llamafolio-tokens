@@ -1826,13 +1826,6 @@
     "coingeckoId": "pontoon"
   },
   {
-    "address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
-    "name": "STETH",
-    "symbol": "STETH",
-    "decimals": 18,
-    "coingeckoId": "staked-ether"
-  },
-  {
     "address": "0xae78736cd615f374d3085123a210448e74fc6393",
     "name": "Rocket Pool ETH",
     "symbol": "rETH",
@@ -6158,13 +6151,6 @@
     "symbol": "POP!",
     "decimals": 18,
     "coingeckoId": "pop"
-  },
-  {
-    "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
-    "name": "Wrapped liquid staked Ether 2.0",
-    "symbol": "wstETH",
-    "decimals": 18,
-    "coingeckoId": "wrapped-steth"
   },
   {
     "address": "0x7f3141c4d6b047fb930991b450f1ed996a51cb26",
