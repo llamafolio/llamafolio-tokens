@@ -23,6 +23,7 @@ for (const chain in chains) {
   registries[chain] = {};
 
   for (const token of chains[chain]) {
+    token.chain = chain;
     registries[chain][token.address] = token;
   }
 }
