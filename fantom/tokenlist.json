@@ -1663,7 +1663,7 @@
     "address": "0x42006ab57701251b580bdfc24778c43c9ff589a1",
     "name": "EVO",
     "symbol": "EVO",
-    "decimals": "18",
+    "decimals": 18,
     "coingeckoId": null
   },
   {
