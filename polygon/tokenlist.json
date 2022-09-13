@@ -3588,7 +3588,7 @@
     "address": "0x4af5ff1a60a6ef6c7c8f9c4e304cd9051fca3ec0",
     "name": "RIGEL PROTOCOL",
     "symbol": "RGP",
-    "decimals": "18",
+    "decimals": 18,
     "coingeckoId": "rigel-protocol"
   },
   {
