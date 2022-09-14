@@ -1,6 +1,6 @@
 import fs from "fs";
 import fetch from "node-fetch";
-import { chains } from "../index.ts";
+import { chains } from "../index";
 
 async function main() {
   const stablecoinsRes = await fetch(

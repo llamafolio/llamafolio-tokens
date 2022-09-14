@@ -1,4 +1,5 @@
 {
+  "exclude": ["scripts/**/*.ts"],
   "compilerOptions": {
     "resolveJsonModule": true,
     "target": "es2017",

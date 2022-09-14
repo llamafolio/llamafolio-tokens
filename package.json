@@ -2,10 +2,12 @@
   "name": "llamafolio-tokens",
   "version": "0.1.0",
   "description": "List of tokens used by LlamaFolio.",
-  "main": "index.js",
+  "main": "build/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "stable": "node scripts/stable.js"
+    "start": "npm run build && node build/index.js",
+    "build": "tsc",
+    "stable": "node scripts/stable.js",
+    "prepublishOnly": "npm run build"
   },
   "repository": {
     "type": "git",
@@ -13,6 +15,10 @@
   },
   "keywords": [],
   "license": "ISC",
+  "types": "build/index.d.ts",
+  "files": [
+    "build"
+  ],
   "bugs": {
     "url": "https://github.com/llamafolio/llamafolio-tokens/issues"
   },
