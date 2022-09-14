@@ -1,8 +1,12 @@
 {
   "name": "llamafolio-tokens",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "List of tokens used by LlamaFolio.",
   "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "files": [
+    "build"
+  ],
   "scripts": {
     "start": "npm run build && node build/index.js",
     "build": "tsc",
@@ -15,10 +19,6 @@
   },
   "keywords": [],
   "license": "ISC",
-  "types": "build/index.d.ts",
-  "files": [
-    "build"
-  ],
   "bugs": {
     "url": "https://github.com/llamafolio/llamafolio-tokens/issues"
   },

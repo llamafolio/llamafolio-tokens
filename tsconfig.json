@@ -1,8 +1,8 @@
 {
-  "exclude": ["scripts/**/*.ts"],
+  "exclude": ["scripts/**/*"],
   "compilerOptions": {
     "resolveJsonModule": true,
-    "target": "es2017",
+    "target": "es2015",
     "module": "commonjs",
     "declaration": true,
     "outDir": "./build",
