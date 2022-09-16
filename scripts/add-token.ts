@@ -2,6 +2,14 @@ import path from "path";
 import fs from "fs";
 import fetch from "node-fetch";
 
+async function downloadLogo(url: string) {
+  const response = await fetch(url);
+  return response.buffer();
+  fs.writeFile(`./image.jpg`, buffer, () =>
+    console.log("finished downloading!")
+  );
+}
+
 const coingeckoPlatformToChain = {
   avalanche: "avax",
   "binance-smart-chain": "bsc",
@@ -26,6 +34,7 @@ async function getCoingeckoTokens(id: string) {
     }
 
     tokensByChain[chain] = {
+      logoUrl: json.image.large,
       address:
         json.detail_platforms[coingecko_chain].contract_address.toLowerCase(),
       name: json.name,
@@ -72,27 +81,41 @@ async function main() {
       return help();
   }
 
-  console.log(tokensByChain);
-
   for (const chain in tokensByChain) {
-    const newToken = tokensByChain[chain];
+    const token = tokensByChain[chain];
 
-    const src = path.join(__dirname, "..", chain, "tokenlist.json");
-
-    const buff = fs.readFileSync(src, "utf8");
-    const tokenList = JSON.parse(buff);
+    const tokenListSrc = path.join(__dirname, "..", chain, "tokenlist.json");
+    const tokenListBuffer = fs.readFileSync(tokenListSrc, "utf8");
+    const tokenList = JSON.parse(tokenListBuffer);
 
     const prevAddresses = new Set(tokenList.map((token) => token.address));
 
-    if (prevAddresses.has(newToken.address)) {
-      console.log(`Failed to add ${newToken.name} on ${chain}: already exists`);
-      continue;
+    if (!prevAddresses.has(token.address)) {
+      tokenList.push({
+        address: token.address,
+        name: token.name,
+        symbol: token.symbol,
+        decimals: token.decimals,
+        coingeckoId: token.coingeckoId,
+      });
+
+      fs.writeFileSync(tokenListSrc, JSON.stringify(tokenList, null, 2));
     }
 
-    tokenList.push(newToken);
+    const logoSrc = path.join(
+      __dirname,
+      "..",
+      chain,
+      "logos",
+      token.address + ".png"
+    );
+    const logoBuffer = await downloadLogo(token.logoUrl);
 
-    fs.writeFileSync(src, JSON.stringify(tokenList, null, 2));
-    console.log(`Successfully added ${newToken.name} on ${chain}`);
+    if (!fs.existsSync(logoSrc)) {
+      fs.writeFileSync(logoSrc, logoBuffer);
+    }
+
+    console.log(`Successfully added ${token.name} on ${chain}`);
   }
 }
 
