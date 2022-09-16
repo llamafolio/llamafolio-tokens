@@ -10,7 +10,8 @@
   "scripts": {
     "start": "npm run build && node build/index.js",
     "build": "tsc",
-    "stable": "node scripts/stable.js",
+    "stable": "ts-node -T scripts/stable.ts",
+    "add-token": "ts-node -T scripts/add-token.ts",
     "prepublishOnly": "npm run build"
   },
   "repository": {
