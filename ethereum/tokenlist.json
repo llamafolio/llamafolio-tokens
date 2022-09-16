@@ -12433,5 +12433,12 @@
     "symbol": "CTR",
     "decimals": 18,
     "coingeckoId": "concentrator"
+  },
+  {
+    "address": "0xf1dc500fde233a4055e25e5bbf516372bc4f6871",
+    "name": "Saddle Finance",
+    "symbol": "SDL",
+    "decimals": 18,
+    "coingeckoId": "saddle-finance"
   }
 ]
