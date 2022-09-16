@@ -47,7 +47,10 @@ for (const chain in chains) {
  * @param chain
  * @param address lowercase hex string. ex: "0x0000000000000000000000000000000000000000"
  */
-export function getToken(chain: string, address: string) {
+export function getToken(
+  chain: string,
+  address: string = "0x0000000000000000000000000000000000000000"
+) {
   if (!registries[chain]) {
     console.error(`Chain '${chain}' not supported yet`);
     return;
