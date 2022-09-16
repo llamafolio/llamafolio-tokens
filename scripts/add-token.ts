@@ -5,9 +5,6 @@ import fetch from "node-fetch";
 async function downloadLogo(url: string) {
   const response = await fetch(url);
   return response.buffer();
-  fs.writeFile(`./image.jpg`, buffer, () =>
-    console.log("finished downloading!")
-  );
 }
 
 const coingeckoPlatformToChain = {
@@ -31,6 +28,7 @@ async function getCoingeckoTokens(id: string) {
     const chain = coingeckoPlatformToChain[coingecko_chain];
     if (!chain) {
       console.log(`Chain ${coingecko_chain} not supported yet`);
+      continue;
     }
 
     tokensByChain[chain] = {
@@ -109,9 +107,9 @@ async function main() {
       "logos",
       token.address + ".png"
     );
-    const logoBuffer = await downloadLogo(token.logoUrl);
 
     if (!fs.existsSync(logoSrc)) {
+      const logoBuffer = await downloadLogo(token.logoUrl);
       fs.writeFileSync(logoSrc, logoBuffer);
     }
 
