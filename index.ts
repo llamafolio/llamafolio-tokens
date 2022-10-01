@@ -5,6 +5,7 @@ import celo from "./celo/tokenlist.json";
 import ethereum from "./ethereum/tokenlist.json";
 import fantom from "./fantom/tokenlist.json";
 import harmony from "./harmony/tokenlist.json";
+import optimism from "./optimism/tokenlist.json";
 import polygon from "./polygon/tokenlist.json";
 import xdai from "./xdai/tokenlist.json";
 
@@ -31,6 +32,7 @@ export const chains: { [chain: string]: Token[] } = {
   ethereum,
   fantom,
   harmony,
+  optimism,
   polygon,
   xdai,
 };
