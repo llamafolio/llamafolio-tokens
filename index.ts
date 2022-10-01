@@ -1,3 +1,4 @@
+import arbitrum from "./arbitrum/tokenlist.json";
 import avax from "./avax/tokenlist.json";
 import bsc from "./bsc/tokenlist.json";
 import celo from "./celo/tokenlist.json";
@@ -23,6 +24,7 @@ export interface ChainToken extends Token {
 export type ChainTokenRegistry = { [key: string]: ChainToken };
 
 export const chains: { [chain: string]: Token[] } = {
+  arbitrum,
   avax,
   bsc,
   celo,
