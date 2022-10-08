@@ -64,13 +64,6 @@
     "coingeckoId": "arbinyan"
   },
   {
-    "address": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
-    "name": "Aave WETH",
-    "symbol": "AWETH",
-    "decimals": 18,
-    "coingeckoId": "aave-weth"
-  },
-  {
     "address": "0xdc7179416c08c15f689d9214a3bec2dd003deabc",
     "name": "KillSwitch",
     "symbol": "KSW",
@@ -470,13 +463,6 @@
     "coingeckoId": "weth"
   },
   {
-    "address": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee",
-    "name": "Aave DAI",
-    "symbol": "ADAI",
-    "decimals": 18,
-    "coingeckoId": "aave-dai"
-  },
-  {
     "address": "0x8038f3c971414fd1fc220ba727f2d4a0fc98cb65",
     "name": "dHEDGE DAO",
     "symbol": "DHT",
@@ -510,13 +496,6 @@
     "symbol": "SDL",
     "decimals": 18,
     "coingeckoId": "saddle-finance"
-  },
-  {
-    "address": "0x6ab707aca953edaefbc4fd23ba73294241490620",
-    "name": "Aave USDT",
-    "symbol": "AUSDT",
-    "decimals": 6,
-    "coingeckoId": "aave-usdt"
   },
   {
     "address": "0x6f5401c53e2769c858665621d22ddbf53d8d27c5",
@@ -573,13 +552,6 @@
     "symbol": "USX",
     "decimals": 18,
     "coingeckoId": "token-dforce-usd"
-  },
-  {
-    "address": "0x625e7708f30ca75bfd92586e17077590c60eb4cd",
-    "name": "Aave USDC",
-    "symbol": "AUSDC",
-    "decimals": 6,
-    "coingeckoId": "aave-usdc"
   },
   {
     "address": "0x5837d843d49ffdefc78fe09b5f371427c917946f",
@@ -792,13 +764,6 @@
     "coingeckoId": "deri-protocol"
   },
   {
-    "address": "0x191c10aa4af7c30e871e70c95db0e4eb77237530",
-    "name": "Aave LINK",
-    "symbol": "ALINK",
-    "decimals": 18,
-    "coingeckoId": "aave-link"
-  },
-  {
     "address": "0x17fc002b466eec40dae837fc4be5c67993ddbd6f",
     "name": "Frax",
     "symbol": "FRAX",
@@ -874,13 +839,6 @@
     "symbol": "SYN",
     "decimals": 18,
     "coingeckoId": "synapse-2"
-  },
-  {
-    "address": "0x078f358208685046a11c85e8ad32895ded33a249",
-    "name": "Aave WBTC",
-    "symbol": "AWBTC",
-    "decimals": 8,
-    "coingeckoId": "aave-wbtc"
   },
   {
     "address": "0x04cb2d263a7489f02d813eaab9ba1bb8466347f2",
