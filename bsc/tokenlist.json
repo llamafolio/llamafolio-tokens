@@ -107,13 +107,6 @@
     "coingeckoId": null
   },
   {
-    "address": "0xfd5840cd36d94d7229439859c0112a4185bc0255",
-    "name": "Venus USDT",
-    "symbol": "vUSDT",
-    "decimals": 8,
-    "coingeckoId": "venus-usdt"
-  },
-  {
     "address": "0xfce146bf3146100cfe5db4129cf6c82b0ef4ad8c",
     "name": "renBTC",
     "symbol": "renBTC",
@@ -163,13 +156,6 @@
     "coingeckoId": "doken"
   },
   {
-    "address": "0xf91d58b5ae142dacc749f58a49fcbac340cb0343",
-    "name": "Venus FIL",
-    "symbol": "vFIL",
-    "decimals": 8,
-    "coingeckoId": "venus-fil"
-  },
-  {
     "address": "0xf8e026dc4c0860771f691ecffbbdfe2fa51c77cf",
     "name": "BGOV Token",
     "symbol": "BGOV",
@@ -217,13 +203,6 @@
     "symbol": "M1Verse",
     "decimals": 9,
     "coingeckoId": "metaoneverse"
-  },
-  {
-    "address": "0xf508fcd89b8bd15579dc79a6827cb4686a3592c8",
-    "name": "Venus ETH",
-    "symbol": "vETH",
-    "decimals": 8,
-    "coingeckoId": "venus-eth"
   },
   {
     "address": "0xf4914e6d97a75f014acfcf4072f11be5cffc4ca6",
@@ -336,13 +315,6 @@
     "symbol": "PYRAM",
     "decimals": 18,
     "coingeckoId": "pyram-token"
-  },
-  {
-    "address": "0xeca88125a5adbe82614ffc12d0db554e2e2867c8",
-    "name": "Venus USDC",
-    "symbol": "vUSDC",
-    "decimals": 8,
-    "coingeckoId": "venus-usdc"
   },
   {
     "address": "0xebaffc2d2ea7c66fb848c48124b753f93a0a90ec",
@@ -3030,13 +3002,6 @@
     "coingeckoId": "wonderhero"
   },
   {
-    "address": "0xb248a295732e0225acd3337607cc01068e3b9c10",
-    "name": "Venus XRP",
-    "symbol": "vXRP",
-    "decimals": 8,
-    "coingeckoId": "venus-xrp"
-  },
-  {
     "address": "0xb1ced2e320e3f4c8e3511b1dc59203303493f382",
     "name": "Moonlight Token",
     "symbol": "MOONLIGHT",
@@ -3408,13 +3373,6 @@
     "coingeckoId": "deeper-network"
   },
   {
-    "address": "0xa07c5b74c9b40447a954e1466938b865b6bbea36",
-    "name": "Venus BNB",
-    "symbol": "vBNB",
-    "decimals": 8,
-    "coingeckoId": null
-  },
-  {
     "address": "0x9fd87aefe02441b123c3c32466cd9db4c578618f",
     "name": "Thetan Gem",
     "symbol": "THG",
@@ -3653,13 +3611,6 @@
     "coingeckoId": null
   },
   {
-    "address": "0x972207a639cc1b374b893cc33fa251b55ceb7c07",
-    "name": "Venus BETH",
-    "symbol": "vBETH",
-    "decimals": 8,
-    "coingeckoId": "venus-beth"
-  },
-  {
     "address": "0x9720ca160bbd4e7f3dd4bb3f8bd4227ca0342e63",
     "name": "GamesPad",
     "symbol": "GMPD",
@@ -3714,13 +3665,6 @@
     "symbol": "BONDLY",
     "decimals": 18,
     "coingeckoId": null
-  },
-  {
-    "address": "0x95c78222b3d6e262426483d42cfa53685a67ab9d",
-    "name": "Venus BUSD",
-    "symbol": "vBUSD",
-    "decimals": 8,
-    "coingeckoId": "venus-busd"
   },
   {
     "address": "0x95a1199eba84ac5f19546519e287d43d2f0e1b41",
@@ -4185,13 +4129,6 @@
     "symbol": "SquidGrow",
     "decimals": 19,
     "coingeckoId": "squidgrow"
-  },
-  {
-    "address": "0x882c173bc7ff3b7786ca16dfed3dfffb9ee7847b",
-    "name": "Venus BTC",
-    "symbol": "vBTC",
-    "decimals": 8,
-    "coingeckoId": "venus-btc"
   },
   {
     "address": "0x87bade473ea0513d4aa7085484aeaa6cb6ebe7e3",
@@ -5566,13 +5503,6 @@
     "coingeckoId": "force-protocol"
   },
   {
-    "address": "0x650b940a1033b8a1b1873f78730fcfc73ec11f1f",
-    "name": "Venus LINK",
-    "symbol": "vLINK",
-    "decimals": 8,
-    "coingeckoId": "venus-link"
-  },
-  {
     "address": "0x64c5f47e530841684a4eef408e9a4366585b88f9",
     "name": "ImminentVerse",
     "symbol": "IMV",
@@ -5874,13 +5804,6 @@
     "coingeckoId": "venus-reward-token"
   },
   {
-    "address": "0x5f0388ebc2b94fa8e123f404b79ccf5f40b29176",
-    "name": "Venus BCH",
-    "symbol": "vBCH",
-    "decimals": 8,
-    "coingeckoId": "venus-bch"
-  },
-  {
     "address": "0x5ecfcced226ba9fccd8663e7b3263cbd8c84edb5",
     "name": "Xtremcoin",
     "symbol": "XTR",
@@ -6103,13 +6026,6 @@
     "symbol": "BTH",
     "decimals": 18,
     "coingeckoId": "bit-hotel"
-  },
-  {
-    "address": "0x57a5297f2cb2c0aac9d554660acd6d385ab50c6b",
-    "name": "Venus LTC",
-    "symbol": "vLTC",
-    "decimals": 8,
-    "coingeckoId": "venus-ltc"
   },
   {
     "address": "0x5774b2fc3e91af89f89141eacf76545e74265982",
@@ -7466,13 +7382,6 @@
     "coingeckoId": "mimir-token"
   },
   {
-    "address": "0x334b3ecb4dca3593bccc3c7ebd1a1c1d1780fbf1",
-    "name": "Venus DAI",
-    "symbol": "vDAI",
-    "decimals": 8,
-    "coingeckoId": "venus-dai"
-  },
-  {
     "address": "0x333fd139caef6aa31056cc905987b77b1044d259",
     "name": "The Web3 Project",
     "symbol": "WEB3",
@@ -7639,13 +7548,6 @@
     "symbol": "GMT",
     "decimals": 8,
     "coingeckoId": "stepn"
-  },
-  {
-    "address": "0x2ff3d0f6990a40261c66e1ff2017acbc282eb6d0",
-    "name": "Venus SXP",
-    "symbol": "vSXP",
-    "decimals": 8,
-    "coingeckoId": "venus-sxp"
   },
   {
     "address": "0x2ff0b946a6782190c4fe5d4971cfe79f0b6e4df2",
@@ -8693,13 +8595,6 @@
     "coingeckoId": "chain-guardians"
   },
   {
-    "address": "0x1610bc33319e9398de5f57b33a5b184c806ad217",
-    "name": "Venus DOT",
-    "symbol": "vDOT",
-    "decimals": 8,
-    "coingeckoId": "venus-dot"
-  },
-  {
     "address": "0x15669cf161946c09a8b207650bfbb00e3d8a2e3e",
     "name": "JasmyCoin",
     "symbol": "JASMY",
@@ -8726,13 +8621,6 @@
     "symbol": "SKILL",
     "decimals": 18,
     "coingeckoId": "cryptoblades"
-  },
-  {
-    "address": "0x151b1e2635a717bcdc836ecd6fbb62b674fe3e1d",
-    "name": "Venus XVS",
-    "symbol": "vXVS",
-    "decimals": 8,
-    "coingeckoId": "venus-xvs"
   },
   {
     "address": "0x14c358b573a4ce45364a3dbd84bbb4dae87af034",
