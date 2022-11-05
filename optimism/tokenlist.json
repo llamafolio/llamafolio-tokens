@@ -33,7 +33,8 @@
     "name": "MAI",
     "symbol": "MIMATIC",
     "decimals": 18,
-    "coingeckoId": "mimatic"
+    "coingeckoId": "mimatic",
+    "stable": true
   },
   {
     "address": "0xd52f94df742a6f4b4c8b033369fe13a41782bf44",
@@ -82,7 +83,8 @@
     "name": "Dai",
     "symbol": "DAI",
     "decimals": 18,
-    "coingeckoId": "dai"
+    "coingeckoId": "dai",
+    "stable": true
   },
   {
     "address": "0xaf9fe3b5ccdae78188b1f8b9a49da7ae9510f151",
@@ -110,14 +112,16 @@
     "name": "Tether",
     "symbol": "USDT",
     "decimals": 6,
-    "coingeckoId": "tether"
+    "coingeckoId": "tether",
+    "stable": true
   },
   {
     "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
     "name": "sUSD",
     "symbol": "SUSD",
     "decimals": 18,
-    "coingeckoId": "nusd"
+    "coingeckoId": "nusd",
+    "stable": true
   },
   {
     "address": "0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
@@ -138,14 +142,16 @@
     "name": "Rai Reflex Index",
     "symbol": "RAI",
     "decimals": 18,
-    "coingeckoId": "rai"
+    "coingeckoId": "rai",
+    "stable": true
   },
   {
     "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "coingeckoId": "usd-coin"
+    "coingeckoId": "usd-coin",
+    "stable": true
   },
   {
     "address": "0x76fb31fb4af56892a25e32cfc43de717950c9278",
@@ -159,7 +165,8 @@
     "name": "USD ",
     "symbol": "USD+",
     "decimals": 6,
-    "coingeckoId": "usd"
+    "coingeckoId": "usd",
+    "stable": true
   },
   {
     "address": "0x6fd9d7ad17242c41f7131d257212c54a0e816691",
