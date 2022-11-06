@@ -15,6 +15,7 @@ export interface Token {
   symbol: string;
   decimals: number;
   coingeckoId: string | null;
+  wallet: boolean;
   native?: boolean;
 }
 

@@ -5,28 +5,32 @@
     "symbol": "ETH",
     "decimals": 18,
     "coingeckoId": "ethereum",
-    "native": true
+    "native": true,
+    "wallet": true
   },
   {
     "address": "0xf899e3909b4492859d44260e1de41a9e663e70f5",
     "name": "RadioShack",
     "symbol": "RADIO",
     "decimals": 18,
-    "coingeckoId": "radioshack"
+    "coingeckoId": "radioshack",
+    "wallet": true
   },
   {
     "address": "0xe4de4b87345815c71aa843ea4841bcdc682637bb",
     "name": "BUILD",
     "symbol": "BUILD",
     "decimals": 4,
-    "coingeckoId": "build"
+    "coingeckoId": "build",
+    "wallet": true
   },
   {
     "address": "0xe0bb0d3de8c10976511e5030ca403dbf4c25165b",
     "name": "0xBitcoin",
     "symbol": "0XBTC",
     "decimals": 8,
-    "coingeckoId": "oxbitcoin"
+    "coingeckoId": "oxbitcoin",
+    "wallet": true
   },
   {
     "address": "0xdfa46478f9e5ea86d57387849598dbfb2e964b02",
@@ -34,49 +38,56 @@
     "symbol": "MIMATIC",
     "decimals": 18,
     "coingeckoId": "mimatic",
-    "stable": true
+    "stable": true,
+    "wallet": true
   },
   {
     "address": "0xd52f94df742a6f4b4c8b033369fe13a41782bf44",
     "name": "Layer2DAO",
     "symbol": "L2DAO",
     "decimals": 18,
-    "coingeckoId": "layer2dao"
+    "coingeckoId": "layer2dao",
+    "wallet": true
   },
   {
     "address": "0xb12c13e66ade1f72f71834f2fc5082db8c091358",
     "name": "Roobee",
     "symbol": "ROOBEE",
     "decimals": 18,
-    "coingeckoId": "roobee"
+    "coingeckoId": "roobee",
+    "wallet": true
   },
   {
     "address": "0xfe8b128ba8c78aabc59d4c64cee7ff28e9379921",
     "name": "Balancer",
     "symbol": "BAL",
     "decimals": 18,
-    "coingeckoId": "balancer"
+    "coingeckoId": "balancer",
+    "wallet": true
   },
   {
     "address": "0xfa436399d0458dbe8ab890c3441256e3e09022a8",
     "name": "ZipSwap",
     "symbol": "ZIP",
     "decimals": 18,
-    "coingeckoId": "zipswap"
+    "coingeckoId": "zipswap",
+    "wallet": true
   },
   {
     "address": "0xf98dcd95217e15e05d8638da4c91125e59590b07",
     "name": "Kromatika",
     "symbol": "KROM",
     "decimals": 18,
-    "coingeckoId": "kromatika"
+    "coingeckoId": "kromatika",
+    "wallet": true
   },
   {
     "address": "0xe405de8f52ba7559f9df3c368500b6e6ae6cee49",
     "name": "sETH",
     "symbol": "SETH",
     "decimals": 18,
-    "coingeckoId": "seth"
+    "coingeckoId": "seth",
+    "wallet": true
   },
   {
     "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
@@ -84,28 +95,32 @@
     "symbol": "DAI",
     "decimals": 18,
     "coingeckoId": "dai",
-    "stable": true
+    "stable": true,
+    "wallet": true
   },
   {
     "address": "0xaf9fe3b5ccdae78188b1f8b9a49da7ae9510f151",
     "name": "dHEDGE DAO",
     "symbol": "DHT",
     "decimals": 18,
-    "coingeckoId": "dhedge-dao"
+    "coingeckoId": "dhedge-dao",
+    "wallet": true
   },
   {
     "address": "0x9e1028f5f1d5ede59748ffcee5532509976840e0",
     "name": "Perpetual Protocol",
     "symbol": "PERP",
     "decimals": 18,
-    "coingeckoId": "perpetual-protocol"
+    "coingeckoId": "perpetual-protocol",
+    "wallet": true
   },
   {
     "address": "0x97513e975a7fa9072c72c92d8000b0db90b163c5",
     "name": "Beethoven X",
     "symbol": "BEETS",
     "decimals": 18,
-    "coingeckoId": "beethoven-x"
+    "coingeckoId": "beethoven-x",
+    "wallet": true
   },
   {
     "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
@@ -113,7 +128,8 @@
     "symbol": "USDT",
     "decimals": 6,
     "coingeckoId": "tether",
-    "stable": true
+    "stable": true,
+    "wallet": true
   },
   {
     "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
@@ -121,21 +137,24 @@
     "symbol": "SUSD",
     "decimals": 18,
     "coingeckoId": "nusd",
-    "stable": true
+    "stable": true,
+    "wallet": true
   },
   {
     "address": "0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
     "name": "Synthetix Network",
     "symbol": "SNX",
     "decimals": 18,
-    "coingeckoId": "havven"
+    "coingeckoId": "havven",
+    "wallet": true
   },
   {
     "address": "0x7b0bcc23851bbf7601efc9e9fe532bf5284f65d3",
     "name": "Erica Social Token",
     "symbol": "EST",
     "decimals": 18,
-    "coingeckoId": "erica-social-token"
+    "coingeckoId": "erica-social-token",
+    "wallet": true
   },
   {
     "address": "0x7fb688ccf682d58f86d7e38e03f9d22e7705448b",
@@ -143,7 +162,8 @@
     "symbol": "RAI",
     "decimals": 18,
     "coingeckoId": "rai",
-    "stable": true
+    "stable": true,
+    "wallet": true
   },
   {
     "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
@@ -151,14 +171,16 @@
     "symbol": "USDC",
     "decimals": 6,
     "coingeckoId": "usd-coin",
-    "stable": true
+    "stable": true,
+    "wallet": true
   },
   {
     "address": "0x76fb31fb4af56892a25e32cfc43de717950c9278",
     "name": "Aave",
     "symbol": "AAVE",
     "decimals": 18,
-    "coingeckoId": "aave"
+    "coingeckoId": "aave",
+    "wallet": true
   },
   {
     "address": "0x73cb180bf0521828d8849bc8cf2b920918e23032",
@@ -166,139 +188,159 @@
     "symbol": "USD+",
     "decimals": 6,
     "coingeckoId": "usd",
-    "stable": true
+    "stable": true,
+    "wallet": true
   },
   {
     "address": "0x6fd9d7ad17242c41f7131d257212c54a0e816691",
     "name": "Uniswap",
     "symbol": "UNI",
     "decimals": 18,
-    "coingeckoId": "uniswap"
+    "coingeckoId": "uniswap",
+    "wallet": true
   },
   {
     "address": "0x68f180fcce6836688e9084f035309e29bf0a2095",
     "name": "Wrapped Bitcoin",
     "symbol": "WBTC",
     "decimals": 8,
-    "coingeckoId": "wrapped-bitcoin"
+    "coingeckoId": "wrapped-bitcoin",
+    "wallet": true
   },
   {
     "address": "0x66e8617d1df7ab523a316a6c01d16aa5bed93681",
     "name": "Shack",
     "symbol": "SHACK",
     "decimals": 18,
-    "coingeckoId": "shack"
+    "coingeckoId": "shack",
+    "wallet": true
   },
   {
     "address": "0x61baadcf22d2565b0f471b291c475db5555e0b76",
     "name": "Aelin",
     "symbol": "AELIN",
     "decimals": 18,
-    "coingeckoId": "aelin"
+    "coingeckoId": "aelin",
+    "wallet": true
   },
   {
     "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
     "name": "Lyra Finance",
     "symbol": "LYRA",
     "decimals": 18,
-    "coingeckoId": "lyra-finance"
+    "coingeckoId": "lyra-finance",
+    "wallet": true
   },
   {
     "address": "0x5029c236320b8f15ef0a657054b84d90bfbeded3",
     "name": "BitANT",
     "symbol": "BITANT",
     "decimals": 18,
-    "coingeckoId": "bitant"
+    "coingeckoId": "bitant",
+    "wallet": true
   },
   {
     "address": "0x4200000000000000000000000000000000000042",
     "name": "Optimism",
     "symbol": "OP",
     "decimals": 18,
-    "coingeckoId": "optimism"
+    "coingeckoId": "optimism",
+    "wallet": true
   },
   {
     "address": "0x4200000000000000000000000000000000000006",
     "name": "WETH",
     "symbol": "WETH",
     "decimals": 18,
-    "coingeckoId": "weth"
+    "coingeckoId": "weth",
+    "wallet": true
   },
   {
     "address": "0x3e7ef8f50246f725885102e8238cbba33f276747",
     "name": "BarnBridge",
     "symbol": "BOND",
     "decimals": 17,
-    "coingeckoId": "barnbridge"
+    "coingeckoId": "barnbridge",
+    "wallet": true
   },
   {
     "address": "0x3c8b650257cfb5f272f799f5e2b4e65093a11a05",
     "name": "Velodrome Finance",
     "symbol": "VELO",
     "decimals": 18,
-    "coingeckoId": "velodrome-finance"
+    "coingeckoId": "velodrome-finance",
+    "wallet": true
   },
   {
     "address": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
     "name": "Qi Dao",
     "symbol": "QI",
     "decimals": 18,
-    "coingeckoId": "qi-dao"
+    "coingeckoId": "qi-dao",
+    "wallet": true
   },
   {
     "address": "0x375488f097176507e39b9653b88fdc52cde736bf",
     "name": "Tarot",
     "symbol": "TAROT",
     "decimals": 18,
-    "coingeckoId": "tarot"
+    "coingeckoId": "tarot",
+    "wallet": true
   },
   {
     "address": "0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6",
     "name": "Chainlink",
     "symbol": "LINK",
     "decimals": 18,
-    "coingeckoId": "chainlink"
+    "coingeckoId": "chainlink",
+    "wallet": true
   },
   {
     "address": "0x296f55f8fb28e498b858d0bcda06d955b2cb3f97",
     "name": "Stargate Finance",
     "symbol": "STG",
     "decimals": 18,
-    "coingeckoId": "stargate-finance"
+    "coingeckoId": "stargate-finance",
+    "wallet": true
   },
   {
     "address": "0x217d47011b23bb961eb6d93ca9945b7501a5bb11",
     "name": "Thales",
     "symbol": "THALES",
     "decimals": 18,
-    "coingeckoId": "thales"
+    "coingeckoId": "thales",
+    "wallet": true
   },
   {
     "address": "0x1da650c3b2daa8aa9ff6f661d4156ce24d08a062",
     "name": "Dentacoin",
     "symbol": "DCN",
     "decimals": 0,
-    "coingeckoId": "dentacoin"
+    "coingeckoId": "dentacoin",
+    "wallet": true
   },
   {
     "address": "0x1f32b1c2345538c0c6f582fcb022739c4a194ebb",
     "name": "Wrapped stETH",
     "symbol": "WSTETH",
     "decimals": 18,
-    "coingeckoId": "wrapped-steth"
+    "coingeckoId": "wrapped-steth",
+    "wallet": true
   },
   {
     "address": "0x10010078a54396f62c96df8532dc2b4847d47ed3",
     "name": "Hundred Finance",
     "symbol": "HND",
     "decimals": 18,
-    "coingeckoId": "hundred-finance"
+    "coingeckoId": "hundred-finance",
+    "wallet": true
   },
   {
     "address": "0x00a35fd824c717879bf370e70ac6868b95870dfb",
     "name": "Iron Bank",
     "symbol": "IB",
     "decimals": 18,
-    "coingeckoId": "iron-bank"
+    "coingeckoId": "iron-bank",
+    "wallet": true
   }
 ]
