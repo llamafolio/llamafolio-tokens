@@ -342,5 +342,32 @@
     "decimals": 18,
     "coingeckoId": "iron-bank",
     "wallet": true
+  },
+  {
+    "address": "0xc40f949f8a4e094d1b49a23ea9241d289b7b2819",
+    "name": "Liquity USD",
+    "symbol": "LUSD",
+    "decimals": 18,
+    "coingeckoId": "liquity-usd",
+    "stable": true,
+    "wallet": true
+  },
+  {
+    "address": "0xcb8fa9a76b8e203d8c3797bf438d8fb81ea3326a",
+    "name": "Alchemix USD",
+    "symbol": "ALUSD",
+    "decimals": 18,
+    "coingeckoId": "alchemix-usd",
+    "stable": true,
+    "wallet": true
+  },
+  {
+    "address": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
+    "name": "BOB",
+    "symbol": "BOB",
+    "decimals": 18,
+    "coingeckoId": "bob",
+    "stable": true,
+    "wallet": true
   }
 ]

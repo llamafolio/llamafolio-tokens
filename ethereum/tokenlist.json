@@ -14213,5 +14213,95 @@
     "decimals": 18,
     "coingeckoId": "saddle-finance",
     "wallet": true
+  },
+  {
+    "address": "0xa774ffb4af6b0a91331c084e1aebae6ad535e6f3",
+    "name": "flexUSD",
+    "symbol": "FLEXUSD",
+    "decimals": 18,
+    "coingeckoId": "flex-usd",
+    "stable": true,
+    "wallet": true
+  },
+  {
+    "address": "0x8d6cebd76f18e1558d4db88138e2defb3909fad6",
+    "name": "MAI",
+    "symbol": "MIMATIC",
+    "decimals": 18,
+    "coingeckoId": "mimatic",
+    "stable": true,
+    "wallet": true
+  },
+  {
+    "address": "0xb8919522331c59f5c16bdfaa6a121a6e03a91f62",
+    "name": "Bacon Protocol Home",
+    "symbol": "HOME",
+    "decimals": 6,
+    "coingeckoId": "bacon-protocol-home",
+    "stable": true,
+    "wallet": true
+  },
+  {
+    "address": "0xc56c2b7e71b54d38aab6d52e94a04cbfa8f604fa",
+    "name": "ZUSD",
+    "symbol": "ZUSD",
+    "decimals": 6,
+    "coingeckoId": "zusd",
+    "stable": true,
+    "wallet": true
+  },
+  {
+    "address": "0x5ca135cb8527d76e932f34b5145575f9d8cbe08e",
+    "name": "Frax Price Index",
+    "symbol": "FPI",
+    "decimals": 18,
+    "coingeckoId": "frax-price-index",
+    "stable": true,
+    "wallet": true
+  },
+  {
+    "address": "0x2a54ba2964c8cd459dc568853f79813a60761b58",
+    "name": "Interest Protocol USDi",
+    "symbol": "USDI",
+    "decimals": 18,
+    "coingeckoId": "interest-protocol",
+    "stable": true,
+    "wallet": true
+  },
+  {
+    "address": "0xd71ecff9342a5ced620049e616c5035f1db98620",
+    "name": "sEUR",
+    "symbol": "SEUR",
+    "decimals": 18,
+    "coingeckoId": "seur",
+    "stable": true,
+    "wallet": true
+  },
+  {
+    "address": "0x586aa273f262909eef8fa02d90ab65f5015e0516",
+    "name": "Fixed Income Asset",
+    "symbol": "FIAT",
+    "decimals": 18,
+    "coingeckoId": "fixed-income-asset-token",
+    "stable": true,
+    "wallet": true
+  },
+  {
+    "address": "0x015b94ab2b0a14a96030573fbcd0f3d3d763541f",
+    "name": "Zunami USD",
+    "symbol": "UZD",
+    "decimals": 18,
+    "coingeckoId": "zunami-protocol",
+    "stable": true,
+    "wallet": true
+  },
+  {
+    "address": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
+    "name": "BOB",
+    "symbol": "BOB",
+    "decimals": 18,
+    "coingeckoId": "bob",
+    "stable": true,
+    "wallet": true
   }
 ]
