@@ -23,7 +23,7 @@ async function main() {
     const tokenListSrc = path.join(__dirname, "..", chainId, "tokenlist.json");
     const oldTokenList = JSON.parse(fs.readFileSync(tokenListSrc, "utf8"));
 
-    const allStablesForTheChain = peggedAssets.filter(stable => stable.chains.some(c => c.toLowerCase() === chainId))
+    const allStablesForTheChain = peggedAssets.filter(stable => stable.chains.some(chain => chain.toLowerCase() === chainId))
     const missingStables = allStablesForTheChain.filter(stable => oldTokenList.every(token => token.symbol !== stable.symbol))
 
     const tokenUpdateProcess = missingStables.map(token => {
