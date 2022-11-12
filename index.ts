@@ -17,6 +17,7 @@ export interface Token {
   coingeckoId: string | null;
   wallet: boolean;
   native?: boolean;
+  stable?: boolean;
 }
 
 export interface ChainToken extends Token {

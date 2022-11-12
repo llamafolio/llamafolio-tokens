@@ -25,7 +25,7 @@ async function main() {
 
     fs.writeFileSync(
       `./${chain}/tokenlist.json`,
-      JSON.stringify(newTokenList, null, 2)
+      `${JSON.stringify(newTokenList, null, 2)}\n`
     );
   }
 }

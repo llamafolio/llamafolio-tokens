@@ -2563,5 +2563,14 @@
     "decimals": 18,
     "coingeckoId": "iron-bank",
     "wallet": true
+  },
+  {
+    "address": "0xb67fa6defce4042070eb1ae1511dcd6dcc6a532e",
+    "name": "Alchemix USD",
+    "symbol": "ALUSD",
+    "decimals": 18,
+    "coingeckoId": "alchemix-usd",
+    "stable": true,
+    "wallet": true
   }
 ]

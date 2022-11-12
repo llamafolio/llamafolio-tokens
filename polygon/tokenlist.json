@@ -6110,5 +6110,23 @@
     "decimals": 8,
     "coingeckoId": null,
     "wallet": true
+  },
+  {
+    "address": "0x23001f892c0c82b79303edc9b9033cd190bb21c7",
+    "name": "Liquity USD",
+    "symbol": "LUSD",
+    "decimals": 18,
+    "coingeckoId": "liquity-usd",
+    "stable": true,
+    "wallet": true
+  },
+  {
+    "address": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
+    "name": "BOB",
+    "symbol": "BOB",
+    "decimals": 18,
+    "coingeckoId": "bob",
+    "stable": true,
+    "wallet": true
   }
 ]
