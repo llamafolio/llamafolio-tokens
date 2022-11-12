@@ -10724,5 +10724,14 @@
     "decimals": 18,
     "coingeckoId": "valas-finance",
     "wallet": true
+  },
+  {
+    "address": "0x0782b6d8c4551b9760e74c0545a9bcd90bdc41e5",
+    "name": "Destablecoin HAY",
+    "symbol": "HAY",
+    "decimals": 18,
+    "coingeckoId": "helio-protocol-hay",
+    "stable": true,
+    "wallet": true
   }
 ]
