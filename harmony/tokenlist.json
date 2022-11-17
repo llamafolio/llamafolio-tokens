@@ -717,5 +717,12 @@
     "decimals": 18,
     "coingeckoId": "vitamin-coin",
     "wallet": true
+  },
+  {
+    "address": "0x43bf77db5e784b263a459141bdcdf5cf6987936d",
+    "name": "Keep Network",
+    "symbol": "KEEP",
+    "decimals": 18,
+    "coingeckoId": "keep-network"
   }
 ]
