@@ -724,5 +724,12 @@
     "symbol": "KEEP",
     "decimals": 18,
     "coingeckoId": "keep-network"
+  },
+  {
+    "address": "0x4da9464daf2b878e32e29115e2cfd786fe84692a",
+    "name": "BakerySwap",
+    "symbol": "BAKE",
+    "decimals": 18,
+    "coingeckoId": "bakerytoken"
   }
 ]
