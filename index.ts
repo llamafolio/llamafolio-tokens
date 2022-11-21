@@ -16,8 +16,8 @@ export interface Token {
   decimals: number;
   coingeckoId: string | null;
   wallet: boolean;
+  stable: boolean;
   native?: boolean;
-  stable?: boolean;
 }
 
 export interface ChainToken extends Token {

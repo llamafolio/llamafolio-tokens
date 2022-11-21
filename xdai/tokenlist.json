@@ -6,7 +6,8 @@
     "decimals": 18,
     "coingeckoId": "xdai",
     "native": true,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xff1b4d71ae12538d86777a954b136cf723fccefd",
@@ -14,7 +15,8 @@
     "symbol": "REALTOKEN-S-14882-TROESTER-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "14882-troester",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xff0ce179a303f26017019acf78b951cb743b8d9b",
@@ -22,7 +24,8 @@
     "symbol": "TRIB",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xfd4e5f45ea24ec50c4db4367380b014875caf219",
@@ -30,7 +33,8 @@
     "symbol": "XYO",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xfb23cfd35046466fdba7f73dc2fccb5b17abf1aa",
@@ -38,7 +42,8 @@
     "symbol": "ALBC",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xfa57aa7beed63d03aaf85ffd1753f5f6242588fb",
@@ -46,7 +51,8 @@
     "symbol": "MPS",
     "decimals": 0,
     "coingeckoId": "mt-pelerin-shares",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xf54b47b00b6916974c73b81b7d9929a4f443db49",
@@ -54,7 +60,8 @@
     "symbol": "XRT",
     "decimals": 9,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xf1738912ae7439475712520797583ac784ea9033",
@@ -62,7 +69,8 @@
     "symbol": "XGT",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xec3f3e6d7907acda3a7431abd230196cda3fbb19",
@@ -70,7 +78,8 @@
     "symbol": "ETHIX",
     "decimals": 18,
     "coingeckoId": "ethichub",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xefe82d6baf0db71f92889eb9d00721bd49121316",
@@ -78,7 +87,8 @@
     "symbol": "REALTOKEN-S-4680-BUCKINGHAM-AVE-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "4680-buckingham",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
@@ -86,7 +96,8 @@
     "symbol": "ELK",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xeb2bcabb0cdc099978a74cfe4ab4d45e7e677a45",
@@ -94,7 +105,8 @@
     "symbol": "TVK",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
@@ -102,7 +114,8 @@
     "symbol": "WXDAI",
     "decimals": 18,
     "coingeckoId": "wrapped-xdai",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xe887dc4fcb5240c0c080aeab8870421d3ebd0b28",
@@ -110,7 +123,8 @@
     "symbol": "REALTOKEN-S-14066-SANTA-ROSA-DR-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "14066-santa-rosa",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xe82cbb7c29d00a4296ee505d12a473c26cd9c423",
@@ -118,7 +132,8 @@
     "symbol": "REALTOKEN-S-10700-WHITTIER-AVE-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "10700-whittier",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xe3902e329ef2d3fd7666022c139d75bcc984b7a5",
@@ -126,7 +141,8 @@
     "symbol": "REALTOKEN-15048-FREELAND-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "15048-freeland",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xe154a435408211ac89757b76c4fbe4dc9ed2ef27",
@@ -134,7 +150,8 @@
     "symbol": "BAND",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xe0d0b1dbbcf3dd5cac67edaf9243863fd70745da",
@@ -142,7 +159,8 @@
     "symbol": "BAOcx",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xdfc20ae04ed70bd9c7d720f449eedae19f659d65",
@@ -150,7 +168,8 @@
     "symbol": "BADGER",
     "decimals": 18,
     "coingeckoId": "badger-dao",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xde1e70ed71936e4c249a7d43e550f0b99fccddfc",
@@ -158,7 +177,8 @@
     "symbol": "FSW",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xdd96b45877d0e8361a4ddb732da741e97f3191ff",
@@ -166,7 +186,8 @@
     "symbol": "BUSD",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xdbcade285846131a5e7384685eaddbdfd9625557",
@@ -174,7 +195,8 @@
     "symbol": "COLD",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xdfa46478f9e5ea86d57387849598dbfb2e964b02",
@@ -182,7 +204,8 @@
     "symbol": "QiDAO",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xdbf3ea6f5bee45c02255b2c26a16f300502f68da",
@@ -190,7 +213,8 @@
     "symbol": "BZZ",
     "decimals": 16,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xda47bd33e8f5d17bb81b8752784bfb46c1c44b2a",
@@ -198,7 +222,8 @@
     "symbol": "REALTOKEN-S-15350-GREYDALE-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "15350-greydale",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xd9e89bfebae447b42c1fa85c590716ec8820f737",
@@ -206,7 +231,8 @@
     "symbol": "REALTOKEN-S-4061-GRAND-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "4061-grand",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xd9fa47e33d4ff7a1aca489de1865ac36c042b07a",
@@ -214,7 +240,8 @@
     "symbol": "HEX",
     "decimals": 8,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xd3b93ff74e43ba9568e5019b38addb804fef719b",
@@ -222,7 +249,8 @@
     "symbol": "UBT",
     "decimals": 8,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xd361c1fd663d8f2dc36ae07ff6f3623532cabdd3",
@@ -230,7 +258,8 @@
     "symbol": "MCB",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xce111a198eb04f388aceb78c40ced6daf1b0514a",
@@ -238,7 +267,8 @@
     "symbol": "REALTOKEN-272-NE42nd-COURT-DEERFIELDBEACH-FL",
     "decimals": 18,
     "coingeckoId": "272-n-e-42nd-court",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xcae40062a887581a3d1661d0ac2b481c32e3e938",
@@ -246,7 +276,8 @@
     "symbol": "AUT",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xcf9dc2de2a67d7db1a7171e3b8456d2171e4da75",
@@ -254,7 +285,8 @@
     "symbol": "LTI",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xcc043d8820a6dc3e74ef6fb4772fae00c1563489",
@@ -262,7 +294,8 @@
     "symbol": "MRP",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xc81c785653d97766b995d867cf91f56367742eac",
@@ -270,7 +303,8 @@
     "symbol": "AFI",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xc60e38c6352875c051b481cbe79dd0383adb7817",
@@ -278,7 +312,8 @@
     "symbol": "NODE",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xc439e5b1dee4f866b681e7c5e5df140aa47fbf19",
@@ -286,7 +321,8 @@
     "symbol": "SAI",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xc1b42bdb485deb24c74f58399288d7915a726c1d",
@@ -294,7 +330,8 @@
     "symbol": "LEND",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xc12956b840b403b600014a3092f6ebd9259738fe",
@@ -302,7 +339,8 @@
     "symbol": "SURF",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xbf65bfcb5da067446cee6a706ba3fe2fb1a9fdfd",
@@ -310,7 +348,8 @@
     "symbol": "YFI",
     "decimals": 18,
     "coingeckoId": "yearn-finance",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xbdb90bdadae84af0b07abf4cefcc7989f909f9bd",
@@ -318,7 +357,8 @@
     "symbol": "BNSD",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xbab3cbdcbcc578445480a79ed80269c50bb5b718",
@@ -326,7 +366,8 @@
     "symbol": "MDZA",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xb90d6bec20993be5d72a5ab353343f7a0281f158",
@@ -334,7 +375,8 @@
     "symbol": "DXD",
     "decimals": 18,
     "coingeckoId": "dxdao",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xb8403b7730368942a5bfe5aac04a31b44015b1cc",
@@ -342,7 +384,8 @@
     "symbol": "REALTOKEN-S-11078-WAYBURN-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "11078-wayburn",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xb7d311e2eb55f2f68a9440da38e7989210b9a05e",
@@ -350,7 +393,8 @@
     "symbol": "STAKE",
     "decimals": 18,
     "coingeckoId": "xdai-stake",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xb5dd2b6e0a0422e069e1d2cc3ed16533488a05e3",
@@ -358,7 +402,8 @@
     "symbol": "REALTOKEN-S-12866-LAUDER-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "12866-lauder",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xb31a2595e4cf66efbc1fe348b1429e5730891382",
@@ -366,7 +411,8 @@
     "symbol": "BOND",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xb0c5f3100a4d9d9532a4cfd68c55f1ae8da987eb",
@@ -374,7 +420,8 @@
     "symbol": "HAUS",
     "decimals": 18,
     "coingeckoId": "daohaus",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xb09850e2b93aa3aaa1476bf0c007cfc960e2de79",
@@ -382,7 +429,8 @@
     "symbol": "REALTOKEN-S-14229-WILSHIRE-DR-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "14229-wilshire",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xad91999f534f4075b00ba4231c018e57bdebb342",
@@ -390,7 +438,8 @@
     "symbol": "REALTOKEN-S-18983-ALCOY-AVE-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "18983-alcoy",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xa9e5cd4efc86c01fae9a9fcd6e8669b97c92a937",
@@ -398,7 +447,8 @@
     "symbol": "PROPHET",
     "decimals": 9,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xa899e4476ff5da39dcd9ddec7a6e2c651d8614bf",
@@ -406,7 +456,8 @@
     "symbol": "BTCBR",
     "decimals": 18,
     "coingeckoId": "bitcoin-br",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xa81f77e8988b28fb74243b907ace3c83353dc80a",
@@ -414,7 +465,8 @@
     "symbol": "REALTOKEN-15634-LIBERAL-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "15634-liberal",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xa69d7d4ddf397f3d1e7ebaf108555d1107b3b117",
@@ -422,7 +474,8 @@
     "symbol": "REALTOKEN-S-9166-DEVONSHIRE-RD-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "9166-devonshire",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xa2b2ae397492c7ed8a4c1e751ac72d2b59947e6b",
@@ -430,7 +483,8 @@
     "symbol": "REALTOKEN-S-9920-BISHOP-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "9920-bishop",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xa137d82197ea4cdfd5f008a91ba816b8324f59e1",
@@ -438,7 +492,8 @@
     "symbol": "REALTOKEN-S-5601-S.WOOD-ST-CHICAGO-IL",
     "decimals": 18,
     "coingeckoId": "5601-s-wood",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xfe17c3c0b6f38cf3bd8ba872bee7a18ab16b43fb",
@@ -446,7 +501,8 @@
     "symbol": "REALTOKEN-S-1577-ARDMORE-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "15777-ardmore",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xfc8b2690f66b46fec8b3ceeb95ff4ac35a0054bc",
@@ -454,7 +510,8 @@
     "symbol": "bDAI",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xfbdd194376de19a88118e84e279b977f165d01b8",
@@ -462,7 +519,8 @@
     "symbol": "DHV",
     "decimals": 18,
     "coingeckoId": "dehive",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xfadc59d012ba3c110b08a15b7755a5cb7cbe77d7",
@@ -470,7 +528,8 @@
     "symbol": "GRT",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xf99efeb34aff6d3099c41605e9ee778caec39317",
@@ -478,7 +537,8 @@
     "symbol": "LOCK",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xf4657ab08681214bcb1893aa8e9c7613459250ec",
@@ -486,7 +546,8 @@
     "symbol": "REALTOKEN-S-1617-S.AVERS-AVE-CHICAGO-IL",
     "decimals": 18,
     "coingeckoId": "1617-s-avers",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xf18cffb528eca0ea31d1d6b28bc80d2eca34d14d",
@@ -494,7 +555,8 @@
     "symbol": "REALTOKEN-25097-ANDOVER-DRIVE-DEARBORN-MI",
     "decimals": 18,
     "coingeckoId": "25097-andover",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xeedc2f5f4d1226759b1acf9efa23a99661de6663",
@@ -502,7 +564,8 @@
     "symbol": "REALTOKEN-20200-LESURE-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "20200-lesure",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xee2f2212a64ec3f6bc0f7580e10c53cb38b57508",
@@ -510,7 +573,8 @@
     "symbol": "REALTOKEN-S-12334-LANSDOWNE-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "12334-lansdowne",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xeddd81e0792e764501aae206eb432399a0268db5",
@@ -518,7 +582,8 @@
     "symbol": "TRAC",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xeaf7b3376173df8bc0c22ad6126943cc8353c1ee",
@@ -526,7 +591,8 @@
     "symbol": "CHEEMS",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xec84a3bb48d70553c2599ac2d0db07b2dfdf6364",
@@ -534,7 +600,8 @@
     "symbol": "BNS",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xeaacce3e5bcc10fb32c2553f8d6fc4c3888ffdad",
@@ -542,7 +609,8 @@
     "symbol": "SWAP",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xe7ef58d8180cc269c6620ded3e6cc536a52e2ebd",
@@ -550,7 +618,8 @@
     "symbol": "MESH",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xe7b6de709ffc3bd237c2f2c800e1002f97a760f3",
@@ -558,7 +627,8 @@
     "symbol": "REALTOKEN-S-4852-4854-W.CORTEZ-ST-CHICAGO-IL",
     "decimals": 18,
     "coingeckoId": "4852-4854-w-cortez",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xe6a1f98b0f4368559bd16639c844510f5db6fe48",
@@ -566,7 +636,8 @@
     "symbol": "BZRX",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xe5ce63ac9a08c1eb160889151cd84855f16c94d2",
@@ -574,7 +645,8 @@
     "symbol": "REALTOKEN-S-10616-McKINNEY-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "10616-mckinney",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xe2e73a1c69ecf83f464efce6a5be353a37ca09b2",
@@ -582,7 +654,8 @@
     "symbol": "WLINK",
     "decimals": 18,
     "coingeckoId": "chainlink",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xe255caf8893382465368b8e1cd4ef8436acf0ade",
@@ -590,7 +663,8 @@
     "symbol": "REALTOKEN-S-402-S.KOSTNER-AVE-CHICAGO-IL",
     "decimals": 18,
     "coingeckoId": "402-s-kostner",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xdf6ff92bfdc1e8be45177dc1f4845d391d3ad8fd",
@@ -598,7 +672,8 @@
     "symbol": "COMP",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xdd833d0eef6d5d7cec781b03c19f3b425f3039df",
@@ -606,7 +681,8 @@
     "symbol": "REALTOKEN-S-11957-OLGA-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "11957-olga",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xdf613af6b44a31299e48131e9347f034347e2f00",
@@ -614,7 +690,8 @@
     "symbol": "WAAVE",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
@@ -631,7 +708,8 @@
     "symbol": "REALTOKEN-S-10629-MCKINNEY-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "10629-mckinney",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xd5fc0c4c4c5ff316e1e91494d963ff1d52ba25ff",
@@ -639,7 +717,8 @@
     "symbol": "REALTOKEN-S-11078-LONGVIEW-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "11078-longview",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xd51e1ddd116fff9a71c1b8feeb58113afa2b4d93",
@@ -647,7 +726,8 @@
     "symbol": "AMIS",
     "decimals": 9,
     "coingeckoId": "amis",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xd3d47d5578e55c880505dc40648f7f9307c3e7a8",
@@ -655,7 +735,8 @@
     "symbol": "DPI",
     "decimals": 18,
     "coingeckoId": "defipulse-index",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xd3226b12e6188133b19ac0419f34b0ed5b10f069",
@@ -663,7 +744,8 @@
     "symbol": "ESR",
     "decimals": 18,
     "coingeckoId": "esportsref",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xd27e1ecc4748f42e052331bea917d89beb883fc3",
@@ -671,7 +753,8 @@
     "symbol": "AKRO",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xd1c15cebfdcd16f00d91666bf64c8b66cbf5e9b5",
@@ -679,7 +762,8 @@
     "symbol": "REALTOKEN-S-10612-SOMERSET-AVE-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "10612-somerset",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xd10cc63531a514bba7789682e487add1f15a51e2",
@@ -687,7 +771,8 @@
     "symbol": "BUSDC",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xd08d2b199e9e5df407427d4085877d1fdff3b1d6",
@@ -695,7 +780,8 @@
     "symbol": "REALTOKEN-S-6923-GREEVIEW-AVE-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "6923-greenview",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xd057604a14982fe8d88c5fc25aac3267ea142a08",
@@ -703,7 +789,8 @@
     "symbol": "HOPR",
     "decimals": 18,
     "coingeckoId": "hopr",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xca8d20f3e0144a72c6b5d576e9bd3fd8557e2b04",
@@ -711,7 +798,8 @@
     "symbol": "WBNB",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xc84dd5b971521b6c9fa5e10d25e6428b19710e05",
@@ -719,7 +807,8 @@
     "symbol": "AMPL",
     "decimals": 9,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xc6cc63f4aa25bbd4453eb5f3a0dfe546fef9b2f3",
@@ -727,7 +816,8 @@
     "symbol": "BAT",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xc577cddabb7893cc2ca15ef4b5d5e5e13c3feed3",
@@ -735,7 +825,8 @@
     "symbol": "MCDC",
     "decimals": 2,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xc45b3c1c24d5f54e7a2cf288ac668c74dd507a84",
@@ -743,7 +834,8 @@
     "symbol": "SYMM",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xc25af3123d2420054c8fcd144c21113aa2853f39",
@@ -751,7 +843,8 @@
     "symbol": "XGTV2",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xbc650b9cc12db4da14b2417c60ccd6f4d77c3998",
@@ -759,7 +852,8 @@
     "symbol": "STORJ",
     "decimals": 8,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xbde011911128f6bd4abb1d18f39fdc3614ca2cfe",
@@ -767,7 +861,8 @@
     "symbol": "AXS",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xba07997f594a52df179620284b52b50a4e66227d",
@@ -775,7 +870,8 @@
     "symbol": "REALTOKEN-S-18776-SUNDERLAND-RD-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "18776-sunderland",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xb714654e905edad1ca1940b7790a8239ece5a9ff",
@@ -783,7 +879,8 @@
     "symbol": "TUSD",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xb5d592f85ab2d955c25720ebe6ff8d4d1e1be300",
@@ -791,7 +888,8 @@
     "symbol": "PRTCLE",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xb5d30c28f87acf675ed5b9f343e5fff39ec9942c",
@@ -799,7 +897,8 @@
     "symbol": "REALTOKEN-10024-APPOLINE-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "10024-10028-appoline",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xb4b6f80d8e573e9867c90163bfdb00e29d92716a",
@@ -807,7 +906,8 @@
     "symbol": "MET",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xb3d3c1bbcef737204aadb4fa6d90e974bc262197",
@@ -815,7 +915,8 @@
     "symbol": "REALTOKEN-S-15796-HARTWELL-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "15796-hartwell",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xb2ae7983a8142401d45546aab981e5fbff520991",
@@ -823,7 +924,8 @@
     "symbol": "BTCCB",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xb1950fb2c9c0cbc8553578c67db52aa110a93393",
@@ -831,7 +933,8 @@
     "symbol": "sUSD",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xb17d999e840e0c1b157ca5ab8039bd958b5fa317",
@@ -839,7 +942,8 @@
     "symbol": "ETHO",
     "decimals": 18,
     "coingeckoId": "ether-1",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xa9f30c907321718e655b74463ca665b690b78894",
@@ -847,7 +951,8 @@
     "symbol": "REALTOKEN-S-15860-HARTWELL-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "15860-hartwell",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xa68b7779504b0ae372ddcc109f8786db9b91e93e",
@@ -855,7 +960,8 @@
     "symbol": "REALTOKEN-S-4340-EAST-71-CLEVELAND-OH",
     "decimals": 18,
     "coingeckoId": "4340-east-71",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xa4ef9da5ba71cc0d2e5e877a910a37ec43420445",
@@ -863,7 +969,8 @@
     "symbol": "sGNO",
     "decimals": 18,
     "coingeckoId": "stakewise-staked-gno",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xa2fec95b3d3fecb39098e81f108533e1abf22ccf",
@@ -871,7 +978,8 @@
     "symbol": "YLD",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xa29ae272bc89e5f315b2793925f700045f845d82",
@@ -879,7 +987,8 @@
     "symbol": "REALTOKEN-S-587-JEFFERSON-AVE-ROCHESTER-NY",
     "decimals": 18,
     "coingeckoId": "581-587-jefferson",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xa106739de31fa7a9df4a93c9bea3e1bade0924e2",
@@ -887,7 +996,8 @@
     "symbol": "FREE",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x9fb1d52596c44603198fb0aee434fac3a679f702",
@@ -895,7 +1005,8 @@
     "symbol": "jEUR",
     "decimals": 18,
     "coingeckoId": "jarvis-synthetic-euro",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x9bd5e0ce813d5172859b0b70ff7bb3c325cee913",
@@ -903,7 +1014,8 @@
     "symbol": "ETHM",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x9b5b4886033b4abc5eb0552fff7c15a67c3c47c7",
@@ -911,7 +1023,8 @@
     "symbol": "REALTOKEN-S-11300-ROXBURY-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "11300-roxbury",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x9a495a281d959192343b0e007284bf130bd05f86",
@@ -919,7 +1032,8 @@
     "symbol": "BNT",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x9fef44fc4c571010bccd5b63e1cdc807d3b347bf",
@@ -927,7 +1041,8 @@
     "symbol": "REALTOKEN-S-15095-HARTWELL-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "15095-hartwell",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x9f923653a19537b5a1b003854a1920fe67a8ffeb",
@@ -935,7 +1050,8 @@
     "symbol": "REALTOKEN-S-13114-GLENFIELD-AVE-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "13114-glenfield",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x9eb90ec3faafc22092c9b91559fddde538042093",
@@ -943,7 +1059,8 @@
     "symbol": "REALTOKEN-18900-MANSFIELD-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "18900-mansfield",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x9d918ee39a356be8ef99734599c7e70160db4db6",
@@ -951,7 +1068,8 @@
     "symbol": "REALTOKEN-S-12405-SANTA-ROSA-DR-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "12405-santa-rosa",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x9c58bacc331c9aa871afd802db6379a98e80cedb",
@@ -959,7 +1077,8 @@
     "symbol": "GNO",
     "decimals": 18,
     "coingeckoId": "gnosis",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x9a99f283e1f6c3b7f24901995624ef7b78e94471",
@@ -967,7 +1086,8 @@
     "symbol": "REALTOKEN-S-18466-FIELDING-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "18466-fielding",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x988d1be68f2c5cde2516a2287c59bd6302b7d20d",
@@ -975,7 +1095,8 @@
     "symbol": "PUNK",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x985e144eb355273c4b4d51e448b68b657f482e26",
@@ -983,7 +1104,8 @@
     "symbol": "POA20",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x9856c5ca15a4ac9c65aac090c38a9f39eb3b5eec",
@@ -991,7 +1113,8 @@
     "symbol": "REALTOKEN-S-18273-MONTEVISTA-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "18273-monte-vista",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x981fb9ba94078a2275a8fc906898ea107b9462a8",
@@ -999,7 +1122,8 @@
     "symbol": "PAN",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x97edc0e345fbbbd8460847fcfa3bc2a13bf8641f",
@@ -1007,7 +1131,8 @@
     "symbol": "RICE",
     "decimals": 18,
     "coingeckoId": "daosquare",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x97e4ebc14c117c1ac2d032a5a8140c84628b0d17",
@@ -1015,7 +1140,8 @@
     "symbol": "HIVESHARE",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x969d42ad7008e6651e1fd52742153f8743225d98",
@@ -1023,7 +1149,8 @@
     "symbol": "REALTOKEN-S-12409-WHITEHILL-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "12409-whitehill",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x96700ffae33c651bc329c3f3fbfe56e1f291f117",
@@ -1031,7 +1158,8 @@
     "symbol": "REALTOKEN-S-4380-BEACONSFIELD-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "4380-beaconsfield",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x9528a7402c0fe85b817aa6e106eafa03a02924c4",
@@ -1039,7 +1167,8 @@
     "symbol": "REALTOKEN-S-14231-STRATHMOOR-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "14231-strathmoor",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x94fa7f8cb8453ad57cd133363b3012044647078c",
@@ -1047,7 +1176,8 @@
     "symbol": "REALTOKEN-S-1244-S.AVERS-ST-CHICAGO-IL",
     "decimals": 18,
     "coingeckoId": "1244-s-avers",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x92d31e19f88597f368825ba16410f263a844527a",
@@ -1055,7 +1185,8 @@
     "symbol": "REALTOKEN-S-8181-BLISS-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "8181-bliss",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x92161385c9de8798ad5fb01c0be99ffcbc84dfd8",
@@ -1063,7 +1194,8 @@
     "symbol": "REALTOKEN-S-10084-GRAYTON-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "10084-grayton",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x8fcb39a25e639c8fbd28e8a018227d6570e02352",
@@ -1071,7 +1203,8 @@
     "symbol": "REALTOKEN-S-1815-S.AVERS-AVE-CHICAGO-IL",
     "decimals": 18,
     "coingeckoId": "1815-s-avers",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x8fbedd16904b561e30ea402f459900e9d90614af",
@@ -1079,7 +1212,8 @@
     "symbol": "LAYER",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x8e5bbbb09ed1ebde8674cda39a0c169401db4252",
@@ -1087,7 +1221,8 @@
     "symbol": "WBTC",
     "decimals": 8,
     "coingeckoId": "wrapped-bitcoin",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x8c88ea1fd60462ef7004b9e288afcb4680a3c50c",
@@ -1095,7 +1230,8 @@
     "symbol": "0xMR",
     "decimals": 18,
     "coingeckoId": "0xmonero",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x8b8407c6184f1f0fd1082e83d6a3b8349caced12",
@@ -1103,7 +1239,8 @@
     "symbol": "COVAL",
     "decimals": 8,
     "coingeckoId": "circuits-of-value",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x8a9f904b4ead6a97f3ab304d0d2196f5c602c807",
@@ -1111,7 +1248,8 @@
     "symbol": "REALTOKEN-S-19311-KEYSTONE-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "19311-keystone",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x8f365b41b98fe84acb287540b4b4ab633e07edb2",
@@ -1119,7 +1257,8 @@
     "symbol": "SETH",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x8e7ab03ca7d17996b097d5866bfaa1e251c35c6a",
@@ -1127,7 +1266,8 @@
     "symbol": "DUCK",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x8d1090df790ffafdaccda03015c05df3b4cc9c21",
@@ -1135,7 +1275,8 @@
     "symbol": "REALTOKEN-S-15753-HARTWELL-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "15753-hartwell",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x8d02b73904856de6998ffdf6e7ee18cc21137a79",
@@ -1143,7 +1284,8 @@
     "symbol": "ROBOT",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x8a95ea379e1fa4c749dd0a7a21377162028c479e",
@@ -1151,7 +1293,8 @@
     "symbol": "AUDIO",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x8626b38267e4fc0d8c92e0bb86f97acab3f6aa05",
@@ -1159,7 +1302,8 @@
     "symbol": "REALTOKEN-S-10604-SOMERSET-AVE-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "10604-somerset",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x860182180e146300df38aab8d328c6e80bec9547",
@@ -1167,7 +1311,8 @@
     "symbol": "TRADE",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x84e2c67cbefae6b5148fca7d02b341b12ff4b5bb",
@@ -1175,7 +1320,8 @@
     "symbol": "SWASH",
     "decimals": 18,
     "coingeckoId": "swash",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x83ff60e2f93f8edd0637ef669c69d5fb4f64ca8e",
@@ -1183,7 +1329,8 @@
     "symbol": "BRIGHT",
     "decimals": 18,
     "coingeckoId": "bright-token",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x8395f7123ba3ffad52e7414433d825931c81c879",
@@ -1191,7 +1338,8 @@
     "symbol": "OMG",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x830b0e9a5ecf36d0a886d21e1c20043cd2d16515",
@@ -1199,7 +1347,8 @@
     "symbol": "REALTOKEN-S-19201-WESTPHALIA-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "19201-westphalia",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x82dfe19164729949fd66da1a37bc70dd6c4746ce",
@@ -1207,7 +1356,8 @@
     "symbol": "BAO",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x7f940b5509a22e81d29167581bdeea3fa5a0abee",
@@ -1215,7 +1365,8 @@
     "symbol": "REALTOKEN-S-15784-MONTEVISTA-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "15784-monte-vista",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x7f7440c5098462f833e123b44b8a03e1d9785bab",
@@ -1223,7 +1374,8 @@
     "symbol": "1INCH",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x7ecf26cd9a36990b8ea477853663092333f59979",
@@ -1231,7 +1383,8 @@
     "symbol": "PERP",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x7ef541e2a22058048904fe5744f9c7e4c57af717",
@@ -1239,7 +1392,8 @@
     "symbol": "BAL",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x7ea8af7301b763451b7fb25f8fc2406819a7e36f",
@@ -1247,7 +1401,8 @@
     "symbol": "PHA",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x7a7d81657a1a66b38a6ca2565433a9873c6913b2",
@@ -1255,7 +1410,8 @@
     "symbol": "ENG",
     "decimals": 8,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x7e95b310724334ff74537dc08bfd3377d25e65ce",
@@ -1263,7 +1419,8 @@
     "symbol": "REALTOKEN-S-15039-WARD-AVE-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "15039-ward",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x7da0bfe9d26c5b64c7580c04bb1425364273e4b0",
@@ -1271,7 +1428,8 @@
     "symbol": "CVP",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x7db0be7a41b5395268e065776e800e27181c81ab",
@@ -1279,7 +1437,8 @@
     "symbol": "LPT",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x7c16c63684d86bacc52e8793b08a5a1a3cb1ba1e",
@@ -1287,7 +1446,8 @@
     "symbol": "DJ15",
     "decimals": 9,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x79cf2029717e2e78c8927f65f079ab8da21781ee",
@@ -1295,7 +1455,8 @@
     "symbol": "LYXe",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x7838796b6802b18d7ef58fc8b757705d6c9d12b3",
@@ -1303,7 +1464,8 @@
     "symbol": "MANA",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x778aa03021b0cd2b798b0b506403e070125d81c9",
@@ -1311,7 +1473,8 @@
     "symbol": "BDT",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x76eafffa1873a8acd43864b66a728bd873c5e08a",
@@ -1319,7 +1482,8 @@
     "symbol": "CHSB",
     "decimals": 8,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x76dbeb740ecd1f3b052a9afa302abc7eb4fb5390",
@@ -1327,7 +1491,8 @@
     "symbol": "REALTOKEN-S-9133-DEVONSHIRE-RD-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "9133-devonshire",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x75f06b482adbfb04b877d8ee683e2fcdf18ad153",
@@ -1335,7 +1500,8 @@
     "symbol": "REALTOKEN-S-18481-WESTPHALIA-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "18481-westphalia",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x75886f00c1a20ec1511111fb4ec3c51de65b1fe7",
@@ -1343,7 +1509,8 @@
     "symbol": "FTT",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x75481a953a4bba6b3c445907db403e4b5d222174",
@@ -1351,7 +1518,8 @@
     "symbol": "POLS",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x750fa12ae51d1515c893c1aaabe2c135937a2c8b",
@@ -1359,7 +1527,8 @@
     "symbol": "REALTOKEN-S-9465-BEACONSFIELD-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "9465-beaconsfield",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x743a991365ba94bfc90ad0002cad433c7a33cb4a",
@@ -1367,7 +1536,8 @@
     "symbol": "AST",
     "decimals": 4,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x73bde888664df8ddfd156b52e6999eeabab57c94",
@@ -1375,7 +1545,8 @@
     "symbol": "REALTOKEN-S-9717-EVERTS-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "9717-everts",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x7211ab649a4139561a152b787de52d257cbaaee9",
@@ -1383,7 +1554,8 @@
     "symbol": "WCHI",
     "decimals": 8,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x71850b7e9ee3f13ab46d67167341e4bdc905eef9",
@@ -1391,7 +1563,8 @@
     "symbol": "HNY",
     "decimals": 18,
     "coingeckoId": "honey",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x712b3d230f3c1c19db860d80619288b1f0bdd0bd",
@@ -1399,7 +1572,8 @@
     "symbol": "CRV",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x7122d7661c4564b7c6cd4878b06766489a6028a2",
@@ -1407,7 +1581,8 @@
     "symbol": "WMATIC",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x703120f2f2011a0d03a03a531ac0e84e81f15989",
@@ -1415,7 +1590,8 @@
     "symbol": "UNCL",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x6f09cf96558d44584db07f8477dd3490599aa63e",
@@ -1423,7 +1599,8 @@
     "symbol": "GEAR",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x6d237bb2248d3b40b1a54f3417667b2f39984fc8",
@@ -1431,7 +1608,8 @@
     "symbol": "DOUGH",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x6ac78efae880282396a335ca2f79863a1e6831d4",
@@ -1439,7 +1617,8 @@
     "symbol": "rGNO",
     "decimals": 18,
     "coingeckoId": "stakewise-reward-gno",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8",
@@ -1447,7 +1626,8 @@
     "symbol": "GTON",
     "decimals": 18,
     "coingeckoId": "gton-capital",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x6f442da588232dc57bf0096e8de48d6961d5cc83",
@@ -1455,7 +1635,8 @@
     "symbol": "REALTOKEN-S-13895-SARATOGA-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "realtoken-s-13895-saratoga-st-detroit-mi",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x6eeceab954efdbd7a8a8d9387bc719959b04b9ca",
@@ -1463,7 +1644,8 @@
     "symbol": "ANTv2",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x6db6d540f5614e6bab7475af3f430f46a0b083e2",
@@ -1471,7 +1653,8 @@
     "symbol": "REALTOKEN-5942-AUDUBON-RD-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "5942-audubon",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x6b0f8a3fb7cb257ad7c72ada469ba1d3c19c5094",
@@ -1479,7 +1662,8 @@
     "symbol": "RXDAI",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x6a8cb6714b1ee5b471a7d2ec4302cb4f5ff25ec2",
@@ -1487,7 +1671,8 @@
     "symbol": "EWTB",
     "decimals": 18,
     "coingeckoId": "energy-web-token",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1",
@@ -1495,7 +1680,8 @@
     "symbol": "WETH",
     "decimals": 18,
     "coingeckoId": "weth",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x699d001ef13b15335193bc5fad6cfc6747eee8be",
@@ -1503,7 +1689,8 @@
     "symbol": "BASE",
     "decimals": 9,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x67a83b28f6dd8c07301495ee2c6f83b73fd21092",
@@ -1511,7 +1698,8 @@
     "symbol": "REALTOKEN-S-9309-COURVILLE-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "9309-courville",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x64b17a95e6c45306fb23bc526eb2dc9e1331a1b1",
@@ -1519,7 +1707,8 @@
     "symbol": "CFXQ",
     "decimals": 6,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x63e62989d9eb2d37dfdb1f93a22f063635b07d51",
@@ -1527,7 +1716,8 @@
     "symbol": "MIVA",
     "decimals": 18,
     "coingeckoId": "minerva-wallet",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x63a1849b47ef5913ccc5adb0e2708b11a4ba6972",
@@ -1535,7 +1725,8 @@
     "symbol": "REALTOKEN-S-14918-JOY-RD-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "14918-joy",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x60e668f54106222adc1da80c169281b3355b8e5d",
@@ -1543,7 +1734,8 @@
     "symbol": "RLC",
     "decimals": 9,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x6099280dc5fc97cbb61b456246316a1b8f79534b",
@@ -1551,7 +1743,8 @@
     "symbol": "PGT",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x5fd896d248fbfa54d26855c267859eb1b4daee72",
@@ -1559,7 +1752,8 @@
     "symbol": "MKR",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x5fe9885226677f3eb5c9ad8ab6c421b4ea38535d",
@@ -1567,7 +1761,8 @@
     "symbol": "JOON",
     "decimals": 4,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x5f1f81de1d21b97a5d0d5d62d89bde9ddec27325",
@@ -1575,7 +1770,8 @@
     "symbol": "AC",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x5df8339c5e282ee48c0c7ce8a7d01a73d38b3b27",
@@ -1583,7 +1779,8 @@
     "symbol": "TEC",
     "decimals": 18,
     "coingeckoId": "token-engineering-commons",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x5bbfbfb123b72a255504be985bd2b474e481e866",
@@ -1591,7 +1788,8 @@
     "symbol": "SORA",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x5b917d4fb9b27591353211c32f1552a527987afc",
@@ -1599,7 +1797,8 @@
     "symbol": "MOON",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x5f2852afd20c39849f6f56f4102b8c29ee141add",
@@ -1607,7 +1806,8 @@
     "symbol": "renZEC",
     "decimals": 8,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x5e2a09064b2dca8c44aad8a5b69a69bb1854fe72",
@@ -1615,7 +1815,8 @@
     "symbol": "REALTOKEN-S-11201-COLLEGE-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "11201-college",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x5c8c83e5d5f7be815863b810d45d7bc706d7b15b",
@@ -1623,7 +1824,8 @@
     "symbol": "rSURF",
     "decimals": 9,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x5a87eac5642bfed4e354ee8738dacd298e07d1af",
@@ -1631,7 +1833,8 @@
     "symbol": "RSR",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x5a757f0bcadfdb78651b7bdbe67e44e8fd7f7f6b",
@@ -1639,7 +1842,8 @@
     "symbol": "ENJ",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x57e93bb58268de818b42e3795c97bad58afcd3fe",
@@ -1647,7 +1851,8 @@
     "symbol": "RAREV2",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x5600e25b4f24c63afa655c3bd96e3c178b654fa1",
@@ -1655,7 +1860,8 @@
     "symbol": "REALTOKEN-S-13045-WADE-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "13045-wade",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x53ef00be819a062533a0e699077c621a28eaded1",
@@ -1663,7 +1869,8 @@
     "symbol": "PTF",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x532801ed6f82fffd2dab70a19fc2d7b2772c4f4b",
@@ -1671,7 +1878,8 @@
     "symbol": "SWPR",
     "decimals": 18,
     "coingeckoId": "swapr",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x524b969793a64a602342d89bc2789d43a016b13a",
@@ -1679,7 +1887,8 @@
     "symbol": "DONUT",
     "decimals": 18,
     "coingeckoId": "donut",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x51732a6fc4673d1acca4c047f5465922716508ad",
@@ -1687,7 +1896,8 @@
     "symbol": "OCEAN",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x512a2eb0277573ae9be0d48c782590b624048fdf",
@@ -1695,7 +1905,8 @@
     "symbol": "MEME",
     "decimals": 8,
     "coingeckoId": "degenerator",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x4f4f9b8d5b4d0dc10506e5551b0513b61fd59e75",
@@ -1703,7 +1914,8 @@
     "symbol": "GIV",
     "decimals": 18,
     "coingeckoId": "giveth",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x4d0da4e75d40bd7d9c4f7a292bf883bcdf38c45d",
@@ -1711,7 +1923,8 @@
     "symbol": "REALTOKEN-S-15373-PARKSIDE-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "15373-parkside",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x4be85acc1cd711f403dc7bde9e6cadfc5a94744b",
@@ -1719,7 +1932,8 @@
     "symbol": "RARI",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x4a99cc509f7facf58d7b67e99236db5e0921ef81",
@@ -1727,7 +1941,8 @@
     "symbol": "REALTOKEN-S-10639-STRATMAN-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "10639-stratman",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x4ef1d9a329a0cb0658156aff55c406cc4393a987",
@@ -1735,7 +1950,8 @@
     "symbol": "DAIX",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x4ecaba5870353805a9f068101a40e0f32ed605c6",
@@ -1743,7 +1959,8 @@
     "symbol": "USDT",
     "decimals": 6,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x4e98493920b16dd6642e9d48497c8d0a49150f6f",
@@ -1751,7 +1968,8 @@
     "symbol": "REALTOKEN-S-13991-WARWICK-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "13991-warwick",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x4cc53ee5ef306a95d407321d4b4acc30814c04ee",
@@ -1759,7 +1977,8 @@
     "symbol": "REALTOKEN-S-19163-MITCHELL-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "19163-mitchell",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x4bc97997883c0397f556bd0f9da6fb71da22f9a2",
@@ -1767,7 +1986,8 @@
     "symbol": "ALEPH",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x4a88248baa5b39bb4a9caa697fb7f8ae0c3f0ddb",
@@ -1775,7 +1995,8 @@
     "symbol": "renBTC",
     "decimals": 8,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x499a6c19f5537dd6005e2b5c6e1263103f558ba4",
@@ -1783,7 +2004,8 @@
     "symbol": "REALTOKEN-S-17813-BRADFORD-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "17813-bradford",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x48b1b0d077b4919b65b4e4114806dd803901e1d9",
@@ -1791,7 +2013,8 @@
     "symbol": "DIP",
     "decimals": 18,
     "coingeckoId": "etherisc",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x479e32cdff5f216f93060700c711d1cc8e811a6b",
@@ -1799,7 +2022,8 @@
     "symbol": "TRIPS",
     "decimals": 18,
     "coingeckoId": "trips-community",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x46f8a600337dec5cab03aa9b8f67f1d5b788ce28",
@@ -1807,7 +2031,8 @@
     "symbol": "REALTOKEN-S-18433-FAUST-AVE-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "18433-faust",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x4537e328bf7e4efa29d05caea260d7fe26af9d74",
@@ -1815,7 +2040,8 @@
     "symbol": "UNI",
     "decimals": 18,
     "coingeckoId": "uniswap",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x44fa8e6f47987339850636f88629646662444217",
@@ -1823,7 +2049,8 @@
     "symbol": "DAI",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x44b6bba599f100006143e82a60462d71ac1331da",
@@ -1831,7 +2058,8 @@
     "symbol": "API3",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x43fed9f9bf7deedcb314b432a8e38219dd62ce9e",
@@ -1839,7 +2067,8 @@
     "symbol": "REALTOKEN-S-14825-WILFRIED-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "14825-wilfred",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x437a044fb4693890e61d2c1c88e3718e928b8e90",
@@ -1847,7 +2076,8 @@
     "symbol": "ANTv1",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb",
@@ -1855,7 +2085,8 @@
     "symbol": "JPYC",
     "decimals": 18,
     "coingeckoId": "jpy-coin",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x42c6b3ac30ae82d754498f56d9372f0070349409",
@@ -1863,7 +2094,8 @@
     "symbol": "xREAP",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x4291f029b9e7acb02d49428458cf6fceac545f81",
@@ -1871,7 +2103,8 @@
     "symbol": "WATER",
     "decimals": 18,
     "coingeckoId": "1hive-water",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x417602f4fbdd471a431ae29fb5fe0a681964c11b",
@@ -1879,7 +2112,8 @@
     "symbol": "JPYC",
     "decimals": 18,
     "coingeckoId": "jpyc",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x41599149f1b52035392402f9e311b1edb0c9f699",
@@ -1887,7 +2121,8 @@
     "symbol": "REALTOKEN-S-14319-ROSEMARY-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "14319-rosemary",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x3e33cf23073fd8d5ad1d48d1860a96c0d8e56193",
@@ -1895,7 +2130,8 @@
     "symbol": "xMARK",
     "decimals": 9,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x3a97704a1b25f08aa230ae53b352e2e72ef52843",
@@ -1903,7 +2139,8 @@
     "symbol": "AGVE",
     "decimals": 18,
     "coingeckoId": "agave-token",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
@@ -1920,7 +2157,8 @@
     "symbol": "REALTOKEN-S-9165-KENSINGTON-AVE-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "9165-kensington",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x3a00e08544d589e19a8e7d97d0294331341cdbf6",
@@ -1928,7 +2166,8 @@
     "symbol": "SNX",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x38fb649ad3d6ba1113be5f57b927053e97fc5bf7",
@@ -1936,7 +2175,8 @@
     "symbol": "XCOMB",
     "decimals": 18,
     "coingeckoId": "xdai-native-comb",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x37b60f4e9a31a64ccc0024dce7d0fd07eaa0f7b3",
@@ -1944,7 +2184,8 @@
     "symbol": "PNK",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x364b5975385b4de226cf450df82d7ed69902ac5a",
@@ -1952,7 +2193,8 @@
     "symbol": "TORG",
     "decimals": 18,
     "coingeckoId": "torg",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x35f346cb4149746272974a92d719fd48ae2f72fa",
@@ -1960,7 +2202,8 @@
     "symbol": "SOCKS",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x3581cc6a09de85e9b91ef93f2a5ef837706b84a5",
@@ -1968,7 +2211,8 @@
     "symbol": "ALBT",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x34ed9e71449529e034d0326cfbb3b5ccdca00cbc",
@@ -1976,7 +2220,8 @@
     "symbol": "REALTOKEN-S-19314-GABLE-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "19317-gable",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x346b2968508d32f0192cd7a60ef3d9c39a3cf549",
@@ -1984,7 +2229,8 @@
     "symbol": "HOT",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x33722ea778df197f1b7b1cf0b124d7a962181d65",
@@ -1992,7 +2238,8 @@
     "symbol": "REALTOKEN-S-19136-TRACEY-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "19136-tracey",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x31aa5fa895fd186fde12347a6fcaf540875b6434",
@@ -2000,7 +2247,8 @@
     "symbol": "REALTOKEN-S-17809-CHAREST-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "17809-charest",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x31820af2d43c08bd82bd94b08974062482bd98d3",
@@ -2008,7 +2256,8 @@
     "symbol": "REALTOKEN-S-11653-NOTTINGHAM-RD-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "11653-nottingham",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x317eab07380d670ea814025cba40f5624354a32f",
@@ -2016,7 +2265,8 @@
     "symbol": "PIE",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x315699f1ba88383cff2f2f30fcad187adb2e4d72",
@@ -2024,7 +2274,8 @@
     "symbol": "REALTOKEN-S-14078-CARLISLE-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "14078-carlisle",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x3150f0ebc0efee280b5348b9c8c271ad44eb8b13",
@@ -2032,7 +2283,8 @@
     "symbol": "REALTOKEN-S-19596-GOULBURN-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "19596-goulburn",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x311fc485f1fea0c8cc9b5c783e79f4313ddfa720",
@@ -2040,7 +2292,8 @@
     "symbol": "REALTOKEN-S-19996-JOANN-AVE-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "19996-joann",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x309bc6dbcbfb9c84d26fdf65e8924367efccbdb9",
@@ -2048,7 +2301,8 @@
     "symbol": "OM",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x30610f98b61593de963b2303aeeaee69823f561f",
@@ -2056,7 +2310,8 @@
     "symbol": "GLDB",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x2fd0c73ad006407f0a96c984f06a9ce8415b094e",
@@ -2064,7 +2319,8 @@
     "symbol": "xSEED",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x2f9cebf5de3bc25e0643d0e66134e5bf5c48e191",
@@ -2072,7 +2328,8 @@
     "symbol": "xBRICK",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x2d5563da42b06fbbf9c67b7dc073cf6a7842239e",
@@ -2080,7 +2337,8 @@
     "symbol": "jCHF",
     "decimals": 18,
     "coingeckoId": "jarvis-synthetic-swiss-franc",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x2bf2ba13735160624a0feae98f6ac8f70885ea61",
@@ -2088,7 +2346,8 @@
     "symbol": "FRACTION",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x2be73bfeec620aa9b67535a4d3827bb1e29436d1",
@@ -2096,7 +2355,8 @@
     "symbol": "LRC",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x2adc1cfa726a45264a328d9d2e2c692ceac97458",
@@ -2104,7 +2364,8 @@
     "symbol": "REALTOKEN-S-14494-CHELSEA-AVE-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "14494-chelsea",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x2f0e755efe6b58238a67db420ff3513ec1fb31ef",
@@ -2112,7 +2373,8 @@
     "symbol": "RPL",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x2995d1317dcd4f0ab89f4ae60f3f020a4f17c7ce",
@@ -2120,7 +2382,8 @@
     "symbol": "WSUSHI",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x2977893f4c04bfbd6efc68d0e46598d27810d3db",
@@ -2128,7 +2391,8 @@
     "symbol": "BID",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x280e9ed3b20c580a2f4219657bb9332d80bc01f1",
@@ -2136,7 +2400,8 @@
     "symbol": "REALTOKEN-S-19020-ROSEMONT-AVE-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "19020-rosemont",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x27b9c2bd4baea18abdf49169054c1c1c12af9862",
@@ -2144,7 +2409,8 @@
     "symbol": "SNAFU",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x270de58f54649608d316faa795a9941b355a2bd0",
@@ -2152,7 +2418,8 @@
     "symbol": "FR",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x26dd64bdcb2faf4f7e49a73145752e8d9cb34c94",
@@ -2160,7 +2427,8 @@
     "symbol": "NPXS",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x26dc03e492763068ccfe7c39b93a22442807c360",
@@ -2168,7 +2436,8 @@
     "symbol": "NEXO",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x256eb8a51f382650b2a1e946b8811953640ee47d",
@@ -2176,7 +2445,8 @@
     "symbol": "DATA",
     "decimals": 18,
     "coingeckoId": "streamr",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x248c54b3fc3bc8b20d0cdee059e17c67e4a3299d",
@@ -2184,7 +2454,8 @@
     "symbol": "CELR",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x24293ab20159cfc0f3d7c8727cd827fba63d4f64",
@@ -2192,7 +2463,8 @@
     "symbol": "REALTOKEN-S-19333-MOENART-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "19333-moenart",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x23684569c0636c9aea246551879d457d0a0e6f58",
@@ -2200,7 +2472,8 @@
     "symbol": "REALTOKEN-9336-PATTON-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "9336-patton",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x22bd2a732b39dace37ae7e8f50a186f3d9702e87",
@@ -2208,7 +2481,8 @@
     "symbol": "yCRV",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x226bcf0e417428a25012d0fa2183d37f92bcedf6",
@@ -2216,7 +2490,8 @@
     "symbol": "ZRX",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x21a42669643f45bc0e086b8fc2ed70c23d67509d",
@@ -2224,7 +2499,8 @@
     "symbol": "FOX",
     "decimals": 18,
     "coingeckoId": "shapeshift-fox-token",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x211618fa0934910666f2c2731101f5a3ac013fd8",
@@ -2232,7 +2508,8 @@
     "symbol": "REALTOKEN-S-19200-STRASBURG-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "19200-strasburg",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x1e16aa4df73d29c029d94ceda3e3114ec191e25a",
@@ -2240,7 +2517,8 @@
     "symbol": "XMOON",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x1fdb4015fd5e031c5641752c1e03b973ad5ea168",
@@ -2248,7 +2526,8 @@
     "symbol": "REALTOKEN-S-17500-EVERGREEN-RD-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "17500-evergreen",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x1e001730a23c7ebaff35bc8bc90da5a9b20804a4",
@@ -2256,7 +2535,8 @@
     "symbol": "REALTOKEN-S-9481-WAYBURN-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "9481-wayburn",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x1a186e7268f3ed5adfea6b9e0655f70059941e11",
@@ -2264,7 +2544,8 @@
     "symbol": "NIF",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x1939d3431cf0e44b1d63b86e2ce489e5a341b1bf",
@@ -2272,7 +2553,8 @@
     "symbol": "CREAM",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x18e9262e68cc6c6004db93105cc7c001bb103e49",
@@ -2280,7 +2562,8 @@
     "symbol": "RAID",
     "decimals": 18,
     "coingeckoId": "raid-token",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x177127622c4a00f3d409b75571e12cb3c8973d3c",
@@ -2288,7 +2571,8 @@
     "symbol": "COW",
     "decimals": 18,
     "coingeckoId": "cow-protocol",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x175cbd54d38f58b530785e01471a2ec0d4596eb5",
@@ -2296,7 +2580,8 @@
     "symbol": "REALTOKEN-S-15770-PREST-ST-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "15770-prest",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x16afe6e6754fa3694afd0ce48f4bea102efacc17",
@@ -2304,7 +2589,8 @@
     "symbol": "TESTA",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x1698cd22278ef6e7c0df45a8dea72edbea9e42aa",
@@ -2312,7 +2598,8 @@
     "symbol": "LEVIN",
     "decimals": 18,
     "coingeckoId": "levin",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x1534fb3e82849314360c267fe20df3901a2ed3f9",
@@ -2320,7 +2607,8 @@
     "symbol": "KNC",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x1479ebfe327b62bff255c0749a242748d3e7347a",
@@ -2328,7 +2616,8 @@
     "symbol": "RING",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x14411aeca652f5131834bf0c8ff581b5ddf3bc03",
@@ -2336,7 +2625,8 @@
     "symbol": "COIN",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x1319067e82f0b9981f19191e1c08bb6e6e055dd3",
@@ -2344,7 +2634,8 @@
     "symbol": "DDAI",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x12dabe79cffc1fde82fcd3b96dbe09fa4d8cd599",
@@ -2352,7 +2643,8 @@
     "symbol": "GEN",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x0da1a02cdf84c44021671d183d616925164e08aa",
@@ -2360,7 +2652,8 @@
     "symbol": "REN",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x0dcfed2c3041e66b2d8c4ea39782c60355716316",
@@ -2368,7 +2661,8 @@
     "symbol": "NRGE",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x0acd91f92fe07606ab51ea97d8521e29d110fd09",
@@ -2376,7 +2670,8 @@
     "symbol": "CEL",
     "decimals": 4,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x0905ab807f8fd040255f0cf8fa14756c1d824931",
@@ -2384,7 +2679,8 @@
     "symbol": "OWL",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x08ad1f3a48be1d23c723a6cc8486b247f5de935a",
@@ -2392,7 +2688,8 @@
     "symbol": "REALTOKEN-S-13116-KILBOURNE-AVE-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "13116-kilbourne",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x0811e451447d5819976a95a02f130c3b00d59346",
@@ -2400,7 +2697,8 @@
     "symbol": "TBTC",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x06d0e5aee443093ac5635b709c8a01342e59df19",
@@ -2408,7 +2706,8 @@
     "symbol": "REALTOKEN-S-10617-HATHAWAY-AVE-CLEVELAND-OH",
     "decimals": 18,
     "coingeckoId": "10617-hathaway",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x044f6ae3aef34fdb8fddc7c05f9cc17f19acd516",
@@ -2416,7 +2715,8 @@
     "symbol": "SNT",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x021bb23a45e9fc824260435e670fc383b7b8cbbb",
@@ -2424,7 +2724,8 @@
     "symbol": "REALTOKEN-16200-FULLERTON-AVE-DETROIT-MI",
     "decimals": 18,
     "coingeckoId": "16200-fullerton",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x020ae8fc1c19f4d1312cf6a72291f52849791e7c",
@@ -2432,7 +2733,8 @@
     "symbol": "VXV",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x01e92e3791f8c1d6599b2f80a4bff9b43949ac7c",
@@ -2440,7 +2742,8 @@
     "symbol": "wNXM",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x0116e28b43a358162b96f70b4de14c98a4465f25",
@@ -2448,6 +2751,7 @@
     "symbol": "UNCX",
     "decimals": 18,
     "coingeckoId": "unicrypt-2",
-    "wallet": true
+    "wallet": true,
+    "stable": false
   }
 ]
