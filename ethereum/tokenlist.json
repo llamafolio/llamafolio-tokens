@@ -16046,5 +16046,13 @@
     "coingeckoId": "bob",
     "stable": true,
     "wallet": true
+  },
+  {
+    "address": "0xf59257e961883636290411c11ec5ae622d19455e",
+    "name": "FloorDAO",
+    "symbol": "FLOOR",
+    "decimals": 9,
+    "coingeckoId": "floordao",
+    "stable": false
   }
 ]
