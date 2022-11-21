@@ -731,5 +731,12 @@
     "symbol": "BAKE",
     "decimals": 18,
     "coingeckoId": "bakerytoken"
+  },
+  {
+    "address": "0xf155e1a57db0ca820ae37ab4050e0e4c7cfcecd0",
+    "name": "Binance-Peg Dogecoin",
+    "symbol": "DOGE",
+    "decimals": 8,
+    "coingeckoId": "binance-peg-dogecoin"
   }
 ]
