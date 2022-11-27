@@ -288,6 +288,15 @@
     "stable": false
   },
   {
+    "address": "0xac6df26a590f08dcc95d5a4705ae8abbc88509ef",
+    "name": "Aave ENJ",
+    "symbol": "AENJ",
+    "decimals": 18,
+    "coingeckoId": "aave-enj",
+    "wallet": false,
+    "stable": false
+  },
+  {
     "address": "0x91af0fbb28aba7e31403cb457106ce79397fd4e6",
     "name": "Aergo",
     "symbol": "AERGO",
