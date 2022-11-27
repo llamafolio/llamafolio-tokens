@@ -1062,6 +1062,15 @@
     "stable": false
   },
   {
+    "address": "0x3ed3b47dd13ec9a98b44e6204a523e766b225811",
+    "name": "Aave USDT",
+    "symbol": "AUSDT",
+    "decimals": 6,
+    "coingeckoId": "aave-usdt",
+    "wallet": false,
+    "stable": true
+  },
+  {
     "address": "0x724dd18be5de3ed3d6ad7bb46d7387d867cdbdcc",
     "name": "AVAKUS",
     "symbol": "AVAK",

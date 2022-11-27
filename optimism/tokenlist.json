@@ -36,6 +36,15 @@
     "wallet": true
   },
   {
+    "address": "0x6ab707aca953edaefbc4fd23ba73294241490620",
+    "name": "Aave USDT",
+    "symbol": "AUSDT",
+    "decimals": 6,
+    "coingeckoId": "aave-usdt",
+    "wallet": false,
+    "stable": true
+  },
+  {
     "address": "0xfe8b128ba8c78aabc59d4c64cee7ff28e9379921",
     "name": "Balancer",
     "symbol": "BAL",

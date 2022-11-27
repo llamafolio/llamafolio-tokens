@@ -81,6 +81,15 @@
     "stable": false
   },
   {
+    "address": "0x6ab707aca953edaefbc4fd23ba73294241490620",
+    "name": "Aave USDT",
+    "symbol": "AUSDT",
+    "decimals": 6,
+    "coingeckoId": "aave-usdt",
+    "wallet": false,
+    "stable": true
+  },
+  {
     "address": "0xbfa641051ba0a0ad1b0acf549a89536a0d76472e",
     "name": "Badger DAO",
     "symbol": "BADGER",

@@ -63,6 +63,15 @@
     "stable": false
   },
   {
+    "address": "0x6ab707aca953edaefbc4fd23ba73294241490620",
+    "name": "Aave USDT",
+    "symbol": "AUSDT",
+    "decimals": 6,
+    "coingeckoId": "aave-usdt",
+    "wallet": false,
+    "stable": true
+  },
+  {
     "address": "0x14a7b318fed66ffdcc80c1517c172c13852865de",
     "name": "Axie Infinity Shard",
     "symbol": "AXS",
