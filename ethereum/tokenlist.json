@@ -171,12 +171,39 @@
     "stable": false
   },
   {
+    "address": "0xb29130cbcc3f791f077eade0266168e808e5151e",
+    "name": "",
+    "symbol": "a1INCH",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0xffc97d72e13e01096502cb8eb52dee56f74dad7b",
+    "name": "Aave AAVE",
+    "symbol": "aAAVE",
+    "decimals": 18,
+    "coingeckoId": "aave-aave",
+    "wallet": false,
+    "stable": false
+  },
+  {
     "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
     "name": "AaveToken",
     "symbol": "AAVE",
     "decimals": 18,
     "coingeckoId": "aave",
     "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x272f97b7a56a387ae942350bbc7df5700f8a4576",
+    "name": "Aave BAL",
+    "symbol": "aBAL",
+    "decimals": 18,
+    "coingeckoId": "aave-bal",
+    "wallet": false,
     "stable": false
   },
   {
@@ -252,6 +279,15 @@
     "stable": false
   },
   {
+    "address": "0x8dae6cb04688c62d939ed9b68d32bc62e49970b1",
+    "name": "Aave CRV",
+    "symbol": "aCRV",
+    "decimals": 18,
+    "coingeckoId": "aave-crv",
+    "wallet": false,
+    "stable": false
+  },
+  {
     "address": "0x2b95a1dcc3d405535f9ed33c219ab38e8d7e0884",
     "name": "Aladdin cvxCRV",
     "symbol": "aCRV",
@@ -267,6 +303,24 @@
     "decimals": 18,
     "coingeckoId": "all-coins-yield-capital",
     "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x028171bca77440897b824ca71d1c56cac55b68a3",
+    "name": "Aave DAI",
+    "symbol": "aDAI",
+    "decimals": 18,
+    "coingeckoId": "aave-dai",
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0x6f634c6135d2ebd550000ac92f494f9cb8183dae",
+    "name": "",
+    "symbol": "aDPI",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
     "stable": false
   },
   {
@@ -293,6 +347,15 @@
     "symbol": "AENJ",
     "decimals": 18,
     "coingeckoId": "aave-enj",
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0x9a14e23a58edf4efdcb360f68cd1b95ce2081a2f",
+    "name": "",
+    "symbol": "aENS",
+    "decimals": 18,
+    "coingeckoId": null,
     "wallet": false,
     "stable": false
   },
@@ -330,6 +393,15 @@
     "decimals": 8,
     "coingeckoId": "afin-coin",
     "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xd4937682df3c8aef4fe912a96a74121c0829e664",
+    "name": "",
+    "symbol": "aFRAX",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
     "stable": false
   },
   {
@@ -411,6 +483,15 @@
     "decimals": 8,
     "coingeckoId": "agoras-currency-of-tau",
     "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xd37ee7e4f452c6638c96536e68090de8cbcdb583",
+    "name": "Aave GUSD",
+    "symbol": "aGUSD",
+    "decimals": 2,
+    "coingeckoId": "aave-gusd",
+    "wallet": false,
     "stable": false
   },
   {
@@ -540,6 +621,15 @@
     "stable": false
   },
   {
+    "address": "0xa06bc25b5805d5f8d82847d191cb4af5a3e873e0",
+    "name": "Aave LINK",
+    "symbol": "aLINK",
+    "decimals": 18,
+    "coingeckoId": "aave-link",
+    "wallet": false,
+    "stable": false
+  },
+  {
     "address": "0x8185bc4757572da2a610f887561c32298f1a5748",
     "name": "Aluna",
     "symbol": "ALN",
@@ -592,6 +682,24 @@
     "coingeckoId": "alchemix-usd",
     "stable": true,
     "wallet": true
+  },
+  {
+    "address": "0xce1871f791548600cb59efbeffc9c38719142079",
+    "name": "",
+    "symbol": "aLUSD",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0xa685a61171bb30d4072b338c80cb7b2c865c873e",
+    "name": "Aave MANA",
+    "symbol": "aMANA",
+    "decimals": 18,
+    "coingeckoId": "aave-mana",
+    "wallet": false,
+    "stable": false
   },
   {
     "address": "0x99534ef705df1fff4e4bd7bbaaf9b0dff038ebfe",
@@ -801,6 +909,15 @@
     "stable": false
   },
   {
+    "address": "0xc9bc48c72154ef3e5425641a3c747242112a46af",
+    "name": "Aave RAI",
+    "symbol": "aRAI",
+    "decimals": 18,
+    "coingeckoId": "aave-rai",
+    "wallet": false,
+    "stable": false
+  },
+  {
     "address": "0xc82e3db60a52cf7529253b4ec688f631aad9e7c2",
     "name": "ARC",
     "symbol": "ARC",
@@ -963,6 +1080,15 @@
     "stable": false
   },
   {
+    "address": "0x1982b2f5814301d4e9a8b0201555376e62f82428",
+    "name": "Aave Interest Bearing STETH",
+    "symbol": "aSTETH",
+    "decimals": 18,
+    "coingeckoId": "aave-interest-bearing-steth",
+    "wallet": false,
+    "stable": false
+  },
+  {
     "address": "0x823556202e86763853b40e9cde725f412e294689",
     "name": "Altered State Machine Utility Token",
     "symbol": "ASTO",
@@ -978,6 +1104,15 @@
     "decimals": 18,
     "coingeckoId": "astrotools",
     "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x6c5024cd4f8a59110119c56f8933403a539555eb",
+    "name": "Aave SUSD",
+    "symbol": "aSUSD",
+    "decimals": 18,
+    "coingeckoId": "aave-susd",
+    "wallet": false,
     "stable": false
   },
   {
@@ -1032,6 +1167,15 @@
     "decimals": 18,
     "coingeckoId": "attrace",
     "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x101cc05f4a51c0319f570d5e146a8c625198e636",
+    "name": "Aave TUSD",
+    "symbol": "aTUSD",
+    "decimals": 18,
+    "coingeckoId": "aave-tusd",
+    "wallet": false,
     "stable": false
   },
   {
@@ -1098,6 +1242,24 @@
     "stable": false
   },
   {
+    "address": "0xbcca60bb61934080951369a648fb03df4f96263c",
+    "name": "Aave USDC",
+    "symbol": "aUSDC",
+    "decimals": 6,
+    "coingeckoId": "aave-usdc",
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0x2e8f4bdbe3d47d7d7de490437aea9915d930f1a3",
+    "name": "",
+    "symbol": "aUSDP",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
     "address": "0x3ed3b47dd13ec9a98b44e6204a523e766b225811",
     "name": "Aave USDT",
     "symbol": "AUSDT",
@@ -1105,6 +1267,15 @@
     "coingeckoId": "aave-usdt",
     "wallet": false,
     "stable": true
+  },
+  {
+    "address": "0xc2e2152647f4c26028482efaf64b2aa28779efc4",
+    "name": "",
+    "symbol": "aUST",
+    "decimals": 6,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
   },
   {
     "address": "0x724dd18be5de3ed3d6ad7bb46d7387d867cdbdcc",
@@ -1134,6 +1305,15 @@
     "stable": false
   },
   {
+    "address": "0x9ff58f4ffb29fa2266ab25e75e2a8b3503311656",
+    "name": "Aave WBTC",
+    "symbol": "aWBTC",
+    "decimals": 8,
+    "coingeckoId": "aave-wbtc",
+    "wallet": false,
+    "stable": false
+  },
+  {
     "address": "0x030ba81f1c18d280636f32af80b9aad02cf0854e",
     "name": "Aave WETH",
     "symbol": "AWETH",
@@ -1158,6 +1338,15 @@
     "decimals": 18,
     "coingeckoId": "axie-infinity",
     "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xf256cc7847e919fac9b808cc216cac87ccf2f47a",
+    "name": "Aave XSUSHI",
+    "symbol": "aXSUSHI",
+    "decimals": 18,
+    "coingeckoId": "aave-xsushi",
+    "wallet": false,
     "stable": false
   },
   {
@@ -8092,12 +8281,12 @@
   },
   {
     "address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
-    "name": "LUSD",
+    "name": "Liquity USD",
     "symbol": "LUSD",
     "decimals": 18,
     "coingeckoId": "liquity-usd",
-    "stable": true,
-    "wallet": true
+    "wallet": false,
+    "stable": true
   },
   {
     "address": "0xc690f7c7fcffa6a82b79fab7508c466fefdfc8c5",
@@ -12771,6 +12960,204 @@
     "stable": false
   },
   {
+    "address": "0x1278d6ed804d59d2d18a5aa5638dfd591a79af0a",
+    "name": "",
+    "symbol": "stableDebt1INCH",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0x079d6a3e844bcecf5720478a718edb6575362c5f",
+    "name": "",
+    "symbol": "stableDebtAAVE",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0xe569d31590307d05da3812964f1edd551d665a0b",
+    "name": "",
+    "symbol": "stableDebtBAL",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0x277f8676facf4daa5a6ea38ba511b7f65aa02f9f",
+    "name": "",
+    "symbol": "stableDebtBAT",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0x4a7a63909a72d268b1d8a93a9395d098688e0e5c",
+    "name": "",
+    "symbol": "stableDebtBUSD",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0x9288059a74f589c919c7cf1db433251cdfeb874b",
+    "name": "",
+    "symbol": "stableDebtCRV",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0xb01eb1ce1da06179136d561766fc2d609c5f55eb",
+    "name": "",
+    "symbol": "stableDebtCVX",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0x778a13d3eeb110a4f7bb6529f99c000119a08e92",
+    "name": "",
+    "symbol": "stableDebtDAI",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0xa3953f07f389d719f99fc378ebdb9276177d8a6e",
+    "name": "",
+    "symbol": "stableDebtDPI",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0x943dcca156b5312aa24c1a08769d67fece4ac14c",
+    "name": "",
+    "symbol": "stableDebtENJ",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0x39f010127274b2dbdb770b45e1de54d974974526",
+    "name": "",
+    "symbol": "stableDebtLUSD",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0xd86c74ea2224f4b8591560652b50035e4e5c0a3b",
+    "name": "",
+    "symbol": "stableDebtMANA",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0xc01c8e4b12a89456a9fd4e4e75b72546bf53f0b5",
+    "name": "",
+    "symbol": "stableDebtMKR",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0xcaad05c49e14075077915cb5c820eb3245afb950",
+    "name": "",
+    "symbol": "stableDebtRENFIL",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0x7f38d60d94652072b2c44a18c0e14a481ec3c0dd",
+    "name": "",
+    "symbol": "stableDebtTUSD",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0xd939f7430dc8d5a427f156de1012a56c18acb6aa",
+    "name": "",
+    "symbol": "stableDebtUNI",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0xe4922afab0bbadd8ab2a88e0c79d884ad337fca6",
+    "name": "",
+    "symbol": "stableDebtUSDC",
+    "decimals": 6,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0xe91d55ab2240594855abd11b3faae801fd4c4687",
+    "name": "",
+    "symbol": "stableDebtUSDT",
+    "decimals": 6,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0x51b039b9afe64b78758f8ef091211b5387ea717c",
+    "name": "",
+    "symbol": "stableDebtWBTC",
+    "decimals": 8,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0x4e977830ba4bd783c0bb7f15d3e243f73ff57121",
+    "name": "",
+    "symbol": "stableDebtWETH",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0x73bfb81d7dba75c904f430ea8bae82db0d41187b",
+    "name": "",
+    "symbol": "stableDebtXSUSHI",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0xca823f78c2dd38993284bb42ba9b14152082f7bd",
+    "name": "",
+    "symbol": "stableDebtYFI",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
     "address": "0xcd91538b91b4ba7797d39a2f66e63810b50a33d0",
     "name": "ARC STABLEx",
     "symbol": "STABLEx",
@@ -12843,12 +13230,30 @@
     "stable": false
   },
   {
+    "address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+    "name": "Lido Staked Ether",
+    "symbol": "stETH",
+    "decimals": 18,
+    "coingeckoId": "staked-ether",
+    "wallet": false,
+    "stable": false
+  },
+  {
     "address": "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
     "name": "STG",
     "symbol": "STG",
     "decimals": 18,
     "coingeckoId": "stargate-finance",
     "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x4da27a545c0c5b758a6ba100e3a049001de870f5",
+    "name": "",
+    "symbol": "stkAAVE",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
     "stable": false
   },
   {
@@ -14301,20 +14706,20 @@
     "stable": false
   },
   {
-    "address": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
-    "name": "Wrapped UST Token",
-    "symbol": "UST",
-    "decimals": 18,
-    "coingeckoId": "wrapped-ust",
-    "wallet": true,
-    "stable": false
-  },
-  {
     "address": "0xa693b19d2931d498c5b318df961919bb4aee87a5",
     "name": "UST (Wormhole)",
     "symbol": "UST",
     "decimals": 6,
     "coingeckoId": "terrausd-wormhole",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+    "name": "Wrapped UST Token",
+    "symbol": "UST",
+    "decimals": 18,
+    "coingeckoId": "wrapped-ust",
     "wallet": true,
     "stable": false
   },
@@ -14406,6 +14811,186 @@
     "decimals": 18,
     "coingeckoId": null,
     "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x13210d4fe0d5402bd7ecbc4b5bc5cfca3b71adb0",
+    "name": "",
+    "symbol": "variableDebtBAL",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0xfc218a6dfe6901cb34b1a5281fc6f1b8e7e56877",
+    "name": "",
+    "symbol": "variableDebtBAT",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0xba429f7011c9fa04cdd46a2da24dc0ff0ac6099c",
+    "name": "",
+    "symbol": "variableDebtBUSD",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0x4ae5e4409c6dbc84a00f9f89e4ba096603fb7d50",
+    "name": "",
+    "symbol": "variableDebtCVX",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0x6c3c78838c761c6ac7be9f59fe808ea2a6e4379d",
+    "name": "",
+    "symbol": "variableDebtDAI",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0x4ddff5885a67e4effec55875a3977d7e60f82ae0",
+    "name": "",
+    "symbol": "variableDebtDPI",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0x38995f292a6e31b78203254fe1cdd5ca1010a446",
+    "name": "",
+    "symbol": "variableDebtENJ",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0xc2e10006accab7b45d9184fcf5b7ec7763f5baae",
+    "name": "",
+    "symbol": "variableDebtFEI",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0xfe8f19b17ffef0fdbfe2671f248903055afaa8ca",
+    "name": "",
+    "symbol": "variableDebtFRAX",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0x279af5b99540c1a3a7e3cdd326e19659401ef99e",
+    "name": "",
+    "symbol": "variableDebtGUSD",
+    "decimals": 2,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0x6b05d1c608015ccb8e205a690cb86773a96f39f1",
+    "name": "",
+    "symbol": "variableDebtKNC",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0x0b8f12b1788bfde65aa1ca52e3e9f3ba401be16d",
+    "name": "",
+    "symbol": "variableDebtLINK",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0x0a68976301e46ca6ce7410db28883e309ea0d352",
+    "name": "",
+    "symbol": "variableDebtMANA",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0xba728ead5e496be00dcf66f650b6d7758ecb50f8",
+    "name": "",
+    "symbol": "variableDebtMKR",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0xcd9d82d33bd737de215cdac57fe2f7f04df77fe0",
+    "name": "",
+    "symbol": "variableDebtREN",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0x348e2ebd5e962854871874e444f4122399c02755",
+    "name": "",
+    "symbol": "variableDebtRENFIL",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0x5bdb050a92cadccfcdcccbfc17204a1c9cc0ab73",
+    "name": "",
+    "symbol": "variableDebtUNI",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0x619beb58998ed2278e08620f97007e1116d5d25b",
+    "name": "",
+    "symbol": "variableDebtUSDC",
+    "decimals": 6,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0x531842cebbdd378f8ee36d171d6cc9c4fcf475ec",
+    "name": "",
+    "symbol": "variableDebtUSDT",
+    "decimals": 6,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0x7ebd09022be45ad993baa1cec61166fcc8644d97",
+    "name": "",
+    "symbol": "variableDebtYFI",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
     "stable": false
   },
   {

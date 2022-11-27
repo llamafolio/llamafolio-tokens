@@ -99,6 +99,13 @@
     "stable": false
   },
   {
+    "address": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee",
+    "name": "Aave DAI",
+    "symbol": "ADAI",
+    "decimals": 18,
+    "coingeckoId": "aave-dai"
+  },
+  {
     "address": "0xb42bf10ab9df82f9a47b86dd76eee4ba848d0fa2",
     "name": "Ankr Fantom Reward Earning Bond",
     "symbol": "aFTMb",

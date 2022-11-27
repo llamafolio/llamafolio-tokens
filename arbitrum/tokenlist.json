@@ -18,6 +18,13 @@
     "stable": false
   },
   {
+    "address": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee",
+    "name": "Aave DAI",
+    "symbol": "ADAI",
+    "decimals": 18,
+    "coingeckoId": "aave-dai"
+  },
+  {
     "address": "0x155f0dd04424939368972f4e1838687d6a831151",
     "name": "ArbiDoge",
     "symbol": "ADOGE",

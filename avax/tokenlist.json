@@ -90,6 +90,13 @@
     "stable": false
   },
   {
+    "address": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee",
+    "name": "Aave DAI",
+    "symbol": "ADAI",
+    "decimals": 18,
+    "coingeckoId": "aave-dai"
+  },
+  {
     "address": "0xb648fa7a5f5ed3b3c743140346e3dc3fe94a9125",
     "name": "altFINS",
     "symbol": "AFINS",
