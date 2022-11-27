@@ -459,6 +459,15 @@
     "stable": false
   },
   {
+    "address": "0x39c6b3e42d6a679d7d776778fe880bc9487c2eda",
+    "name": "Aave KNC",
+    "symbol": "AKNC",
+    "decimals": 18,
+    "coingeckoId": "aave-knc",
+    "wallet": false,
+    "stable": false
+  },
+  {
     "address": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
     "name": "Akropolis",
     "symbol": "AKRO",
