@@ -706,7 +706,7 @@
     "name": "ARPA",
     "symbol": "ARPA",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "arpa",
     "wallet": true,
     "stable": false
   },
@@ -2300,7 +2300,7 @@
     "name": "Crypto Gaming United",
     "symbol": "CGU",
     "decimals": 8,
-    "coingeckoId": "crypto-gaming-united",
+    "coingeckoId": "crypto-global-united",
     "wallet": true,
     "stable": false
   },
@@ -3686,7 +3686,7 @@
     "name": "Dogelon Mars",
     "symbol": "ELON",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "dogelon-mars",
     "wallet": true,
     "stable": false
   },
@@ -4109,7 +4109,7 @@
     "name": "FLOKI",
     "symbol": "FLOKI",
     "decimals": 9,
-    "coingeckoId": "floki-inu",
+    "coingeckoId": "floki",
     "wallet": true,
     "stable": false
   },
@@ -5180,7 +5180,7 @@
     "name": "iBufferToken",
     "symbol": "iBFR",
     "decimals": 18,
-    "coingeckoId": "ibuffer-token",
+    "coingeckoId": "ibuffer",
     "wallet": true,
     "stable": false
   },
@@ -5315,7 +5315,7 @@
     "name": "IoTeX",
     "symbol": "IOTX",
     "decimals": 18,
-    "coingeckoId": "iotex",
+    "coingeckoId": "binance-peg-iotex",
     "wallet": true,
     "stable": false
   },
@@ -9185,7 +9185,7 @@
     "name": "SafuYield Protocol",
     "symbol": "SAFUYIELD",
     "decimals": 9,
-    "coingeckoId": "safuyield-protocol",
+    "coingeckoId": "safu-protocol",
     "wallet": true,
     "stable": false
   },
@@ -9671,7 +9671,7 @@
     "name": "APOyield SOULS",
     "symbol": "SOUL",
     "decimals": 8,
-    "coingeckoId": null,
+    "coingeckoId": "apoyield",
     "wallet": true,
     "stable": false
   },
@@ -9932,7 +9932,7 @@
     "name": "StableXSwap",
     "symbol": "STAX",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "stablexswap",
     "wallet": true,
     "stable": false
   },

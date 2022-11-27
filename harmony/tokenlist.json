@@ -407,7 +407,7 @@
     "name": "FarmersOnly Token2",
     "symbol": "FOX",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "farmers-only",
     "wallet": true,
     "stable": false
   },
@@ -479,7 +479,7 @@
     "name": "TokenJenny",
     "symbol": "JENN",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "tokenjenny",
     "wallet": true,
     "stable": false
   },
@@ -749,7 +749,7 @@
     "name": "DaVinci Token",
     "symbol": "VINCI",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "davinci-token",
     "wallet": true,
     "stable": false
   },
@@ -839,7 +839,7 @@
     "name": "xVIPER",
     "symbol": "xVIPER",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "viperpit",
     "wallet": true,
     "stable": false
   },

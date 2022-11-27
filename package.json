@@ -12,6 +12,7 @@
     "build": "tsc",
     "stable": "ts-node -T scripts/stable.ts",
     "add-token": "ts-node -T scripts/add-token.ts",
+    "resolve-tokens": "ts-node -T scripts/resolve-tokens.ts",
     "prepublishOnly": "npm run build"
   },
   "repository": {

@@ -310,7 +310,7 @@
     "name": "Ankr Reward-Earning Staked ETH",
     "symbol": "aETHb",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "ankr-reward-earning-staked-eth",
     "wallet": true,
     "stable": false
   },
@@ -904,7 +904,7 @@
     "name": "ARPA Chain",
     "symbol": "ARPA",
     "decimals": 18,
-    "coingeckoId": "arpa-chain",
+    "coingeckoId": "arpa",
     "wallet": true,
     "stable": false
   },
@@ -913,7 +913,7 @@
     "name": "ethart",
     "symbol": "arte",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "ethart",
     "wallet": true,
     "stable": false
   },
@@ -2047,7 +2047,7 @@
     "name": "BTC Volatility Index",
     "symbol": "BTCV",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "bitcoin-volatility-index-token",
     "wallet": true,
     "stable": false
   },
@@ -3550,7 +3550,7 @@
     "name": "Compound USDT",
     "symbol": "cUSDT",
     "decimals": 8,
-    "coingeckoId": null,
+    "coingeckoId": "compound-usdt",
     "wallet": true,
     "stable": false
   },
@@ -4468,7 +4468,7 @@
     "name": "Digital Standard Unit",
     "symbol": "DSU",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "digital-standard-unit",
     "wallet": true,
     "stable": false
   },
@@ -4522,7 +4522,7 @@
     "name": "DefiDollar",
     "symbol": "DUSD",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "defidollar",
     "wallet": true,
     "stable": false
   },
@@ -4954,7 +4954,7 @@
     "name": "Empty Set Share",
     "symbol": "ESS",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "empty-set-share",
     "wallet": true,
     "stable": false
   },
@@ -5423,7 +5423,7 @@
     "name": "FLOKI",
     "symbol": "FLOKI",
     "decimals": 9,
-    "coingeckoId": "floki-inu",
+    "coingeckoId": "floki",
     "wallet": true,
     "stable": false
   },
@@ -6673,7 +6673,7 @@
     "name": "Inverse BTC Volatility Index",
     "symbol": "iBTCV",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "inverse-bitcoin-volatility-index-token",
     "wallet": true,
     "stable": false
   },
@@ -6961,7 +6961,7 @@
     "name": "IoTeX",
     "symbol": "IOTX",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "iotex",
     "wallet": true,
     "stable": false
   },
@@ -7231,7 +7231,7 @@
     "name": "KBTC",
     "symbol": "KBTC",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "klondike-btc",
     "wallet": true,
     "stable": false
   },
@@ -8320,7 +8320,7 @@
     "name": "mStable BTC",
     "symbol": "mBTC",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "mstable-btc",
     "wallet": true,
     "stable": false
   },
@@ -8491,7 +8491,7 @@
     "name": "MetaCat",
     "symbol": "MetaCat",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "metacat",
     "wallet": true,
     "stable": false
   },
@@ -9787,7 +9787,7 @@
     "name": "Stable 1INCH",
     "symbol": "one1INCH",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "stable-1inch",
     "wallet": true,
     "stable": false
   },
@@ -11173,7 +11173,7 @@
     "name": "Rublix",
     "symbol": "RBLX",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "rublix",
     "wallet": true,
     "stable": false
   },
@@ -11326,7 +11326,7 @@
     "name": "renBCH",
     "symbol": "renBCH",
     "decimals": 8,
-    "coingeckoId": null,
+    "coingeckoId": "renbch",
     "wallet": true,
     "stable": false
   },
@@ -13108,7 +13108,7 @@
     "name": "Savedroid",
     "symbol": "SVD",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "savedroid",
     "wallet": true,
     "stable": false
   },
@@ -14170,7 +14170,7 @@
     "name": "USDB",
     "symbol": "USDB",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "usd-bancor",
     "wallet": true,
     "stable": false
   },
@@ -14242,7 +14242,7 @@
     "name": "USDP Stablecoin",
     "symbol": "USDP_2",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "usdp",
     "wallet": true,
     "stable": false
   },
@@ -14274,15 +14274,6 @@
     "stable": false
   },
   {
-    "address": "0x1cdd2eab61112697626f7b4bb0e23da4febf7b7c",
-    "name": "USDT (Wormhole)",
-    "symbol": "USDT",
-    "decimals": 6,
-    "coingeckoId": "tether-usd-wormhole",
-    "wallet": true,
-    "stable": false
-  },
-  {
     "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
     "name": "Tether USD",
     "symbol": "USDT",
@@ -14290,6 +14281,15 @@
     "coingeckoId": "tether",
     "stable": true,
     "wallet": true
+  },
+  {
+    "address": "0x1cdd2eab61112697626f7b4bb0e23da4febf7b7c",
+    "name": "USDT (Wormhole)",
+    "symbol": "USDT",
+    "decimals": 6,
+    "coingeckoId": "tether-usd-wormhole",
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0xeb269732ab75a6fd61ea60b06fe994cd32a83549",

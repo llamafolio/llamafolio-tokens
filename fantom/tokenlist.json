@@ -58,7 +58,7 @@
     "name": "3SHARE Token",
     "symbol": "3SHARES",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "3shares",
     "wallet": true,
     "stable": false
   },
@@ -859,7 +859,7 @@
     "name": "DEVIL Token",
     "symbol": "DEVIL",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "devil-finance",
     "wallet": true,
     "stable": false
   },
@@ -1237,7 +1237,7 @@
     "name": "Fantums of Opera Token",
     "symbol": "FOO",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "fantums-of-opera-token",
     "wallet": true,
     "stable": false
   },
@@ -1310,7 +1310,7 @@
     "name": "FTMLaunch",
     "symbol": "FTML",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "ftmlaunch",
     "wallet": true,
     "stable": false
   },
@@ -1337,7 +1337,7 @@
     "name": "Fantom USD",
     "symbol": "FUSD",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "fantom-usd",
     "wallet": true,
     "stable": false
   },
@@ -1796,7 +1796,7 @@
     "name": "Metti Inu",
     "symbol": "Metti",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "metti-inu",
     "wallet": true,
     "stable": false
   },
@@ -2039,7 +2039,7 @@
     "name": "PanicSwap",
     "symbol": "PANIC",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "panicswap",
     "wallet": true,
     "stable": false
   },
@@ -2102,7 +2102,7 @@
     "name": "Poopsicle",
     "symbol": "POOP",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "poopsicle",
     "wallet": true,
     "stable": false
   },
@@ -2273,7 +2273,7 @@
     "name": "Stader",
     "symbol": "SD(Wormhole)",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "stader",
     "wallet": true,
     "stable": false
   },
@@ -2345,7 +2345,7 @@
     "name": "Singular.Farm",
     "symbol": "SING",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "sing-token-ftm",
     "wallet": true,
     "stable": false
   },
@@ -2498,7 +2498,7 @@
     "name": "Timechain Swap Token",
     "symbol": "TCS",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "timechain-swap-token",
     "wallet": true,
     "stable": false
   },
