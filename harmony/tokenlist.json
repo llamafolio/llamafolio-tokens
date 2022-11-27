@@ -367,6 +367,15 @@
     "stable": false
   },
   {
+    "address": "0xadbd41bfb4389de499535c14a8a3a12fead8f66a",
+    "name": "Enjin Coin",
+    "symbol": "ENJ",
+    "decimals": 18,
+    "coingeckoId": "enjincoin",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x6983d1e6def3690c4d616b13597a09e6193ea013",
     "name": "Ether",
     "symbol": "ETH",
@@ -489,6 +498,15 @@
     "symbol": "KEEP",
     "decimals": 18,
     "coingeckoId": "keep-network",
+    "stable": false
+  },
+  {
+    "address": "0x0a47d2dc4b7ee3d4d7fd471d993b0821621e1769",
+    "name": "Kyber Network Crystal Legacy",
+    "symbol": "KNCL",
+    "decimals": 18,
+    "coingeckoId": "kyber-network",
+    "wallet": true,
     "stable": false
   },
   {

@@ -1666,6 +1666,15 @@
     "stable": false
   },
   {
+    "address": "0x765277eebeca2e31912c9946eae1021199b39c61",
+    "name": "Kyber Network Crystal Legacy",
+    "symbol": "KNCL",
+    "decimals": 18,
+    "coingeckoId": "kyber-network",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x2a5062d22adcfaafbd5c541d4da82e4b450d4212",
     "name": "Keep3r",
     "symbol": "KP3R",

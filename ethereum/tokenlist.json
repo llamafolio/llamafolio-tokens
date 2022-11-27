@@ -189,6 +189,15 @@
     "stable": false
   },
   {
+    "address": "0xa361718326c15715591c299427c62086f69923d9",
+    "name": "Aave BUSD",
+    "symbol": "ABUSD",
+    "decimals": 18,
+    "coingeckoId": "aave-busd",
+    "wallet": false,
+    "stable": true
+  },
+  {
     "address": "0x9a794dc1939f1d78fa48613b89b8f9d0a20da00e",
     "name": "Arbidex",
     "symbol": "ABX",
@@ -276,6 +285,15 @@
     "decimals": 18,
     "coingeckoId": "adex",
     "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xac6df26a590f08dcc95d5a4705ae8abbc88509ef",
+    "name": "Aave ENJ",
+    "symbol": "AENJ",
+    "decimals": 18,
+    "coingeckoId": "aave-enj",
+    "wallet": false,
     "stable": false
   },
   {
@@ -438,6 +456,15 @@
     "decimals": 18,
     "coingeckoId": "akita-inu",
     "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x39c6b3e42d6a679d7d776778fe880bc9487c2eda",
+    "name": "Aave KNC",
+    "symbol": "AKNC",
+    "decimals": 18,
+    "coingeckoId": "aave-knc",
+    "wallet": false,
     "stable": false
   },
   {
