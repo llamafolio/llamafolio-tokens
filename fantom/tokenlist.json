@@ -252,6 +252,15 @@
     "stable": false
   },
   {
+    "address": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
+    "name": "Aave WETH",
+    "symbol": "AWETH",
+    "decimals": 18,
+    "coingeckoId": "aave-weth",
+    "wallet": false,
+    "stable": false
+  },
+  {
     "address": "0x1b6382dbdea11d97f24495c9a90b7c88469134a4",
     "name": "Axelar Wrapped USDC",
     "symbol": "axlUSDC",

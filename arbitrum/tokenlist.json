@@ -90,6 +90,15 @@
     "stable": true
   },
   {
+    "address": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
+    "name": "Aave WETH",
+    "symbol": "AWETH",
+    "decimals": 18,
+    "coingeckoId": "aave-weth",
+    "wallet": false,
+    "stable": false
+  },
+  {
     "address": "0xbfa641051ba0a0ad1b0acf549a89536a0d76472e",
     "name": "Badger DAO",
     "symbol": "BADGER",

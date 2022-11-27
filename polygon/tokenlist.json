@@ -576,6 +576,15 @@
     "stable": false
   },
   {
+    "address": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
+    "name": "Aave WETH",
+    "symbol": "AWETH",
+    "decimals": 18,
+    "coingeckoId": "aave-weth",
+    "wallet": false,
+    "stable": false
+  },
+  {
     "address": "0xa96d47c621a8316d4f9539e3b38180c7067e84ca",
     "name": "AurusSILVER",
     "symbol": "AWS",

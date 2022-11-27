@@ -1098,6 +1098,15 @@
     "stable": false
   },
   {
+    "address": "0x030ba81f1c18d280636f32af80b9aad02cf0854e",
+    "name": "Aave WETH",
+    "symbol": "AWETH",
+    "decimals": 18,
+    "coingeckoId": "aave-weth",
+    "wallet": false,
+    "stable": false
+  },
+  {
     "address": "0x3eacbdc6c382ea22b78acc158581a55aaf4ef3cc",
     "name": "Axelar",
     "symbol": "AXL",

@@ -469,6 +469,15 @@
     "stable": false
   },
   {
+    "address": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
+    "name": "Aave WETH",
+    "symbol": "AWETH",
+    "decimals": 18,
+    "coingeckoId": "aave-weth",
+    "wallet": false,
+    "stable": false
+  },
+  {
     "address": "0xcf8419a615c57511807236751c0af38db4ba3351",
     "name": "AxialToken",
     "symbol": "AXIAL",

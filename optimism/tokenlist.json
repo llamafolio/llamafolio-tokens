@@ -45,6 +45,15 @@
     "stable": true
   },
   {
+    "address": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
+    "name": "Aave WETH",
+    "symbol": "AWETH",
+    "decimals": 18,
+    "coingeckoId": "aave-weth",
+    "wallet": false,
+    "stable": false
+  },
+  {
     "address": "0xfe8b128ba8c78aabc59d4c64cee7ff28e9379921",
     "name": "Balancer",
     "symbol": "BAL",
