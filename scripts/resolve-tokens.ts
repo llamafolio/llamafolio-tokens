@@ -35,7 +35,12 @@ async function getCoingeckoIds(
         const token =
           chainTokens[chain]?.[coin.platforms[coingecko_chain].toLowerCase()];
         if (token) {
-          token.coingeckoId = coin.id;
+          if (!token.name) {
+            token.name = coin.name;
+          }
+          if (!token.coingeckoId) {
+            token.coingeckoId = coin.id;
+          }
         }
       }
     }
