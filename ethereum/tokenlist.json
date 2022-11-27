@@ -1035,6 +1035,15 @@
     "stable": false
   },
   {
+    "address": "0xb9d7cb55f463405cdfbe4e90a6d2df01c2b92bf1",
+    "name": "Aave UNI",
+    "symbol": "AUNI",
+    "decimals": 18,
+    "coingeckoId": "aave-uni",
+    "wallet": false,
+    "stable": false
+  },
+  {
     "address": "0x6e98e5401adcb0d76f4debfc3d794b3031f48790",
     "name": "Aurix Exchange",
     "symbol": "AUR",
