@@ -107,6 +107,15 @@
     "stable": false
   },
   {
+    "address": "0x2875b4cfab0a4cc4bdc7fbdf94b6e376826a4332",
+    "name": "Basic Attention",
+    "symbol": "BAT",
+    "decimals": 18,
+    "coingeckoId": "basic-attention-token",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8",
     "name": "beefy.finance",
     "symbol": "BIFI",
