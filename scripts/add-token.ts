@@ -1,6 +1,7 @@
 import path from "path";
 import fs from "fs";
 import fetch from "node-fetch";
+import { updateTokenList } from "./update-token-list";
 
 async function downloadLogo(url: string) {
   const response = await fetch(url);
@@ -17,7 +18,7 @@ export const coingeckoPlatformToChain = {
   "polygon-pos": "polygon",
   xdai: "xdai",
   "optimistic-ethereum": "optimism",
-  "arbitrum-one": "arbitrum"
+  "arbitrum-one": "arbitrum",
 };
 
 async function getCoingeckoTokens(id: string) {
@@ -99,7 +100,7 @@ async function main() {
         coingeckoId: token.coingeckoId,
       });
 
-      fs.writeFileSync(tokenListSrc, JSON.stringify(tokenList, null, 2));
+      updateTokenList(chain, tokenList);
     }
 
     const logoSrc = path.join(

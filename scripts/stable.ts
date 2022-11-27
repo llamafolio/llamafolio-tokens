@@ -1,6 +1,6 @@
-import fs from "fs";
 import fetch from "node-fetch";
 import { chains } from "../index";
+import { updateTokenList } from "./update-token-list";
 
 async function main() {
   const stablecoinsRes = await fetch(
@@ -23,10 +23,7 @@ async function main() {
       return token;
     });
 
-    fs.writeFileSync(
-      `./${chain}/tokenlist.json`,
-      `${JSON.stringify(newTokenList, null, 2)}\n`
-    );
+    updateTokenList(chain, newTokenList);
   }
 }
 
