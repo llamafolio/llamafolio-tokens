@@ -189,6 +189,15 @@
     "stable": false
   },
   {
+    "address": "0xa361718326c15715591c299427c62086f69923d9",
+    "name": "Aave BUSD",
+    "symbol": "ABUSD",
+    "decimals": 18,
+    "coingeckoId": "aave-busd",
+    "wallet": false,
+    "stable": true
+  },
+  {
     "address": "0x9a794dc1939f1d78fa48613b89b8f9d0a20da00e",
     "name": "Arbidex",
     "symbol": "ABX",
