@@ -1035,6 +1035,15 @@
     "stable": false
   },
   {
+    "address": "0xb9d7cb55f463405cdfbe4e90a6d2df01c2b92bf1",
+    "name": "Aave UNI",
+    "symbol": "AUNI",
+    "decimals": 18,
+    "coingeckoId": "aave-uni",
+    "wallet": false,
+    "stable": false
+  },
+  {
     "address": "0x6e98e5401adcb0d76f4debfc3d794b3031f48790",
     "name": "Aurix Exchange",
     "symbol": "AUR",
@@ -1060,6 +1069,15 @@
     "coingeckoId": "aurora-near",
     "wallet": true,
     "stable": false
+  },
+  {
+    "address": "0x3ed3b47dd13ec9a98b44e6204a523e766b225811",
+    "name": "Aave USDT",
+    "symbol": "AUSDT",
+    "decimals": 6,
+    "coingeckoId": "aave-usdt",
+    "wallet": false,
+    "stable": true
   },
   {
     "address": "0x724dd18be5de3ed3d6ad7bb46d7387d867cdbdcc",
@@ -1089,6 +1107,15 @@
     "stable": false
   },
   {
+    "address": "0x030ba81f1c18d280636f32af80b9aad02cf0854e",
+    "name": "Aave WETH",
+    "symbol": "AWETH",
+    "decimals": 18,
+    "coingeckoId": "aave-weth",
+    "wallet": false,
+    "stable": false
+  },
+  {
     "address": "0x3eacbdc6c382ea22b78acc158581a55aaf4ef3cc",
     "name": "Axelar",
     "symbol": "AXL",
@@ -1104,6 +1131,15 @@
     "decimals": 18,
     "coingeckoId": "axie-infinity",
     "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x5165d24277cd063f5ac44efd447b27025e888f37",
+    "name": "Aave YFI",
+    "symbol": "AYFI",
+    "decimals": 18,
+    "coingeckoId": "aave-yfi",
+    "wallet": false,
     "stable": false
   },
   {

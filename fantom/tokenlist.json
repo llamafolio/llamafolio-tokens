@@ -234,12 +234,30 @@
     "stable": false
   },
   {
+    "address": "0x6ab707aca953edaefbc4fd23ba73294241490620",
+    "name": "Aave USDT",
+    "symbol": "AUSDT",
+    "decimals": 6,
+    "coingeckoId": "aave-usdt",
+    "wallet": false,
+    "stable": true
+  },
+  {
     "address": "0x511d35c52a3c244e7b8bd92c0c297755fbd89212",
     "name": "Avalanche",
     "symbol": "AVAX",
     "decimals": 18,
     "coingeckoId": "wrapped-avax",
     "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
+    "name": "Aave WETH",
+    "symbol": "AWETH",
+    "decimals": 18,
+    "coingeckoId": "aave-weth",
+    "wallet": false,
     "stable": false
   },
   {

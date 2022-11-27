@@ -63,6 +63,24 @@
     "stable": false
   },
   {
+    "address": "0x6ab707aca953edaefbc4fd23ba73294241490620",
+    "name": "Aave USDT",
+    "symbol": "AUSDT",
+    "decimals": 6,
+    "coingeckoId": "aave-usdt",
+    "wallet": false,
+    "stable": true
+  },
+  {
+    "address": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
+    "name": "Aave WETH",
+    "symbol": "AWETH",
+    "decimals": 18,
+    "coingeckoId": "aave-weth",
+    "wallet": false,
+    "stable": false
+  },
+  {
     "address": "0x14a7b318fed66ffdcc80c1517c172c13852865de",
     "name": "Axie Infinity Shard",
     "symbol": "AXS",
@@ -85,6 +103,15 @@
     "symbol": "BAL",
     "decimals": 18,
     "coingeckoId": "balancer",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x2875b4cfab0a4cc4bdc7fbdf94b6e376826a4332",
+    "name": "Basic Attention",
+    "symbol": "BAT",
+    "decimals": 18,
+    "coingeckoId": "basic-attention-token",
     "wallet": true,
     "stable": false
   },
