@@ -1125,6 +1125,15 @@
     "stable": false
   },
   {
+    "address": "0x5165d24277cd063f5ac44efd447b27025e888f37",
+    "name": "Aave YFI",
+    "symbol": "AYFI",
+    "decimals": 18,
+    "coingeckoId": "aave-yfi",
+    "wallet": false,
+    "stable": false
+  },
+  {
     "address": "0xaaaaaaaba2ea3daab0a6c05f1b962c78c9836d99",
     "name": "Azbit",
     "symbol": "AZ",
