@@ -501,6 +501,15 @@
     "stable": false
   },
   {
+    "address": "0x0a47d2dc4b7ee3d4d7fd471d993b0821621e1769",
+    "name": "Kyber Network Crystal Legacy",
+    "symbol": "KNCL",
+    "decimals": 18,
+    "coingeckoId": "kyber-network",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x3e018675c0ef63eb361b9ef4bfea3a3294c74c7b",
     "name": "Kuro Shiba",
     "symbol": "KURO",
