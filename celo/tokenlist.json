@@ -131,7 +131,7 @@
     "name": "Celo Real",
     "symbol": "cREAL",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "celo-real-creal",
     "wallet": true,
     "stable": false
   },
@@ -455,7 +455,7 @@
     "name": "Symmetric",
     "symbol": "SYMM",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "symmetric",
     "wallet": true,
     "stable": false
   },

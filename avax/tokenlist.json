@@ -40,7 +40,7 @@
     "name": "Ankr Avalanche Reward Earning Bond",
     "symbol": "aAVAXb",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "ankr-avalanche-reward-earning-bond",
     "wallet": true,
     "stable": false
   },
@@ -88,6 +88,13 @@
     "coingeckoId": "acta-finance",
     "wallet": true,
     "stable": false
+  },
+  {
+    "address": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee",
+    "name": "Aave DAI",
+    "symbol": "ADAI",
+    "decimals": 18,
+    "coingeckoId": "aave-dai"
   },
   {
     "address": "0xb648fa7a5f5ed3b3c743140346e3dc3fe94a9125",
@@ -599,7 +606,7 @@
     "name": "Blue Token",
     "symbol": "BLUE",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "tip-blue",
     "wallet": true,
     "stable": false
   },
@@ -635,7 +642,7 @@
     "name": "BRIBE",
     "symbol": "BRIBE",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "bribe-token-2",
     "wallet": true,
     "stable": false
   },
@@ -806,7 +813,7 @@
     "name": "Canary",
     "symbol": "CNR",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "canary",
     "wallet": true,
     "stable": false
   },
@@ -1238,7 +1245,7 @@
     "name": "Good Bridging",
     "symbol": "GB",
     "decimals": 9,
-    "coingeckoId": null,
+    "coingeckoId": "good-bridging",
     "wallet": true,
     "stable": false
   },
@@ -1247,7 +1254,7 @@
     "name": "Gondola",
     "symbol": "GDL",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "gondola-finance",
     "wallet": true,
     "stable": false
   },
@@ -1418,7 +1425,7 @@
     "name": "HERMES Shares",
     "symbol": "HSHARES",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "harmes-shares",
     "wallet": true,
     "stable": false
   },
@@ -1796,7 +1803,7 @@
     "name": "Maximizer",
     "symbol": "MAXI",
     "decimals": 9,
-    "coingeckoId": null,
+    "coingeckoId": "maximizer",
     "wallet": true,
     "stable": false
   },
@@ -1976,7 +1983,7 @@
     "name": "NFTSoccerGames",
     "symbol": "NFSG",
     "decimals": 6,
-    "coingeckoId": null,
+    "coingeckoId": "nft-soccer-games",
     "wallet": true,
     "stable": false
   },
@@ -2129,7 +2136,7 @@
     "name": "Orca DAO",
     "symbol": "ORCA",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "orcadao",
     "wallet": true,
     "stable": false
   },
@@ -2471,7 +2478,7 @@
     "name": "Snowtomb Lot",
     "symbol": "SLOT",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "snowtomb-lot",
     "wallet": true,
     "stable": false
   },
@@ -2480,7 +2487,7 @@
     "name": "SmartCoin",
     "symbol": "SMRT",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "smartcoin-2",
     "wallet": true,
     "stable": false
   },
@@ -2606,7 +2613,7 @@
     "name": "STORM Token",
     "symbol": "STORM",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "storm-token",
     "wallet": true,
     "stable": false
   },
@@ -2732,7 +2739,7 @@
     "name": "TSD Stablecoin",
     "symbol": "TSD",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "teddy-dollar",
     "wallet": true,
     "stable": false
   },
@@ -2741,7 +2748,7 @@
     "name": "Tundra",
     "symbol": "TUNDRA",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "tundra-token",
     "wallet": true,
     "stable": false
   },

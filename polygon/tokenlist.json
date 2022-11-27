@@ -189,6 +189,13 @@
     "stable": false
   },
   {
+    "address": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee",
+    "name": "Aave DAI",
+    "symbol": "ADAI",
+    "decimals": 18,
+    "coingeckoId": "aave-dai"
+  },
+  {
     "address": "0xfa15611aa3775fbfe1375fb56cd3027f5d3dd2db",
     "name": "ADD.XYZ (PoS)",
     "symbol": "ADD",
@@ -319,7 +326,7 @@
     "name": "PolyAlpha Finance",
     "symbol": "ALPHA",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "polyalpha-finance",
     "wallet": true,
     "stable": false
   },
@@ -337,7 +344,7 @@
     "name": "Ankr Reward Earning Staked MATIC",
     "symbol": "aMATICb",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "ankr-matic-reward-earning-bond",
     "wallet": true,
     "stable": false
   },
@@ -445,7 +452,7 @@
     "name": "ARPA Token",
     "symbol": "ARPA",
     "decimals": 18,
-    "coingeckoId": "arpa-chain",
+    "coingeckoId": "arpa",
     "wallet": true,
     "stable": false
   },
@@ -490,7 +497,7 @@
     "name": "Atlantis",
     "symbol": "ATLX",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "atlantis-loans-polygon",
     "wallet": true,
     "stable": false
   },
@@ -544,7 +551,7 @@
     "name": "AURORA",
     "symbol": "AURORA",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "auroratoken",
     "wallet": true,
     "stable": false
   },
@@ -994,7 +1001,7 @@
     "name": "BONE Token",
     "symbol": "BONE",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "bone-token",
     "wallet": true,
     "stable": false
   },
@@ -1633,7 +1640,7 @@
     "name": "Dark.Build",
     "symbol": "DB",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "darkbuild-v2",
     "wallet": true,
     "stable": false
   },
@@ -1687,7 +1694,7 @@
     "name": "DeRace Token",
     "symbol": "DERC",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "derace",
     "wallet": true,
     "stable": false
   },
@@ -2272,7 +2279,7 @@
     "name": "Fancy Games",
     "symbol": "FNC",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "fancy-games",
     "wallet": true,
     "stable": false
   },
@@ -3397,7 +3404,7 @@
     "name": "Liquid ICP",
     "symbol": "LICP",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "liquid-icp",
     "wallet": true,
     "stable": false
   },
@@ -3812,7 +3819,7 @@
     "name": "Polywolf",
     "symbol": "MOON",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "polywolf",
     "wallet": true,
     "stable": false
   },
@@ -4541,7 +4548,7 @@
     "name": "bZX PGOV Token",
     "symbol": "PGOV",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "pgov",
     "wallet": true,
     "stable": false
   },
@@ -4847,7 +4854,7 @@
     "name": "PolyQuity Dollar",
     "symbol": "PYD",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "polyquity-dollar",
     "wallet": true,
     "stable": false
   },
@@ -5180,7 +5187,7 @@
     "name": "Ricochet",
     "symbol": "RIC",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "richochet",
     "wallet": true,
     "stable": false
   },
@@ -5216,7 +5223,7 @@
     "name": "Polyroll Token",
     "symbol": "ROLL",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "polyroll",
     "wallet": true,
     "stable": false
   },
@@ -5423,7 +5430,7 @@
     "name": "PolyShield",
     "symbol": "SHI3LD",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "polyshield",
     "wallet": true,
     "stable": false
   },
@@ -5459,7 +5466,7 @@
     "name": "Sing Token",
     "symbol": "SING",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "sing-token",
     "wallet": true,
     "stable": false
   },
@@ -5558,7 +5565,7 @@
     "name": "PolygonFarm Finance",
     "symbol": "SPADE",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "polygonfarm-finance",
     "wallet": true,
     "stable": false
   },
@@ -6539,7 +6546,7 @@
     "name": "Wombat",
     "symbol": "WOMBAT",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "wombat",
     "wallet": true,
     "stable": false
   },
@@ -6881,7 +6888,7 @@
     "name": "ZeroUtility",
     "symbol": "ZUT",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "zero-utility-token",
     "wallet": true,
     "stable": false
   },

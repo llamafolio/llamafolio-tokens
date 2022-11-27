@@ -706,7 +706,7 @@
     "name": "ARPA",
     "symbol": "ARPA",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "arpa",
     "wallet": true,
     "stable": false
   },
@@ -2300,7 +2300,7 @@
     "name": "Crypto Gaming United",
     "symbol": "CGU",
     "decimals": 8,
-    "coingeckoId": "crypto-gaming-united",
+    "coingeckoId": "crypto-global-united",
     "wallet": true,
     "stable": false
   },
@@ -2675,7 +2675,7 @@
   },
   {
     "address": "0xe90d1567ecef9282cc1ab348d9e9e2ac95659b99",
-    "name": "",
+    "name": "CoinxPad",
     "symbol": "CXPAD",
     "decimals": 18,
     "coingeckoId": "coinxpad",
@@ -3602,7 +3602,7 @@
   },
   {
     "address": "0xc001bbe2b87079294c63ece98bdd0a88d761434e",
-    "name": "",
+    "name": "EverGrow Coin",
     "symbol": "EGC",
     "decimals": 9,
     "coingeckoId": "evergrowcoin",
@@ -3686,7 +3686,7 @@
     "name": "Dogelon Mars",
     "symbol": "ELON",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "dogelon-mars",
     "wallet": true,
     "stable": false
   },
@@ -3746,7 +3746,7 @@
   },
   {
     "address": "0x368ce786ea190f32439074e8d22e12ecb718b44c",
-    "name": "",
+    "name": "Epik Prime",
     "symbol": "EPIK",
     "decimals": 18,
     "coingeckoId": "epik-prime",
@@ -4109,7 +4109,7 @@
     "name": "FLOKI",
     "symbol": "FLOKI",
     "decimals": 9,
-    "coingeckoId": "floki-inu",
+    "coingeckoId": "floki",
     "wallet": true,
     "stable": false
   },
@@ -5180,7 +5180,7 @@
     "name": "iBufferToken",
     "symbol": "iBFR",
     "decimals": 18,
-    "coingeckoId": "ibuffer-token",
+    "coingeckoId": "ibuffer",
     "wallet": true,
     "stable": false
   },
@@ -5315,7 +5315,7 @@
     "name": "IoTeX",
     "symbol": "IOTX",
     "decimals": 18,
-    "coingeckoId": "iotex",
+    "coingeckoId": "binance-peg-iotex",
     "wallet": true,
     "stable": false
   },
@@ -8012,7 +8012,7 @@
   },
   {
     "address": "0xa77346760341460b42c230ca6d21d4c8e743fa9c",
-    "name": "",
+    "name": "MicroPets",
     "symbol": "PETS",
     "decimals": 18,
     "coingeckoId": "micropets",
@@ -8957,7 +8957,7 @@
   },
   {
     "address": "0x01e0d17a533e5930a349c2bb71304f04f20ab12b",
-    "name": "",
+    "name": "Revolve Games",
     "symbol": "RPG",
     "decimals": 18,
     "coingeckoId": "revolve-games",
@@ -9185,7 +9185,7 @@
     "name": "SafuYield Protocol",
     "symbol": "SAFUYIELD",
     "decimals": 9,
-    "coingeckoId": "safuyield-protocol",
+    "coingeckoId": "safu-protocol",
     "wallet": true,
     "stable": false
   },
@@ -9671,7 +9671,7 @@
     "name": "APOyield SOULS",
     "symbol": "SOUL",
     "decimals": 8,
-    "coingeckoId": null,
+    "coingeckoId": "apoyield",
     "wallet": true,
     "stable": false
   },
@@ -9932,7 +9932,7 @@
     "name": "StableXSwap",
     "symbol": "STAX",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "stablexswap",
     "wallet": true,
     "stable": false
   },

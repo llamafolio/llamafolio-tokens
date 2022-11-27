@@ -319,7 +319,7 @@
     "name": "BUSD Token from BSC",
     "symbol": "BUSD",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "binance-usd",
     "wallet": true,
     "stable": false
   },
@@ -472,7 +472,7 @@
     "name": "Dai Stablecoin on xDai",
     "symbol": "DAI",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "dai",
     "wallet": true,
     "stable": false
   },
@@ -580,7 +580,7 @@
     "name": "Elk",
     "symbol": "ELK",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "elk-finance",
     "wallet": true,
     "stable": false
   },
@@ -670,7 +670,7 @@
     "name": "Own a fraction",
     "symbol": "FRACTION",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "fraction",
     "wallet": true,
     "stable": false
   },
@@ -1147,7 +1147,7 @@
     "name": "Panvala pan on xDai",
     "symbol": "PAN",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "panvala-pan",
     "wallet": true,
     "stable": false
   },
@@ -1192,7 +1192,7 @@
     "name": "Pinakion on xDai",
     "symbol": "PNK",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "kleros",
     "wallet": true,
     "stable": false
   },
@@ -1228,7 +1228,7 @@
     "name": "Particle",
     "symbol": "PRTCLE",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "particle-2",
     "wallet": true,
     "stable": false
   },
@@ -2362,7 +2362,7 @@
     "name": "Symmetric",
     "symbol": "SYMM",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "symmetric",
     "wallet": true,
     "stable": false
   },
@@ -2470,7 +2470,7 @@
     "name": "UNCL on xDai",
     "symbol": "UNCL",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "uncl",
     "wallet": true,
     "stable": false
   },
@@ -2506,7 +2506,7 @@
     "name": "Tether on xDai",
     "symbol": "USDT",
     "decimals": 6,
-    "coingeckoId": null,
+    "coingeckoId": "tether",
     "wallet": true,
     "stable": false
   },
@@ -2660,7 +2660,7 @@
     "name": "Xion Global Token",
     "symbol": "XGTV2",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "xion-finance",
     "wallet": true,
     "stable": false
   },

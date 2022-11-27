@@ -45,6 +45,13 @@
     "stable": false
   },
   {
+    "address": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee",
+    "name": "Aave DAI",
+    "symbol": "ADAI",
+    "decimals": 18,
+    "coingeckoId": "aave-dai"
+  },
+  {
     "address": "0x03732a1b4297ec285999402a9129cfad62a65463",
     "name": "ANY Bitcoin",
     "symbol": "anyBTC",
@@ -407,7 +414,7 @@
     "name": "FarmersOnly Token2",
     "symbol": "FOX",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "farmers-only",
     "wallet": true,
     "stable": false
   },
@@ -479,7 +486,7 @@
     "name": "TokenJenny",
     "symbol": "JENN",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "tokenjenny",
     "wallet": true,
     "stable": false
   },
@@ -749,7 +756,7 @@
     "name": "DaVinci Token",
     "symbol": "VINCI",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "davinci-token",
     "wallet": true,
     "stable": false
   },
@@ -839,7 +846,7 @@
     "name": "xVIPER",
     "symbol": "xVIPER",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "viperpit",
     "wallet": true,
     "stable": false
   },
