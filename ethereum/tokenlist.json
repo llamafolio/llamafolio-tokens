@@ -3011,7 +3011,7 @@
     "symbol": "COMP",
     "decimals": 18,
     "coingeckoId": "compound-governance-token",
-    "wallet": false,
+    "wallet": true,
     "stable": false
   },
   {
