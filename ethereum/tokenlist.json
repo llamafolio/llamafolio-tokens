@@ -2570,7 +2570,7 @@
     "symbol": "cBAT",
     "decimals": 8,
     "coingeckoId": "compound-basic-attention-token",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -2633,7 +2633,7 @@
     "symbol": "cDAI",
     "decimals": 8,
     "coingeckoId": "cdai",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -2714,7 +2714,7 @@
     "symbol": "cETH",
     "decimals": 8,
     "coingeckoId": "compound-ether",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -3011,7 +3011,7 @@
     "symbol": "COMP",
     "decimals": 18,
     "coingeckoId": "compound-governance-token",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -3254,7 +3254,7 @@
     "symbol": "crCOMP",
     "decimals": 8,
     "coingeckoId": null,
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -3335,7 +3335,7 @@
     "symbol": "cREP",
     "decimals": 8,
     "coingeckoId": null,
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -3668,7 +3668,7 @@
     "symbol": "cSAI",
     "decimals": 8,
     "coingeckoId": null,
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -3785,7 +3785,7 @@
     "symbol": "cUNI",
     "decimals": 8,
     "coingeckoId": "compound-uniswap",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -3812,7 +3812,7 @@
     "symbol": "cUSDC",
     "decimals": 8,
     "coingeckoId": "compound-usd-coin",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -3821,7 +3821,7 @@
     "symbol": "cUSDT",
     "decimals": 8,
     "coingeckoId": "compound-usdt",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -3893,7 +3893,7 @@
     "symbol": "cWBTC",
     "decimals": 8,
     "coingeckoId": null,
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
