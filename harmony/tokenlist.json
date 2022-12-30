@@ -49,7 +49,9 @@
     "name": "Aave DAI",
     "symbol": "ADAI",
     "decimals": 18,
-    "coingeckoId": "aave-dai"
+    "coingeckoId": "aave-dai",
+    "wallet": false,
+    "stable": true
   },
   {
     "address": "0x03732a1b4297ec285999402a9129cfad62a65463",
@@ -102,6 +104,7 @@
     "symbol": "BAKE",
     "decimals": 18,
     "coingeckoId": "bakerytoken",
+    "wallet": true,
     "stable": false
   },
   {
@@ -362,6 +365,7 @@
     "symbol": "DOGE",
     "decimals": 8,
     "coingeckoId": "binance-peg-dogecoin",
+    "wallet": true,
     "stable": false
   },
   {
@@ -505,6 +509,7 @@
     "symbol": "KEEP",
     "decimals": 18,
     "coingeckoId": "keep-network",
+    "wallet": true,
     "stable": false
   },
   {

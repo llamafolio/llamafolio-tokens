@@ -22,7 +22,9 @@
     "name": "Aave DAI",
     "symbol": "ADAI",
     "decimals": 18,
-    "coingeckoId": "aave-dai"
+    "coingeckoId": "aave-dai",
+    "wallet": false,
+    "stable": true
   },
   {
     "address": "0x61baadcf22d2565b0f471b291c475db5555e0b76",
