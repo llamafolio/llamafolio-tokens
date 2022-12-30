@@ -321,7 +321,7 @@
     "decimals": 18,
     "coingeckoId": "binance-usd",
     "wallet": true,
-    "stable": false
+    "stable": true
   },
   {
     "address": "0xd10cc63531a514bba7789682e487add1f15a51e2",
@@ -474,7 +474,7 @@
     "decimals": 18,
     "coingeckoId": "dai",
     "wallet": true,
-    "stable": false
+    "stable": true
   },
   {
     "address": "0x4ef1d9a329a0cb0658156aff55c406cc4393a987",
@@ -2508,7 +2508,7 @@
     "decimals": 6,
     "coingeckoId": "tether",
     "wallet": true,
-    "stable": false
+    "stable": true
   },
   {
     "address": "0x020ae8fc1c19f4d1312cf6a72291f52849791e7c",

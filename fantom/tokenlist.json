@@ -103,7 +103,9 @@
     "name": "Aave DAI",
     "symbol": "ADAI",
     "decimals": 18,
-    "coingeckoId": "aave-dai"
+    "coingeckoId": "aave-dai",
+    "wallet": false,
+    "stable": true
   },
   {
     "address": "0xb42bf10ab9df82f9a47b86dd76eee4ba848d0fa2",
@@ -1346,7 +1348,7 @@
     "decimals": 18,
     "coingeckoId": "fantom-usd",
     "wallet": true,
-    "stable": false
+    "stable": true
   },
   {
     "address": "0x049d68029688eabf473097a2fc38ef61633a3c7a",

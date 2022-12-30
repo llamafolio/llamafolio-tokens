@@ -5712,6 +5712,7 @@
     "symbol": "FLOOR",
     "decimals": 9,
     "coingeckoId": "floordao",
+    "wallet": true,
     "stable": false
   },
   {
@@ -14874,7 +14875,7 @@
     "decimals": 18,
     "coingeckoId": "usdp",
     "wallet": true,
-    "stable": false
+    "stable": true
   },
   {
     "address": "0x4954db6391f4feb5468b6b943d4935353596aec9",
