@@ -98,6 +98,8 @@ async function main() {
         symbol: token.symbol,
         decimals: token.decimals,
         coingeckoId: token.coingeckoId,
+        wallet: true,
+        stable: false,
       });
 
       updateTokenList(chain, tokenList);

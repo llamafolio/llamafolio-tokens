@@ -2016,6 +2016,15 @@
     "stable": false
   },
   {
+    "address": "0xb9d7dddca9a4ac480991865efef82e01273f79c3",
+    "name": "Boosted LUSD",
+    "symbol": "BLUSD",
+    "decimals": 18,
+    "coingeckoId": "boosted-lusd",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x5732046a883704404f284ce41ffadd5b007fd668",
     "name": "Bluzelle Token",
     "symbol": "BLZ",
@@ -12619,6 +12628,15 @@
     "stable": false
   },
   {
+    "address": "0x29127fe04ffa4c32acac0ffe17280abd74eac313",
+    "name": "SIFU",
+    "symbol": "SIFU",
+    "decimals": 18,
+    "coingeckoId": "sifu-vision",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x7777777777697cfeecf846a76326da79cc606517",
     "name": "xSigma",
     "symbol": "SIG",
@@ -15000,6 +15018,15 @@
     "symbol": "UWL",
     "decimals": 18,
     "coingeckoId": "uniwhales",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x55c08ca52497e2f1534b59e2917bf524d4765257",
+    "name": "UwU Lend",
+    "symbol": "UWU",
+    "decimals": 18,
+    "coingeckoId": "uwu-lend",
     "wallet": true,
     "stable": false
   },
