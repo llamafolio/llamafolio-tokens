@@ -3057,7 +3057,7 @@
     "symbol": "wMEMO",
     "decimals": 18,
     "coingeckoId": "wrapped-memory",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
