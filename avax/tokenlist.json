@@ -2458,6 +2458,15 @@
     "stable": false
   },
   {
+    "address": "0x237917e8a998b37759c8ee2faa529d60c66c2927",
+    "name": "SIFU",
+    "symbol": "SIFU",
+    "decimals": 18,
+    "coingeckoId": "sifu-vision",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x483416eb3afa601b9c6385f63cec0c82b6abf1fb",
     "name": "Skill Token",
     "symbol": "SKILL",
