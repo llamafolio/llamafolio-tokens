@@ -2872,6 +2872,15 @@
     "stable": false
   },
   {
+    "address": "0xb514cabd09ef5b169ed3fe0fa8dbd590741e81c2",
+    "name": "USDD",
+    "symbol": "USDD",
+    "decimals": 18,
+    "coingeckoId": "usdd",
+    "wallet": true,
+    "stable": true
+  },
+  {
     "address": "0xab05b04743e0aeaf9d2ca81e5d3b8385e4bf961e",
     "name": "Spice USD",
     "symbol": "USDS",

@@ -1018,6 +1018,15 @@
     "wallet": true
   },
   {
+    "address": "0x680447595e8b7b3aa1b43beb9f6098c79ac2ab3f",
+    "name": "USDD",
+    "symbol": "USDD",
+    "decimals": 18,
+    "coingeckoId": "usdd",
+    "wallet": true,
+    "stable": true
+  },
+  {
     "address": "0xd74f5255d557944cf7dd0e45ff521520002d5748",
     "name": "Sperax USD",
     "symbol": "USDS",
