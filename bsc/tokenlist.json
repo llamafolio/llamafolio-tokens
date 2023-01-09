@@ -6940,6 +6940,15 @@
     "stable": false
   },
   {
+    "address": "0x16350ac2153a1d6322c90197129076b747d3222a",
+    "name": "Morpho Network",
+    "symbol": "MORPHO",
+    "decimals": 18,
+    "coingeckoId": "morpho-network",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x231cf6f78620e42fe00d0c5c3088b427f355d01c",
     "name": "MarketMove",
     "symbol": "MOVE",
