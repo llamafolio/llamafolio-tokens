@@ -6157,6 +6157,15 @@
     "stable": false
   },
   {
+    "address": "0xba3335588d9403515223f109edc4eb7269a9ab5d",
+    "name": "Gearbox",
+    "symbol": "GEAR",
+    "decimals": 18,
+    "coingeckoId": "gearbox",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x6b9f031d718dded0d681c20cb754f97b3bb81b78",
     "name": "Geeq",
     "symbol": "GEEQ",
