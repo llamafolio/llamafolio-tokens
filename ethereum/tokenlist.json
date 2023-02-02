@@ -11688,7 +11688,7 @@
     "symbol": "rETH",
     "decimals": 18,
     "coingeckoId": "rocket-pool-eth",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
