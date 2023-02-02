@@ -15414,7 +15414,7 @@
     "symbol": "vBNT",
     "decimals": 18,
     "coingeckoId": "bancor-governance-token",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
