@@ -639,6 +639,15 @@
     "stable": false
   },
   {
+    "address": "0x0100546f2cd4c9d97f798ffc9755e47865ff7ee6",
+    "name": "Alchemix ETH",
+    "symbol": "ALETH",
+    "decimals": 18,
+    "coingeckoId": "alchemix-eth",
+    "wallet": false,
+    "stable": false
+  },
+  {
     "address": "0x6b0b3a982b4634ac68dd83a4dbf02311ce324181",
     "name": "Alethea Artificial Liquid Intelligence",
     "symbol": "ALI",

@@ -36,6 +36,15 @@
     "stable": false
   },
   {
+    "address": "0x3e29d3a9316dab217754d13b28646b76607c5f04",
+    "name": "Alchemix ETH",
+    "symbol": "ALETH",
+    "decimals": 18,
+    "coingeckoId": "alchemix-eth",
+    "wallet": false,
+    "stable": false
+  },
+  {
     "address": "0xcb8fa9a76b8e203d8c3797bf438d8fb81ea3326a",
     "name": "Alchemix USD",
     "symbol": "ALUSD",
