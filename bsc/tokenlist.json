@@ -5077,6 +5077,15 @@
     "stable": false
   },
   {
+    "address": "0x39d4549908e7adcee9b439429294eeb4c65c2c9e",
+    "name": "Hord",
+    "symbol": "HORD",
+    "decimals": 18,
+    "coingeckoId": "hord",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x4fa7163e153419e0e1064e418dd7a99314ed27b6",
     "name": "Hot Cross Token",
     "symbol": "HOTCROSS",

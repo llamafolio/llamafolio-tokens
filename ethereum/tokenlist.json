@@ -6895,6 +6895,15 @@
     "stable": false
   },
   {
+    "address": "0x43a96962254855f16b925556f9e97be436a43448",
+    "name": "Hord",
+    "symbol": "HORD",
+    "decimals": 18,
+    "coingeckoId": "hord",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
     "name": "HoloToken",
     "symbol": "HOT",
@@ -10267,6 +10276,15 @@
     "decimals": 8,
     "coingeckoId": "orion-protocol",
     "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xf1b99e3e573a1a9c5e6b2ce818b617f0e664e86b",
+    "name": "Opyn Squeeth",
+    "symbol": "OSQTH",
+    "decimals": 18,
+    "coingeckoId": "opyn-squeeth",
+    "wallet": false,
     "stable": false
   },
   {
