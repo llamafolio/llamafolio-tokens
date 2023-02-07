@@ -3722,7 +3722,7 @@
     "name": "Maker",
     "symbol": "MKR",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "maker",
     "wallet": true,
     "stable": false
   },

@@ -175,7 +175,7 @@
     "name": "Balancer on xDai",
     "symbol": "BAL",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "balancer",
     "wallet": true,
     "stable": false
   },
@@ -346,7 +346,7 @@
     "name": "BZZ from Ethereum",
     "symbol": "BZZ",
     "decimals": 16,
-    "coingeckoId": null,
+    "coingeckoId": "swarm-bzz",
     "wallet": true,
     "stable": false
   },
@@ -1156,7 +1156,7 @@
     "name": "Perpetual on xDai",
     "symbol": "PERP",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "perpetual-protocol",
     "wallet": true,
     "stable": false
   },

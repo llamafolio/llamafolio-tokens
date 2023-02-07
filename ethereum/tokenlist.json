@@ -15017,7 +15017,7 @@
     "name": "dForce USD",
     "symbol": "USX",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "token-dforce-usd",
     "wallet": true,
     "stable": false
   },
