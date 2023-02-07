@@ -166,7 +166,7 @@
     "name": "Ankr",
     "symbol": "ANKR",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "ankr",
     "wallet": true,
     "stable": false
   },

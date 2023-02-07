@@ -3668,7 +3668,7 @@
     "name": "Elk",
     "symbol": "ELK",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "elk-finance",
     "wallet": true,
     "stable": false
   },
@@ -11192,7 +11192,7 @@
     "name": "Wrapped AllianceBlock Token",
     "symbol": "WALBT",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "allianceblock",
     "wallet": true,
     "stable": false
   },
@@ -11624,7 +11624,7 @@
     "name": "Chain",
     "symbol": "XCN",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "chain-2",
     "wallet": true,
     "stable": false
   },
