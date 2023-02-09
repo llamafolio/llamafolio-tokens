@@ -1305,6 +1305,15 @@
     "stable": false
   },
   {
+    "address": "0xc0c293ce456ff0ed870add98a0828dd4d2903dbf",
+    "name": "Aura Finance",
+    "symbol": "AURA",
+    "decimals": 18,
+    "coingeckoId": "aura-finance",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x616e8bfa43f920657b3497dbf40d6b1a02d4608d",
     "name": "Aura BAL",
     "symbol": "auraBAL",
