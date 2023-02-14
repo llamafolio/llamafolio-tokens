@@ -2349,6 +2349,15 @@
     "stable": false
   },
   {
+    "address": "0xee327f889d5947c1dc1934bb208a1e792f953e96",
+    "name": "Frax Ether",
+    "symbol": "FRXETH",
+    "decimals": 18,
+    "coingeckoId": "frax-ether",
+    "wallet": false,
+    "stable": false
+  },
+  {
     "address": "0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c",
     "name": "Fusion",
     "symbol": "FSN",
