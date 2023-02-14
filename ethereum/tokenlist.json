@@ -2376,6 +2376,15 @@
     "stable": false
   },
   {
+    "address": "0xc55126051b22ebb829d00368f4b12bde432de5da",
+    "name": "Redacted",
+    "symbol": "BTRFLY",
+    "decimals": 18,
+    "coingeckoId": "redacted",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x799ebfabe77a6e34311eeee9825190b9ece32824",
     "name": "BTRST",
     "symbol": "BTRST",
@@ -2597,6 +2606,15 @@
     "symbol": "cBAT",
     "decimals": 8,
     "coingeckoId": "compound-basic-attention-token",
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0xbe9895146f7af43049ca1c1ae358b0541ea49704",
+    "name": "Coinbase Wrapped Staked ETH",
+    "symbol": "CBETH",
+    "decimals": 18,
+    "coingeckoId": "coinbase-wrapped-staked-eth",
     "wallet": false,
     "stable": false
   },
@@ -2895,6 +2913,15 @@
     "decimals": 18,
     "coingeckoId": "civilization",
     "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xf05e58fcea29ab4da01a495140b349f8410ba904",
+    "name": "CLever CVX",
+    "symbol": "CLEVCVX",
+    "decimals": 18,
+    "coingeckoId": "clever-cvx",
+    "wallet": false,
     "stable": false
   },
   {
@@ -3903,6 +3930,15 @@
     "decimals": 18,
     "coingeckoId": "convex-crv",
     "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xfeef77d3f69374f66429c91d732a244f074bdf74",
+    "name": "Convex FXS",
+    "symbol": "CVXFXS",
+    "decimals": 18,
+    "coingeckoId": "convex-fxs",
+    "wallet": false,
     "stable": false
   },
   {
@@ -5968,6 +6004,15 @@
     "stable": false
   },
   {
+    "address": "0x5e8422345238f34275888049021821e8e08caa1f",
+    "name": "Frax Ether",
+    "symbol": "FRXETH",
+    "decimals": 18,
+    "coingeckoId": "frax-ether",
+    "wallet": false,
+    "stable": false
+  },
+  {
     "address": "0x6c972b70c533e2e045f333ee28b9ffb8d717be69",
     "name": "Foundry Logistics Token",
     "symbol": "FRY",
@@ -6982,6 +7027,24 @@
     "decimals": 18,
     "coingeckoId": "hyve",
     "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x1cc481ce2bd2ec7bf67d1be64d4878b16078f309",
+    "name": "Iron Bank CHF",
+    "symbol": "IBCHF",
+    "decimals": 18,
+    "coingeckoId": "iron-bank-chf",
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0x96e61422b6a9ba0e068b6c5add4ffabc6a4aae27",
+    "name": "Iron Bank EURO",
+    "symbol": "IBEUR",
+    "decimals": 18,
+    "coingeckoId": "iron-bank-euro",
+    "wallet": false,
     "stable": false
   },
   {
@@ -10603,6 +10666,15 @@
     "stable": false
   },
   {
+    "address": "0x836a808d4828586a69364065a1e064609f5078c7",
+    "name": "pETH",
+    "symbol": "PETH",
+    "decimals": 18,
+    "coingeckoId": "peth",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x6c5ba91642f10282b576d91922ae6448c9d52f4e",
     "name": "Phala",
     "symbol": "PHA",
@@ -12445,6 +12517,15 @@
     "decimals": 18,
     "coingeckoId": "saffron-finance",
     "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xac3e018457b222d93114458476f3e3416abbe38f",
+    "name": "Staked Frax Ether",
+    "symbol": "SFRXETH",
+    "decimals": 18,
+    "coingeckoId": "staked-frax-ether",
+    "wallet": false,
     "stable": false
   },
   {
@@ -16702,6 +16783,15 @@
     "decimals": 8,
     "coingeckoId": "y-coin",
     "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xfcc5c47be19d06bf83eb04298b026f81069ff65b",
+    "name": "Yearn CRV",
+    "symbol": "YCRV",
+    "decimals": 18,
+    "coingeckoId": "yearn-crv",
+    "wallet": false,
     "stable": false
   },
   {
