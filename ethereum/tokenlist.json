@@ -651,7 +651,7 @@
     "address": "0x6b0b3a982b4634ac68dd83a4dbf02311ce324181",
     "name": "Alethea Artificial Liquid Intelligence",
     "symbol": "ALI",
-    "decimals": 8,
+    "decimals": 18,
     "coingeckoId": "alethea-artificial-liquid-intelligence-token",
     "wallet": true,
     "stable": false
@@ -4730,7 +4730,7 @@
     "symbol": "DPI",
     "decimals": 18,
     "coingeckoId": "defipulse-index",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
