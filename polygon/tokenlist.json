@@ -5005,15 +5005,6 @@
     "stable": false
   },
   {
-    "address": "0x92a9c92c215092720c731c96d4ff508c831a714f",
-    "name": "RAIL Polygon",
-    "symbol": "RAILPOLY",
-    "decimals": 18,
-    "coingeckoId": "rail-polygon",
-    "wallet": true,
-    "stable": false
-  },
-  {
     "address": "0xaecebfcf604ad245eaf0d5bd68459c3a7a6399c2",
     "name": "RAMP (PoS)",
     "symbol": "RAMP",
