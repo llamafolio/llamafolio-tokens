@@ -4960,6 +4960,15 @@
     "stable": false
   },
   {
+    "address": "0x0f1cbed8efa0e012adbccb1638d0ab0147d5ac00",
+    "name": "HELLO",
+    "symbol": "HELLO",
+    "decimals": 18,
+    "coingeckoId": "hello-labs",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x948d2a81086a075b3130bac19e4c6dee1d2e3fe8",
     "name": "Helmet.insure",
     "symbol": "Helmet",

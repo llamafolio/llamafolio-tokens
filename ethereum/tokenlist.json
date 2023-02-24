@@ -792,6 +792,15 @@
     "stable": false
   },
   {
+    "address": "0x38c87aa89b2b8cd9b95b736e1fa7b612ea972169",
+    "name": "AMO Coin",
+    "symbol": "AMO",
+    "decimals": 18,
+    "coingeckoId": "amo",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0xff20817765cb7f73d4bde2e66e067e58d11095c2",
     "name": "Amp",
     "symbol": "AMP",
@@ -2066,6 +2075,15 @@
     "symbol": "BMI",
     "decimals": 18,
     "coingeckoId": "bridge-mutual",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xb8c77482e45f1f44de1745f52c74426c631bdd52",
+    "name": "BNB",
+    "symbol": "BNB",
+    "decimals": 18,
+    "coingeckoId": "binancecoin",
     "wallet": true,
     "stable": false
   },
@@ -5590,6 +5608,15 @@
     "wallet": true
   },
   {
+    "address": "0x2f32b39023da7d6a6486a85d12b346eb9c2a0d19",
+    "name": "Ferro",
+    "symbol": "FER",
+    "decimals": 18,
+    "coingeckoId": "ferro",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x539f3615c1dbafa0d008d87504667458acbd16fa",
     "name": "FERA",
     "symbol": "FERA",
@@ -6684,6 +6711,15 @@
     "symbol": "GYSR",
     "decimals": 18,
     "coingeckoId": "geyser",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x05fb86775fd5c16290f1e838f5caaa7342bd9a63",
+    "name": "Hacken",
+    "symbol": "HAI",
+    "decimals": 8,
+    "coingeckoId": "hackenai",
     "wallet": true,
     "stable": false
   },

@@ -649,6 +649,15 @@
     "stable": false
   },
   {
+    "address": "0x451e129b6045b6e4f48e7247388f21163f7743b7",
+    "name": "REN",
+    "symbol": "REN",
+    "decimals": 18,
+    "coingeckoId": "republic-protocol",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0xed0b4b0f0e2c17646682fc98ace09feb99af3ade",
     "name": "Reverse Protocol",
     "symbol": "RVRS",
