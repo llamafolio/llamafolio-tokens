@@ -3538,6 +3538,15 @@
     "stable": false
   },
   {
+    "address": "0x0000000000000000000000000000000000001010",
+    "name": "Polygon",
+    "symbol": "MATIC",
+    "decimals": 18,
+    "coingeckoId": "matic-network",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0xfa68fb4628dff1028cfec22b4162fccd0d45efb6",
     "name": "Liquid Staking Matic (PoS)",
     "symbol": "MaticX",

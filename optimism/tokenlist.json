@@ -126,6 +126,15 @@
     "stable": false
   },
   {
+    "address": "0x9c9e5fd8bbc25984b178fdce6117defa39d2db39",
+    "name": "Binance USD",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "coingeckoId": "binance-usd",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
     "name": "Dai",
     "symbol": "DAI",
