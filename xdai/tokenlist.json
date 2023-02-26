@@ -2644,7 +2644,7 @@
     "coingeckoId": "xdai",
     "native": true,
     "wallet": true,
-    "stable": false
+    "stable": true
   },
   {
     "address": "0xf1738912ae7439475712520797583ac784ea9033",
