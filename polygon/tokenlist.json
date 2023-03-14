@@ -3772,15 +3772,6 @@
     "stable": false
   },
   {
-    "address": "0x0b91b07beb67333225a5ba0259d55aee10e3a578",
-    "name": "Minereum Polygon",
-    "symbol": "MNEP",
-    "decimals": 8,
-    "coingeckoId": "minereum",
-    "wallet": true,
-    "stable": false
-  },
-  {
     "address": "0x4c9f66b2806538cf00ef596e09fb05bcb0d17dc8",
     "name": "Minato (PoS)",
     "symbol": "MNTO",
