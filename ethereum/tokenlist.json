@@ -13015,6 +13015,15 @@
     "stable": false
   },
   {
+    "address": "0x777172d858dc1599914a1c4c6c9fc48c99a60990",
+    "name": "Solidly",
+    "symbol": "SOLID",
+    "decimals": 18,
+    "coingeckoId": "solidlydex",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x446c9033e7516d820cc9a2ce2d0b7328b579406f",
     "name": "Healthcare Administration Token",
     "symbol": "SOLVE",
