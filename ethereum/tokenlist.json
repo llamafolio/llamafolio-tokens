@@ -4821,7 +4821,7 @@
     "decimals": 18,
     "coingeckoId": "digital-standard-unit",
     "wallet": true,
-    "stable": false
+    "stable": true
   },
   {
     "address": "0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190",

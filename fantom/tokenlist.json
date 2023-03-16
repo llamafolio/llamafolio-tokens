@@ -999,6 +999,15 @@
     "stable": false
   },
   {
+    "address": "0x3fd3a0c85b70754efc07ac9ac0cbbdce664865a6",
+    "name": "Equalizer DEX",
+    "symbol": "EQUAL",
+    "decimals": 18,
+    "coingeckoId": "equalizer-dex",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x42006ab57701251b580bdfc24778c43c9ff589a1",
     "name": "EVO",
     "symbol": "EVO",
