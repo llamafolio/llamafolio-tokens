@@ -2305,6 +2305,15 @@
     "stable": false
   },
   {
+    "address": "0xd31fcd1f7ba190dbc75354046f6024a9b86014d7",
+    "name": "Solidex",
+    "symbol": "SEX",
+    "decimals": 18,
+    "coingeckoId": "solidex",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x01c3d9cbcf40482ba0d5206f63e3f04ef9e134d9",
     "name": "Spice",
     "symbol": "SFI",

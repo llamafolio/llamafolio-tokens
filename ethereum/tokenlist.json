@@ -1824,7 +1824,7 @@
     "decimals": 6,
     "coingeckoId": "bean",
     "wallet": true,
-    "stable": false
+    "stable": true
   },
   {
     "address": "0x2af1df3ab0ab157e1e2ad8f88a7d04fbea0c7dc6",

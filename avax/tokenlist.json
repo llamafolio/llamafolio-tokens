@@ -2023,7 +2023,7 @@
     "decimals": 18,
     "coingeckoId": "nxusd",
     "wallet": true,
-    "stable": false
+    "stable": true
   },
   {
     "address": "0xccf719c44e2c36e919335692e89d22cf13d6aaeb",
