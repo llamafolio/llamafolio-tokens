@@ -10378,6 +10378,15 @@
     "stable": false
   },
   {
+    "address": "0xf4c8e32eadec4bfe97e0f595add0f4450a863a11",
+    "name": "Thena",
+    "symbol": "THE",
+    "decimals": 18,
+    "coingeckoId": "thena",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x9fd87aefe02441b123c3c32466cd9db4c578618f",
     "name": "Thetan Gem",
     "symbol": "THG",
