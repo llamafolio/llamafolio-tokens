@@ -874,6 +874,15 @@
     "stable": false
   },
   {
+    "address": "0x463913d3a3d3d291667d53b8325c598eb88d3b0e",
+    "name": "SolidLizard",
+    "symbol": "SLIZ",
+    "decimals": 18,
+    "coingeckoId": "solidlizard",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x3e6648c5a70a150a88bce65f4ad4d506fe15d2af",
     "name": "Spell",
     "symbol": "SPELL",
