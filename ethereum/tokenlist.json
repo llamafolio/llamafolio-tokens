@@ -7413,8 +7413,8 @@
     "symbol": "iUSD",
     "decimals": 18,
     "coingeckoId": "izumi-bond-usd",
-    "wallet": true,
-    "stable": false
+    "wallet": false,
+    "stable": true
   },
   {
     "address": "0xf9c2b386ff5df088ac717ab0010587bad3bc1ab1",

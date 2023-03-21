@@ -3020,8 +3020,8 @@
     "symbol": "iUSD",
     "decimals": 18,
     "coingeckoId": "izumi-bond-usd",
-    "wallet": true,
-    "stable": false
+    "wallet": false,
+    "stable": true
   },
   {
     "address": "0x66f31345cb9477b427a1036d43f923a557c432a4",
