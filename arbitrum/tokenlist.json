@@ -501,8 +501,8 @@
     "symbol": "IUSD",
     "decimals": 18,
     "coingeckoId": "izumi-bond-usd",
-    "wallet": true,
-    "stable": false
+    "wallet": false,
+    "stable": true
   },
   {
     "address": "0x10393c20975cf177a3513071bc110f7962cd67da",
