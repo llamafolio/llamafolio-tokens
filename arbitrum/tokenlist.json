@@ -577,6 +577,15 @@
     "stable": false
   },
   {
+    "address": "0x079504b86d38119f859c4194765029f692b7b7aa",
+    "name": "Lyra Finance",
+    "symbol": "LYRA",
+    "decimals": 18,
+    "coingeckoId": "lyra-finance",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0xa4f595ba35161c9ffe3db8c03991b9c2cbb26c6b",
     "name": "LYS Capital",
     "symbol": "LYS",
