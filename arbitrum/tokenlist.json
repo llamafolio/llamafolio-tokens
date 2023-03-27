@@ -838,6 +838,15 @@
     "stable": false
   },
   {
+    "address": "0x3082cc23568ea640225c2467653db90e9250aaa0",
+    "name": "Radiant Capital",
+    "symbol": "RDNT",
+    "decimals": 18,
+    "coingeckoId": "radiant-capital",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x32eb7902d4134bf98a28b963d26de779af92a212",
     "name": "Dopex Rebate",
     "symbol": "RDPX",
