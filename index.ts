@@ -1,13 +1,13 @@
 import arbitrum from "./arbitrum/tokenlist.json";
-import avax from "./avax/tokenlist.json";
+import avalanche from "./avalanche/tokenlist.json";
 import bsc from "./bsc/tokenlist.json";
 import celo from "./celo/tokenlist.json";
 import ethereum from "./ethereum/tokenlist.json";
 import fantom from "./fantom/tokenlist.json";
+import gnosis from "./gnosis/tokenlist.json";
 import harmony from "./harmony/tokenlist.json";
 import optimism from "./optimism/tokenlist.json";
 import polygon from "./polygon/tokenlist.json";
-import xdai from "./xdai/tokenlist.json";
 
 export interface Token {
   address: string;
@@ -28,15 +28,15 @@ export type ChainTokenRegistry = { [key: string]: ChainToken };
 
 export const chains: { [chain: string]: Token[] } = {
   arbitrum,
-  avax,
+  avalanche,
   bsc,
   celo,
   ethereum,
   fantom,
+  gnosis,
   harmony,
   optimism,
   polygon,
-  xdai,
 };
 
 const registries: { [chain: string]: ChainTokenRegistry } = {};

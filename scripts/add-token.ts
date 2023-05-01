@@ -9,14 +9,14 @@ async function downloadLogo(url: string) {
 }
 
 export const coingeckoPlatformToChain = {
-  avalanche: "avax",
+  avalanche: "avalanche",
   "binance-smart-chain": "bsc",
   celo: "celo",
   ethereum: "ethereum",
   fantom: "fantom",
   "harmony-shard-0": "harmony",
   "polygon-pos": "polygon",
-  xdai: "xdai",
+  xdai: "gnosis",
   "optimistic-ethereum": "optimism",
   "arbitrum-one": "arbitrum",
 };

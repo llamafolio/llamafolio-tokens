@@ -3,14 +3,14 @@ import { chains } from "../index";
 import { updateTokenList } from "./update-token-list";
 
 export const coingeckoPlatformToChain: { [key: string]: string } = {
-  avalanche: "avax",
+  avalanche: "avalanche",
   "binance-smart-chain": "bsc",
   celo: "celo",
   ethereum: "ethereum",
   fantom: "fantom",
   "harmony-shard-0": "harmony",
   "polygon-pos": "polygon",
-  xdai: "xdai",
+  xdai: "gnosis",
   "optimistic-ethereum": "optimism",
   "arbitrum-one": "arbitrum",
 };
