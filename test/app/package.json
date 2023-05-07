@@ -1,0 +1,11 @@
+{
+  "description": "Test the package in CommonJS mode",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test",
+    "refresh": "/bin/bash refresh-tgz.sh"
+  },
+  "dependencies": {
+    "@llamafolio/tokens": "file:./llamafolio-tokens-0.1.50.tgz"
+  }
+}

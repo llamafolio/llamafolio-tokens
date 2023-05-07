@@ -1,0 +1,103 @@
+name: 'Release'
+
+on:
+  workflow_dispatch:
+  push:
+    tags:
+      - 'v*'
+    branches:
+      # for debugging purposes
+      - 'debug-*'
+
+defaults:
+  run:
+    shell: bash
+
+env:
+  # Enable debug logging for actions
+  ACTIONS_RUNNER_DEBUG: true
+
+jobs:
+  changelog:
+    name: 'Generate Changelog'
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout'
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+
+      - name: 'Generate Changelog'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: bunx changelogithub --no-group
+        continue-on-error: true
+
+  publish-npm:
+    name: 'NPM Registry'
+    needs: [changelog]
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout'
+        uses: actions/checkout@v3
+
+      - name: 'Setup Node.js'
+        uses: actions/setup-node@v3
+        with:
+          node-version: 'lts/*'
+          cache: 'yarn'
+          registry-url: 'https://registry.npmjs.org'
+
+      - name: 'Install Dependencies'
+        run: yarn install --frozen-lockfile
+
+      - name: 'Build'
+        env:
+          NODE_ENV: 'production'
+        run: yarn build
+
+      - name: 'Publish'
+        env:
+          NPM_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: |
+          yarn publish --access='public' --registry='https://registry.npmjs.org' --no-git-checks
+
+  publish-gpr:
+    name: 'GitHub Package Registry'
+    needs: [changelog]
+    permissions: write-all
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout'
+        uses: actions/checkout@v3
+
+      - name: 'Setup Node.js'
+        uses: actions/setup-node@v3
+        with:
+          node-version: 'lts/*'
+          cache: 'yarn'
+          registry-url: 'https://npm.pkg.github.com'
+
+      - name: 'Install Dependencies'
+        run: yarn install --frozen-lockfile
+
+      - name: 'Build'
+        env:
+          NODE_ENV: 'production'
+        run: yarn build
+
+      - name: 'Update ~/.npmrc'
+        run: |
+          echo "//npm.pkg.github.com:_authToken=${{ secrets.GITHUB_TOKEN }}" >> .npmrc
+
+      - name: 'Publish'
+        env:
+          NPM_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          yarn publish --access='public' --registry='https://npm.pkg.github.com' --no-git-checks
