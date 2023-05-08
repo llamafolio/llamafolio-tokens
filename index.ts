@@ -1,32 +1,32 @@
-import arbitrum from "./arbitrum/tokenlist.json";
-import avalanche from "./avalanche/tokenlist.json";
-import bsc from "./bsc/tokenlist.json";
-import celo from "./celo/tokenlist.json";
-import ethereum from "./ethereum/tokenlist.json";
-import fantom from "./fantom/tokenlist.json";
-import gnosis from "./gnosis/tokenlist.json";
-import harmony from "./harmony/tokenlist.json";
-import optimism from "./optimism/tokenlist.json";
-import polygon from "./polygon/tokenlist.json";
+import arbitrum from './arbitrum/tokenlist.json'
+import avalanche from './avalanche/tokenlist.json'
+import bsc from './bsc/tokenlist.json'
+import celo from './celo/tokenlist.json'
+import ethereum from './ethereum/tokenlist.json'
+import fantom from './fantom/tokenlist.json'
+import gnosis from './gnosis/tokenlist.json'
+import harmony from './harmony/tokenlist.json'
+import optimism from './optimism/tokenlist.json'
+import polygon from './polygon/tokenlist.json'
 
 export interface Token {
-  address: string;
-  name: string;
-  symbol: string;
-  decimals: number;
-  coingeckoId: string | null;
-  wallet: boolean;
-  stable: boolean;
-  native?: boolean;
+  address: string
+  name: string
+  symbol: string
+  decimals: number
+  coingeckoId: string | null
+  wallet: boolean
+  stable: boolean
+  native?: boolean
 }
 
 export interface ChainToken extends Token {
-  chain: string;
+  chain: string
 }
 
-export type ChainTokenRegistry = { [key: string]: ChainToken };
+export type ChainTokenRegistry = { [key: string]: ChainToken }
 
-export const chains: { [chain: string]: Token[] } = {
+export const chains = {
   arbitrum,
   avalanche,
   bsc,
@@ -36,16 +36,18 @@ export const chains: { [chain: string]: Token[] } = {
   gnosis,
   harmony,
   optimism,
-  polygon,
-};
+  polygon
+} satisfies { [chain: string]: Token[] }
 
-const registries: { [chain: string]: ChainTokenRegistry } = {};
+export type Chain = keyof typeof chains
+
+const registries: { [chain: string]: ChainTokenRegistry } = {}
 
 for (const chain in chains) {
-  const registry: ChainTokenRegistry = (registries[chain] = {});
+  const registry: ChainTokenRegistry = (registries[chain] = {})
 
-  for (const token of chains[chain]) {
-    registry[token.address] = { ...token, chain };
+  for (const token of chains[chain as Chain]) {
+    registry[token.address] = { ...token, chain }
   }
 }
 
@@ -55,11 +57,11 @@ for (const chain in chains) {
  */
 export function getToken(
   chain: string,
-  address: string = "0x0000000000000000000000000000000000000000"
+  address: string = '0x0000000000000000000000000000000000000000'
 ) {
   if (!registries[chain]) {
-    console.error(`Chain '${chain}' not supported yet`);
-    return;
+    console.error(`Chain '${chain}' not supported yet`)
+    return
   }
-  return registries[chain][address];
+  return registries[chain][address]
 }

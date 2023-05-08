@@ -1,35 +1,63 @@
 {
   "name": "@llamafolio/tokens",
-  "version": "0.1.40",
+  "version": "0.1.60",
   "description": "List of tokens used by LlamaFolio.",
-  "main": "build/index.js",
-  "types": "build/index.d.ts",
+  "type": "module",
+  "source": "index.ts",
+  "main": "./build/index.js",
+  "module": "./build/index.js",
+  "types": "./build/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./build/index.js",
+      "require": "./build/index.js",
+      "types": "./build/index.d.ts"
+    },
+    "./package.json": "./package.json"
+  },
   "files": [
-    "build"
+    "build",
+    "package.json"
   ],
   "scripts": {
-    "start": "npm run build && node build/index.js",
-    "build": "tsc",
-    "stable": "ts-node -T scripts/stable.ts",
-    "add-token": "ts-node -T scripts/add-token.ts",
-    "resize-logos": "ts-node -T scripts/resize-logos.ts",
-    "resolve-tokens": "ts-node -T scripts/resolve-tokens.ts",
-    "prepublishOnly": "npm run build"
+    "build": "tsup",
+    "prebuild": "rm -rf build",
+    "dev": "tsup --watch --onSuccess 'node build/index.js'",
+    "start": "node build/index.js",
+    "prestart": "npm run build",
+    "stable": "tsx scripts/stable.ts",
+    "add-token": "tsx scripts/add-token.ts",
+    "resize-logos": "tsx scripts/resize-logos.ts",
+    "resolve-tokens": "tsx scripts/resolve-tokens.ts",
+    "typecheck": "tsc --noEmit",
+    "release": "bumpp package.json --commit --push --tag",
+    "prepublishOnly": "npm run build && node --test"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/llamafolio/llamafolio-tokens.git"
-  },
-  "keywords": [],
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/llamafolio/llamafolio-tokens/issues"
-  },
-  "homepage": "https://github.com/llamafolio/llamafolio-tokens#readme",
   "devDependencies": {
-    "node-fetch": "^2.6.7",
-    "sharp": "^0.31.3",
-    "ts-node": "^10.9.1",
-    "typescript": "^4.8.3"
+    "@types/node": "^20.1.0",
+    "bumpp": "^9.1.0",
+    "bun-types": "^0.5.8",
+    "sharp": "^0.32.1",
+    "tsup": "^6.7.0",
+    "tsx": "^3.12.7",
+    "typescript": "^5.0.4"
+  },
+  "repository": "github:llamafolio/llamafolio-tokens",
+  "bugs": "github:llamafolio/llamafolio-tokens/issues",
+  "homepage": "github:llamafolio/llamafolio-tokens#readme",
+  "author": "Llamafolio",
+  "keywords": [
+    "tokens",
+    "registry",
+    "ERC20"
+  ],
+  "license": "MIT",
+  "prettier": {
+    "semi": false,
+    "singleQuote": true,
+    "printWidth": 120,
+    "tabWidth": 2,
+    "arrowParens": "avoid",
+    "trailingComma": "none"
   }
 }

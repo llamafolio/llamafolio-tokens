@@ -38,8 +38,11 @@ yarn-error.log*
 # package directories
 jspm_packages
 
-# Serverless directories
-.serverless
-
 tests/local
-.esbuild
+
+build
+
+package-lock.json
+node_modules
+*.tgz
+*.lockb

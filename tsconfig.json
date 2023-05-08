@@ -1,13 +1,16 @@
 {
-  "exclude": ["scripts/**/*"],
+  "exclude": ["build", "node_modules", "dist", "coverage", "test", "./test/app"],
   "compilerOptions": {
     "resolveJsonModule": true,
-    "target": "es2015",
-    "module": "commonjs",
+    "moduleResolution": "node",
+    "target": "ESNext",
+    "module": "ESNext",
+    "lib": ["ESNext", "DOM", "DOM.Iterable"],
     "declaration": true,
     "outDir": "./build",
     "strict": true,
     "esModuleInterop": true,
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    "types": ["bun-types", "node"]
   }
 }
