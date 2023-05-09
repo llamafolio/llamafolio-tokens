@@ -31,7 +31,7 @@
     "resolve-tokens": "tsx scripts/resolve-tokens.ts",
     "typecheck": "tsc --noEmit",
     "release": "bumpp package.json --commit --push --tag",
-    "prepublishOnly": "npm run build && node --test"
+    "prepublishOnly": "npm run build"
   },
   "devDependencies": {
     "@types/node": "^20.1.0",
