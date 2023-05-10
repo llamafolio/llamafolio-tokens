@@ -51,6 +51,13 @@
     "registry",
     "ERC20"
   ],
+  "packageManager": ">=pnpm@8.0.0",
+  "engines": {
+    "node": ">=18",
+    "pnpm": ">=8.0.0",
+    "yarn": "------>PLEASE USE PNPM<------",
+    "npm": "------>PLEASE USE PNPM<------"
+  },
   "license": "MIT",
   "prettier": {
     "semi": false,

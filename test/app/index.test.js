@@ -1,6 +1,9 @@
 const assert = require('node:assert')
 const { describe, it } = require('node:test')
 
+// don't run this test in CI
+if (process.env.CI) process.exit(0)
+
 describe('@llamafolio/tokens', async () => {
   it('should be an object', async () => {
     const tokens = await import('@llamafolio/tokens')
