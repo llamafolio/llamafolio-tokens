@@ -661,7 +661,7 @@
     "name": "Freedom Reserve on xDai",
     "symbol": "FR",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "freedom-reserve",
     "wallet": true,
     "stable": false
   },
