@@ -12,34 +12,27 @@ export const coingeckoPlatformToChain = {
   ethereum: 'ethereum',
   fantom: 'fantom',
   'harmony-shard-0': 'harmony',
+  moonbeam: 'moonbeam',
   'polygon-pos': 'polygon',
   xdai: 'gnosis',
   'optimistic-ethereum': 'optimism',
   'arbitrum-one': 'arbitrum'
 } satisfies { [key: string]: string }
 
-async function getCoingeckoIds(
-  chainTokens: Partial<Record<string, Record<string, any>>>
-) {
-  const res = await fetch(
-    'https://api.coingecko.com/api/v3/coins/list?include_platform=true'
-  )
+async function getCoingeckoIds(chainTokens: Partial<Record<string, Record<string, any>>>) {
+  const res = await fetch('https://api.coingecko.com/api/v3/coins/list?include_platform=true')
   const coins = (await res.json()) as Array<any>
 
   for (const coin of coins) {
     if (coin.platforms) {
       for (const coingecko_chain in coin.platforms) {
-        const chain =
-          coingeckoPlatformToChain[
-            coingecko_chain as keyof typeof coingeckoPlatformToChain
-          ]
+        const chain = coingeckoPlatformToChain[coingecko_chain as keyof typeof coingeckoPlatformToChain]
         if (!chain) {
           console.log(`Chain ${coingecko_chain} not supported yet`)
           continue
         }
 
-        const token =
-          chainTokens[chain]?.[coin.platforms[coingecko_chain].toLowerCase()]
+        const token = chainTokens[chain]?.[coin.platforms[coingecko_chain].toLowerCase()]
         if (token) {
           if (!token.name) {
             token.name = coin.name

@@ -6,6 +6,7 @@ import ethereum from './ethereum/tokenlist.json'
 import fantom from './fantom/tokenlist.json'
 import gnosis from './gnosis/tokenlist.json'
 import harmony from './harmony/tokenlist.json'
+import moonbeam from './moonbeam/tokenlist.json'
 import optimism from './optimism/tokenlist.json'
 import polygon from './polygon/tokenlist.json'
 
@@ -35,6 +36,7 @@ export const chains = {
   fantom,
   gnosis,
   harmony,
+  moonbeam,
   optimism,
   polygon
 } satisfies { [chain: string]: Token[] }
@@ -55,10 +57,7 @@ for (const chain in chains) {
  * @param chain
  * @param address lowercase hex string. ex: "0x0000000000000000000000000000000000000000"
  */
-export function getToken(
-  chain: string,
-  address: string = '0x0000000000000000000000000000000000000000'
-) {
+export function getToken(chain: string, address: string = '0x0000000000000000000000000000000000000000') {
   if (!registries[chain]) {
     console.error(`Chain '${chain}' not supported yet`)
     return

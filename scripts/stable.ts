@@ -12,9 +12,7 @@ async function main() {
   }
 
   const peggedAssets = stablecoins.peggedAssets
-  const peggedAssetsGeckoIds = new Set(
-    peggedAssets.map(asset => asset.gecko_id)
-  )
+  const peggedAssetsGeckoIds = new Set(peggedAssets.map(asset => asset.gecko_id))
 
   for (const chain in chains) {
     const newTokenList = chains[chain as Chain].map(token => {

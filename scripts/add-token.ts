@@ -24,6 +24,7 @@ export const coingeckoPlatformToChain = {
   ethereum: 'ethereum',
   fantom: 'fantom',
   'harmony-shard-0': 'harmony',
+  moonbeam: 'moonbeam',
   'polygon-pos': 'polygon',
   xdai: 'gnosis',
   'optimistic-ethereum': 'optimism',
@@ -37,10 +38,7 @@ async function getCoingeckoTokens(id: string) {
   const tokensByChain = {} as Record<string, any>
 
   for (const coingecko_chain in json.detail_platforms) {
-    const chain =
-      coingeckoPlatformToChain[
-        coingecko_chain as keyof typeof coingeckoPlatformToChain
-      ]
+    const chain = coingeckoPlatformToChain[coingecko_chain as keyof typeof coingeckoPlatformToChain]
     if (!chain) {
       console.log(`Chain ${coingecko_chain} not supported yet`)
       continue
@@ -48,8 +46,7 @@ async function getCoingeckoTokens(id: string) {
 
     tokensByChain[chain] = {
       logoUrl: json.image.large,
-      address:
-        json.detail_platforms[coingecko_chain].contract_address.toLowerCase(),
+      address: json.detail_platforms[coingecko_chain].contract_address.toLowerCase(),
       name: json.name,
       symbol: json.symbol.toUpperCase(),
       decimals: json.detail_platforms[coingecko_chain].decimal_place,
@@ -117,13 +114,7 @@ async function main() {
       updateTokenList(chain, tokenList)
     }
 
-    const logoSrc = path.join(
-      __dirname,
-      '..',
-      chain,
-      'logos',
-      token.address + '.png'
-    )
+    const logoSrc = path.join(__dirname, '..', chain, 'logos', token.address + '.png')
 
     if (!fs.existsSync(logoSrc)) {
       const logoBuffer = await downloadLogo(token.logoUrl)
