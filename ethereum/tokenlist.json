@@ -981,6 +981,15 @@
     "stable": false
   },
   {
+    "address": "0xb50721bcf8d664c30412cfbc6cf7a15145234ad1",
+    "name": "Arbitrum",
+    "symbol": "ARB",
+    "decimals": 18,
+    "coingeckoId": "arbitrum",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0xc82e3db60a52cf7529253b4ec688f631aad9e7c2",
     "name": "ARC",
     "symbol": "ARC",

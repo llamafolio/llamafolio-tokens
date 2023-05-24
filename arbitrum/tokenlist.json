@@ -54,6 +54,15 @@
     "stable": false
   },
   {
+    "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "name": "Arbitrum",
+    "symbol": "ARB",
+    "decimals": 18,
+    "coingeckoId": "arbitrum",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x9f20de1fc9b161b34089cbeae888168b44b03461",
     "name": "Arbis Finance",
     "symbol": "ARBIS",
