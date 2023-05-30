@@ -21,7 +21,7 @@
   ],
   "scripts": {
     "build": "tsup",
-    "prebuild": "rm -rf build && tsx scripts/missing-logos-check.ts",
+    "prebuild": "pnpm check-missing-logos && rm -rf build",
     "dev": "tsup --watch --onSuccess 'node build/index.js'",
     "start": "node build/index.js",
     "prestart": "pnpm build",
@@ -29,6 +29,7 @@
     "add-token": "tsx scripts/add-token.ts",
     "resize-logos": "tsx scripts/resize-logos.ts",
     "resolve-tokens": "tsx scripts/resolve-tokens.ts",
+    "check-missing-logos": "tsx scripts/missing-logos-check.ts",
     "typecheck": "tsc --noEmit",
     "release": "bumpp package.json --commit --push --tag",
     "prepublishOnly": "pnpm build"
