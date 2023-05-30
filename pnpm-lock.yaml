@@ -1,15 +1,19 @@
-lockfileVersion: '6.0'
+lockfileVersion: '6.1'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
 
 devDependencies:
   '@types/node':
-    specifier: ^20.1.0
-    version: 20.1.0
+    specifier: ^20.2.5
+    version: 20.2.5
   bumpp:
     specifier: ^9.1.0
     version: 9.1.0
   bun-types:
-    specifier: ^0.5.8
-    version: 0.5.8
+    specifier: ^0.6.4
+    version: 0.6.4
   sharp:
     specifier: ^0.32.1
     version: 0.32.1
@@ -309,8 +313,8 @@ packages:
       fastq: 1.15.0
     dev: true
 
-  /@types/node@20.1.0:
-    resolution: {integrity: sha512-O+z53uwx64xY7D6roOi4+jApDGFg0qn6WHcxe5QeqjMaTezBO/mxdfFXIVAVVyNWKx84OmPB3L8kbVYOTeN34A==}
+  /@types/node@20.2.5:
+    resolution: {integrity: sha512-JJulVEQXmiY9Px5axXHeYGLSjhkZEnD+MDPDGbCbIAbMslkKwmygtZFy1X6s/075Yo94sf8GuSlFfPzysQrWZQ==}
     dev: true
 
   /acorn@8.8.2:
@@ -406,8 +410,8 @@ packages:
       - supports-color
     dev: true
 
-  /bun-types@0.5.8:
-    resolution: {integrity: sha512-VHwD0MAHo3wraYAeqTWH2NDmXOdGfC3wWWOnZvK93ytI6yq/LkgsCjDudWNmN7MlfPvJb2zoLMnkzhjxNwLsLw==}
+  /bun-types@0.6.4:
+    resolution: {integrity: sha512-Du2MApoVgH3KO0pM5G1M5649o9bP3rqmtqjC6yfLvUVe5JtfH3RT4BUm0jc279BocugeorORkS48J+WhQZynQg==}
     dev: true
 
   /bundle-require@4.0.1(esbuild@0.17.18):

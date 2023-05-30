@@ -18,8 +18,27 @@ env:
   ACTIONS_RUNNER_DEBUG: true
 
 jobs:
+  missing-logos-check:
+    name: 'Missing Logos Check'
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout'
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: 'Setup Bun 🍞'
+        uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: 'latest'
+
+      - name: 'Run Missing Logos Check'
+        run: |
+          bun ./scripts/missing-logos-check.ts
+
   changelog:
     name: 'Generate Changelog'
+    needs: [missing-logos-check]
     runs-on: ubuntu-latest
     steps:
       - name: 'Checkout'

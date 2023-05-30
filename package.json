@@ -21,22 +21,22 @@
   ],
   "scripts": {
     "build": "tsup",
-    "prebuild": "rm -rf build",
+    "prebuild": "rm -rf build && tsx scripts/missing-logos-check.ts",
     "dev": "tsup --watch --onSuccess 'node build/index.js'",
     "start": "node build/index.js",
-    "prestart": "npm run build",
+    "prestart": "pnpm build",
     "stable": "tsx scripts/stable.ts",
     "add-token": "tsx scripts/add-token.ts",
     "resize-logos": "tsx scripts/resize-logos.ts",
     "resolve-tokens": "tsx scripts/resolve-tokens.ts",
     "typecheck": "tsc --noEmit",
     "release": "bumpp package.json --commit --push --tag",
-    "prepublishOnly": "npm run build"
+    "prepublishOnly": "pnpm build"
   },
   "devDependencies": {
-    "@types/node": "^20.1.0",
+    "@types/node": "^20.2.5",
     "bumpp": "^9.1.0",
-    "bun-types": "^0.5.8",
+    "bun-types": "^0.6.4",
     "sharp": "^0.32.1",
     "tsup": "^6.7.0",
     "tsx": "^3.12.7",

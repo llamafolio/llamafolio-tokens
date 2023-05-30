@@ -8,10 +8,10 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - run: mkdir -p public && cp -r arbitrum avalanche bsc celo ethereum fantom gnosis harmony optimism polygon public
     - name: Deploy
-      uses: peaceiris/actions-gh-pages@v3
+      uses: peaceiris/actions-gh-pages@v3.9.3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: public
