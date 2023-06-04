@@ -639,6 +639,15 @@
     "stable": false
   },
   {
+    "address": "0x6e4e624106cb12e168e6533f8ec7c82263358940",
+    "name": "Axelar",
+    "symbol": "AXL",
+    "decimals": 6,
+    "coingeckoId": "axelar",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x750e4c4984a9e0f12978ea6742bc1c5d248f40ed",
     "name": "Axelar Wrapped USDC",
     "symbol": "axlUSDC",
@@ -1931,6 +1940,15 @@
     "symbol": "DUST",
     "decimals": 8,
     "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x4987a49c253c38b3259092e9aac10ec0c7ef7542",
+    "name": "DUST Protocol",
+    "symbol": "DUST",
+    "decimals": 9,
+    "coingeckoId": "dust-protocol",
     "wallet": true,
     "stable": false
   },
@@ -4038,6 +4056,15 @@
     "symbol": "NEBULA",
     "decimals": 18,
     "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x98f8669f6481ebb341b522fcd3663f79a3d1a6a7",
+    "name": "Nest Protocol",
+    "symbol": "NEST",
+    "decimals": 18,
+    "coingeckoId": "nest",
     "wallet": true,
     "stable": false
   },

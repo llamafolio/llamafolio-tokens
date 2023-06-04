@@ -117,6 +117,15 @@
     "stable": false
   },
   {
+    "address": "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f",
+    "name": "Axelar",
+    "symbol": "AXL",
+    "decimals": 6,
+    "coingeckoId": "axelar",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0xbfa641051ba0a0ad1b0acf549a89536a0d76472e",
     "name": "Badger DAO",
     "symbol": "BADGER",

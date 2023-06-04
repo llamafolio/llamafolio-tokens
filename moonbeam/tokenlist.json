@@ -27,6 +27,15 @@
     "stable": false
   },
   {
+    "address": "0x467719ad09025fcc6cf6f8311755809d45a5e5f3",
+    "name": "Axelar",
+    "symbol": "AXL",
+    "decimals": 6,
+    "coingeckoId": "axelar",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0xca01a1d0993565291051daff390892518acfad3a",
     "name": "axlUSDC",
     "symbol": "AXLUSDC",

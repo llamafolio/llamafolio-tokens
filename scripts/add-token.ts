@@ -63,7 +63,7 @@ async function main() {
   // argv[0]: ts-node
   // argv[1]: add-token.ts
   // argv[2]: source = coingecko
-  // argv[3]: sourceId = coingecko id
+  // argv[3]: sourceId = coingecko id comma separated list of tokens
   if (process.argv.length < 3) {
     console.error('Missing source')
     return help()
@@ -76,51 +76,55 @@ async function main() {
   const source = process.argv[2]
   const sourceId = process.argv[3]
 
-  let tokensByChain = {}
+  const ids = sourceId?.split(',') ?? []
 
-  switch (source) {
-    case 'coingecko':
-      tokensByChain = await getCoingeckoTokens(sourceId)
-      break
+  for (const id of ids) {
+    let tokensByChain = {}
 
-    case 'defillama':
-      break
+    switch (source) {
+      case 'coingecko':
+        tokensByChain = await getCoingeckoTokens(id)
+        break
 
-    default:
-      console.error(`Source ${source} not supported.`)
-      return help()
-  }
+      case 'defillama':
+        break
 
-  for (const chain in tokensByChain) {
-    const token = tokensByChain[chain as keyof typeof tokensByChain] as any
-
-    const tokenListSrc = path.join(__dirname, '..', chain, 'tokenlist.json')
-    const tokenListBuffer = fs.readFileSync(tokenListSrc, 'utf8')
-    const tokenList = JSON.parse(tokenListBuffer) as any[]
-
-    const prevAddresses = new Set(tokenList.map(token => token.address))
-
-    if (!prevAddresses.has(token.address)) {
-      tokenList.push({
-        address: token.address,
-        name: token.name,
-        symbol: token.symbol,
-        decimals: token.decimals,
-        coingeckoId: token.coingeckoId,
-        wallet: true,
-        stable: false
-      })
-
-      updateTokenList(chain, tokenList)
+      default:
+        console.error(`Source ${source} not supported.`)
+        return help()
     }
 
-    const logoSrc = path.join(__dirname, '..', chain, 'logos', token.address + '.png')
+    for (const chain in tokensByChain) {
+      const token = tokensByChain[chain as keyof typeof tokensByChain] as any
 
-    if (!fs.existsSync(logoSrc)) {
-      const logoBuffer = await downloadLogo(token.logoUrl)
-      fs.writeFileSync(logoSrc, logoBuffer)
+      const tokenListSrc = path.join(__dirname, '..', chain, 'tokenlist.json')
+      const tokenListBuffer = fs.readFileSync(tokenListSrc, 'utf8')
+      const tokenList = JSON.parse(tokenListBuffer) as any[]
+
+      const prevAddresses = new Set(tokenList.map(token => token.address))
+
+      if (!prevAddresses.has(token.address)) {
+        tokenList.push({
+          address: token.address,
+          name: token.name,
+          symbol: token.symbol,
+          decimals: token.decimals,
+          coingeckoId: token.coingeckoId,
+          wallet: true,
+          stable: false
+        })
+
+        updateTokenList(chain, tokenList)
+      }
+
+      const logoSrc = path.join(__dirname, '..', chain, 'logos', token.address + '.png')
+
+      if (!fs.existsSync(logoSrc)) {
+        const logoBuffer = await downloadLogo(token.logoUrl)
+        fs.writeFileSync(logoSrc, logoBuffer)
+      }
+
+      console.log(`Successfully added ${token.name} on ${chain}`)
     }
-
-    console.log(`Successfully added ${token.name} on ${chain}`)
   }
 }

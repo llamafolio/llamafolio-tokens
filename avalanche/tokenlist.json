@@ -496,6 +496,15 @@
     "stable": false
   },
   {
+    "address": "0x44c784266cf024a60e8acf2427b9857ace194c5d",
+    "name": "Axelar",
+    "symbol": "AXL",
+    "decimals": 6,
+    "coingeckoId": "axelar",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x80d18b1c9ab0c9b5d6a6d5173575417457d00a12",
     "name": "Axelar Wrapped ATOM",
     "symbol": "axlATOM",
