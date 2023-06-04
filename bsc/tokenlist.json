@@ -891,6 +891,15 @@
     "stable": false
   },
   {
+    "address": "0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65",
+    "name": "Axelar",
+    "symbol": "AXL",
+    "decimals": 6,
+    "coingeckoId": "axelar",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
     "name": "Axie Infinity Shard",
     "symbol": "AXS",
@@ -2373,6 +2382,15 @@
     "symbol": "CHT",
     "decimals": 18,
     "coingeckoId": "charlie-finance",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x67d8e0080b612afae75a7f7229bfed3cdb998462",
+    "name": "CyberHarbor",
+    "symbol": "CHT",
+    "decimals": 18,
+    "coingeckoId": "cyberharbor",
     "wallet": true,
     "stable": false
   },
@@ -4717,6 +4735,15 @@
     "stable": false
   },
   {
+    "address": "0x7ddc52c4de30e94be3a6a0a2b259b2850f421989",
+    "name": "Gomining Token",
+    "symbol": "GMT",
+    "decimals": 18,
+    "coingeckoId": "gmt-token",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x99e92123eb77bc8f999316f622e5222498438784",
     "name": "Gambit",
     "symbol": "GMT_1",
@@ -4996,6 +5023,15 @@
     "stable": false
   },
   {
+    "address": "0x44ec807ce2f4a6f2737a92e985f318d035883e47",
+    "name": "Hashflow",
+    "symbol": "HFT",
+    "decimals": 18,
+    "coingeckoId": "hashflow",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0xc7d8d35eba58a0935ff2d5a33df105dd9f071731",
     "name": "Hedget",
     "symbol": "HGET",
@@ -5199,6 +5235,15 @@
     "symbol": "ICE",
     "decimals": 18,
     "coingeckoId": "ice-token",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x2dff88a56767223a5529ea5960da7a3f5f766406",
+    "name": "SPACE ID",
+    "symbol": "ID",
+    "decimals": 18,
+    "coingeckoId": "space-id",
     "wallet": true,
     "stable": false
   },
@@ -7233,6 +7278,15 @@
     "symbol": "NEKOS",
     "decimals": 0,
     "coingeckoId": "nekocoin",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x98f8669f6481ebb341b522fcd3663f79a3d1a6a7",
+    "name": "Nest Protocol",
+    "symbol": "NEST",
+    "decimals": 18,
+    "coingeckoId": "nest",
     "wallet": true,
     "stable": false
   },
@@ -11274,6 +11328,15 @@
     "symbol": "wBAN",
     "decimals": 18,
     "coingeckoId": "banano",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xa2e3356610840701bdf5611a53974510ae27e2e1",
+    "name": "Wrapped Beacon ETH",
+    "symbol": "WBETH",
+    "decimals": 18,
+    "coingeckoId": "wrapped-beacon-eth",
     "wallet": true,
     "stable": false
   },
