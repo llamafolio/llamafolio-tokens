@@ -16125,7 +16125,7 @@
     "symbol": "WBETH",
     "decimals": 18,
     "coingeckoId": "wrapped-beacon-eth",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
