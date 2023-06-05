@@ -3474,6 +3474,15 @@
     "stable": false
   },
   {
+    "address": "0x49d72e3973900a195a155a46441f0c08179fdb64",
+    "name": "Cream ETH 2",
+    "symbol": "CRETH2",
+    "decimals": 18,
+    "coingeckoId": "cream-eth2",
+    "wallet": false,
+    "stable": false
+  },
+  {
     "address": "0xb092b4601850e23903a42eacbc9d8a0eec26a4d5",
     "name": "Cream Frax",
     "symbol": "crFRAX",
@@ -11935,6 +11944,15 @@
     "stable": false
   },
   {
+    "address": "0x9559aaa82d9649c7a7b220e7c461d2e74c9a3593",
+    "name": "StaFi Staked ETH",
+    "symbol": "RETH",
+    "decimals": 18,
+    "coingeckoId": "reth",
+    "wallet": false,
+    "stable": false
+  },
+  {
     "address": "0x20bc832ca081b91433ff6c17f85701b6e92486c5",
     "name": "StakeWise Reward ETH2",
     "symbol": "rETH2",
@@ -14083,6 +14101,15 @@
     "decimals": 18,
     "coingeckoId": "swash",
     "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xf951e335afb289353dc249e82926178eac7ded78",
+    "name": "Swell Ethereum",
+    "symbol": "SWETH",
+    "decimals": 18,
+    "coingeckoId": "sweth",
+    "wallet": false,
     "stable": false
   },
   {
