@@ -1531,6 +1531,15 @@
     "stable": false
   },
   {
+    "address": "0x1bdd3cf7f79cfb8edbb955f20ad99211551ba275",
+    "name": "Stader BNBx",
+    "symbol": "BNBX",
+    "decimals": 18,
+    "coingeckoId": "stader-bnbx",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0xca14caf9e8dd2793e7010fc48dfe6c6af8445136",
     "name": "BonFi",
     "symbol": "BNF",

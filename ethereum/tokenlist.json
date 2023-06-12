@@ -324,6 +324,15 @@
     "stable": false
   },
   {
+    "address": "0x44108f0223a3c3028f5fe7aec7f9bb2e66bef82f",
+    "name": "Across Protocol",
+    "symbol": "ACX",
+    "decimals": 18,
+    "coingeckoId": "across-protocol",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0xb56a1f3310578f23120182fb2e58c087efe6e147",
     "name": "AllCoinsYieldCapital",
     "symbol": "ACYC",
@@ -5518,6 +5527,15 @@
     "wallet": true
   },
   {
+    "address": "0x97de57ec338ab5d51557da3434828c5dbfada371",
+    "name": "eUSD",
+    "symbol": "EUSD",
+    "decimals": 18,
+    "coingeckoId": "eusd-27a558b0-8b5b-4225-a614-63539da936f4",
+    "wallet": true,
+    "stable": true
+  },
+  {
     "address": "0xb986f3a2d91d3704dc974a24fb735dcc5e3c1e70",
     "name": "dForce EUR",
     "symbol": "EUX",
@@ -6684,6 +6702,15 @@
     "symbol": "GRID",
     "decimals": 12,
     "coingeckoId": "grid",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x3ec8798b81485a254928b70cda1cf0a2bb0b74d7",
+    "name": "Gro DAO",
+    "symbol": "GRO",
+    "decimals": 18,
+    "coingeckoId": "gro-dao-token",
     "wallet": true,
     "stable": false
   },
@@ -8169,6 +8196,15 @@
     "symbol": "LBlock",
     "decimals": 9,
     "coingeckoId": "lucky-block",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xf1182229b71e79e504b1d2bf076c15a277311e05",
+    "name": "Lybra Finance",
+    "symbol": "LBR",
+    "decimals": 18,
+    "coingeckoId": "lybra-finance",
     "wallet": true,
     "stable": false
   },
@@ -10176,6 +10212,15 @@
     "symbol": "ODEX",
     "decimals": 18,
     "coingeckoId": "one-dex",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x856c4efb76c1d1ae02e20ceb03a2a6a08b0b8dc3",
+    "name": "Origin Ether",
+    "symbol": "OETH",
+    "decimals": 18,
+    "coingeckoId": "origin-ether",
     "wallet": true,
     "stable": false
   },
