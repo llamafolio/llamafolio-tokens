@@ -4366,6 +4366,15 @@
     "stable": false
   },
   {
+    "address": "0x64048a7eecf3a2f1ba9e144aac3d7db6e58f555e",
+    "name": "Frax Ether",
+    "symbol": "FRXETH",
+    "decimals": 18,
+    "coingeckoId": "frax-ether",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0xee738a9e5fb78c24d26cecd30389ed977c38d0ca",
     "name": "Fair Safe",
     "symbol": "FSAFE",
@@ -11571,6 +11580,15 @@
     "symbol": "WNOW",
     "decimals": 18,
     "coingeckoId": "walletnow",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xad6742a35fb341a9cc6ad674738dd8da98b94fb1",
+    "name": "Wombat Exchange",
+    "symbol": "WOM",
+    "decimals": 18,
+    "coingeckoId": "wombat-exchange",
     "wallet": true,
     "stable": false
   },

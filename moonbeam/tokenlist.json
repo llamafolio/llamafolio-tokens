@@ -126,6 +126,15 @@
     "stable": true
   },
   {
+    "address": "0x82bbd1b6f6de2b7bb63d3e1546e6b1553508be99",
+    "name": "Frax Ether",
+    "symbol": "FRXETH",
+    "decimals": 18,
+    "coingeckoId": "frax-ether",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0xc19281f22a075e0f10351cd5d6ea9f0ac63d4327",
     "name": "Fantom",
     "symbol": "FTM",

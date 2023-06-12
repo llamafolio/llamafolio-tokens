@@ -1287,6 +1287,15 @@
     "wallet": true
   },
   {
+    "address": "0x9e73f99ee061c8807f69f9c6ccc44ea3d8c373ee",
+    "name": "Frax Ether",
+    "symbol": "FRXETH",
+    "decimals": 18,
+    "coingeckoId": "frax-ether",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x332730a4f6e03d9c55829435f10360e13cfa41ff",
     "name": "Foundry Logistics Token",
     "symbol": "FRY",

@@ -190,6 +190,15 @@
     "stable": false
   },
   {
+    "address": "0x6806411765af15bddd26f8f544a34cc40cb9838b",
+    "name": "Frax Ether",
+    "symbol": "FRXETH",
+    "decimals": 18,
+    "coingeckoId": "frax-ether",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x10010078a54396f62c96df8532dc2b4847d47ed3",
     "name": "Hundred Finance",
     "symbol": "HND",
