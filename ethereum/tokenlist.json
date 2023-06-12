@@ -3726,6 +3726,15 @@
     "stable": false
   },
   {
+    "address": "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e",
+    "name": "crvUSD",
+    "symbol": "CRVUSD",
+    "decimals": 18,
+    "coingeckoId": "crvusd",
+    "wallet": true,
+    "stable": true
+  },
+  {
     "address": "0x197070723ce0d3810a0e47f06e935c30a480d4fc",
     "name": "Cream Wrapped BTC",
     "symbol": "crWBTC",
