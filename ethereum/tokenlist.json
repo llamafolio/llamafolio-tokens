@@ -4005,6 +4005,15 @@
     "stable": false
   },
   {
+    "address": "0xa2847348b58ced0ca58d23c7e9106a49f1427df6",
+    "name": "Convex FPIS",
+    "symbol": "CVXFPIS",
+    "decimals": 18,
+    "coingeckoId": "convex-fpis",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0xfeef77d3f69374f66429c91d732a244f074bdf74",
     "name": "Convex FXS",
     "symbol": "CVXFXS",
@@ -6038,6 +6047,15 @@
     "coingeckoId": "frax-price-index",
     "stable": true,
     "wallet": true
+  },
+  {
+    "address": "0xc2544a32872a91f4a553b404c6950e89de901fdb",
+    "name": "Frax Price Index Share",
+    "symbol": "FPIS",
+    "decimals": 18,
+    "coingeckoId": "frax-price-index-share",
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x853d955acef822db058eb8505911ed77f175b99e",

@@ -4240,6 +4240,15 @@
     "stable": false
   },
   {
+    "address": "0xd1738eb733a636d1b8665f48bc8a24da889c2562",
+    "name": "Frax Price Index Share",
+    "symbol": "FPIS",
+    "decimals": 18,
+    "coingeckoId": "frax-price-index-share",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x90c97f71e18723b0cf0dfa30ee176ab653e89f40",
     "name": "FRAX",
     "symbol": "FRAX",
