@@ -18,6 +18,15 @@
     "stable": false
   },
   {
+    "address": "0xff733b2a3557a7ed6697007ab5d11b79fdd1b76b",
+    "name": "Across Protocol",
+    "symbol": "ACX",
+    "decimals": 18,
+    "coingeckoId": "across-protocol",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee",
     "name": "Aave DAI",
     "symbol": "ADAI",
