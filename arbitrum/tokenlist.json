@@ -424,6 +424,15 @@
     "wallet": true
   },
   {
+    "address": "0x178412e79c25968a32e89b11f63b33f733770c2a",
+    "name": "Frax Ether",
+    "symbol": "FRXETH",
+    "decimals": 18,
+    "coingeckoId": "frax-ether",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x488cc08935458403a0458e45e20c0159c8ab2c92",
     "name": "Futureswap",
     "symbol": "FST",
@@ -1158,6 +1167,15 @@
     "symbol": "WETH",
     "decimals": 18,
     "coingeckoId": "weth",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x7b5eb3940021ec0e8e463d5dbb4b7b09a89ddf96",
+    "name": "Wombat Exchange",
+    "symbol": "WOM",
+    "decimals": 18,
+    "coingeckoId": "wombat-exchange",
     "wallet": true,
     "stable": false
   },
