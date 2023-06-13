@@ -167,6 +167,7 @@
     "symbol": "GLMR",
     "decimals": 18,
     "coingeckoId": "moonbeam",
+    "native": true,
     "wallet": true,
     "stable": false
   },
