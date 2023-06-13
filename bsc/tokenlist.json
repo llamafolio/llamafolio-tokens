@@ -882,6 +882,15 @@
     "stable": false
   },
   {
+    "address": "0x13616f44ba82d63c8c0dc3ff843d36a8ec1c05a9",
+    "name": "Travala.com",
+    "symbol": "AVA",
+    "decimals": 18,
+    "coingeckoId": "concierge-io",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x1ce0c2827e2ef14d5c4f29a091d735a204794041",
     "name": "Avalanche",
     "symbol": "AVAX",
@@ -6283,6 +6292,15 @@
     "stable": false
   },
   {
+    "address": "0xb64e280e9d1b5dbec4accedb2257a87b400db149",
+    "name": "Level",
+    "symbol": "LVL",
+    "decimals": 18,
+    "coingeckoId": "level",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x291c4e4277f8717e0552d108dbd7f795a9fef016",
     "name": "Luzion Protocol",
     "symbol": "LZN",
@@ -9712,6 +9730,15 @@
     "stable": false
   },
   {
+    "address": "0x1a28ed8472f644e8898a169a644503b779748d6e",
+    "name": "RAI Finance",
+    "symbol": "SOFI",
+    "decimals": 18,
+    "coingeckoId": "rai-finance",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x0e4b5ea0259eb3d66e6fcb7cc8785817f8490a53",
     "name": "Soku",
     "symbol": "SOKU",
@@ -10819,6 +10846,15 @@
     "stable": false
   },
   {
+    "address": "0x89db9b433fec1307d3dc8908f2813e9f7a1d38f0",
+    "name": "Unidef",
+    "symbol": "U",
+    "decimals": 18,
+    "coingeckoId": "unidef",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0xa83deb06fc89c08c614aed1fec0490da854423d5",
     "name": "UltimateAPY",
     "symbol": "UAPY",
@@ -11778,6 +11814,15 @@
     "symbol": "XEND",
     "decimals": 18,
     "coingeckoId": "xend-finance",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xbc7370641ddcf16a27eea11230af4a9f247b61f9",
+    "name": "XANA",
+    "symbol": "XETA",
+    "decimals": 18,
+    "coingeckoId": "xana",
     "wallet": true,
     "stable": false
   },
