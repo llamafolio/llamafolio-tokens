@@ -2979,12 +2979,30 @@
     "stable": false
   },
   {
+    "address": "0x72953a5c32413614d24c29c84a66ae4b59581bbf",
+    "name": "CLever",
+    "symbol": "CLEV",
+    "decimals": 18,
+    "coingeckoId": "clever-token",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0xf05e58fcea29ab4da01a495140b349f8410ba904",
     "name": "CLever CVX",
     "symbol": "CLEVCVX",
     "decimals": 18,
     "coingeckoId": "clever-cvx",
     "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0x3c20ac688410be8f391be1fb00afc5c212972f86",
+    "name": "CLever USD",
+    "symbol": "CLEVUSD",
+    "decimals": 18,
+    "coingeckoId": "clever-usd",
+    "wallet": true,
     "stable": false
   },
   {
@@ -8317,6 +8335,15 @@
     "stable": false
   },
   {
+    "address": "0xb620be8a1949aa9532e6a3510132864ef9bc3f82",
+    "name": "Lend Flare Dao",
+    "symbol": "LFT",
+    "decimals": 18,
+    "coingeckoId": "lend-flare-dao-token",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0xae697f994fc5ebc000f8e22ebffee04612f98a0d",
     "name": "LGCY Network",
     "symbol": "LGCY",
@@ -12646,6 +12673,15 @@
     "stable": false
   },
   {
+    "address": "0xd1b5651e55d4ceed36251c61c50c889b36f6abb5",
+    "name": "Stake DAO CRV",
+    "symbol": "SDCRV",
+    "decimals": 18,
+    "coingeckoId": "stake-dao-crv",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0xe1afe1fd76fd88f78cbf599ea1846231b8ba3b6b",
     "name": "Synth sDEFI",
     "symbol": "sDEFI",
@@ -13803,6 +13839,15 @@
     "symbol": "STARL",
     "decimals": 18,
     "coingeckoId": "starlink",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x530824da86689c9c17cdc2871ff29b058345b44a",
+    "name": "Short-term T-Bill Token",
+    "symbol": "STBT",
+    "decimals": 18,
+    "coingeckoId": "short-term-t-bill-token",
     "wallet": true,
     "stable": false
   },
@@ -15427,6 +15472,15 @@
     "wallet": true
   },
   {
+    "address": "0xb40b6608b2743e691c9b54ddbdee7bf03cd79f1c",
+    "name": "Zunami USD",
+    "symbol": "UZD",
+    "decimals": 18,
+    "coingeckoId": "zunami-protocol",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x2602278ee1882889b946eb11dc0e810075650983",
     "name": "Vader",
     "symbol": "VADER",
@@ -16629,6 +16683,15 @@
     "symbol": "X8X",
     "decimals": 18,
     "coingeckoId": "x8-project",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xd7c9f0e536dc865ae858b0c0453fe76d13c3beac",
+    "name": "XAI Stablecoin",
+    "symbol": "XAI",
+    "decimals": 18,
+    "coingeckoId": "xai",
     "wallet": true,
     "stable": false
   },
