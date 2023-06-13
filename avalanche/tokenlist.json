@@ -2926,6 +2926,15 @@
     "stable": false
   },
   {
+    "address": "0xdacde03d7ab4d81feddc3a20faa89abac9072ce2",
+    "name": "Platypus USD",
+    "symbol": "USP",
+    "decimals": 18,
+    "coingeckoId": "platypus-usd",
+    "wallet": true,
+    "stable": true
+  },
+  {
     "address": "0x260bbf5698121eb85e7a74f2e45e16ce762ebe11",
     "name": "UST",
     "symbol": "UST",
@@ -3138,6 +3147,15 @@
     "symbol": "XETA",
     "decimals": 18,
     "coingeckoId": "xeta",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x31c994ac062c1970c086260bc61babb708643fac",
+    "name": "XANA",
+    "symbol": "XETA",
+    "decimals": 18,
+    "coingeckoId": "xana",
     "wallet": true,
     "stable": false
   },

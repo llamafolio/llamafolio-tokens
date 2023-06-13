@@ -226,6 +226,15 @@
     "stable": false
   },
   {
+    "address": "0x920cf626a271321c151d027030d5d08af699456b",
+    "name": "Kwenta",
+    "symbol": "KWENTA",
+    "decimals": 18,
+    "coingeckoId": "kwenta",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0xd52f94df742a6f4b4c8b033369fe13a41782bf44",
     "name": "Layer2DAO",
     "symbol": "L2DAO",

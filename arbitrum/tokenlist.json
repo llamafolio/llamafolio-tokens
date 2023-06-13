@@ -604,6 +604,15 @@
     "stable": false
   },
   {
+    "address": "0x3b60ff35d3f7f62d636b067dd0dc0dfdad670e4e",
+    "name": "Milady Meme Coin",
+    "symbol": "LADYS",
+    "decimals": 18,
+    "coingeckoId": "milady-meme-coin",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
     "name": "Chainlink",
     "symbol": "LINK",
@@ -618,6 +627,15 @@
     "symbol": "LRC",
     "decimals": 18,
     "coingeckoId": "loopring",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xb64e280e9d1b5dbec4accedb2257a87b400db149",
+    "name": "Level",
+    "symbol": "LVL",
+    "decimals": 18,
+    "coingeckoId": "level",
     "wallet": true,
     "stable": false
   },
@@ -951,6 +969,15 @@
     "symbol": "SPELL",
     "decimals": 18,
     "coingeckoId": "spell-token",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xeca14f81085e5b8d1c9d32dcb596681574723561",
+    "name": "Spool",
+    "symbol": "SPOOL",
+    "decimals": 18,
+    "coingeckoId": "spool-dao-token",
     "wallet": true,
     "stable": false
   },

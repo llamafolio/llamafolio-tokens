@@ -351,6 +351,15 @@
     "stable": false
   },
   {
+    "address": "0xb6c3dc857845a713d3531cea5ac546f6767992f4",
+    "name": "Advertise Coin",
+    "symbol": "ADCO",
+    "decimals": 6,
+    "coingeckoId": "advertise-coin",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x6f634c6135d2ebd550000ac92f494f9cb8183dae",
     "name": "",
     "symbol": "aDPI",
@@ -1653,7 +1662,7 @@
     "decimals": 18,
     "coingeckoId": "float-protocol",
     "wallet": true,
-    "stable": false
+    "stable": true
   },
   {
     "address": "0x2d94aa3e47d9d5024503ca8491fce9a2fb4da198",
@@ -2111,6 +2120,15 @@
     "symbol": "BMI",
     "decimals": 18,
     "coingeckoId": "bridge-mutual",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x986ee2b944c42d017f52af21c4c69b84dbea35d8",
+    "name": "BitMart",
+    "symbol": "BMX",
+    "decimals": 18,
+    "coingeckoId": "bitmart-token",
     "wallet": true,
     "stable": false
   },
@@ -3003,7 +3021,7 @@
     "decimals": 18,
     "coingeckoId": "clever-usd",
     "wallet": true,
-    "stable": false
+    "stable": true
   },
   {
     "address": "0x675bbc7514013e2073db7a919f6e4cbef576de37",
@@ -4091,6 +4109,15 @@
     "symbol": "CyOp",
     "decimals": 9,
     "coingeckoId": "cyop-protocol",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xefab7248d36585e2340e5d25f8a8d243e6e3193f",
+    "name": "Dacxi",
+    "symbol": "DACXI",
+    "decimals": 18,
+    "coingeckoId": "dacxi",
     "wallet": true,
     "stable": false
   },
@@ -7669,6 +7696,15 @@
     "stable": false
   },
   {
+    "address": "0xba386a4ca26b85fd057ab1ef86e3dc7bdeb5ce70",
+    "name": "Jesus Coin",
+    "symbol": "JESUS",
+    "decimals": 18,
+    "coingeckoId": "jesus-coin",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x0f17bc9a994b87b5225cfb6a2cd4d667adb4f20b",
     "name": "JarvisSyntheticEuro",
     "symbol": "jEUR",
@@ -8160,6 +8196,15 @@
     "symbol": "LABS",
     "decimals": 18,
     "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x12970e6868f88f6557b76120662c1b3e50a646bf",
+    "name": "Milady Meme Coin",
+    "symbol": "LADYS",
+    "decimals": 18,
+    "coingeckoId": "milady-meme-coin",
     "wallet": true,
     "stable": false
   },
@@ -8808,6 +8853,15 @@
     "symbol": "MANDOX",
     "decimals": 9,
     "coingeckoId": "mandox-2",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x9e976f211daea0d652912ab99b0dc21a7fd728e4",
+    "name": "MAP Protocol",
+    "symbol": "MAP",
+    "decimals": 18,
+    "coingeckoId": "marcopolo",
     "wallet": true,
     "stable": false
   },
@@ -9532,6 +9586,15 @@
     "stable": false
   },
   {
+    "address": "0x809e130e10e787139c54e1d12d3d1971b7a675bf",
+    "name": "Minted",
+    "symbol": "MTD",
+    "decimals": 18,
+    "coingeckoId": "minted",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0xaf4dce16da2877f8c9e00544c93b62ac40631f16",
     "name": "Monetha",
     "symbol": "MTH",
@@ -10140,6 +10203,15 @@
     "symbol": "NUX",
     "decimals": 18,
     "coingeckoId": "peanut",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x9d71ce49ab8a0e6d2a1e7bfb89374c9392fd6804",
+    "name": "NvirWorld",
+    "symbol": "NVIR",
+    "decimals": 18,
+    "coingeckoId": "nvirworld",
     "wallet": true,
     "stable": false
   },
@@ -11404,6 +11476,15 @@
     "stable": false
   },
   {
+    "address": "0xb23d80f5fefcddaa212212f028021b41ded428cf",
+    "name": "Echelon Prime",
+    "symbol": "PRIME",
+    "decimals": 18,
+    "coingeckoId": "echelon-prime",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x226bb599a12c826476e3a771454697ea52e9e220",
     "name": "Propy",
     "symbol": "PRO",
@@ -12093,6 +12174,15 @@
     "symbol": "RFOX",
     "decimals": 18,
     "coingeckoId": "redfox-labs-2",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xd0929d411954c47438dc1d871dd6081f5c5e149c",
+    "name": "Refereum",
+    "symbol": "RFR",
+    "decimals": 4,
+    "coingeckoId": "refereum",
     "wallet": true,
     "stable": false
   },
@@ -13231,6 +13321,15 @@
     "stable": false
   },
   {
+    "address": "0xb49fa25978abf9a248b8212ab4b87277682301c0",
+    "name": "RAI Finance",
+    "symbol": "SOFI",
+    "decimals": 18,
+    "coingeckoId": "rai-finance",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x4c3a8eceb656ec63eae80a4ebd565e4887db6160",
     "name": "Soku",
     "symbol": "SOKU",
@@ -13425,6 +13524,15 @@
     "symbol": "SPN",
     "decimals": 6,
     "coingeckoId": "sapien",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x40803cea2b2a32bda1be61d3604af6a814e70976",
+    "name": "Spool",
+    "symbol": "SPOOL",
+    "decimals": 18,
+    "coingeckoId": "spool-dao-token",
     "wallet": true,
     "stable": false
   },
@@ -14217,6 +14325,15 @@
     "symbol": "SWASH",
     "decimals": 18,
     "coingeckoId": "swash",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xb4b9dc1c77bdbb135ea907fd5a08094d98883a35",
+    "name": "Sweatcoin (Sweat Economy)",
+    "symbol": "SWEAT",
+    "decimals": 18,
+    "coingeckoId": "sweatcoin",
     "wallet": true,
     "stable": false
   },
@@ -15487,7 +15604,7 @@
     "decimals": 18,
     "coingeckoId": "zunami-protocol",
     "wallet": true,
-    "stable": false
+    "stable": true
   },
   {
     "address": "0x2602278ee1882889b946eb11dc0e810075650983",
@@ -15967,6 +16084,15 @@
     "stable": false
   },
   {
+    "address": "0x3be7bf1a5f23bd8336787d0289b70602f1940875",
+    "name": "VIDT DAO",
+    "symbol": "VIDT",
+    "decimals": 18,
+    "coingeckoId": "vidt-dao",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x3d3d35bb9bec23b06ca00fe472b50e7a4c692c30",
     "name": "Vidya",
     "symbol": "VIDYA",
@@ -16206,6 +16332,15 @@
     "symbol": "WAIT",
     "decimals": 0,
     "coingeckoId": "wait",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x2559813bbb508c4c79e9ccce4703bcb1f149edd7",
+    "name": "Hourglass",
+    "symbol": "WAIT",
+    "decimals": 9,
+    "coingeckoId": "hourglass",
     "wallet": true,
     "stable": false
   },
@@ -16702,7 +16837,7 @@
     "decimals": 18,
     "coingeckoId": "xai",
     "wallet": true,
-    "stable": false
+    "stable": true
   },
   {
     "address": "0xf911a7ec46a2c6fa49193212fe4a2a9b95851c27",
@@ -16755,6 +16890,15 @@
     "symbol": "XCHF",
     "decimals": 18,
     "coingeckoId": "cryptofranc",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x36ac219f90f5a6a3c77f2a7b660e3cc701f68e25",
+    "name": "Coinmetro",
+    "symbol": "XCM",
+    "decimals": 18,
+    "coingeckoId": "coinmetro",
     "wallet": true,
     "stable": false
   },
@@ -16836,6 +16980,15 @@
     "symbol": "XEND",
     "decimals": 18,
     "coingeckoId": "xend-finance",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x967fb0d760ed3ce53afe2f0a071674cccae73550",
+    "name": "XANA",
+    "symbol": "XETA",
+    "decimals": 18,
+    "coingeckoId": "xana",
     "wallet": true,
     "stable": false
   },

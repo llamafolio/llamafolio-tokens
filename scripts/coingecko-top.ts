@@ -52,6 +52,6 @@ async function main() {
 
   console.log(
     'Missing tokens from Coingecko top markets',
-    coingeckoIds.filter(id => !storedCoingeckoIds.has(id))
+    coingeckoIds.filter(id => !storedCoingeckoIds.has(id)).join(',')
   )
 }
