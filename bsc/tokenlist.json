@@ -11071,6 +11071,15 @@
     "stable": false
   },
   {
+    "address": "0x91d6d6af7635b7b23a8ced9508117965180e2362",
+    "name": "unshETHing_Token",
+    "symbol": "USH",
+    "decimals": 18,
+    "coingeckoId": "unsheth",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x23396cf899ca06c4472205fc903bdb4de249d6fc",
     "name": "UST Token",
     "symbol": "UST",

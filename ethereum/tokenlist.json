@@ -15382,6 +15382,15 @@
     "stable": false
   },
   {
+    "address": "0xe60779cc1b2c1d0580611c526a8df0e3f870ec48",
+    "name": "unshETHing_Token",
+    "symbol": "USH",
+    "decimals": 18,
+    "coingeckoId": "unsheth",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0xa693b19d2931d498c5b318df961919bb4aee87a5",
     "name": "UST (Wormhole)",
     "symbol": "UST",
