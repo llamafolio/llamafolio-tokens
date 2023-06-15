@@ -1,6 +1,5 @@
 #!/usr/bin/env node
 import fs from 'node:fs'
-import buffer from 'node:buffer'
 import path from 'node:path'
 import url from 'node:url'
 

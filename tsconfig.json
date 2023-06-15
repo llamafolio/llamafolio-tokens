@@ -11,6 +11,6 @@
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
-    "types": ["bun-types", "node"]
+    "types": ["node"]
   }
 }

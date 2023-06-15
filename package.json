@@ -13,6 +13,11 @@
       "require": "./build/index.js",
       "types": "./build/index.d.ts"
     },
+    "./ethereum": {
+      "import": "./build/ethereum/index.js",
+      "require": "./build/ethereum/index.js",
+      "types": "./build/ethereum/index.d.ts"
+    },
     "./package.json": "./package.json"
   },
   "files": [
@@ -31,16 +36,16 @@
     "resolve-tokens": "tsx scripts/resolve-tokens.ts",
     "typecheck": "tsc --noEmit",
     "release": "bumpp package.json --commit --push --tag",
-    "prepublishOnly": "npm run build"
+    "clean": "rm -rf build",
+    "prepublishOnly": "NODE_ENV='production' pnpm build"
   },
   "devDependencies": {
-    "@types/node": "^20.1.0",
-    "bumpp": "^9.1.0",
-    "bun-types": "^0.5.8",
+    "@types/node": "^20.3.1",
+    "bumpp": "^9.1.1",
     "sharp": "^0.32.1",
     "tsup": "^6.7.0",
     "tsx": "^3.12.7",
-    "typescript": "^5.0.4"
+    "typescript": "^5.1.3"
   },
   "repository": "github:llamafolio/llamafolio-tokens",
   "bugs": "github:llamafolio/llamafolio-tokens/issues",
@@ -58,7 +63,8 @@
     "yarn": "------>PLEASE USE PNPM<------",
     "npm": "------>PLEASE USE PNPM<------"
   },
-  "license": "MIT",
+  "sideEffects": false,
+  "license": "GPL-3.0-or-later",
   "prettier": {
     "semi": false,
     "singleQuote": true,
