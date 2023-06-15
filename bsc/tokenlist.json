@@ -3295,6 +3295,15 @@
     "stable": false
   },
   {
+    "address": "0x2f29bc0ffaf9bff337b31cbe6cb5fb3bf12e5840",
+    "name": "DOLA",
+    "symbol": "DOLA",
+    "decimals": 18,
+    "coingeckoId": "dola-usd",
+    "wallet": true,
+    "stable": true
+  },
+  {
     "address": "0x475bfaa1848591ae0e6ab69600f48d828f61a80e",
     "name": "DOME",
     "symbol": "DOME",
