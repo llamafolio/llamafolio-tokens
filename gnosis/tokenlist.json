@@ -950,8 +950,8 @@
     "symbol": "MAI",
     "decimals": 18,
     "coingeckoId": "mimatic",
-    "stable": true,
-    "wallet": true
+    "wallet": true,
+    "stable": true
   },
   {
     "address": "0x7838796b6802b18d7ef58fc8b757705d6c9d12b3",
@@ -2498,8 +2498,8 @@
     "symbol": "USDC",
     "decimals": 6,
     "coingeckoId": "usd-coin",
-    "stable": true,
-    "wallet": true
+    "wallet": true,
+    "stable": true
   },
   {
     "address": "0x4ecaba5870353805a9f068101a40e0f32ed605c6",
