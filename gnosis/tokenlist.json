@@ -792,11 +792,29 @@
     "stable": false
   },
   {
+    "address": "0x3a3e9715018d80916740e8ac300713fdf6614d19",
+    "name": "hiveWater",
+    "symbol": "hivewater",
+    "decimals": 18,
+    "coingeckoId": "hivewater",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x71850b7e9ee3f13ab46d67167341e4bdc905eef9",
     "name": "Honey",
     "symbol": "HNY",
     "decimals": 18,
     "coingeckoId": "honey",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
+    "name": "Hop Protocol",
+    "symbol": "HOP",
+    "decimals": 18,
+    "coingeckoId": "hop-protocol",
     "wallet": true,
     "stable": false
   },
@@ -869,6 +887,14 @@
     "symbol": "KNC",
     "decimals": 18,
     "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xbd8ad53095d32b5e652b3fd26d61c5340126da10",
+    "name": "Laika Protocol",
+    "symbol": "LAIKA",
+    "decimals": 9,
     "wallet": true,
     "stable": false
   },
@@ -2417,6 +2443,15 @@
     "symbol": "TRADE",
     "decimals": 18,
     "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xaad66432d27737ecf6ed183160adc5ef36ab99f2",
+    "name": "Tellor",
+    "symbol": "TRB",
+    "decimals": 18,
+    "coingeckoId": "tellor",
     "wallet": true,
     "stable": false
   },
