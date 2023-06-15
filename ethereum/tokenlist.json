@@ -2,7 +2,7 @@
   {
     "address": "0x34f0915a5f15a66eba86f6a58be1a471fb7836a7",
     "name": "PulseDogecoin",
-    "symbol": " ",
+    "symbol": "plsd",
     "decimals": 12,
     "coingeckoId": "pulsedogecoin",
     "wallet": true,

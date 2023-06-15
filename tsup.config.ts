@@ -6,6 +6,7 @@ export default defineConfig({
   clean: true,
   bundle: true,
   keepNames: true,
+  treeshake: true,
   target: 'esnext',
   outDir: './build',
   platform: 'neutral',
@@ -25,14 +26,5 @@ export default defineConfig({
       ---------🦙                 🦙---
       ----------🦙                 🦙--
       -----------🦙                 🦙-\n`)
-    /**
-     *
-     * In case bundling is not desired and having a directory per chain is preferred,
-     * uncomment the 2 lines of code below.
-     */
-
-    // const fs = await import('node:fs/promises')
-    // const chains = ["ethereum", "polygon", "harmony", "arbitrum", "optimism", "bsc", "fantom", "celo", "avax", "xdai", "avalanche", "gnosis"]
-    // chains.map(chain => fs.cp(chain, `./build/${chain}`, { recursive: true }))
   }
 })
