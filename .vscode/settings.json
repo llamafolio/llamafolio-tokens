@@ -1,0 +1,10 @@
+{
+  "search.exclude": {
+    "**/node_modules": true,
+    "pnpm-lock.yaml": true,
+    ".gitignore": true,
+    "_": true
+  },
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+}

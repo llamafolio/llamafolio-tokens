@@ -11,6 +11,12 @@ devDependencies:
   bumpp:
     specifier: ^9.1.1
     version: 9.1.1
+  bun:
+    specifier: ^0.6.9
+    version: 0.6.9
+  bun-types:
+    specifier: ^0.6.9
+    version: 0.6.9
   sharp:
     specifier: ^0.32.1
     version: 0.32.1
@@ -310,6 +316,54 @@ packages:
       fastq: 1.15.0
     dev: true
 
+  /@oven/bun-darwin-aarch64@0.6.9:
+    resolution: {integrity: sha512-/pqK0qy7RAnPW9Q/QUCdr4hPI+U2NV+I1k4DeQp6vFK5KNLIyLi/SbHXiSi7p3QruK6/08mxdUt5iTPtQIlYBg==}
+    cpu: [arm64]
+    os: [darwin]
+    requiresBuild: true
+    dev: true
+    optional: true
+
+  /@oven/bun-darwin-x64-baseline@0.6.9:
+    resolution: {integrity: sha512-eZRbMlLj6vR2/vl7qXEZ5mfcbi2esz6DQJzMuFNgvpKXnxDiRpLD8UcRFr+s+sWIiNUywDsJulJNzmAxrV4B0Q==}
+    cpu: [x64]
+    os: [darwin]
+    requiresBuild: true
+    dev: true
+    optional: true
+
+  /@oven/bun-darwin-x64@0.6.9:
+    resolution: {integrity: sha512-3mnnw2HRqbnawI5hKz9XIvR9eC2XHRIEWU5nfaPil8DgcKFcrrJ3qWKRqUguSMWUupHctxNzMn0HD7UkhEQPlw==}
+    cpu: [x64]
+    os: [darwin]
+    requiresBuild: true
+    dev: true
+    optional: true
+
+  /@oven/bun-linux-aarch64@0.6.9:
+    resolution: {integrity: sha512-pUOmM0Sk41KZ5oFTUEyFIhBgn1xHBxGXjHEl2/4P5KOSJohtnHGLlfI9FTAtTX+zdmrYBPV8Udm/0MoRlgWHvg==}
+    cpu: [arm64]
+    os: [linux]
+    requiresBuild: true
+    dev: true
+    optional: true
+
+  /@oven/bun-linux-x64-baseline@0.6.9:
+    resolution: {integrity: sha512-KFWxJzbFDkJLcZhxk2/FJ9oyNxMJHor+LzClae2ueJUqtQyWkbnlg5DGzwJQ2jOxzsvDsjpUYYWvRDdx20lMKw==}
+    cpu: [x64]
+    os: [linux]
+    requiresBuild: true
+    dev: true
+    optional: true
+
+  /@oven/bun-linux-x64@0.6.9:
+    resolution: {integrity: sha512-o/SV5BRbTpssfFj8pwSv0aFGv+raMlK+hmkNdIQzfw5V4VaM7lh3SHCbHa2Uog/toFH4MB9VuWoRPtBMMGpTdQ==}
+    cpu: [x64]
+    os: [linux]
+    requiresBuild: true
+    dev: true
+    optional: true
+
   /@types/node@20.3.1:
     resolution: {integrity: sha512-EhcH/wvidPy1WeML3TtYFGR83UzjxeWRen9V402T8aUGYsCHOmfoisV3ZSg03gAFIbLq8TnWOJ0f4cALtnSEUg==}
     dev: true
@@ -405,6 +459,25 @@ packages:
       semver: 7.5.1
     transitivePeerDependencies:
       - supports-color
+    dev: true
+
+  /bun-types@0.6.9:
+    resolution: {integrity: sha512-qsxwgWWl6qBrHhj+c8QKte+Qyn8MwQweCp7gR51dfw6G43z+PmNk+ipx3xJj/EIU8i9QPyikriZ/tOeEoYPKyw==}
+    dev: true
+
+  /bun@0.6.9:
+    resolution: {integrity: sha512-9HdxvqKXOQIGXGHQzt7R8PYQPqgpsXp9QO0ZC6KLdJjfc9IxSC+49W4dedRcL/xWuJ5vPJJYgZapfr3v44tHoA==}
+    cpu: [arm64, x64]
+    os: [darwin, linux]
+    hasBin: true
+    requiresBuild: true
+    optionalDependencies:
+      '@oven/bun-darwin-aarch64': 0.6.9
+      '@oven/bun-darwin-x64': 0.6.9
+      '@oven/bun-darwin-x64-baseline': 0.6.9
+      '@oven/bun-linux-aarch64': 0.6.9
+      '@oven/bun-linux-x64': 0.6.9
+      '@oven/bun-linux-x64-baseline': 0.6.9
     dev: true
 
   /bundle-require@4.0.1(esbuild@0.17.19):
