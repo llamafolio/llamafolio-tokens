@@ -121,7 +121,7 @@
     "name": "API3",
     "symbol": "API3",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "api3",
     "wallet": true,
     "stable": false
   },
@@ -157,7 +157,7 @@
     "name": "Axie Infinity",
     "symbol": "AXS",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "axie-infinity",
     "wallet": true,
     "stable": false
   },
@@ -283,7 +283,7 @@
     "name": "BarnBridge",
     "symbol": "BOND",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "barnbridge",
     "wallet": true,
     "stable": false
   },
@@ -562,7 +562,7 @@
     "name": "Unit Protocol",
     "symbol": "DUCK",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "unit-protocol-duck",
     "wallet": true,
     "stable": false
   },
@@ -796,7 +796,7 @@
     "name": "hiveWater",
     "symbol": "hivewater",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "hivewater",
     "wallet": true,
     "stable": false
   },
@@ -814,7 +814,7 @@
     "name": "Hop Protocol",
     "symbol": "HOP",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "hop-protocol",
     "wallet": true,
     "stable": false
   },
@@ -2308,7 +2308,7 @@
     "name": "Unisocks",
     "symbol": "SOCKS",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "unisocks",
     "wallet": true,
     "stable": false
   },
