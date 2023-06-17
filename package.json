@@ -22,13 +22,11 @@
   "scripts": {
     "build": "tsup",
     "prebuild": "rm -rf build",
-    "dev": "tsup --watch --onSuccess 'node build/index.js'",
-    "start": "node build/index.js",
-    "prestart": "pnpm build",
     "stable": "tsx scripts/stable.ts",
     "add-token": "tsx scripts/add-token.ts",
     "resize-logos": "tsx scripts/resize-logos.ts",
     "resolve-tokens": "tsx scripts/resolve-tokens.ts",
+    "cleanup": "node_modules/.bin/bun scripts/cleanup.ts",
     "typecheck": "tsc --noEmit",
     "release": "bumpp package.json --commit --push --tag",
     "clean": "rm -rf build",
@@ -40,7 +38,7 @@
     "bun": "^0.6.9",
     "bun-types": "^0.6.9",
     "sharp": "^0.32.1",
-    "tsup": "^6.7.0",
+    "tsup": "^7.0.0",
     "tsx": "^3.12.7",
     "typescript": "^5.1.3"
   },
