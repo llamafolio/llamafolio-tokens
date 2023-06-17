@@ -79,7 +79,7 @@ async function main() {
   const ids = sourceId?.split(',') ?? []
 
   for (const id of ids) {
-    let tokensByChain = {}
+    let tokensByChain = {} as any
 
     switch (source) {
       case 'coingecko':
