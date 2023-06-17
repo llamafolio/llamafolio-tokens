@@ -2753,5 +2753,41 @@
     "coingeckoId": null,
     "wallet": true,
     "stable": false
+  },
+  {
+    "address": "0x3A3e9715018d80916740E8Ac300713FDf6614d19",
+    "name": "hiveWater",
+    "symbol": "hivewater",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xAAd66432d27737ecf6ED183160Adc5eF36aB99f2",
+    "name": "Tellor",
+    "symbol": "TRB",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xbD8aD53095d32B5e652b3FD26d61c5340126DA10",
+    "name": "Laika Protocol",
+    "symbol": "LAIKA",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
+    "name": "Hop Protocol",
+    "symbol": "HOP",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
   }
 ]
