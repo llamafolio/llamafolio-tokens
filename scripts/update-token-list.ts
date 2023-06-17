@@ -1,5 +1,4 @@
-#!/usr/bin/env node
-import fs from 'node:fs'
+#!/usr/bin/env bun
 
 export function updateTokenList(chain: string, tokens: any[]) {
   const tokenByAddress: { [key: string]: any } = {}
@@ -13,5 +12,5 @@ export function updateTokenList(chain: string, tokens: any[]) {
 
   uniqueTokens.sort((a, b) => a.symbol.localeCompare(b.symbol))
 
-  return fs.writeFileSync(`./${chain}/tokenlist.json`, `${JSON.stringify(uniqueTokens, null, 2)}\n`)
+  return Bun.write(`./${chain}/tokenlist.json`, `${JSON.stringify(uniqueTokens, null, 2)}\n`)
 }
