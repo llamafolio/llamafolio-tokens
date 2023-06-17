@@ -8,8 +8,7 @@ main().catch(_ => console.error(_))
 
 async function main() {
   const chain = process.argv[2] as Chain | 'all'
-  console.log(chain)
-  await updateChainsTokenLists('arbitrum')
+  await updateChainsTokenLists(chain)
 }
 
 async function updateChainsTokenLists(chain: Chain | 'all') {
