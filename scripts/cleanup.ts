@@ -20,7 +20,7 @@ async function main() {
       const found = tokenByAddress[token.address]
 
       tokenByAddress[token.address] = {
-        address: token.address,
+        address: token.address.toLowerCase(),
         name: found?.name || token.name,
         symbol: found?.symbol || token.symbol,
         decimals: found?.decimals || token.decimals,
