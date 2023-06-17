@@ -54,7 +54,7 @@ for (const chain in chains) {
 }
 
 /**
- * @param {string} chain
+ * @param {Chain} chain
  * @param {string} address lowercase hex string. ex: "0x0000000000000000000000000000000000000000"
  */
 export function getToken(chain: Chain, address: string = '0x0000000000000000000000000000000000000000') {
