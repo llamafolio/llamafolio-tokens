@@ -3284,5 +3284,2462 @@
     "coingeckoId": "0x",
     "wallet": true,
     "stable": false
+  },
+  {
+    "address": "0x008E26068B3EB40B443d3Ea88c1fF99B789c10F7",
+    "name": "0.exchange",
+    "symbol": "ZERO",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x01c5E2a4af2bd9f62c7d55C6105b8a64e6905be5",
+    "name": "Hatter",
+    "symbol": "HATTER",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x025AB35fF6AbccA56d57475249baaEae08419039",
+    "name": "Arable USD",
+    "symbol": "arusd",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x02fE8adC1B58A63CCb1Bb8c39930DCEdD7cEF4dB",
+    "name": "AvalancheVoid",
+    "symbol": "VOID",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x03E8D118A1864c7Dc53bf91e007ab7D91f5A06fA",
+    "name": "DEXTF",
+    "symbol": "DEXTF",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x0592af5414F2f8d90a5ae3C25E937804D3965C87",
+    "name": "Hoopoe",
+    "symbol": "HOOP",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x05e481B19129B560E921E487AdB281E70Bdba463",
+    "name": "Morphie",
+    "symbol": "MRFI",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x0755FA2F4AA6311E1D7C19990416c86F17D16F86",
+    "name": "Etherprint",
+    "symbol": "ETHP",
+    "decimals": 6,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x078f358208685046a11C85e8ad32895DED33A249",
+    "name": "Aave WBTC",
+    "symbol": "AWBTC",
+    "decimals": 8,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x0795b0DA5AbA851E8D1f0C59771d602cAdB40D61",
+    "name": "Province",
+    "symbol": "maple",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x094BFaC9894d2A2A35771D0BD6d2447689190F32",
+    "name": "CAT",
+    "symbol": "CAT",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x0950Fc1AD509358dAeaD5eB8020a3c7d8b43b9DA",
+    "name": "USD Coin (Wormhole)",
+    "symbol": "USDCSO",
+    "decimals": 6,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x09Ad4a1746Ab9ECC96BB67d919DE3C6b54cc879f",
+    "name": "Good Fire",
+    "symbol": "GF",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x0Aa4ef05B43700BF4b6E6Dc83eA4e9C2CF6Af0fA",
+    "name": "Swift Finance",
+    "symbol": "SWIFT",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x0E75CDb914DdCcA683357dD94d26Caa39BC14B16",
+    "name": "Piggy Bank",
+    "symbol": "PB",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x107D2b7C619202D994a4d044c762Dd6F8e0c5326",
+    "name": "Flair Dex",
+    "symbol": "fldx",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x1263fEA931b86f3e8cE8AFBf29f66631b7be9347",
+    "name": "BNPL Pay",
+    "symbol": "BNPL",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x12AF5C1a232675f62F405b5812A80e7a6F75D746",
+    "name": "ROSE (Wormhole)",
+    "symbol": "ROSE",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x12C48230729B4C6D2C34e6c8264Ef8e484435b74",
+    "name": "Zilla Shares",
+    "symbol": "ZSHARE",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x12D8CE035c5DE3Ce39B1fDD4C1d5a745EAbA3b8C",
+    "name": "Ankr Reward-Bearing Staked ETH",
+    "symbol": "AETHC",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x13E7bceFddE72492E656f3fa58baE6029708e673",
+    "name": "AGX Coin",
+    "symbol": "agx",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x155dBbB7CE079f7b8EcfFf9688AdF6e6efb69a24",
+    "name": "Frozentomb LOT",
+    "symbol": "FLOT",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x155f794b56353533E0AfBF76e1B1FC57DFAd5Bd7",
+    "name": "IceCream Shares",
+    "symbol": "CSHARE",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x17757dcE604899699b79462a63dAd925B82FE221",
+    "name": "GrapeSwap Finance",
+    "symbol": "grape",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x18706c65b12595EDB43643214EacDb4F618DD166",
+    "name": "BayMax Finance",
+    "symbol": "bay",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x191c10Aa4AF7C30e871E70C95dB0E4eb77237530",
+    "name": "Aave LINK",
+    "symbol": "ALINK",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x19613Fec180746831bdf819e0790F35741040DFD",
+    "name": "Snowbear",
+    "symbol": "SBR",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x19cfd1A6b1cD236b542B561eD26b32d697E5a77f",
+    "name": "Enigma DAO",
+    "symbol": "GMA",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x1A51686Fb42861AA7E38c1CF8868877F43F82aA4",
+    "name": "Wheat Token (AVAX)",
+    "symbol": "WHEAT",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x1C1CDF8928824dac36d84B3486D598B9799bA6c0",
+    "name": "aBASED",
+    "symbol": "$abased",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x1CcCA1cE62c62F7Be95d4A67722a8fDbed6EEcb4",
+    "name": "Laika Protocol",
+    "symbol": "LAIKA",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x1D67454f6b393542290a7bBEeA32c66148909b34",
+    "name": "Starnodes",
+    "symbol": "STRZ",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x1d60109178C48E4A937D8AB71699D8eBb6F7c5dE",
+    "name": "Magnet DAO",
+    "symbol": "MAG",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x1e3c6c53F9f60BF8aAe0D7774C21Fa6b1afddC57",
+    "name": "xShrap",
+    "symbol": "xshrap",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x218aC1bc9Ad8c0562988B03263540ec85C462F5a",
+    "name": "Anortis",
+    "symbol": "ANORTIS",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x223174d9F096d8b468B24f620A02f43b70792789",
+    "name": "Avalanche Hills",
+    "symbol": "ahill",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x224DB37f1745a2F5D49E06a204aD6a38bA827fA8",
+    "name": "Node Compiler AVAX",
+    "symbol": "NODEC",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x235Dc4738290Aad823b8C4Ac2012C188C5232933",
+    "name": "Expanz",
+    "symbol": "xpanz",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x245C2591403e182e41d7A851eab53B01854844CE",
+    "name": "Thors Mead",
+    "symbol": "MEAD",
+    "decimals": 8,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x25afD99fcB474D7C336A2971F26966da652a92bc",
+    "name": "Party",
+    "symbol": "PARTY",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x2841A8a2ce98A9d21aD8C3B7Fc481527569bd7bb",
+    "name": "Mammoth",
+    "symbol": "SL3",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x28bF9CB0a8c0a6Fb01680dAAae9D6aE76234491b",
+    "name": "IceSlush Finance",
+    "symbol": "SLUSH",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x2905d6D6957983d9ED73BC019fF2782c39dd7a49",
+    "name": "Snake City",
+    "symbol": "snct",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x2923E182A6e68C0fE4006736a33B32f805703683",
+    "name": "Comet Nodes",
+    "symbol": "COMET",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x29DEBf83Eb8Bc91ce9A13Ac7E42D37E6e2Abb480",
+    "name": "KarmaDao",
+    "symbol": "kdao",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x2CF51e73C3516f3d86E9C0B4De0971Dbf0766Fd4",
+    "name": "Blockzero Labs",
+    "symbol": "XIO",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x2D052048Fe7e4f59277E5E5ED5D21d35419Fe747",
+    "name": "MinerJoe",
+    "symbol": "GOLD",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x2D5433E9D475C78542dbd0d16d7016b9AaB99c1c",
+    "name": "Big Fund Capital DAO",
+    "symbol": "BFC",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x2D63bf11948413a53930F5155a5Ad8a1c887C18B",
+    "name": "Elexir",
+    "symbol": "ELXR",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x2EfB4FEc95DeAAb8c199CA5089E0cFD52373f92D",
+    "name": "Crypto Nodes",
+    "symbol": "crnd",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x2b0B320B47D8e0DD0E4477cf90c307c7ed984Ad2",
+    "name": "MetagamZ",
+    "symbol": "METAG",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x2dc3Bb328000553D1D64ec1BEF00572F62B5Ec7C",
+    "name": "xWalrus",
+    "symbol": "xwlrs",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x2dee42737d769f7444F8E0C0365E0EE1f992A88c",
+    "name": "BananaApeGarden",
+    "symbol": "bag",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x2e92428D9AD084c21A6Bd6735Baf3297e5bE51ab",
+    "name": "Aleph Finance",
+    "symbol": "naleph",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x2f4FC16308Be09e7611a047B9576881Eb5298dD6",
+    "name": "Snow Burn",
+    "symbol": "BURN",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x2fD4D793c1905D82018d75e3b09d3035856890a1",
+    "name": "Spherium",
+    "symbol": "SPHRI",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x302Abf007C2045F1bC0867a4b7abaaE2152e0EB3",
+    "name": "Ribbit",
+    "symbol": "ribt",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x306e974624511E3937F37E551C5736F1b2aD21eb",
+    "name": "Gitshock Finance",
+    "symbol": "gtfx",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x30Ff717fc266F2Dcb3Adc1AF4043f8C517491e66",
+    "name": "PirateDAO",
+    "symbol": "JOLLY",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x325a98F258a5732c7b06555603F6aF5BC1C17F0a",
+    "name": "Alpha Nodes",
+    "symbol": "$ALPHA",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x333000333b26eE30214B4af6419D9ab07a450400",
+    "name": "MELD",
+    "symbol": "meld",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x340990358AE38008181b6dB6156D9021A2D425dA",
+    "name": "Europa",
+    "symbol": "orbit",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x3509f19581aFEDEff07c53592bc0Ca84e4855475",
+    "name": "xDollar",
+    "symbol": "XDO",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x353af195c0d82820c59427BFbD318A49971AAe1a",
+    "name": "Vortex DAO",
+    "symbol": "SPACE",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x368098E9deb1961426E8C8554E0d910E189862Db",
+    "name": "GlacierLaunch",
+    "symbol": "GLAC",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x3711c397B6c8F7173391361e27e67d72F252cAad",
+    "name": "Complus Network",
+    "symbol": "COM",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x3712871408a829C5cd4e86DA1f4CE727eFCD28F6",
+    "name": "Glacier",
+    "symbol": "glcr",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x37427C72f3534d854EE462d18f42aD5fbE74AA2B",
+    "name": "The Seed Farm",
+    "symbol": "SEED",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x37d87e316CB4e35163881fDb6c6Bc0CdBa91dc0A",
+    "name": "Stabilize Token",
+    "symbol": "SET",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x37deD665a387a6f170FB60376B3057f09df6c0Ea",
+    "name": "KANDY",
+    "symbol": "KANDY",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x37f44b98316ad2815357113aebe0459029543e1e",
+    "name": "AvaDex Token",
+    "symbol": "avex",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x3947146F331b9Ef6448064c6311cdd24d9467a1A",
+    "name": "Creama",
+    "symbol": "creama",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x395908aeb53d33A9B8ac35e148E9805D34A555D3",
+    "name": "Walrus",
+    "symbol": "wlrs",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x3A47868beE0B553183222eeA56E82f83adDCd133",
+    "name": "Ava Time",
+    "symbol": "AVTIME",
+    "decimals": 6,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x3ACa5545e76746A3Fe13eA66B24BC0eBcC51E6b4",
+    "name": "Everest Token",
+    "symbol": "EVRT",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x3CE2fceC09879af073B53beF5f4D04327a1bC032",
+    "name": "Hurricane NFT",
+    "symbol": "nhct",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x3b1468a6f1E6030aBF31D81337C5D5D73d5ED5C4",
+    "name": "AVAX Capital Node",
+    "symbol": "ACN",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x3e5a9F09923936427aD6e487b24E23a862FCf6b7",
+    "name": "OTO Protocol",
+    "symbol": "oto",
+    "decimals": 5,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x40064CE057Fb99a5c8e34F61365cC5996E59aB57",
+    "name": "Project X Nodes",
+    "symbol": "PXT",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x42F33F70Be8A9C062B68ee64e7Ff34dD2ed2f5D8",
+    "name": "Cross Chain Capital",
+    "symbol": "CCC",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x42d047534eef46FD68fAD3d74726Fe51be4eeb8F",
+    "name": "Caesar Finance",
+    "symbol": "$CAESAR",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x431289cb3a2eC0875351e33767e175c816C73B3A",
+    "name": "Alfheim Finance",
+    "symbol": "AFM",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x442F7f22b1EE2c842bEAFf52880d4573E9201158",
+    "name": "Binance Coin (Wormhole)",
+    "symbol": "BNB",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x444444444444C1a66F394025Ac839A535246FCc8",
+    "name": "Genius",
+    "symbol": "geni",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x4480B4DdFb15fE6518817ef024D8B493afF2Db54",
+    "name": "Birdy Finance",
+    "symbol": "BIRD",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x46fCCf447f74ec97a521615fcE111118597071f7",
+    "name": "RagnarokDAO",
+    "symbol": "RGK",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x48f88A3fE843ccb0b5003e70B4192c1d7448bEf0",
+    "name": "Colony Avalanche Index",
+    "symbol": "cai",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x496e6F025ED7e799e43Fd1BaBe61497E95677734",
+    "name": "Hybrid",
+    "symbol": "$hybrid",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x4Aca0ad6357b918e3d06BB1a0BCC403619177523",
+    "name": "Sonic Token",
+    "symbol": "SONIC",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x4C1057455747e3eE5871D374FdD77A304cE10989",
+    "name": "NovaXMetal",
+    "symbol": "XMTL",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x4C9993C7107495020c2Ce9A13d11839F48EcD2E6",
+    "name": "Volta",
+    "symbol": "VOLTA",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x4D3dDeec55f148B3f8765A2aBc00252834ed7E62",
+    "name": "Yield Hunt",
+    "symbol": "GEM",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x4D81911F0E30D2E12dcc954091701B39dC59e34a",
+    "name": "Dairy.Money MILK",
+    "symbol": "MILK",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x4E720DD3Ac5CFe1e1fbDE4935f386Bb1C66F4642",
+    "name": "GTON CAPITAL",
+    "symbol": "GTON",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x4Eb49A2F9A79053866faE806fAc95A3eF5B92C05",
+    "name": "CakeDAO",
+    "symbol": "CAKE",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x4FA62300C7A499D088cbf9FF079ad5d105d8b46b",
+    "name": "Sparq",
+    "symbol": "sparq",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x4a4f77d74cf5Fd4ea4AB71Ba79988c055A5C27b2",
+    "name": "Less Network",
+    "symbol": "LESS",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x4bf5cd1AC6FfF12E88AEDD3c70EB4148F90F8894",
+    "name": "Orbit",
+    "symbol": "orbit",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x4e2e489237298AB0208909bfb5131477583b118F",
+    "name": "NIDO Invest Dao",
+    "symbol": "NIDO",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x4e3642603a75528489C2D94f86e9507260d3c5a1",
+    "name": "Juggernaut",
+    "symbol": "JGN",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x501012893eE88976AB8B5289B7a78E307d5d9DCb",
+    "name": "Narwhal",
+    "symbol": "nrwl",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x502580fc390606b47FC3b741d6D49909383c28a9",
+    "name": "HatchyPocket",
+    "symbol": "hatchy",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x51e48670098173025C477D9AA3f0efF7BF9f7812",
+    "name": "DegenX",
+    "symbol": "dgnx",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x543672E9CBEC728CBBa9C3Ccd99ed80aC3607FA8",
+    "name": "USD Coin (PoS) (Wormhole)",
+    "symbol": "USDCPO",
+    "decimals": 6,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x54a77F27D2346c3A8F5B43A501434f0f21f33e3C",
+    "name": "Kingdom Quest",
+    "symbol": "kgc",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x590eb2920486486c2D9Bb3EB651f73b81df87bcf",
+    "name": "Bobcoin",
+    "symbol": "BOBC",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x5E15C0A2dd5CF2E78d57BBF8c1A288495DcEeE77",
+    "name": "Cash",
+    "symbol": "CASH",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x5eDE350E84223fb50775fD91a723F2ca71034cf7",
+    "name": "Sheep Game",
+    "symbol": "AWOOL",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x5fC17416925789E0852FBFcd81c490ca4abc51F9",
+    "name": "inSure DeFi",
+    "symbol": "SURE",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x6145E8a910aE937913426BF32De2b26039728ACF",
+    "name": "USD Coin (Wormhole from BSC)",
+    "symbol": "USDCBS",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x61A47034276eb993e1C5E67BF1375aD0A48F10F6",
+    "name": "NoahArk",
+    "symbol": "NRK",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x625E7708f30cA75bfd92586e17077590C60eb4cD",
+    "name": "Aave USDC",
+    "symbol": "AUSDC",
+    "decimals": 6,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x63468133ed352E602bEB61DD254D6060Ad2fe419",
+    "name": "ThorusStake",
+    "symbol": "STHO",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x644192291cc835A93d6330b24EA5f5FEdD0eEF9e",
+    "name": "AllianceBlock Nexera",
+    "symbol": "nxra",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x65069e550C5526c029DC9135eDD02F6683859Ac1",
+    "name": "Pole (North Pole)",
+    "symbol": "POLE",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x68327a91E79f87F501bC8522fc333FB7A72393cb",
+    "name": "AUX Coin",
+    "symbol": "aux",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x685b63CFE0179b3EFb70A01dCb1D648549AA192d",
+    "name": "Furukuru",
+    "symbol": "FUKU",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x69260B9483F9871ca57f81A90D91E2F96c2Cd11d",
+    "name": "GoGoPool",
+    "symbol": "ggp",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x69A61f38Df59CBB51962E69C54D39184E21C27Ec",
+    "name": "PartySwap",
+    "symbol": "PARTY",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x6Cc8EF6CfC173Fc55A920C29E05222DEaD33B573",
+    "name": "DashLeague Crystals",
+    "symbol": "dlc",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x6da767394f079c1524B3e797D2110C23c3ecf322",
+    "name": "Fantastic Protocol SNOWY Token",
+    "symbol": "snowy",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x70b33ebC5544C12691d055b49762D0F8365d99Fe",
+    "name": "PAPA DAO",
+    "symbol": "PAPA",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x70b4aE8eb7bd572Fc0eb244Cd8021066b3Ce7EE4",
+    "name": "NovaXCrystal",
+    "symbol": "XCRS",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x712b05710bcFe9C9B1DF08D0f846f42c3D457F3E",
+    "name": "SmartNodes Finance",
+    "symbol": "smrt",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x72699ba15CC734F8db874fa9652c8DE12093F187",
+    "name": "GROWTH DeFi",
+    "symbol": "GRO",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x73178fcEB736A9d6c1A9EF1fe413F09CbA2D4a68",
+    "name": "RealFevr",
+    "symbol": "FEVR",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x73F2aF605eA8A3D8410B83Ee05b8D6fc0Da1Aca4",
+    "name": "ride finance",
+    "symbol": "RIDES",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x73e7e73447D1baFcB7e6E03416046654AE8B7C20",
+    "name": "Mu Inu",
+    "symbol": "muinu",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x74FeFa839A96A1632A29E0fcf0907d0F88528658",
+    "name": "Ethereum Victory",
+    "symbol": "evic",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x76076880e1EBBcE597e6E15c47386cd34de4930F",
+    "name": "Canopus",
+    "symbol": "OPUS",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x781c9cA04c0938b981B3383653Ab186961eA9084",
+    "name": "Kiki",
+    "symbol": "KIKI",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x79BA10485ae46a9436D560D9664369176EC2eB2b",
+    "name": "Chikn Worm",
+    "symbol": "worm",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x7A023A408F51c23760Eb31190fc731bc12B52954",
+    "name": "Janus Network",
+    "symbol": "jns",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x7Bf4cA9aEC25aDAAf7278EEDbe959d81893e314F",
+    "name": "MintSwap",
+    "symbol": "MINT",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x7bddaF6DbAB30224AA2116c4291521C7a60D5f55",
+    "name": "VaporFi",
+    "symbol": "vape",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x7c22E823b5eE641ed534CE3e368b59b5F0A3b7e0",
+    "name": "Grantsville",
+    "symbol": "gville",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x7c24b813089675cf5484afa4850FE9276D97b461",
+    "name": "Order",
+    "symbol": "order",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x7dFCe792c83F283ECfE7EA7ed308F9B891073540",
+    "name": "Frozentomb",
+    "symbol": "FTOMB",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x822b906E74D493D07223CF6858620ccDa66b2154",
+    "name": "rLoop",
+    "symbol": "rloop",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x82aADcbAaD8357644C090a847d3C6a926726c5d5",
+    "name": "Zilla Shares 2.0",
+    "symbol": "ZSHARE",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x862D2E466C28dB7961E953083854e19481478842",
+    "name": "Sierra",
+    "symbol": "SIERRA",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x873801Ae2ff12d816Db9a7B082F5796BEC64C82C",
+    "name": "Waterfall Governance Token",
+    "symbol": "WTF",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x88a425b738682f58C0FF9fcF2CceB47a361ef4cF",
+    "name": "Tempo DAO",
+    "symbol": "TEMPO",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x88c090496125b751B4E3ce4d3FDB8E47DD079c57",
+    "name": "Dragon Egg",
+    "symbol": "DREGG",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x8B6663725D7e7368B01EeFdDc16Be085e492498E",
+    "name": "Kishimoto Inu",
+    "symbol": "KISHIMOTO",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x8Bb93979901cd159bF6763B223FBb315C31CCF7b",
+    "name": "INDESTCOIN",
+    "symbol": "intd",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x8C3633eE619a42d3755327C2524E4d108838c47f",
+    "name": "Zeus Finance",
+    "symbol": "zeus",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x8DC4D5F5d7caA96B93f7095FA0c7a2Aa8264816d",
+    "name": "Opsya Insurance",
+    "symbol": "opsy",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x8Db2dBdFB50480FE79F6576deAA4f6E68DcBfb15",
+    "name": "DCTDAO",
+    "symbol": "DCTD",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x8d8Db824baFdb617646E80360509274909c48127",
+    "name": "Jurassic Nodes",
+    "symbol": "DINO",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x916aBa115F5162960E48a2675Ad4d8cBD09CE8E4",
+    "name": "MCVERSE",
+    "symbol": "mcv",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x9235B893a3e61a14b2D02a91EC1394fbF411689E",
+    "name": "Ice Dao",
+    "symbol": "ICE",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x951C8a8DEe33bd5039A71E7BD4244D5659CF1517",
+    "name": "IceCubes Finance",
+    "symbol": "ICUBE",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x9559873d5b9e0176E923399cBD2863AEa1fB19B9",
+    "name": "IceFlake Finance",
+    "symbol": "FLAKE",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x955e02d81cA94d8Af5A74aC44e19CbE921b9a51B",
+    "name": "Golden Society Token V2",
+    "symbol": "gdsy",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x95CED7c63eA990588F3fd01cdDe25247D04b8D98",
+    "name": "GrapeVine",
+    "symbol": "xgrape",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x96084FD213088e5A0d686Fc7778F6d42974fE1d6",
+    "name": "Musk Ito",
+    "symbol": "MITO",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x9867cc2419Fb317e986A648E02cF7C35aa87a336",
+    "name": "BiggerMINDS",
+    "symbol": "mind",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x98a4d09036Cc5337810096b1D004109686E56Afc",
+    "name": "PancakeSwap (Wormhole)",
+    "symbol": "CAKE",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x99083d1b9c6744c71d0cf70b8965FaCA37684527",
+    "name": "France REV Finance",
+    "symbol": "FRF",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x9BedCE29F79076b21DD04958a9Fd4B22F63fD86D",
+    "name": "Freebie Life Finance",
+    "symbol": "frb",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x9F87C6c30F4b23C7B51Aa7465A9e0A836514700D",
+    "name": "Avaterra",
+    "symbol": "TERRA",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x9a928D7dcD8D7E5Cb6860B7768eC2D87B8934267",
+    "name": "Bamboo Token",
+    "symbol": "BAMBOO",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x9c3254bb4F7f6A05A4Aaf2Cadce592C848d043c1",
+    "name": "Alpha Shares V2",
+    "symbol": "$alpha",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x9c5bBb5169B66773167d86818b3e149A4c7e1d1A",
+    "name": "RADI",
+    "symbol": "RADI",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x9df4Ac62F9E435DbCD85E06c990a7f0ea32739a9",
+    "name": "Granary",
+    "symbol": "grain",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x9e15f045e44ea5a80e7Fbc193A35287712Cc5569",
+    "name": "Playa3ull Games",
+    "symbol": "3ull",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x9e295B5B976a184B14aD8cd72413aD846C299660",
+    "name": "GLP",
+    "symbol": "glp",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x9e6832D13b29d0B1C1c3465242681039b31C7a05",
+    "name": "Snowtomb",
+    "symbol": "STOMB",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x9ed7E4B1BFF939ad473dA5E7a218C771D1569456",
+    "name": "Reunit Wallet",
+    "symbol": "reuni",
+    "decimals": 6,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x9f6aEDcA032b1092E08b848FC9D6F29139370837",
+    "name": "Gaia DAO",
+    "symbol": "GAIA",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xA16693FdA89E0c4dd9f2324eBd47118b57e6BA34",
+    "name": "Ohm Inu DAO",
+    "symbol": "AVOHMINU",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xA41a6c7E25DdD361343e8Cb8cFa579bbE5eEdb7a",
+    "name": "Binance USD (Wormhole from BSC)",
+    "symbol": "BUSDBS",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xA5aCFECA5270bC9768633FBC86caA959B85Ec8b7",
+    "name": "KROWN",
+    "symbol": "KRW",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xA5b0f5ef809FD04C9D4320211C711Cb34ef812dD",
+    "name": "Clavis",
+    "symbol": "CLAVIS",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xA67BCC0D06d7d13A13A2AE30bF30f1B434f5a28B",
+    "name": "Tether USD (Wormhole from BSC)",
+    "symbol": "USDTBS",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xA72eAb7327e48bdE0FF873eAF1D4FecF6036504F",
+    "name": "SpiritDAO Ghost",
+    "symbol": "GHOST",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xA9D633A1ac5Aa995C5e4F7d915ADe1Be565A97e8",
+    "name": "Arctic Finance",
+    "symbol": "AURORA",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xA9ef87EB3FDc2F08EF5Ee401326F7331d4d312cf",
+    "name": "Index Avalanche DeFi",
+    "symbol": "ixad",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xAB547A8Dc764408Ce9DEA41bDf689aeEB349Da12",
+    "name": "Owloper Owl",
+    "symbol": "owl",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xAafd2577Fb67366d3C89DB0d627C49D769ee2e5D",
+    "name": "Stabilize USD",
+    "symbol": "SUSD",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xB092214663B7CB2E0497825aa4CecD5DbD3a178B",
+    "name": "GMA",
+    "symbol": "GMA",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xB09FE1613fE03E7361319d2a43eDc17422f36B09",
+    "name": "Bogged Finance",
+    "symbol": "BOG",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xB24CA28D4e2742907115fECda335b40dbda07a4C",
+    "name": "USD Coin (Wormhole from Ethereum)",
+    "symbol": "USDCET",
+    "decimals": 6,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xB5623F774e568FeD0259cF1c28A705405Dd5967f",
+    "name": "MJewel",
+    "symbol": "MJEWEL",
+    "decimals": 6,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xB669c71431bc4372140bC35Aa1962C4B980bA507",
+    "name": "Avalanche HoneyBee",
+    "symbol": "A.BEE",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xB80323c7aA915CB960b19B5cCa1D88a2132F7BD1",
+    "name": "Tornadao",
+    "symbol": "NADO",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xC0C5AA69Dbe4d6DDdfBc89c0957686ec60F24389",
+    "name": "XEN Crypto",
+    "symbol": "xen",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xC11bF915Db4b43714bC8D32bF83BF5eA53d40981",
+    "name": "Cheems Inu [NEW]",
+    "symbol": "cinu",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xC17c30e98541188614dF99239cABD40280810cA3",
+    "name": "EverRise",
+    "symbol": "RISE",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xC1C57C2975622eBe97D5c0980cF231787324024c",
+    "name": "Mu Meme",
+    "symbol": "mume",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xCa8EBfB8e1460Aaac7c272CB9053B3D42412AAc2",
+    "name": "Gamer Arena",
+    "symbol": "gau",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xCd17D12dfD16051b5d2895E4dFC72AfD82DBB529",
+    "name": "Chaos",
+    "symbol": "chaos",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xD0755413bfE2e08dB6bE72761cdD56d77d4B60f1",
+    "name": "NORTH (North Pole)",
+    "symbol": "NORTH",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xD17584633bc8D190E5A14502976daD9640456D6d",
+    "name": "Tangle",
+    "symbol": "TNGL",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xD197c8B939F199c7d70d030c1931d3C24442dF60",
+    "name": "Slushie Capital",
+    "symbol": "SLUSH",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xD2cd7a59Aa8f8FDc68d01b1e8A95747730b927d3",
+    "name": "Crabada Amulet",
+    "symbol": "CRAM",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xD7c295E399CA928A3a14b01D760E794f1AdF8990",
+    "name": "DSLA",
+    "symbol": "DSLA",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xD9FF12172803c072a36785DeFea1Aa981A6A0C18",
+    "name": "Fudge",
+    "symbol": "$fudge",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xDBabd6c54D43361E457A06D677341049AC23EFac",
+    "name": "FLUUS",
+    "symbol": "fluus",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xDd453dBD253fA4E5e745047d93667Ce9DA93bbCF",
+    "name": "Zabu Token",
+    "symbol": "ZABU",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xDd57fA6A38326b5c040a6bFce7A0a7C65588175A",
+    "name": "Dune Token",
+    "symbol": "DUNE",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xE0474c15BC7f8213eE5bfB42f9E68B2d6BE2e136",
+    "name": "Vikings Finance",
+    "symbol": "VAL",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xE337a99fE0AC0F3E01A97167D21082A2Bb96326E",
+    "name": "The Neighbours",
+    "symbol": "neibr",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xE397784960F814BA35C9Ee0BC4c9DFFdf86925f9",
+    "name": "Monsterra",
+    "symbol": "MSTR",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xE457c5Fe85d0563B2CA389354Da307516a8EDD87",
+    "name": "VRYNT",
+    "symbol": "vrynt",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C",
+    "name": "Ferrum Network",
+    "symbol": "FRM",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xE6eE049183B474ecf7704da3F6F555a1dCAF240F",
+    "name": "NovaXSolar",
+    "symbol": "XSLR",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xECF4e40E564A1DE686d89142A0963d908579daaA",
+    "name": "AvaOne Finance",
+    "symbol": "AVAO",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xECeE7B9B7aa9efF9f89f1fE7fC77a2e5f6e491eA",
+    "name": "Doge Alliance",
+    "symbol": "$DOGEALLY",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xEcC5C2015a9A5320bcBB08EE445D2Cf374F3AC14",
+    "name": "ENERGY",
+    "symbol": "NRGY",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xEe9801669C6138E84bD50dEB500827b776777d28",
+    "name": "O3 Swap",
+    "symbol": "O3",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xF2CfC11093edB5A2DC7F49e70A3a3a9cd4F4FeE4",
+    "name": "Brig Finance",
+    "symbol": "BRIG",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xF44Fb887334Fa17d2c5c0F970B5D320ab53eD557",
+    "name": "START",
+    "symbol": "START",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xF6557bC62AC67744961479eA6c131B61444714d6",
+    "name": "Vacus Finance",
+    "symbol": "vcs",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xF7D9281e8e363584973F946201b82ba72C965D27",
+    "name": "Yield Yak AVAX",
+    "symbol": "yyavax",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xF7ed17f0Fb2B7C9D3DDBc9F0679b2e1098993e81",
+    "name": "Mu Gold",
+    "symbol": "mug",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xF9A075C9647e91410bF6C402bDF166e1540f67F0",
+    "name": "Sing Token (Avalanche)",
+    "symbol": "SING",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xFAc235f442ED946087c1Db9f70075b51E698a487",
+    "name": "Pterosaur Finance",
+    "symbol": "pter",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xFd538CA3f58dC309dA55B11f007ff53fb4602876",
+    "name": "Battle For Giostone",
+    "symbol": "bfg",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xa2776A53Da0bf664EA34B8Efa1c8aB4241A10968",
+    "name": "Blizzard Network",
+    "symbol": "BLIZZ",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xa4FB4F0Ff2431262D236778495145EcBC975c38B",
+    "name": "Bware INFRA",
+    "symbol": "infra",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xaE85d5aA526b1ECC5e90E466CbD2bdeC22c606Ff",
+    "name": "Mobula",
+    "symbol": "mobl",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xad7476c49D3f82a144f4836aACb9b069c188b759",
+    "name": "SoldierNodes",
+    "symbol": "SLD",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xafc4d521DF3C0566d61931F81f02f1A525Bad04D",
+    "name": "Wasdaq Finance",
+    "symbol": "WSDQ",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xb3f52c360201201d366eFD2cDa4DB78e00cB9D5D",
+    "name": "Luyuka",
+    "symbol": "LYK",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xb418417374fcA27bb54169D3C777492e6Fe17Ee7",
+    "name": "DUA Token",
+    "symbol": "dua",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xb86688EB60BE8C6Fc09aFCC32a9cf4b0B6DECffd",
+    "name": "WiseAvax",
+    "symbol": "WISEAVAX",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xbBAAA0420D474B34Be197f95A323C2fF3829E811",
+    "name": "LODE Token",
+    "symbol": "lode",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xbc7B0223Dd16cbc679c0D04bA3F4530D76DFbA87",
+    "name": "Okse",
+    "symbol": "okse",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xbf1230bb63bfD7F5D628AB7B543Bcefa8a24B81B",
+    "name": "Chronicum",
+    "symbol": "chro",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xbfb8DD604B903f30da21354ab41B91dE3f1C94e5",
+    "name": "Zilla Finance",
+    "symbol": "ZILLA",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xc1333a2e6F4a50Ec20107C19fA73Af9e8cC0419B",
+    "name": "BitcoinPrint",
+    "symbol": "BTCP",
+    "decimals": 6,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xc16A1b60175d16be6F2ED0bA506ca0e6EfBA8e08",
+    "name": "GigaChad",
+    "symbol": "CHAD",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xc65bC1E906771e105fBAcBD8dfE3862Ee7BE378E",
+    "name": "Champion",
+    "symbol": "cham",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xcca3E26Be51b8905f1A01872524f17eb55Bd02fb",
+    "name": "Parabolic",
+    "symbol": "para",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xce0052745A182fff07aCB9dd834041E5F29319b2",
+    "name": "Higgs",
+    "symbol": "HIGGS",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xd05B010eDDB2Dc65d5Bd5a1389330D475049A4d5",
+    "name": "Deepwaters",
+    "symbol": "wtr",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xd08654347A882f080CF7da8FFFAe703cF3652a0C",
+    "name": "Griffin",
+    "symbol": "griffin",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189",
+    "name": "OKCash",
+    "symbol": "OK",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xd3DF6106346Ac91CE76D1AdF291a68581D3fa782",
+    "name": "Mandala",
+    "symbol": "MNDL",
+    "decimals": 6,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xd97136B7caB42058F75E05e3D8C5C87CceaC8Bc3",
+    "name": "TLChain",
+    "symbol": "tlc",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xdC05BFF771Cd5eb1BdC3A76950144fFd8d64EFc0",
+    "name": "Aztec Nodes SUN",
+    "symbol": "sun",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xdDAaAD7366B455AfF8E7c82940C43CEB5829B604",
+    "name": "MiniYAK",
+    "symbol": "MYAK",
+    "decimals": 12,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xdE9E52F1838951e4d2bb6C59723B003c353979b6",
+    "name": "Snowdog",
+    "symbol": "SDOG",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xe677bdc4f5AC7EF7701F4199f25aBAD34d41fd7F",
+    "name": "Santrast",
+    "symbol": "SNRW",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xe6E7e03b60c0F8DaAE5Db98B03831610A60FfE1B",
+    "name": "Vector Finance",
+    "symbol": "VTX",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xe6d1aFea0B76C8f51024683DD27FA446dDAF34B6",
+    "name": "Frozen Walrus Share",
+    "symbol": "wshare",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xe703214808C3603a9dA2609d52bDcF920E0a0edf",
+    "name": "BabyTraderJoe",
+    "symbol": "BJOE",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xe761AFC921EC7FF11DF025f8967d08E3daA805a8",
+    "name": "Snowball-Snowbank",
+    "symbol": "SNO",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xe7A102Fbc8AB3581d62830DdB599eCCaae5e7875",
+    "name": "Snoshares",
+    "symbol": "SNOSHARE",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xe7D06bB5079340BFD68BC3F5e52b5f65b01d75cd",
+    "name": "SpellPrinter",
+    "symbol": "SPELLP",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xeA068Fba19CE95f12d252aD8Cb2939225C4Ea02D",
+    "name": "Fief",
+    "symbol": "FIEF",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xeCfE536a209e405Db19887830b366E397f5B917a",
+    "name": "Plateau Finance",
+    "symbol": "PLT",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xeacD4F4d93527CB5d0cDFE5930D612CCfD5Af436",
+    "name": "Gorilla Nodes",
+    "symbol": "banana",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xed4102f3a1a24bD4Ef1f29b90CD8bf00a540c0c2",
+    "name": "Duo",
+    "symbol": "DUO",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xed46443C18E38064523180Fc364C6180b35803d3",
+    "name": "MidasDAO",
+    "symbol": "CROWN",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xee2e2868272FD6D51D78412d849500753f9DD579",
+    "name": "AstroNodes",
+    "symbol": "ASTRO",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xee65D8B88F86ace0f7bA42BA2d2C679b6f604bf0",
+    "name": "Tazor",
+    "symbol": "tazor",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xeeee99b35Eb6aF5E7d76dd846DbE4bcc0c60cA1d",
+    "name": "SoliSnek",
+    "symbol": "snek",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xf10b5a72f0abeB27A5DdBa950082e4eDFF4c825d",
+    "name": "ParrotDao",
+    "symbol": "PARR",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xf2f13f0B7008ab2FA4A2418F4ccC3684E49D20Eb",
+    "name": "MATIC (Wormhole)",
+    "symbol": "MATICPO",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xf3F8772F92028bFb6D641c28bbcf1DbDEd424767",
+    "name": "Mistel Finance",
+    "symbol": "MISTEL",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xf481Eec738C46F675e077ee966A680a19210Af11",
+    "name": "Blanc",
+    "symbol": "BLANC",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xf538030Ba4B39E35A3576bD6698cfcc6AC34A81f",
+    "name": "NEMO",
+    "symbol": "nemo",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xf54501FBc97d5CB9C8B96480996a397E07516b2E",
+    "name": "AvaNyan",
+    "symbol": "ANYAN",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xf5ee578505f4D876FeF288DfD9fD5e15e9EA1318",
+    "name": "Asgardian Aereus",
+    "symbol": "VOLT",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xf6931e67EF0cB20423351A53069719Df2ad76e78",
+    "name": "FarmersOnly Onion",
+    "symbol": "ONION",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xf8D0C6c3ddC03F43A0687847f2b34bfd6941C2A2",
+    "name": "Strawberry Share",
+    "symbol": "$straw",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xf97D917a0ef1Bb6919C36489Eb0Fd00dB41fFBa8",
+    "name": "Ava MIM",
+    "symbol": "AVAMIM",
+    "decimals": 6,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xf9A49321D3D34CF94c4AbD1957C219572A646692",
+    "name": "Fantastic Protocol Peg-AVAX (FAVAX) Token",
+    "symbol": "favax",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xfD4A382823145b1C381B769eD53bC0f2b93C82A1",
+    "name": "Survivor Finance",
+    "symbol": "suv",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xfDA866CFEcE71F4C17b4a5e5f9A00ac08C72Eadc",
+    "name": "Pera Finance",
+    "symbol": "PERA",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
   }
 ]
