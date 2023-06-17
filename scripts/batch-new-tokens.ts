@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/env bun
 import { type Chain, chains } from '../index'
 import { chainNamesArray, chainsIds } from './constants.js'
 

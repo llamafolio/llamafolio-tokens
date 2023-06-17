@@ -12,19 +12,5 @@ export default defineConfig({
   platform: 'neutral',
   format: ['esm'],
   entryPoints: ['./index.ts'],
-  minify: process.env.NODE_ENV === 'production',
-  onSuccess: async () => {
-    console.log(`
-      -🦙                 🦙-----------
-      --🦙                 🦙----------
-      ---🦙                 🦙---------
-      ----🦙                 🦙--------
-      -----🦙                 🦙-------
-      ------🦙 Build completed 🦙------
-      -------🦙                 🦙-----
-      --------🦙                 🦙----
-      ---------🦙                 🦙---
-      ----------🦙                 🦙--
-      -----------🦙                 🦙-\n`)
-  }
+  minify: process.env.NODE_ENV === 'production'
 })

@@ -20,17 +20,18 @@
     "package.json"
   ],
   "scripts": {
-    "build": "tsup",
     "prebuild": "rm -rf build",
+    "build": "tsup",
+    "test": "node test/index.test.js",
     "stable": "tsx scripts/stable.ts",
     "add-token": "tsx scripts/add-token.ts",
     "resize-logos": "tsx scripts/resize-logos.ts",
     "resolve-tokens": "tsx scripts/resolve-tokens.ts",
     "cleanup": "node_modules/.bin/bun scripts/cleanup.ts",
-    "typecheck": "tsc --noEmit",
     "release": "bumpp package.json --commit --push --tag",
-    "clean": "rm -rf build",
-    "prepublishOnly": "NODE_ENV='production' pnpm build"
+    "typecheck": "tsc --noEmit",
+    "prepublishOnly": "NODE_ENV='production' pnpm build",
+    "clean": "rm -rf build"
   },
   "devDependencies": {
     "@types/node": "^20.3.1",

@@ -3,7 +3,7 @@ rm -rf *.tgz
 cd ../../
 rm -rf build
 
-npm run build
+NODE_ENV='production' npm run build
 
 npm pack --pack-destination test/app
 

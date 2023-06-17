@@ -6,6 +6,6 @@
     "refresh": "/bin/bash refresh-tgz.sh"
   },
   "dependencies": {
-    "@llamafolio/tokens": "file:./llamafolio-tokens-0.1.50.tgz"
+    "@llamafolio/tokens": "file:llamafolio-tokens-0.1.72.tgz"
   }
 }
