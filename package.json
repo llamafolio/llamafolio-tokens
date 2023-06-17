@@ -13,11 +13,6 @@
       "require": "./build/index.js",
       "types": "./build/index.d.ts"
     },
-    "./ethereum": {
-      "import": "./build/ethereum/index.js",
-      "require": "./build/ethereum/index.js",
-      "types": "./build/ethereum/index.d.ts"
-    },
     "./package.json": "./package.json"
   },
   "files": [
@@ -27,13 +22,11 @@
   "scripts": {
     "build": "tsup",
     "prebuild": "rm -rf build",
-    "dev": "tsup --watch --onSuccess 'node build/index.js'",
-    "start": "node build/index.js",
-    "prestart": "npm run build",
     "stable": "tsx scripts/stable.ts",
     "add-token": "tsx scripts/add-token.ts",
     "resize-logos": "tsx scripts/resize-logos.ts",
     "resolve-tokens": "tsx scripts/resolve-tokens.ts",
+    "cleanup": "node_modules/.bin/bun scripts/cleanup.ts",
     "typecheck": "tsc --noEmit",
     "release": "bumpp package.json --commit --push --tag",
     "clean": "rm -rf build",
@@ -42,8 +35,10 @@
   "devDependencies": {
     "@types/node": "^20.3.1",
     "bumpp": "^9.1.1",
+    "bun": "^0.6.9",
+    "bun-types": "^0.6.9",
     "sharp": "^0.32.1",
-    "tsup": "^6.7.0",
+    "tsup": "^7.0.0",
     "tsx": "^3.12.7",
     "typescript": "^5.1.3"
   },
