@@ -65589,7 +65589,7 @@
     "symbol": "VBCH",
     "decimals": 8,
     "coingeckoId": "venus-bch",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -65598,7 +65598,7 @@
     "symbol": "VBETH",
     "decimals": 8,
     "coingeckoId": "venus-beth",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -65652,7 +65652,7 @@
     "symbol": "VBTC",
     "decimals": 8,
     "coingeckoId": "venus-btc",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -65661,7 +65661,7 @@
     "symbol": "VBUSD",
     "decimals": 8,
     "coingeckoId": "venus-busd",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -65706,7 +65706,7 @@
     "symbol": "VDAI",
     "decimals": 8,
     "coingeckoId": "venus-dai",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -65715,7 +65715,7 @@
     "symbol": "VDOGE",
     "decimals": 8,
     "coingeckoId": "venus-doge",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -65733,7 +65733,7 @@
     "symbol": "VDOT",
     "decimals": 8,
     "coingeckoId": "venus-dot",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -65922,7 +65922,7 @@
     "symbol": "VETH",
     "decimals": 8,
     "coingeckoId": "venus-eth",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -65949,7 +65949,7 @@
     "symbol": "VFIL",
     "decimals": 8,
     "coingeckoId": "venus-fil",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -66237,7 +66237,7 @@
     "symbol": "VLINK",
     "decimals": 8,
     "coingeckoId": "venus-link",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -66264,7 +66264,7 @@
     "symbol": "VLTC",
     "decimals": 8,
     "coingeckoId": "venus-ltc",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -66552,7 +66552,7 @@
     "symbol": "VSXP",
     "decimals": 8,
     "coingeckoId": "venus-sxp",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -66615,7 +66615,7 @@
     "symbol": "VUSDC",
     "decimals": 8,
     "coingeckoId": "venus-usdc",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -66624,7 +66624,7 @@
     "symbol": "VUSDT",
     "decimals": 8,
     "coingeckoId": "venus-usdt",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -66660,7 +66660,7 @@
     "symbol": "VXVS",
     "decimals": 8,
     "coingeckoId": "venus-xvs",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
