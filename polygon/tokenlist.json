@@ -13,6 +13,7 @@
     "name": "BUIDL Acadamey",
     "symbol": "$bdgv",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -30,6 +31,7 @@
     "name": "IDOL",
     "symbol": "$IDOL",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -38,6 +40,7 @@
     "name": "Space Game KLAYE",
     "symbol": "$klaye",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -55,7 +58,7 @@
     "name": "MechaChain",
     "symbol": "$mecha",
     "decimals": 18,
-    "coingeckoId": "mechachain",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -64,6 +67,7 @@
     "name": "Space Game ORES",
     "symbol": "$ores",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -72,6 +76,7 @@
     "name": "Snowflake",
     "symbol": "$snow",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -197,6 +202,7 @@
     "name": "50 Keeper",
     "symbol": "50K",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -205,6 +211,7 @@
     "name": "808TA Token",
     "symbol": "808TA",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -213,6 +220,7 @@
     "name": "8Ball Finance",
     "symbol": "8BALL",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -275,6 +283,7 @@
     "name": "Aprobit",
     "symbol": "abt",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -373,7 +382,7 @@
     "name": "Adex",
     "symbol": "ADX",
     "decimals": 18,
-    "coingeckoId": "adex",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -391,6 +400,7 @@
     "name": "Aree Shards",
     "symbol": "aes",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -489,6 +499,7 @@
     "name": "AlphaKlima",
     "symbol": "AKLIMA",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -515,6 +526,7 @@
     "name": "AlchemyDAO",
     "symbol": "ALCH",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -523,7 +535,7 @@
     "name": "Alchemix",
     "symbol": "ALCX",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "alchemix",
     "wallet": true,
     "stable": false
   },
@@ -586,6 +598,7 @@
     "name": "Alpha Shiba Inu",
     "symbol": "ALPHASHIB",
     "decimals": 9,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -594,6 +607,7 @@
     "name": "Alta Finance",
     "symbol": "alta",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -656,6 +670,7 @@
     "name": "aMLP",
     "symbol": "amlp",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -664,6 +679,7 @@
     "name": "aMMF",
     "symbol": "ammf",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -681,6 +697,7 @@
     "name": "Agro-Matic",
     "symbol": "AMT",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -752,6 +769,7 @@
     "name": "Answerly",
     "symbol": "ANSR",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -769,6 +787,7 @@
     "name": "ApolloFi",
     "symbol": "apo",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -786,6 +805,7 @@
     "name": "Apreum",
     "symbol": "APU",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -803,6 +823,7 @@
     "name": "Aqar Chain",
     "symbol": "AQR",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -829,6 +850,7 @@
     "name": "Code4rena",
     "symbol": "ARENA",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -891,6 +913,7 @@
     "name": "ARTHX",
     "symbol": "ARTHX",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -908,7 +931,7 @@
     "name": "Permission",
     "symbol": "ASK",
     "decimals": 18,
-    "coingeckoId": "permission-coin",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -980,7 +1003,7 @@
     "name": "Audius",
     "symbol": "AUDIO",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "audius",
     "wallet": true,
     "stable": false
   },
@@ -1007,6 +1030,7 @@
     "name": "AuraSwap",
     "symbol": "aura",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -1033,6 +1057,7 @@
     "name": "aUSDC",
     "symbol": "ausdc",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -1104,6 +1129,7 @@
     "name": "AurusGOLD",
     "symbol": "AWG",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -1121,6 +1147,7 @@
     "name": "AurusSILVER",
     "symbol": "AWS",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -1264,6 +1291,7 @@
     "name": "Babylonia",
     "symbol": "baby",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -1272,6 +1300,7 @@
     "name": "Baby Matic",
     "symbol": "BABYMATIC",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -1298,7 +1327,7 @@
     "name": "Baked Token",
     "symbol": "BAKED",
     "decimals": 18,
-    "coingeckoId": "baked-token",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -1316,7 +1345,7 @@
     "name": "Ball Token",
     "symbol": "BALL",
     "decimals": 18,
-    "coingeckoId": "ball-token",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -1325,6 +1354,7 @@
     "name": "PolyPanda",
     "symbol": "BAMBOO",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -1396,7 +1426,7 @@
     "name": "Badger Sett Badger",
     "symbol": "bBADGER",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "badger-sett-badger",
     "wallet": true,
     "stable": false
   },
@@ -1477,6 +1507,7 @@
     "name": "Blatform",
     "symbol": "bform",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -1521,6 +1552,7 @@
     "name": "DragonBite",
     "symbol": "BITE",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -1547,6 +1579,7 @@
     "name": "BUiLDER Coin",
     "symbol": "bldr",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -1591,6 +1624,7 @@
     "name": "Black Market Gaming",
     "symbol": "BMG",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -1680,6 +1714,7 @@
     "name": "OneFortune",
     "symbol": "BOLD",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -1769,7 +1804,7 @@
     "name": "BoringDAO",
     "symbol": "BORING",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "boringdao",
     "wallet": true,
     "stable": false
   },
@@ -1796,6 +1831,7 @@
     "name": "BetaPulsarToken",
     "symbol": "BPUL",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -1804,6 +1840,7 @@
     "name": "Bribe Protocol",
     "symbol": "BRIBE",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -1830,7 +1867,7 @@
     "name": "Brazilian Digital Token",
     "symbol": "BRZ",
     "decimals": 4,
-    "coingeckoId": "brz",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -1848,6 +1885,7 @@
     "name": "Binance Smart Chain Girl",
     "symbol": "BSCGIRL",
     "decimals": 8,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -1856,7 +1894,7 @@
     "name": "Betswap.gg",
     "symbol": "BSGG",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "betswap-gg",
     "wallet": true,
     "stable": false
   },
@@ -1865,7 +1903,7 @@
     "name": "BTC 2x Flexible Leverage Index",
     "symbol": "BTC2x-FLI",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "btc-2x-flexible-leverage-index",
     "wallet": true,
     "stable": false
   },
@@ -1874,6 +1912,7 @@
     "name": "BTC 2x Flexible Leverage Index (Polygon)",
     "symbol": "BTC2X-FLI-P",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -1909,6 +1948,7 @@
     "name": "PolyBull Finance",
     "symbol": "BULL",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -1944,6 +1984,7 @@
     "name": "Binance USD (Wormhole from BSC)",
     "symbol": "BUSDBS",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -1961,7 +2002,7 @@
     "name": "BeyondFi",
     "symbol": "BYN",
     "decimals": 18,
-    "coingeckoId": "beyond-finance",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2042,6 +2083,7 @@
     "name": "Stabl.fi",
     "symbol": "cash",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2059,7 +2101,7 @@
     "name": "Cobak Token",
     "symbol": "CBK",
     "decimals": 18,
-    "coingeckoId": "cobak-token",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2068,6 +2110,7 @@
     "name": "CBOMBER",
     "symbol": "cbomber",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2094,6 +2137,7 @@
     "name": "Cypherdog Token",
     "symbol": "cdog",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2156,6 +2200,7 @@
     "name": "Cfoforum Token",
     "symbol": "CFO",
     "decimals": 6,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2164,6 +2209,7 @@
     "name": "RatAlert Casual FOOD",
     "symbol": "cfood",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2190,7 +2236,7 @@
     "name": "Crypto Gladiator Shards",
     "symbol": "CGS",
     "decimals": 18,
-    "coingeckoId": "crypto-gladiator-shards",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2253,7 +2299,7 @@
     "name": "ChartEx",
     "symbol": "CHART",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "chartex",
     "wallet": true,
     "stable": false
   },
@@ -2271,6 +2317,7 @@
     "name": "CherryPick",
     "symbol": "CHERRY",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2324,7 +2371,7 @@
     "name": "Cirus",
     "symbol": "CIRUS",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "cirus",
     "wallet": true,
     "stable": false
   },
@@ -2351,6 +2398,7 @@
     "name": "Cryptocurrency Market Index",
     "symbol": "CMI",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2386,6 +2434,7 @@
     "name": "Carbonic",
     "symbol": "co2",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2511,7 +2560,7 @@
     "name": "Cream",
     "symbol": "CREAM",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "cream-2",
     "wallet": true,
     "stable": false
   },
@@ -2619,6 +2668,7 @@
     "name": "Cube Token",
     "symbol": "CUBE",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2717,6 +2767,7 @@
     "name": "Cyber City",
     "symbol": "cybr",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2743,6 +2794,7 @@
     "name": "CZDiamond",
     "symbol": "CZDIAMOND",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2787,6 +2839,7 @@
     "name": "Hai Governance Token",
     "symbol": "DAMO",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2795,6 +2848,7 @@
     "name": "DAO1",
     "symbol": "DAO1",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2803,6 +2857,7 @@
     "name": "Darkcoin",
     "symbol": "DARK",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2829,15 +2884,16 @@
     "name": "Davos Protocol",
     "symbol": "davos",
     "decimals": 18,
-    "coingeckoId": "davos-protocol",
+    "coingeckoId": null,
     "wallet": true,
-    "stable": true
+    "stable": false
   },
   {
     "address": "0x33e02851d5a084137dc69b1a02ab2eeb7b7fe2a5",
     "name": "Deswap",
     "symbol": "DAW",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2864,6 +2920,7 @@
     "name": "Diabolo",
     "symbol": "dcash",
     "decimals": 10,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2881,6 +2938,7 @@
     "name": "PieDAO DEFI++",
     "symbol": "DEFI++",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2925,6 +2983,7 @@
     "name": "DEI Token",
     "symbol": "DEI",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2978,6 +3037,7 @@
     "name": "deUSDC",
     "symbol": "deusdc",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2995,7 +3055,7 @@
     "name": "Dexioprotocol V2",
     "symbol": "dexi",
     "decimals": 9,
-    "coingeckoId": "dexioprotocol-v2",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -3031,7 +3091,7 @@
     "name": "Digitex Futures",
     "symbol": "DGTX",
     "decimals": 18,
-    "coingeckoId": "digitex-futures-exchange",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -3112,6 +3172,7 @@
     "name": "Dogematic",
     "symbol": "DM",
     "decimals": 8,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -3138,6 +3199,7 @@
     "name": "Dreamr Platform Token",
     "symbol": "DMR",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -3146,7 +3208,7 @@
     "name": "DragonMaster Token",
     "symbol": "dmt",
     "decimals": 18,
-    "coingeckoId": "dragonmaster-token",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -3173,6 +3235,7 @@
     "name": "Doaibu",
     "symbol": "doa",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -3217,6 +3280,7 @@
     "name": "DojoFarm Finance",
     "symbol": "DOJO",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -3288,6 +3352,7 @@
     "name": "Drakoin",
     "symbol": "DRK",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -3359,6 +3424,7 @@
     "name": "Duckies",
     "symbol": "duckies",
     "decimals": 2,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -3448,7 +3514,7 @@
     "name": "EagonSwap Token",
     "symbol": "EAGON",
     "decimals": 18,
-    "coingeckoId": "eagonswap-token",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -3475,6 +3541,7 @@
     "name": "EDGE Activity",
     "symbol": "eat",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -3483,6 +3550,7 @@
     "name": "Endless Battlefield",
     "symbol": "EB",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -3491,6 +3559,7 @@
     "name": "Endless Battlefield Coin",
     "symbol": "EBC",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -3571,6 +3640,7 @@
     "name": "PolyFarm EGG",
     "symbol": "EGG",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -3588,6 +3658,7 @@
     "name": "EnkiX",
     "symbol": "ekx",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -3614,7 +3685,7 @@
     "name": "GoCrypto Token",
     "symbol": "ELI",
     "decimals": 18,
-    "coingeckoId": "eligma",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -3686,6 +3757,7 @@
     "name": "ENO",
     "symbol": "eno",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -3694,6 +3766,7 @@
     "name": "Essence of Creation",
     "symbol": "EOC",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -3720,7 +3793,7 @@
     "name": "Ethernity Chain",
     "symbol": "ERN",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "ethernity-chain",
     "wallet": true,
     "stable": false
   },
@@ -3747,6 +3820,7 @@
     "name": "Escrow Protocol",
     "symbol": "ESCROW",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -3800,6 +3874,7 @@
     "name": "Ethica",
     "symbol": "ethica",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -3808,6 +3883,7 @@
     "name": "ETNA Network",
     "symbol": "ETNA",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -3879,7 +3955,7 @@
     "name": "exeno coin",
     "symbol": "exn",
     "decimals": 18,
-    "coingeckoId": "exeno",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -3897,6 +3973,7 @@
     "name": "FrontFanz",
     "symbol": "fanz",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -3905,6 +3982,7 @@
     "name": "Foobee",
     "symbol": "FBE",
     "decimals": 4,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -3931,6 +4009,7 @@
     "name": "FreshCut Diamond",
     "symbol": "fcd",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -3957,6 +4036,7 @@
     "name": "RatAlert FastFood",
     "symbol": "ffood",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -3965,6 +4045,7 @@
     "name": "Fast Food Wolf Game",
     "symbol": "FFWOOL",
     "decimals": 9,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -3982,7 +4063,7 @@
     "name": "DeFiner",
     "symbol": "FIN",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "definer",
     "wallet": true,
     "stable": false
   },
@@ -4027,6 +4108,7 @@
     "name": "Flag Media",
     "symbol": "flag",
     "decimals": 10,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -4035,6 +4117,7 @@
     "name": "For Loot And Glory",
     "symbol": "FLAG",
     "decimals": 18,
+    "coingeckoId": "for-loot-and-glory",
     "wallet": true,
     "stable": false
   },
@@ -4052,6 +4135,7 @@
     "name": "Floyx",
     "symbol": "floyx",
     "decimals": 8,
+    "coingeckoId": "floyx-new",
     "wallet": true,
     "stable": false
   },
@@ -4078,6 +4162,7 @@
     "name": "Flycoin FLY",
     "symbol": "fly",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -4086,6 +4171,7 @@
     "name": "FLYPE DAO",
     "symbol": "flyp",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -4121,6 +4207,7 @@
     "name": "$FOLK",
     "symbol": "folk",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -4147,6 +4234,7 @@
     "name": "Footie Plus",
     "symbol": "FOOTIE",
     "decimals": 9,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -4191,7 +4279,7 @@
     "name": "Frax",
     "symbol": "FRAX",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "frax",
     "wallet": true,
     "stable": false
   },
@@ -4236,6 +4324,7 @@
     "name": "FRMx Token",
     "symbol": "FRMX",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -4253,6 +4342,7 @@
     "name": "Fruit",
     "symbol": "FRUIT",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -4351,7 +4441,7 @@
     "name": "Frax Share",
     "symbol": "FXS",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "frax-share",
     "wallet": true,
     "stable": false
   },
@@ -4414,6 +4504,7 @@
     "name": "GemBites",
     "symbol": "GBTS",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -4539,6 +4630,7 @@
     "name": "RatAlert Gourmet Food",
     "symbol": "gfood",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -4547,7 +4639,7 @@
     "name": "GamyFi Token",
     "symbol": "GFX",
     "decimals": 18,
-    "coingeckoId": "gamyfi-token",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -4556,7 +4648,7 @@
     "name": "GG Token",
     "symbol": "GGTK",
     "decimals": 18,
-    "coingeckoId": "gg-token",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -4628,6 +4720,7 @@
     "name": "Bankless DeFi Innovation Index",
     "symbol": "GMI",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -4699,6 +4792,7 @@
     "name": "Golden York",
     "symbol": "GOLDYORK",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -4725,6 +4819,7 @@
     "name": "GemPay",
     "symbol": "GPAY",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -4733,6 +4828,7 @@
     "name": "The Grand Banks",
     "symbol": "GRAND",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -4741,6 +4837,7 @@
     "name": "GrapeSwap Finance",
     "symbol": "grape",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -4767,6 +4864,7 @@
     "name": "Grow Token",
     "symbol": "GROW",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -4784,6 +4882,7 @@
     "name": "Gravis Finance",
     "symbol": "grvs",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -4801,6 +4900,7 @@
     "name": "Gamesta",
     "symbol": "GSG",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -4809,6 +4909,7 @@
     "name": "GO2E Token",
     "symbol": "gte",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -4817,6 +4918,7 @@
     "name": "Gitshock Finance",
     "symbol": "gtfx",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -4825,6 +4927,7 @@
     "name": "GTON CAPITAL",
     "symbol": "GTON",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -4869,7 +4972,7 @@
     "name": "H3RO3S",
     "symbol": "H3RO",
     "decimals": 18,
-    "coingeckoId": "h3ro3s",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -4887,6 +4990,7 @@
     "name": "Harpy Finance",
     "symbol": "HARPY",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -4895,6 +4999,7 @@
     "name": "HawkDex",
     "symbol": "HAWK",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -4930,6 +5035,7 @@
     "name": "Hkd.com Dao",
     "symbol": "hdao",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -4947,6 +5053,7 @@
     "name": "Helios Cash",
     "symbol": "HEO",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -4973,7 +5080,7 @@
     "name": "Hypersign Identity Token",
     "symbol": "HID",
     "decimals": 18,
-    "coingeckoId": "hypersign-identity-token",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -5018,6 +5125,7 @@
     "name": "Holy Knight",
     "symbol": "HOLY",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -5026,6 +5134,7 @@
     "name": "Honor Token",
     "symbol": "HONOR",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -5097,6 +5206,7 @@
     "name": "Inverse BTC Flexible Leverage Index",
     "symbol": "IBTC-FLI-P",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -5168,6 +5278,7 @@
     "name": "Index Coop - Inverse ETH Flexible Leverage Index",
     "symbol": "IETH-FLI-P",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -5194,6 +5305,7 @@
     "name": "Index Coop - Inverse MATIC Flexible Leverage Index",
     "symbol": "IMATIC-FLI-P",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -5202,6 +5314,7 @@
     "name": "Intelligent Monsters",
     "symbol": "imon",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -5282,6 +5395,7 @@
     "name": "INDESTCOIN",
     "symbol": "intd",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -5290,6 +5404,7 @@
     "name": "INTDESTCOIN",
     "symbol": "intd",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -5334,7 +5449,7 @@
     "name": "IRISnet",
     "symbol": "IRIS",
     "decimals": 6,
-    "coingeckoId": null,
+    "coingeckoId": "iris-network",
     "wallet": true,
     "stable": false
   },
@@ -5370,6 +5485,7 @@
     "name": "DefiVille Island",
     "symbol": "ISLA",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -5423,6 +5539,7 @@
     "name": "Ivory",
     "symbol": "IVORY",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -5440,6 +5557,7 @@
     "name": "JaguarSwap",
     "symbol": "JAGUAR",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -5448,6 +5566,7 @@
     "name": "JamonSwap",
     "symbol": "jamon",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -5483,6 +5602,7 @@
     "name": "Jarvis Synthetic Chinese Yuan",
     "symbol": "JCNY",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -5491,6 +5611,7 @@
     "name": "JDI Token",
     "symbol": "JDI",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -5652,6 +5773,7 @@
     "name": "Kenny Token",
     "symbol": "KENNY",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -5687,6 +5809,7 @@
     "name": "Kindly",
     "symbol": "kind",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -5794,6 +5917,7 @@
     "name": "Kolo.Market",
     "symbol": "kolo",
     "decimals": 6,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -5829,6 +5953,7 @@
     "name": "Kart Racing League",
     "symbol": "KRL",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -5855,6 +5980,7 @@
     "name": "KwikTrust",
     "symbol": "ktx",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -5863,6 +5989,7 @@
     "name": "KWAI",
     "symbol": "kwai",
     "decimals": 18,
+    "coingeckoId": "kwai",
     "wallet": true,
     "stable": false
   },
@@ -5880,7 +6007,7 @@
     "name": "Kaizen",
     "symbol": "kzen",
     "decimals": 18,
-    "coingeckoId": "kaizen",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -5898,6 +6025,7 @@
     "name": "Laika Protocol",
     "symbol": "LAIKA",
     "decimals": 9,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -5906,6 +6034,7 @@
     "name": "Vulcan Forged LAVA",
     "symbol": "lava",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -5950,6 +6079,7 @@
     "name": "AstroFarms",
     "symbol": "LEO",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -5976,6 +6106,7 @@
     "name": "Legendaryum",
     "symbol": "LGND",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6002,6 +6133,7 @@
     "name": "PolyLion",
     "symbol": "LION",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6010,6 +6142,7 @@
     "name": "Lithium",
     "symbol": "LITHIUM",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6027,6 +6160,7 @@
     "name": "LMAO Finance",
     "symbol": "LMAO",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6044,6 +6178,7 @@
     "name": "LOAD Network",
     "symbol": "LOAD",
     "decimals": 8,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6070,6 +6205,7 @@
     "name": "Kripton",
     "symbol": "LPK",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6123,7 +6259,7 @@
     "name": "LUNA (Wormhole)",
     "symbol": "LUNA",
     "decimals": 6,
-    "coingeckoId": "luna-wormhole",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6159,6 +6295,7 @@
     "name": "Matic Aave Interest Bearing DAI",
     "symbol": "MADAI",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6185,6 +6322,7 @@
     "name": "Matic Aave Interest Bearing LINK",
     "symbol": "MALINK",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6193,6 +6331,7 @@
     "name": "Malt Stablecoin V2",
     "symbol": "malt",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6201,6 +6340,7 @@
     "name": "Malt Stablecoin",
     "symbol": "MALT",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6209,6 +6349,7 @@
     "name": "Mama DAO",
     "symbol": "MAMA",
     "decimals": 9,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6226,6 +6367,7 @@
     "name": "MAS FINANCE",
     "symbol": "mas",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6252,6 +6394,7 @@
     "name": "Vmates",
     "symbol": "MATE",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6315,6 +6458,7 @@
     "name": "Matic Aave interest bearing TUSD",
     "symbol": "MATUSD",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6323,6 +6467,7 @@
     "name": "Matic Aave Interest Bearing UNI",
     "symbol": "MAUNI",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6340,6 +6485,7 @@
     "name": "Matic Aave Interest Bearing USDT",
     "symbol": "MAUSDT",
     "decimals": 6,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6348,6 +6494,7 @@
     "name": "Matic Aave Interest Bearing WETH",
     "symbol": "MAWETH",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6365,6 +6512,7 @@
     "name": "Matic Aave Interest Bearing YFI",
     "symbol": "MAYFI",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6391,6 +6539,7 @@
     "name": "mCat",
     "symbol": "MCAT",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6444,7 +6593,7 @@
     "name": "Meanfi",
     "symbol": "MEAN",
     "decimals": 6,
-    "coingeckoId": "meanfi",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6489,7 +6638,7 @@
     "name": "MEME",
     "symbol": "MEME",
     "decimals": 8,
-    "coingeckoId": null,
+    "coingeckoId": "degenerator",
     "wallet": true,
     "stable": false
   },
@@ -6516,6 +6665,7 @@
     "name": "Metagon",
     "symbol": "METAGON",
     "decimals": 9,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6524,6 +6674,7 @@
     "name": "ETH Variable Leverage Long",
     "symbol": "METHMOON",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6586,6 +6737,7 @@
     "name": "Milk",
     "symbol": "MILK",
     "decimals": 18,
+    "coingeckoId": "udder-chaos-milk",
     "wallet": true,
     "stable": false
   },
@@ -6594,6 +6746,7 @@
     "name": "Mint Marble",
     "symbol": "mim",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6638,6 +6791,7 @@
     "name": "mKitty",
     "symbol": "MKITTY",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6673,7 +6827,7 @@
     "name": "Million",
     "symbol": "MM",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "million",
     "wallet": true,
     "stable": false
   },
@@ -6700,6 +6854,7 @@
     "name": "Minereum",
     "symbol": "MNE",
     "decimals": 8,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6798,7 +6953,7 @@
     "name": "Mochi.Market",
     "symbol": "MOMA",
     "decimals": 18,
-    "coingeckoId": "mochi-market",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6843,6 +6998,7 @@
     "name": "Moss Governance",
     "symbol": "moss",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6869,6 +7025,7 @@
     "name": "Moon Owl",
     "symbol": "MOWL",
     "decimals": 9,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6877,6 +7034,7 @@
     "name": "ETHBTC 2x Long (Polygon)",
     "symbol": "MRATIOMOON",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6894,6 +7052,7 @@
     "name": "MeroeChain",
     "symbol": "MRC",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6911,7 +7070,7 @@
     "name": "The Mars",
     "symbol": "mrst",
     "decimals": 18,
-    "coingeckoId": "the-mars",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6947,6 +7106,7 @@
     "name": "MSquare Global",
     "symbol": "msq",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6973,6 +7133,7 @@
     "name": "MT Tower",
     "symbol": "mt",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6990,6 +7151,7 @@
     "name": "ETNA Metabolism",
     "symbol": "MTB",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -6998,6 +7160,7 @@
     "name": "MaticLaunch",
     "symbol": "MTCL",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -7078,6 +7241,7 @@
     "name": "MyWorld",
     "symbol": "mwt",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -7095,6 +7259,7 @@
     "name": "MyFriends",
     "symbol": "MYFRIENDS",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -7139,6 +7304,7 @@
     "name": "Nature Based Offset",
     "symbol": "nbo",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -7147,7 +7313,7 @@
     "name": "Neos Credits",
     "symbol": "NCR",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "neos-credits",
     "wallet": true,
     "stable": false
   },
@@ -7282,7 +7448,7 @@
     "name": "NFTY Token",
     "symbol": "NFTY",
     "decimals": 18,
-    "coingeckoId": "nfty-token",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -7291,6 +7457,7 @@
     "name": "ZelaaNFT [OLD]",
     "symbol": "nftz",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -7299,6 +7466,7 @@
     "name": "ZelaaNFT",
     "symbol": "nftz",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -7316,6 +7484,7 @@
     "name": "Envelop (Niftsy)",
     "symbol": "NIFTSY",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -7396,6 +7565,7 @@
     "name": "Entice",
     "symbol": "ntic",
     "decimals": 18,
+    "coingeckoId": "entice-v2",
     "wallet": true,
     "stable": false
   },
@@ -7404,6 +7574,7 @@
     "name": "Navigator",
     "symbol": "NTTC",
     "decimals": 9,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -7511,6 +7682,7 @@
     "name": "Orient",
     "symbol": "OFT",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -7600,6 +7772,7 @@
     "name": "Omega Particle",
     "symbol": "omp",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -7608,7 +7781,7 @@
     "name": "ONE",
     "symbol": "ONE",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "one",
     "wallet": true,
     "stable": false
   },
@@ -7644,7 +7817,7 @@
     "name": "Ooki",
     "symbol": "OOKI",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "ooki",
     "wallet": true,
     "stable": false
   },
@@ -7698,6 +7871,7 @@
     "name": "Optimus OPT2",
     "symbol": "opt2",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -7706,6 +7880,7 @@
     "name": "Optimus OPT3",
     "symbol": "opt3",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -7732,7 +7907,7 @@
     "name": "KlayCity ORB",
     "symbol": "ORB",
     "decimals": 18,
-    "coingeckoId": "klaycity-orb",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -7741,6 +7916,7 @@
     "name": "Orbit",
     "symbol": "orbit",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -7758,6 +7934,7 @@
     "name": "Orion Cash",
     "symbol": "orc",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -7793,6 +7970,7 @@
     "name": "GO2E OTM",
     "symbol": "otm",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -7873,6 +8051,7 @@
     "name": "SmartPad",
     "symbol": "PAD",
     "decimals": 18,
+    "coingeckoId": "smartpad-2",
     "wallet": true,
     "stable": false
   },
@@ -7881,7 +8060,7 @@
     "name": "Ripae",
     "symbol": "PAE",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "ripae",
     "wallet": true,
     "stable": false
   },
@@ -7926,6 +8105,7 @@
     "name": "Parabolic",
     "symbol": "para",
     "decimals": 9,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -7970,6 +8150,7 @@
     "name": "Webpay",
     "symbol": "pay",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -8023,6 +8204,7 @@
     "name": "PolyCake Finance",
     "symbol": "PCAKE",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -8031,6 +8213,7 @@
     "name": "Polychart",
     "symbol": "PCHART",
     "decimals": 9,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -8075,6 +8258,7 @@
     "name": "Pear",
     "symbol": "PEAR",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -8101,6 +8285,7 @@
     "name": "Penky",
     "symbol": "PENKY",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -8109,6 +8294,7 @@
     "name": "Pentagon Finance",
     "symbol": "PENT",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -8180,6 +8366,7 @@
     "name": "Polygon Hive",
     "symbol": "phive",
     "decimals": 3,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -8242,6 +8429,7 @@
     "name": "PirateP",
     "symbol": "PIRATEP",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -8268,6 +8456,7 @@
     "name": "PolkaEx",
     "symbol": "PKEX",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -8330,6 +8519,7 @@
     "name": "PolyDEX",
     "symbol": "plx",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -8347,6 +8537,7 @@
     "name": "PolyMath.Finance",
     "symbol": "PMF",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -8355,6 +8546,7 @@
     "name": "Polychain Monsters Genesis",
     "symbol": "pmlg",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -8480,6 +8672,7 @@
     "name": "PolyFi",
     "symbol": "POLYFI",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -8515,6 +8708,7 @@
     "name": "PolyPug",
     "symbol": "POLYPUG",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -8532,6 +8726,7 @@
     "name": "PolyShiba",
     "symbol": "POLYSHIBA",
     "decimals": 9,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -8540,6 +8735,7 @@
     "name": "PolyStar",
     "symbol": "POLYSTAR",
     "decimals": 9,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -8557,6 +8753,7 @@
     "name": "Popop World",
     "symbol": "pop",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -8628,6 +8825,7 @@
     "name": "Polygon Parrot Egg",
     "symbol": "PPEGG",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -8636,6 +8834,7 @@
     "name": "pQBERT",
     "symbol": "PQBERT",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -8644,6 +8843,7 @@
     "name": "Pray",
     "symbol": "pray",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -8652,7 +8852,7 @@
     "name": "PRCY Coin",
     "symbol": "PRCY",
     "decimals": 8,
-    "coingeckoId": "prcy-coin",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -8661,6 +8861,7 @@
     "name": "Prosperity Gold",
     "symbol": "prgd",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -8669,6 +8870,7 @@
     "name": "Prism Network",
     "symbol": "PRISM",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -8722,6 +8924,7 @@
     "name": "Pryz",
     "symbol": "PRYZ",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -8739,6 +8942,7 @@
     "name": "Promo Swipe Coin",
     "symbol": "PSC",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -8756,6 +8960,7 @@
     "name": "pSPACE",
     "symbol": "PSPACE",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -8782,6 +8987,7 @@
     "name": "CryptoPunt",
     "symbol": "PUN",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -8880,6 +9086,7 @@
     "name": "Quix Defi Index",
     "symbol": "QDI",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -8951,6 +9158,7 @@
     "name": "PolyQuokka Finance",
     "symbol": "QUOKK",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -9004,6 +9212,7 @@
     "name": "Rail Polygon",
     "symbol": "railpoly",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -9075,6 +9284,7 @@
     "name": "Robinos",
     "symbol": "RBN",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -9164,6 +9374,7 @@
     "name": "REMI",
     "symbol": "remi",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -9226,6 +9437,7 @@
     "name": "Realms of Ethernity",
     "symbol": "reth",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -9306,6 +9518,7 @@
     "name": "Richverse",
     "symbol": "riv",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -9476,6 +9689,7 @@
     "name": "polySAFU",
     "symbol": "SAFU",
     "decimals": 9,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -9484,6 +9698,7 @@
     "name": "Polysage",
     "symbol": "SAGE",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -9510,6 +9725,7 @@
     "name": "SandMan",
     "symbol": "SANDMAN",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -9536,6 +9752,7 @@
     "name": "SeedBox",
     "symbol": "sbx",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -9544,6 +9761,7 @@
     "name": "ScarpaCoin",
     "symbol": "sc",
     "decimals": 9,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -9561,6 +9779,7 @@
     "name": "Carbonic Shares",
     "symbol": "sco2",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -9569,6 +9788,7 @@
     "name": "Scoobi Doge",
     "symbol": "SCOOBI",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -9622,6 +9842,7 @@
     "name": "SafeDollar Shares",
     "symbol": "SDS",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -9675,6 +9896,7 @@
     "name": "Sunflower Farm",
     "symbol": "SFF",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -9692,6 +9914,7 @@
     "name": "StableFund USD",
     "symbol": "sfusd",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -9709,6 +9932,7 @@
     "name": "StableGaj",
     "symbol": "SGAJ",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -9780,6 +10004,7 @@
     "name": "SIKKA",
     "symbol": "sikka",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -9797,6 +10022,7 @@
     "name": "Simba Empire",
     "symbol": "SIM",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -9823,6 +10049,7 @@
     "name": "Staked Klima",
     "symbol": "SKLIMA",
     "decimals": 9,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -9849,6 +10076,7 @@
     "name": "SNKRZ",
     "symbol": "skz",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -9866,6 +10094,7 @@
     "name": "Smoke",
     "symbol": "smoke",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -9964,7 +10193,7 @@
     "name": "SOLAR",
     "symbol": "SOLAR",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "solar",
     "wallet": true,
     "stable": false
   },
@@ -9973,6 +10202,7 @@
     "name": "Beatify",
     "symbol": "SONG",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -9990,6 +10220,7 @@
     "name": "The Space",
     "symbol": "space",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -9998,6 +10229,7 @@
     "name": "Space Rebase",
     "symbol": "space",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -10042,7 +10274,7 @@
     "name": "Sphere Finance",
     "symbol": "SPHERE",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "sphere-finance",
     "wallet": true,
     "stable": false
   },
@@ -10105,6 +10337,7 @@
     "name": "PolyVolve Finance",
     "symbol": "SPR",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -10122,6 +10355,7 @@
     "name": "SpyritCoin",
     "symbol": "SPYRIT",
     "decimals": 5,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -10130,6 +10364,7 @@
     "name": "SpaceRat",
     "symbol": "SRAT",
     "decimals": 9,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -10147,6 +10382,7 @@
     "name": "Safeswap",
     "symbol": "SSGT",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -10155,7 +10391,7 @@
     "name": "Safeswap Token",
     "symbol": "SSGTX",
     "decimals": 18,
-    "coingeckoId": "safeswap-token",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -10182,6 +10418,7 @@
     "name": "Stacker Ventures",
     "symbol": "STACK",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -10262,6 +10499,7 @@
     "name": "SuperBid",
     "symbol": "SUPERBID",
     "decimals": 18,
+    "coingeckoId": "superbid",
     "wallet": true,
     "stable": false
   },
@@ -10288,6 +10526,7 @@
     "name": "Summoner",
     "symbol": "sut",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -10296,6 +10535,7 @@
     "name": "SwapMatic",
     "symbol": "SWAM",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -10304,6 +10544,7 @@
     "name": "Blackswan",
     "symbol": "SWAN",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -10348,6 +10589,7 @@
     "name": "SW DAO",
     "symbol": "SWD",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -10365,7 +10607,7 @@
     "name": "StakeWise",
     "symbol": "SWISE",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "stakewise",
     "wallet": true,
     "stable": false
   },
@@ -10428,6 +10670,7 @@
     "name": "Tagbond",
     "symbol": "TAG",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -10445,6 +10688,7 @@
     "name": "Tako Token",
     "symbol": "TAKO",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -10453,6 +10697,7 @@
     "name": "Tanks",
     "symbol": "TANKS",
     "decimals": 18,
+    "coingeckoId": "tanks",
     "wallet": true,
     "stable": false
   },
@@ -10461,6 +10706,7 @@
     "name": "Tapmydata",
     "symbol": "TAP",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -10469,6 +10715,7 @@
     "name": "ToolApe",
     "symbol": "TAPE",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -10477,6 +10724,7 @@
     "name": "TattooMoney",
     "symbol": "tat2",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -10485,6 +10733,7 @@
     "name": "Tazor",
     "symbol": "tazor",
     "decimals": 9,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -10502,7 +10751,7 @@
     "name": "The Crypto Prophecies",
     "symbol": "TCP",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "the-crypto-prophecies",
     "wallet": true,
     "stable": false
   },
@@ -10556,6 +10805,7 @@
     "name": "tEXO",
     "symbol": "TEXO",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -10591,6 +10841,7 @@
     "name": "Infinite Arcade TIC",
     "symbol": "tic",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -10635,6 +10886,7 @@
     "name": "TLChain",
     "symbol": "tlc",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -10643,7 +10895,7 @@
     "name": "Trade Leaf",
     "symbol": "tlf",
     "decimals": 6,
-    "coingeckoId": "trade-leaf",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -10679,6 +10931,7 @@
     "name": "TOMI",
     "symbol": "TOMI",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -10714,7 +10967,7 @@
     "name": "Tornado Cash",
     "symbol": "TORN",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "tornado-cash",
     "wallet": true,
     "stable": false
   },
@@ -10723,7 +10976,7 @@
     "name": "DragonMaster",
     "symbol": "totem",
     "decimals": 6,
-    "coingeckoId": "dragonmaster-totem",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -10741,6 +10994,7 @@
     "name": "Tower Finance",
     "symbol": "TOWER",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -10767,7 +11021,7 @@
     "name": "Tellor",
     "symbol": "TRB",
     "decimals": 18,
-    "coingeckoId": "tellor",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -10785,6 +11039,7 @@
     "name": "The Realm Defenders",
     "symbol": "TRD",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -10793,6 +11048,7 @@
     "name": "Tierra Meta",
     "symbol": "trmt",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -10801,6 +11057,7 @@
     "name": "Trodl",
     "symbol": "TRO",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -10836,7 +11093,7 @@
     "name": "Standard Token",
     "symbol": "TST",
     "decimals": 18,
-    "coingeckoId": "standard-token",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -10863,6 +11120,7 @@
     "name": "Tower USD",
     "symbol": "TWR",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -10898,6 +11156,7 @@
     "name": "tPLATINUM",
     "symbol": "txpt",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -10915,6 +11174,7 @@
     "name": "Universal Basic Offset",
     "symbol": "ubo",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -10986,6 +11246,7 @@
     "name": "YouLiveEveryday",
     "symbol": "ule",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -11030,6 +11291,7 @@
     "name": "UMI",
     "symbol": "UMI",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -11083,6 +11345,7 @@
     "name": "PolyUnity Finance",
     "symbol": "UNITY",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -11127,7 +11390,7 @@
     "name": "UpOnly Token",
     "symbol": "upo",
     "decimals": 18,
-    "coingeckoId": "uponly-token",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -11163,6 +11426,7 @@
     "name": "USD Coin (Wormhole)",
     "symbol": "USDCSO",
     "decimals": 6,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -11198,6 +11462,7 @@
     "name": "Real USD",
     "symbol": "usdr",
     "decimals": 9,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -11350,6 +11615,7 @@
     "name": "PolyVertex",
     "symbol": "VERT",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -11367,6 +11633,7 @@
     "name": "START Vesting",
     "symbol": "VEST",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -11429,7 +11696,7 @@
     "name": "VOLTAGE",
     "symbol": "VOLT",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "voltage",
     "wallet": true,
     "stable": false
   },
@@ -11465,6 +11732,7 @@
     "name": "VRJAM",
     "symbol": "vrj",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -11500,7 +11768,7 @@
     "name": "The World State",
     "symbol": "w$c",
     "decimals": 18,
-    "coingeckoId": "the-world-state",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -11527,6 +11795,7 @@
     "name": "WapSwap Finance",
     "symbol": "WAP",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -11553,6 +11822,7 @@
     "name": "Waru",
     "symbol": "waru",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -11579,6 +11849,7 @@
     "name": "Wrapped Avian",
     "symbol": "wavn",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -11650,7 +11921,7 @@
     "name": "Wrapped CRO",
     "symbol": "WCRO",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "wrapped-cro",
     "wallet": true,
     "stable": false
   },
@@ -11695,7 +11966,7 @@
     "name": "Weble Ecosystem Token",
     "symbol": "WET",
     "decimals": 18,
-    "coingeckoId": "weble-ecosystem-token",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -11731,6 +12002,7 @@
     "name": "Wallfair",
     "symbol": "WFAIR",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -11766,6 +12038,7 @@
     "name": "WHEY",
     "symbol": "WHEY",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -11783,7 +12056,7 @@
     "name": "WIFI",
     "symbol": "wifi",
     "decimals": 18,
-    "coingeckoId": "wifi",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -11810,6 +12083,7 @@
     "name": "WIVA",
     "symbol": "WIVA",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -11908,7 +12182,7 @@
     "name": "Wrapped ONE",
     "symbol": "WONE",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "wrapped-one",
     "wallet": true,
     "stable": false
   },
@@ -11980,6 +12254,7 @@
     "name": "Wallstreetbets.com",
     "symbol": "WSB",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -11988,6 +12263,7 @@
     "name": "WSB.sh",
     "symbol": "WSBT",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -12059,6 +12335,7 @@
     "name": "XBX",
     "symbol": "XBX",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -12121,7 +12398,7 @@
     "name": "Xend",
     "symbol": "XEND",
     "decimals": 18,
-    "coingeckoId": "xend-finance",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -12148,7 +12425,7 @@
     "name": "Project Inverse",
     "symbol": "XIV",
     "decimals": 18,
-    "coingeckoId": "project-inverse",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -12202,6 +12479,7 @@
     "name": "XPOP",
     "symbol": "xpop",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -12210,7 +12488,7 @@
     "name": "Persistence",
     "symbol": "XPRT",
     "decimals": 6,
-    "coingeckoId": null,
+    "coingeckoId": "persistence",
     "wallet": true,
     "stable": false
   },
@@ -12219,6 +12497,7 @@
     "name": "RougeCoin",
     "symbol": "XRGE",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -12254,6 +12533,7 @@
     "name": "xShare",
     "symbol": "xshare",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -12262,6 +12542,7 @@
     "name": "SpaceShipX",
     "symbol": "xship",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -12342,6 +12623,7 @@
     "name": "Yaan Launchpad",
     "symbol": "YAAN",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -12350,7 +12632,7 @@
     "name": "YAM",
     "symbol": "YAM",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "yam-2",
     "wallet": true,
     "stable": false
   },
@@ -12377,6 +12659,7 @@
     "name": "Polycorn Finance",
     "symbol": "YCORN",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -12403,7 +12686,7 @@
     "name": "PolyYeld Token",
     "symbol": "YELD",
     "decimals": 18,
-    "coingeckoId": "polyyeld-token",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -12421,7 +12704,7 @@
     "name": "yearn.finance",
     "symbol": "YFI",
     "decimals": 18,
-    "coingeckoId": null,
+    "coingeckoId": "yearn-finance",
     "wallet": true,
     "stable": false
   },
@@ -12439,7 +12722,7 @@
     "name": "PolyYield Token",
     "symbol": "YIELD",
     "decimals": 18,
-    "coingeckoId": "polyyield-token",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -12457,6 +12740,7 @@
     "name": "PolyYork",
     "symbol": "YORK",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -12483,7 +12767,7 @@
     "name": "0Chain",
     "symbol": "ZCN",
     "decimals": 10,
-    "coingeckoId": "0chain",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -12546,6 +12830,7 @@
     "name": "Zenko",
     "symbol": "ZNKO",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -12554,7 +12839,7 @@
     "name": "ZRO",
     "symbol": "ZRO",
     "decimals": 18,
-    "coingeckoId": "zro",
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -12572,6 +12857,7 @@
     "name": "Zerogoki USD",
     "symbol": "ZUSD",
     "decimals": 18,
+    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
