@@ -2229,7 +2229,7 @@
     "symbol": "glp",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
