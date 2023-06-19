@@ -68,7 +68,7 @@
     "symbol": "ALINK",
     "decimals": 18,
     "coingeckoId": "aave-link",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -113,7 +113,7 @@
     "symbol": "ASUSD",
     "decimals": 18,
     "coingeckoId": "aave-susd",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -122,7 +122,7 @@
     "symbol": "AUSDC",
     "decimals": 6,
     "coingeckoId": "aave-usdc",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -149,7 +149,7 @@
     "symbol": "AWBTC",
     "decimals": 8,
     "coingeckoId": "aave-wbtc",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {

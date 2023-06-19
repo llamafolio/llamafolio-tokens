@@ -320,7 +320,7 @@
     "symbol": "ACRV",
     "decimals": 18,
     "coingeckoId": "aave-crv",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -554,7 +554,7 @@
     "symbol": "ALINK",
     "decimals": 18,
     "coingeckoId": "aave-link",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -626,7 +626,7 @@
     "symbol": "AMAAVE",
     "decimals": 18,
     "coingeckoId": "aave-polygon-aave",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -653,7 +653,7 @@
     "symbol": "AMDAI",
     "decimals": 18,
     "coingeckoId": "aave-polygon-dai",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -707,7 +707,7 @@
     "symbol": "AMUSDC",
     "decimals": 6,
     "coingeckoId": "aave-polygon-usdc",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -716,7 +716,7 @@
     "symbol": "AMUSDT",
     "decimals": 6,
     "coingeckoId": "aave-polygon-usdt",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -725,7 +725,7 @@
     "symbol": "AMWBTC",
     "decimals": 8,
     "coingeckoId": "aave-polygon-wbtc",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -734,7 +734,7 @@
     "symbol": "AMWETH",
     "decimals": 18,
     "coingeckoId": "aave-polygon-weth",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -1067,7 +1067,7 @@
     "symbol": "AUSDC",
     "decimals": 6,
     "coingeckoId": "aave-usdc",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -1112,7 +1112,7 @@
     "symbol": "AWBTC",
     "decimals": 8,
     "coingeckoId": "aave-wbtc",
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
