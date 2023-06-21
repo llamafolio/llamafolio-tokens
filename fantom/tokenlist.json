@@ -1887,7 +1887,7 @@
     "symbol": "GETH",
     "decimals": 18,
     "coingeckoId": null,
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -1905,7 +1905,7 @@
     "symbol": "GFUSDT",
     "decimals": 6,
     "coingeckoId": null,
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
@@ -2049,7 +2049,7 @@
     "symbol": "GWBTC",
     "decimals": 8,
     "coingeckoId": null,
-    "wallet": true,
+    "wallet": false,
     "stable": false
   },
   {
