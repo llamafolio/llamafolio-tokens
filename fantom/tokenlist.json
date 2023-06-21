@@ -732,7 +732,53 @@
     "name": "Gelato Network Token",
     "symbol": "GEL",
     "decimals": 18,
+    "coingeckoId": "gelato",
     "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x68efc4716507709691d5e7ad9906a44fabcdb1ca",
+    "name": "Mine Empire",
+    "symbol": "GEM",
+    "decimals": 18,
+    "coingeckoId": "mine-empire",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x1e2a499faefb88b2d085d7036f3f7895542b09de",
+    "name": "GemMine",
+    "symbol": "GEMMINE",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x25c130b2624cf12a4ea30143ef50c5d68cefa22f",
+    "name": "Geist ETH",
+    "symbol": "GETH",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0xe794e5cff1367bc06b6661ea4472e4919cb00186",
+    "name": "Ghost Farmer Capital",
+    "symbol": "GFC",
+    "decimals": 9,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x940f41f0ec9ba1a34cf001cc03347ac092f5f6b5",
+    "name": "Geist fUSDT",
+    "symbol": "GFUSDT",
+    "decimals": 6,
+    "coingeckoId": null,
+    "wallet": false,
     "stable": false
   },
   {
@@ -764,6 +810,52 @@
     "name": "GSCARAB",
     "symbol": "GSCARAB",
     "decimals": 18,
+    "coingeckoId": "gscarab",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x352a66ad14db0721ed5c6786fb8d8201e45f3d9b",
+    "name": "GOMBSHARE",
+    "symbol": "GSHARE",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x306e974624511e3937f37e551c5736f1b2ad21eb",
+    "name": "Gitshock Finance",
+    "symbol": "gtfx",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xc1be9a4d5d45beeacae296a7bd5fadbfc14602c4",
+    "name": "Graviton",
+    "symbol": "GTON",
+    "decimals": 18,
+    "coingeckoId": "gton-capital",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x38aca5484b8603373acc6961ecd57a6a594510a3",
+    "name": "Geist WBTC",
+    "symbol": "GWBTC",
+    "decimals": 8,
+    "coingeckoId": null,
+    "wallet": false,
+    "stable": false
+  },
+  {
+    "address": "0x20ac818b34a60117e12fff5be6abbef68bf32f6d",
+    "name": "HAM",
+    "symbol": "HAM",
+    "decimals": 18,
+    "coingeckoId": "hamster-money",
     "wallet": true,
     "stable": false
   },
