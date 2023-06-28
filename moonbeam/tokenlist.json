@@ -4,7 +4,6 @@
     "name": "Alium Finance",
     "symbol": "ALM",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -12,7 +11,6 @@
     "name": "Athos Finance",
     "symbol": "ATH",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -20,7 +18,6 @@
     "name": "Avalanche",
     "symbol": "AVAX",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -28,7 +25,6 @@
     "name": "Axelar",
     "symbol": "AXL",
     "decimals": 6,
-    "wallet": true,
     "stable": false
   },
   {
@@ -36,7 +32,6 @@
     "name": "axlUSDC",
     "symbol": "AXLUSDC",
     "decimals": 6,
-    "wallet": true,
     "stable": false
   },
   {
@@ -44,7 +39,6 @@
     "name": "Binance USD",
     "symbol": "BUSD",
     "decimals": 18,
-    "wallet": true,
     "stable": true
   },
   {
@@ -52,7 +46,6 @@
     "name": "USD Coin   Celer",
     "symbol": "CEUSDC",
     "decimals": 6,
-    "wallet": true,
     "stable": false
   },
   {
@@ -60,7 +53,6 @@
     "name": "Dai",
     "symbol": "DAI",
     "decimals": 18,
-    "wallet": true,
     "stable": true
   },
   {
@@ -68,7 +60,6 @@
     "name": "Energyfi",
     "symbol": "EFT",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -76,7 +67,6 @@
     "name": "Ethereum",
     "symbol": "ETH",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -84,7 +74,6 @@
     "name": "Solarflare",
     "symbol": "FLARE",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -92,7 +81,6 @@
     "name": "Frax",
     "symbol": "FRAX",
     "decimals": 18,
-    "wallet": true,
     "stable": true
   },
   {
@@ -100,7 +88,6 @@
     "name": "Frax Ether",
     "symbol": "FRXETH",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -108,7 +95,6 @@
     "name": "BeamSwap",
     "symbol": "GLINT",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -116,7 +102,6 @@
     "name": "Polygon",
     "symbol": "MATIC",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -124,7 +109,6 @@
     "name": "MAI",
     "symbol": "MIMATIC",
     "decimals": 18,
-    "wallet": true,
     "stable": true
   },
   {
@@ -132,7 +116,6 @@
     "name": "Raresama",
     "symbol": "POOP",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -140,7 +123,6 @@
     "name": "Statik",
     "symbol": "STATIK",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -148,7 +130,6 @@
     "name": "StellaSwap",
     "symbol": "STELLA",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -156,7 +137,6 @@
     "name": "Thorus",
     "symbol": "THO",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -164,7 +144,6 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "wallet": true,
     "stable": true
   },
   {
@@ -172,7 +151,6 @@
     "name": "Tether",
     "symbol": "USDT",
     "decimals": 6,
-    "wallet": true,
     "stable": true
   },
   {
@@ -180,7 +158,6 @@
     "name": "Wrapped Bitcoin",
     "symbol": "WBTC",
     "decimals": 8,
-    "wallet": true,
     "stable": false
   },
   {
@@ -188,7 +165,6 @@
     "name": "Moonwell Artemis",
     "symbol": "WELL",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -196,7 +172,6 @@
     "name": "WETH",
     "symbol": "WETH",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -204,7 +179,6 @@
     "name": "Wrapped Moonbeam",
     "symbol": "WGLMR",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -212,7 +186,6 @@
     "name": "xcDOT",
     "symbol": "XCDOT",
     "decimals": 10,
-    "wallet": true,
     "stable": false
   },
   {
@@ -220,7 +193,6 @@
     "name": "Binance",
     "symbol": "BNB",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -228,7 +200,6 @@
     "name": "Fantom",
     "symbol": "FTM",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   }
 ]

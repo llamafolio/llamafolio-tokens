@@ -22,7 +22,7 @@ async function main() {
   const chains = (process.argv[2] ? [process.argv[2]] : chainNames) as Array<Chain>
 
   for (const chain of chains) {
-    const tokens = tokensChins[chain] as Array<Token & { coingeckoId: string }>
+    const tokens = tokensChins[chain] as Array<Token & { coingeckoId: string; wallet: boolean }>
 
     const llamaPriceChain = chain === 'avalanche' ? 'avax' : chain
     const withPriceId = tokens.map(({ address, ...token }) => ({
@@ -43,7 +43,7 @@ async function main() {
      */
     const filtered = tokens
       .filter(({ address, wallet }) => returnedAddresses.includes(address) && wallet !== false)
-      .map(({ coingeckoId, ...token }) => token)
+      .map(({ coingeckoId, wallet, ...token }) => token)
 
     console.log({ [chain]: { lengthBefore: tokens.length, lengthAfter: filtered.length } })
 
