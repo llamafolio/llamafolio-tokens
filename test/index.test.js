@@ -15,4 +15,10 @@ describe('@llamafolio/tokens', () => {
   it('should have an array of > 0 tokens in arbitrum', () => {
     assert(tokens.chains.arbitrum.length > 0)
   })
+
+  it('should retrieve token with symbol "DAI" from "ethereum"', () => {
+    const token = tokens.getToken('ethereum', '0x6b175474e89094c44da98b954eedeac495271d0f')
+    assert(typeof token === 'object')
+    assert(token.symbol === 'DAI')
+  })
 })
