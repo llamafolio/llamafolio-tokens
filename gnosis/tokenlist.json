@@ -4,7 +4,6 @@
     "name": "Wrapped XDAI",
     "symbol": "WXDAI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -12,7 +11,6 @@
     "name": "0xMonero from Ethereum",
     "symbol": "0xMR",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -20,7 +18,6 @@
     "name": "Agave",
     "symbol": "AGVE",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -28,7 +25,6 @@
     "name": "API3",
     "symbol": "API3",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -36,7 +32,6 @@
     "name": "Badger on xDai",
     "symbol": "BADGER",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -44,7 +39,6 @@
     "name": "Balancer on xDai",
     "symbol": "BAL",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -52,7 +46,6 @@
     "name": "BarnBridge",
     "symbol": "BOND",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -60,7 +53,6 @@
     "name": "Bright",
     "symbol": "BRIGHT",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -68,7 +60,6 @@
     "name": "BitcoinBR",
     "symbol": "BTCBR",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -76,7 +67,6 @@
     "name": "BUSD Token from BSC",
     "symbol": "BUSD",
     "decimals": 18,
-    "wallet": true,
     "stable": true
   },
   {
@@ -84,7 +74,6 @@
     "name": "BZZ from Ethereum",
     "symbol": "BZZ",
     "decimals": 16,
-    "wallet": true,
     "stable": false
   },
   {
@@ -92,7 +81,6 @@
     "name": "Circuits of Value V2",
     "symbol": "COVAL",
     "decimals": 8,
-    "wallet": true,
     "stable": false
   },
   {
@@ -100,7 +88,6 @@
     "name": "CoW Protocol Token from Mainnet",
     "symbol": "COW",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -108,7 +95,6 @@
     "name": "Dai Stablecoin on xDai",
     "symbol": "DAI",
     "decimals": 18,
-    "wallet": true,
     "stable": true
   },
   {
@@ -116,7 +102,6 @@
     "name": "Streamr DATA on xDai",
     "symbol": "DATA",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -124,7 +109,6 @@
     "name": "DeHive.finance",
     "symbol": "DHV",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -132,7 +116,6 @@
     "name": "Decentralized Insurance Protocol on xDai",
     "symbol": "DIP",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -140,7 +123,6 @@
     "name": "Donut on xDai",
     "symbol": "DONUT",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -148,7 +130,6 @@
     "name": "DefiPulse Index from Ethereum",
     "symbol": "DPI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -156,7 +137,6 @@
     "name": "Unit Protocol",
     "symbol": "DUCK",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -164,7 +144,6 @@
     "name": "DXdao from Ethereum",
     "symbol": "DXD",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -172,7 +151,6 @@
     "name": "Elk",
     "symbol": "ELK",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -180,7 +158,6 @@
     "name": "EsportsRef",
     "symbol": "ESR",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -188,7 +165,6 @@
     "name": "Ethix on xDai",
     "symbol": "ETHIX",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -196,7 +172,6 @@
     "name": "Wrapped ETHO",
     "symbol": "ETHO",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -204,7 +179,6 @@
     "name": "Energy Web Token Bridged on xDai",
     "symbol": "EWTB",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -212,7 +186,6 @@
     "name": "FOX",
     "symbol": "FOX",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -220,7 +193,6 @@
     "name": "Freedom Reserve on xDai",
     "symbol": "FR",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -228,7 +200,6 @@
     "name": "Own a fraction",
     "symbol": "FRACTION",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -236,7 +207,6 @@
     "name": "Giveth from Mainnet",
     "symbol": "GIV",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -244,7 +214,6 @@
     "name": "Gnosis on xDai",
     "symbol": "GNO",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -252,7 +221,6 @@
     "name": "Haus",
     "symbol": "HAUS",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -260,7 +228,6 @@
     "name": "hiveWater",
     "symbol": "hivewater",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -268,7 +235,6 @@
     "name": "Honey",
     "symbol": "HNY",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -276,7 +242,6 @@
     "name": "Hop Protocol",
     "symbol": "HOP",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -284,7 +249,6 @@
     "name": "HOPR Token on xDai",
     "symbol": "HOPR",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -292,7 +256,6 @@
     "name": "Jarvis Synthetic Swiss Franc",
     "symbol": "jCHF",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -300,7 +263,6 @@
     "name": "Jarvis Synthetic Euro",
     "symbol": "jEUR",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -308,7 +270,6 @@
     "name": "JPY Coin on xDai",
     "symbol": "JPYC",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -316,7 +277,6 @@
     "name": "JPY Coin",
     "symbol": "JPYC",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -324,7 +284,6 @@
     "name": "miMatic",
     "symbol": "MAI",
     "decimals": 18,
-    "wallet": true,
     "stable": true
   },
   {
@@ -332,7 +291,6 @@
     "name": "MEME on xDai",
     "symbol": "MEME",
     "decimals": 8,
-    "wallet": true,
     "stable": false
   },
   {
@@ -340,7 +298,6 @@
     "name": "Minerva Wallet SuperToken",
     "symbol": "MIVA",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -348,7 +305,6 @@
     "name": "MtPelerin Shares",
     "symbol": "MPS",
     "decimals": 0,
-    "wallet": true,
     "stable": false
   },
   {
@@ -356,7 +312,6 @@
     "name": "Panvala pan on xDai",
     "symbol": "PAN",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -364,7 +319,6 @@
     "name": "Perpetual on xDai",
     "symbol": "PERP",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -372,7 +326,6 @@
     "name": "Pinakion on xDai",
     "symbol": "PNK",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -380,7 +333,6 @@
     "name": "Particle",
     "symbol": "PRTCLE",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -388,7 +340,6 @@
     "name": "Raid Guild Token from Ethereum",
     "symbol": "RAID",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -396,7 +347,6 @@
     "name": "RealToken S 10024-10028 Appoline St Detroit MI",
     "symbol": "REALTOKEN-10024-APPOLINE-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -404,7 +354,6 @@
     "name": "RealToken S 15048 Freeland St Detroit MI",
     "symbol": "REALTOKEN-15048-FREELAND-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -412,7 +361,6 @@
     "name": "RealToken S 15634 Liberal St Detroit MI",
     "symbol": "REALTOKEN-15634-LIBERAL-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -420,7 +368,6 @@
     "name": "RealToken S 16200 Fullerton Ave Detroit MI",
     "symbol": "REALTOKEN-16200-FULLERTON-AVE-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -428,7 +375,6 @@
     "name": "RealToken S 18900 Mansfield St Detroit MI",
     "symbol": "REALTOKEN-18900-MANSFIELD-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -436,7 +382,6 @@
     "name": "RealToken S 20200 Lesure St Detroit MI",
     "symbol": "REALTOKEN-20200-LESURE-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -444,7 +389,6 @@
     "name": "RealToken S 25097 Andover Dr Dearborn MI",
     "symbol": "REALTOKEN-25097-ANDOVER-DRIVE-DEARBORN-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -452,7 +396,6 @@
     "name": "RealToken S 272 N.E. 42nd Court Deerfield Beach FL",
     "symbol": "REALTOKEN-272-NE42nd-COURT-DEERFIELDBEACH-FL",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -460,7 +403,6 @@
     "name": "RealToken S 5942 Audubon Rd Detroit MI",
     "symbol": "REALTOKEN-5942-AUDUBON-RD-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -468,7 +410,6 @@
     "name": "RealToken S 9336 Patton St Detroit MI",
     "symbol": "REALTOKEN-9336-PATTON-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -476,7 +417,6 @@
     "name": "RealToken S 10084 Grayton St Detroit MI",
     "symbol": "REALTOKEN-S-10084-GRAYTON-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -484,7 +424,6 @@
     "name": "RealToken S 10604 Somerset Ave MI",
     "symbol": "REALTOKEN-S-10604-SOMERSET-AVE-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -492,7 +431,6 @@
     "name": "RealToken S 10612 Somerset Ave Detroit MI",
     "symbol": "REALTOKEN-S-10612-SOMERSET-AVE-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -500,7 +438,6 @@
     "name": "RealToken S 10616 McKinney St Detroit MI",
     "symbol": "REALTOKEN-S-10616-McKINNEY-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -508,7 +445,6 @@
     "name": "RealToken S 10617 Hathaway Ave Cleveland OH",
     "symbol": "REALTOKEN-S-10617-HATHAWAY-AVE-CLEVELAND-OH",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -516,7 +452,6 @@
     "name": "RealToken S 10629 McKinney St Detroit MI",
     "symbol": "REALTOKEN-S-10629-MCKINNEY-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -524,7 +459,6 @@
     "name": "RealToken S 10639 Stratman St Detroit MI",
     "symbol": "REALTOKEN-S-10639-STRATMAN-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -532,7 +466,6 @@
     "name": "RealToken S 10700 Whittier Ave Detroit MI",
     "symbol": "REALTOKEN-S-10700-WHITTIER-AVE-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -540,7 +473,6 @@
     "name": "RealToken S 11078 Longview St Detroit MI",
     "symbol": "REALTOKEN-S-11078-LONGVIEW-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -548,7 +480,6 @@
     "name": "RealToken S 11078 Wayburn St Detroit MI",
     "symbol": "REALTOKEN-S-11078-WAYBURN-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -556,7 +487,6 @@
     "name": "RealToken S 11201 College St Detroit MI",
     "symbol": "REALTOKEN-S-11201-COLLEGE-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -564,7 +494,6 @@
     "name": "RealToken S 11300 Roxbury St Detroit MI",
     "symbol": "REALTOKEN-S-11300-ROXBURY-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -572,7 +501,6 @@
     "name": "RealToken S 11653 Nottingham Rd Detroit MI",
     "symbol": "REALTOKEN-S-11653-NOTTINGHAM-RD-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -580,7 +508,6 @@
     "name": "RealToken S 11957 Olga St Detroit MI",
     "symbol": "REALTOKEN-S-11957-OLGA-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -588,7 +515,6 @@
     "name": "RealToken S 12334 Lansdowne St Detroit MI",
     "symbol": "REALTOKEN-S-12334-LANSDOWNE-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -596,7 +522,6 @@
     "name": "RealToken S 12405 Santa Rosa Dr Detroit MI",
     "symbol": "REALTOKEN-S-12405-SANTA-ROSA-DR-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -604,7 +529,6 @@
     "name": "RealToken S 12409 Whitehill St Detroit MI",
     "symbol": "REALTOKEN-S-12409-WHITEHILL-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -612,7 +536,6 @@
     "name": "RealToken S 1244 S. Avers ST Chicago IL",
     "symbol": "REALTOKEN-S-1244-S.AVERS-ST-CHICAGO-IL",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -620,7 +543,6 @@
     "name": "RealToken S 12866 Lauder St Detroit MI",
     "symbol": "REALTOKEN-S-12866-LAUDER-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -628,7 +550,6 @@
     "name": "RealToken S 13045 Wade St Detroit MI",
     "symbol": "REALTOKEN-S-13045-WADE-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -636,7 +557,6 @@
     "name": "RealToken S 13114 Glenfield Ave Detroit MI",
     "symbol": "REALTOKEN-S-13114-GLENFIELD-AVE-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -644,7 +564,6 @@
     "name": "RealToken S 13116 Kilbourne Ave Detroit MI",
     "symbol": "REALTOKEN-S-13116-KILBOURNE-AVE-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -652,7 +571,6 @@
     "name": "RealToken S 13895 Saratoga St Detroit MI",
     "symbol": "REALTOKEN-S-13895-SARATOGA-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -660,7 +578,6 @@
     "name": "RealToken S 13991 Warwick St Detroit MI",
     "symbol": "REALTOKEN-S-13991-WARWICK-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -668,7 +585,6 @@
     "name": "RealToken S 14066 Santa Rosa Dr Detroit MI",
     "symbol": "REALTOKEN-S-14066-SANTA-ROSA-DR-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -676,7 +592,6 @@
     "name": "RealToken S 14078 Carlisle St Detroit MI",
     "symbol": "REALTOKEN-S-14078-CARLISLE-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -684,7 +599,6 @@
     "name": "RealToken S 14229 Wilshire Dr Detroit MI",
     "symbol": "REALTOKEN-S-14229-WILSHIRE-DR-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -692,7 +606,6 @@
     "name": "RealToken S 14231 Strathmoor St Detroit MI",
     "symbol": "REALTOKEN-S-14231-STRATHMOOR-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -700,7 +613,6 @@
     "name": "RealToken S 14319 Rosemary St Detroit MI",
     "symbol": "REALTOKEN-S-14319-ROSEMARY-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -708,7 +620,6 @@
     "name": "RealToken S 14494 Chelsea Ave Detroit MI",
     "symbol": "REALTOKEN-S-14494-CHELSEA-AVE-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -716,7 +627,6 @@
     "name": "RealToken S 14825 Wilfried St Detroit MI",
     "symbol": "REALTOKEN-S-14825-WILFRIED-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -724,7 +634,6 @@
     "name": "RealToken S 14882 Troester St Detroit MI",
     "symbol": "REALTOKEN-S-14882-TROESTER-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -732,7 +641,6 @@
     "name": "RealToken S 14918 Joy Rd Detroit MI",
     "symbol": "REALTOKEN-S-14918-JOY-RD-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -740,7 +648,6 @@
     "name": "RealToken S 15039 Ward Ave Detroit MI",
     "symbol": "REALTOKEN-S-15039-WARD-AVE-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -748,7 +655,6 @@
     "name": "RealToken S 15095 Hartwell St Detroit MI",
     "symbol": "REALTOKEN-S-15095-HARTWELL-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -756,7 +662,6 @@
     "name": "RealToken S 15350 Greydale St Detroit MI",
     "symbol": "REALTOKEN-S-15350-GREYDALE-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -764,7 +669,6 @@
     "name": "RealToken S 15373 Parkside St Detroit MI",
     "symbol": "REALTOKEN-S-15373-PARKSIDE-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -772,7 +676,6 @@
     "name": "RealToken S 15753 Hartwell St Detroit MI",
     "symbol": "REALTOKEN-S-15753-HARTWELL-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -780,7 +683,6 @@
     "name": "RealToken S 15777 Ardmore St Detroit MI",
     "symbol": "REALTOKEN-S-1577-ARDMORE-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -788,7 +690,6 @@
     "name": "RealToken S 15770 Prest St Detroit MI",
     "symbol": "REALTOKEN-S-15770-PREST-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -796,7 +697,6 @@
     "name": "RealToken S 15784 Monte Vista St Detroit MI",
     "symbol": "REALTOKEN-S-15784-MONTEVISTA-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -804,7 +704,6 @@
     "name": "RealToken S 15796 Hartwell St Detroit MI",
     "symbol": "REALTOKEN-S-15796-HARTWELL-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -812,7 +711,6 @@
     "name": "RealToken S 15860 Hartwell St Detroit MI",
     "symbol": "REALTOKEN-S-15860-HARTWELL-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -820,7 +718,6 @@
     "name": "RealToken S 1617 S.Avers Ave Chicago IL",
     "symbol": "REALTOKEN-S-1617-S.AVERS-AVE-CHICAGO-IL",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -828,7 +725,6 @@
     "name": "RealToken S 17500 Evergreen Rd Detroit MI",
     "symbol": "REALTOKEN-S-17500-EVERGREEN-RD-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -836,7 +732,6 @@
     "name": "RealToken S 17809 Charest St Detroit MI",
     "symbol": "REALTOKEN-S-17809-CHAREST-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -844,7 +739,6 @@
     "name": "RealToken S 17813 Bradford St Detroit MI",
     "symbol": "REALTOKEN-S-17813-BRADFORD-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -852,7 +746,6 @@
     "name": "RealToken S 1815 S.Avers Ave Chicago IL",
     "symbol": "REALTOKEN-S-1815-S.AVERS-AVE-CHICAGO-IL",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -860,7 +753,6 @@
     "name": "RealToken S 18273 Monte-Vista St Detroit MI",
     "symbol": "REALTOKEN-S-18273-MONTEVISTA-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -868,7 +760,6 @@
     "name": "RealToken S 18433 Faust Ave Detroit MI",
     "symbol": "REALTOKEN-S-18433-FAUST-AVE-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -876,7 +767,6 @@
     "name": "RealToken S 18466 Fielding St Detroit MI",
     "symbol": "REALTOKEN-S-18466-FIELDING-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -884,7 +774,6 @@
     "name": "RealToken S 18481 Westphalia St Detroit MI",
     "symbol": "REALTOKEN-S-18481-WESTPHALIA-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -892,7 +781,6 @@
     "name": "RealToken S 18776 Sunderland Rd Detroit MI",
     "symbol": "REALTOKEN-S-18776-SUNDERLAND-RD-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -900,7 +788,6 @@
     "name": "RealToken S 18983 Alcoy Ave Detroit MI",
     "symbol": "REALTOKEN-S-18983-ALCOY-AVE-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -908,7 +795,6 @@
     "name": "RealToken S 19020 Rosemont Ave Detroit MI",
     "symbol": "REALTOKEN-S-19020-ROSEMONT-AVE-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -916,7 +802,6 @@
     "name": "RealToken S 19136 Tracey St Detroit MI",
     "symbol": "REALTOKEN-S-19136-TRACEY-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -924,7 +809,6 @@
     "name": "RealToken S 19163 Mitchell St Detroit MI",
     "symbol": "REALTOKEN-S-19163-MITCHELL-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -932,7 +816,6 @@
     "name": "RealToken S 19200 Strasburg St Detroit MI",
     "symbol": "REALTOKEN-S-19200-STRASBURG-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -940,7 +823,6 @@
     "name": "RealToken S 19201 Westphalia St Detroit MI",
     "symbol": "REALTOKEN-S-19201-WESTPHALIA-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -948,7 +830,6 @@
     "name": "RealToken S 19311 Keystone St Detroit MI",
     "symbol": "REALTOKEN-S-19311-KEYSTONE-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -956,7 +837,6 @@
     "name": "RealToken S 19317 Gable St Detroit MI",
     "symbol": "REALTOKEN-S-19314-GABLE-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -964,7 +844,6 @@
     "name": "RealToken S 19333 Moenart St Detroit MI",
     "symbol": "REALTOKEN-S-19333-MOENART-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -972,7 +851,6 @@
     "name": "RealToken S 19596 Goulburn St Detroit MI",
     "symbol": "REALTOKEN-S-19596-GOULBURN-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -980,7 +858,6 @@
     "name": "RealToken S 19996 Joann Ave Detroit MI",
     "symbol": "REALTOKEN-S-19996-JOANN-AVE-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -988,7 +865,6 @@
     "name": "RealToken S 402 S Kostner Ave Chicago IL",
     "symbol": "REALTOKEN-S-402-S.KOSTNER-AVE-CHICAGO-IL",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -996,7 +872,6 @@
     "name": "RealToken S 4061 Grand St Detroit MI",
     "symbol": "REALTOKEN-S-4061-GRAND-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1004,7 +879,6 @@
     "name": "RealToken S 4338-4340 East 71 Cleveland OH",
     "symbol": "REALTOKEN-S-4340-EAST-71-CLEVELAND-OH",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1012,7 +886,6 @@
     "name": "RealToken S 4380 Beaconsfield St Detroit MI",
     "symbol": "REALTOKEN-S-4380-BEACONSFIELD-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1020,7 +893,6 @@
     "name": "RealToken S 4680 Buckingham Ave Detroit MI",
     "symbol": "REALTOKEN-S-4680-BUCKINGHAM-AVE-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1028,7 +900,6 @@
     "name": "RealToken S 4852-4854 W Cortez St Chicago IL",
     "symbol": "REALTOKEN-S-4852-4854-W.CORTEZ-ST-CHICAGO-IL",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1036,7 +907,6 @@
     "name": "RealToken S 5601 S Wood St Chicago IL",
     "symbol": "REALTOKEN-S-5601-S.WOOD-ST-CHICAGO-IL",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1044,7 +914,6 @@
     "name": "RealToken S 581-587 Jefferson Ave Rochester NY",
     "symbol": "REALTOKEN-S-587-JEFFERSON-AVE-ROCHESTER-NY",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1052,7 +921,6 @@
     "name": "RealToken S 6923 Greenview Ave Detroit MI",
     "symbol": "REALTOKEN-S-6923-GREEVIEW-AVE-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1060,7 +928,6 @@
     "name": "RealToken S 8181 Bliss St Detroit MI",
     "symbol": "REALTOKEN-S-8181-BLISS-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1068,7 +935,6 @@
     "name": "RealToken S 9133 Devonshire Rd Detroit MI",
     "symbol": "REALTOKEN-S-9133-DEVONSHIRE-RD-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1076,7 +942,6 @@
     "name": "RealToken S 9165 Kensington Ave Detroit MI",
     "symbol": "REALTOKEN-S-9165-KENSINGTON-AVE-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1084,7 +949,6 @@
     "name": "RealToken S 9166 Devonshire Rd Detroit MI",
     "symbol": "REALTOKEN-S-9166-DEVONSHIRE-RD-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1092,7 +956,6 @@
     "name": "RealToken S 9309 Courville St Detroit MI",
     "symbol": "REALTOKEN-S-9309-COURVILLE-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1100,7 +963,6 @@
     "name": "RealToken S 9465 Beaconsfield St Detroit MI",
     "symbol": "REALTOKEN-S-9465-BEACONSFIELD-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1108,7 +970,6 @@
     "name": "RealToken S 9481 Wayburn St Detroit MI",
     "symbol": "REALTOKEN-S-9481-WAYBURN-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1116,7 +977,6 @@
     "name": "RealToken S 9717 Everts St Detroit MI",
     "symbol": "REALTOKEN-S-9717-EVERTS-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1124,7 +984,6 @@
     "name": "RealToken S 9920 Bishop St Detroit MI",
     "symbol": "REALTOKEN-S-9920-BISHOP-ST-DETROIT-MI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1132,7 +991,6 @@
     "name": "StakeWise Reward GNO",
     "symbol": "rGNO",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1140,7 +998,6 @@
     "name": "DAOSquare Governance Token from Ethereum",
     "symbol": "RICE",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1148,7 +1005,6 @@
     "name": "StakeWise Staked GNO",
     "symbol": "sGNO",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1156,7 +1012,6 @@
     "name": "Unisocks",
     "symbol": "SOCKS",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1164,7 +1019,6 @@
     "name": "Stake Token on xDai",
     "symbol": "STAKE",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1172,7 +1026,6 @@
     "name": "Swash Token",
     "symbol": "SWASH",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1180,7 +1033,6 @@
     "name": "Swapr on xDai",
     "symbol": "SWPR",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1188,7 +1040,6 @@
     "name": "Token Engineering Commons",
     "symbol": "TEC",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1196,7 +1047,6 @@
     "name": "TORG on xDai",
     "symbol": "TORG",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1204,7 +1054,6 @@
     "name": "Trips on xDai",
     "symbol": "TRIPS",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1212,7 +1061,6 @@
     "name": "UNCL on xDai",
     "symbol": "UNCL",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1220,7 +1068,6 @@
     "name": "UniCrypt on xDai",
     "symbol": "UNCX",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1228,7 +1075,6 @@
     "name": "Uniswap on xDai",
     "symbol": "UNI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1236,7 +1082,6 @@
     "name": "USDC on xDai",
     "symbol": "USDC",
     "decimals": 6,
-    "wallet": true,
     "stable": true
   },
   {
@@ -1244,7 +1089,6 @@
     "name": "Tether on xDai",
     "symbol": "USDT",
     "decimals": 6,
-    "wallet": true,
     "stable": true
   },
   {
@@ -1252,7 +1096,6 @@
     "name": "Water Token",
     "symbol": "WATER",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1260,7 +1103,6 @@
     "name": "Wrapped BTC on xDai",
     "symbol": "WBTC",
     "decimals": 8,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1268,7 +1110,6 @@
     "name": "Wrapped Ether on xDai",
     "symbol": "WETH",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1276,7 +1117,6 @@
     "name": "ChainLink Token on xDai",
     "symbol": "WLINK",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1284,7 +1124,6 @@
     "name": "xDai Native Comb",
     "symbol": "XCOMB",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1292,7 +1131,6 @@
     "name": "Xion Global Token",
     "symbol": "XGTV2",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1300,7 +1138,6 @@
     "name": "Yearn Finance on xDai",
     "symbol": "YFI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1308,7 +1145,6 @@
     "name": "1INCH Token on xDai",
     "symbol": "1INCH",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1316,7 +1152,6 @@
     "name": "Akropolis on xDai",
     "symbol": "AKRO",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1324,7 +1159,6 @@
     "name": "AllianceBlock Token on xDai",
     "symbol": "ALBT",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1332,7 +1166,6 @@
     "name": "aleph.im v2 on xDai",
     "symbol": "ALEPH",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1340,7 +1173,6 @@
     "name": "Ampleforth on xDai",
     "symbol": "AMPL",
     "decimals": 9,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1348,7 +1180,6 @@
     "name": "Aragon Network Token on xDai v2",
     "symbol": "ANTv2",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1356,7 +1187,6 @@
     "name": "AirSwap Token on xDai",
     "symbol": "AST",
     "decimals": 4,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1364,7 +1194,6 @@
     "name": "Audius on xDai",
     "symbol": "AUDIO",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1372,7 +1201,6 @@
     "name": "BandToken on xDai",
     "symbol": "BAND",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1380,7 +1208,6 @@
     "name": "BaoToken on xDai",
     "symbol": "BAO",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1388,7 +1215,6 @@
     "name": "Base Protocol on xDai",
     "symbol": "BASE",
     "decimals": 9,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1396,7 +1222,6 @@
     "name": "Basic Attention Token on xDai",
     "symbol": "BAT",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1404,7 +1229,6 @@
     "name": "Dai Token from BSC",
     "symbol": "bDAI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1412,7 +1236,6 @@
     "name": "BlackDragon Token on xDai",
     "symbol": "BDT",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1420,7 +1243,6 @@
     "name": "Bidao on xDai",
     "symbol": "BID",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1428,7 +1250,6 @@
     "name": "BNS Token on xDai",
     "symbol": "BNS",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1436,7 +1257,6 @@
     "name": "bns.finance on xDai",
     "symbol": "BNSD",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1444,7 +1264,6 @@
     "name": "Bancor Network Token on xDai",
     "symbol": "BNT",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1452,7 +1271,6 @@
     "name": "USD Coin on xDai binance-peg",
     "symbol": "BUSDC",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1460,7 +1278,6 @@
     "name": "BZRX",
     "symbol": "BZRX",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1468,7 +1285,6 @@
     "name": "Celsius on xDai",
     "symbol": "CEL",
     "decimals": 4,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1476,7 +1292,6 @@
     "name": "CelerToken on xDai",
     "symbol": "CELR",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1484,7 +1299,6 @@
     "name": "CFX Quantum from Ethereum",
     "symbol": "CFXQ",
     "decimals": 6,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1492,7 +1306,6 @@
     "name": "SwissBorg Token on xDai",
     "symbol": "CHSB",
     "decimals": 8,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1500,7 +1313,6 @@
     "name": "Compound on xDai",
     "symbol": "COMP",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1508,7 +1320,6 @@
     "name": "Cream on xDai",
     "symbol": "CREAM",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1516,7 +1327,6 @@
     "name": "Curve DAO Token on xDai",
     "symbol": "CRV",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1524,7 +1334,6 @@
     "name": "Concentrated Voting Power on xDai",
     "symbol": "CVP",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1532,7 +1341,6 @@
     "name": "PieDAO Dough",
     "symbol": "DOUGH",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1540,7 +1348,6 @@
     "name": "Enigma on xDai",
     "symbol": "ENG",
     "decimals": 8,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1548,7 +1355,6 @@
     "name": "Enjin Coin on xDai",
     "symbol": "ENJ",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1556,7 +1362,6 @@
     "name": "FalconSwap Token on xDai",
     "symbol": "FSW",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1564,7 +1369,6 @@
     "name": "FTX Token",
     "symbol": "FTT",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1572,7 +1376,6 @@
     "name": "DAOstack on xDai",
     "symbol": "GEN",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1580,7 +1383,6 @@
     "name": "Graph Token on xDai",
     "symbol": "GRT",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1588,7 +1390,6 @@
     "name": "HEX on xDai",
     "symbol": "HEX",
     "decimals": 8,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1596,7 +1397,6 @@
     "name": "HoloToken on xDai",
     "symbol": "HOT",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1604,7 +1404,6 @@
     "name": "Kyber Network Crystal on xDai",
     "symbol": "KNC",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1612,7 +1411,6 @@
     "name": "Unilayer on xDai",
     "symbol": "LAYER",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1620,7 +1418,6 @@
     "name": "EthLend Token on xDai",
     "symbol": "LEND",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1628,7 +1425,6 @@
     "name": "Livepeer Token on xDai",
     "symbol": "LPT",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1636,7 +1432,6 @@
     "name": "LoopringCoin V2 on xDai",
     "symbol": "LRC",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1644,7 +1439,6 @@
     "name": "LUKSO Token on xDai",
     "symbol": "LYXe",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1652,7 +1446,6 @@
     "name": "Decentraland MANA on xDai",
     "symbol": "MANA",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1660,7 +1453,6 @@
     "name": "MCDEX Token on xDai",
     "symbol": "MCB",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1668,7 +1460,6 @@
     "name": "Metronome on xDai",
     "symbol": "MET",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1676,7 +1467,6 @@
     "name": "MoonToken on xDai",
     "symbol": "MOON",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1684,7 +1474,6 @@
     "name": "Nexo on xDai",
     "symbol": "NEXO",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1692,7 +1481,6 @@
     "name": "Pundi X Token on xDai",
     "symbol": "NPXS",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1700,7 +1488,6 @@
     "name": "Ocean Token on xDai",
     "symbol": "OCEAN",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1708,7 +1495,6 @@
     "name": "OMGToken on xDai",
     "symbol": "OMG",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1716,7 +1502,6 @@
     "name": "Phala on xDai",
     "symbol": "PHA",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1724,7 +1509,6 @@
     "name": "PolkastarterToken on xDai",
     "symbol": "POLS",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1732,7 +1516,6 @@
     "name": "prophet.finance on xDai",
     "symbol": "PROPHET",
     "decimals": 9,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1740,7 +1523,6 @@
     "name": "PowerTrade Fuel Token on xDai",
     "symbol": "PTF",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1748,7 +1530,6 @@
     "name": "Rarible on xDai",
     "symbol": "RARI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1756,7 +1537,6 @@
     "name": "Republic Token on xDai",
     "symbol": "REN",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1764,7 +1544,6 @@
     "name": "renBTC on xDai",
     "symbol": "renBTC",
     "decimals": 8,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1772,7 +1551,6 @@
     "name": "iEx.ec Network Token on xDai",
     "symbol": "RLC",
     "decimals": 9,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1780,7 +1558,6 @@
     "name": "MetaFactory on xDai",
     "symbol": "ROBOT",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1788,7 +1565,6 @@
     "name": "Reserve Rights on xDai",
     "symbol": "RSR",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1796,7 +1572,6 @@
     "name": "Synth sETH on xDai",
     "symbol": "SETH",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1804,7 +1579,6 @@
     "name": "Status Network Token on xDai",
     "symbol": "SNT",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1812,7 +1586,6 @@
     "name": "Synthetix Network Token on xDai",
     "symbol": "SNX",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1820,7 +1593,6 @@
     "name": "Sora Token on xDai",
     "symbol": "SORA",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1828,7 +1600,6 @@
     "name": "StorjToken on xDai",
     "symbol": "STORJ",
     "decimals": 8,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1836,7 +1607,6 @@
     "name": "SURF.Finance from Ethereum",
     "symbol": "SURF",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1844,7 +1614,6 @@
     "name": "Synthetix USD on xDai",
     "symbol": "sUSD",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1852,7 +1621,6 @@
     "name": "TrustSwap Token on xDai",
     "symbol": "SWAP",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1860,7 +1628,6 @@
     "name": "tBTC on xDai",
     "symbol": "TBTC",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1868,7 +1635,6 @@
     "name": "Trace Token on xDai",
     "symbol": "TRAC",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1876,7 +1642,6 @@
     "name": "UniTrade on xDai",
     "symbol": "TRADE",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1884,7 +1649,6 @@
     "name": "Tellor",
     "symbol": "TRB",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1892,7 +1656,6 @@
     "name": "TrueUSD on xDai",
     "symbol": "TUSD",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1900,7 +1663,6 @@
     "name": "UniBright on xDai",
     "symbol": "UBT",
     "decimals": 8,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1908,7 +1670,6 @@
     "name": "VectorspaceAI on xDai",
     "symbol": "VXV",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1916,7 +1677,6 @@
     "name": "Aave Token on xDai",
     "symbol": "WAAVE",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1924,7 +1684,6 @@
     "name": "Wrapped BNB from BSC",
     "symbol": "WBNB",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1932,7 +1691,6 @@
     "name": "Wrapped CHI from Ethereum",
     "symbol": "WCHI",
     "decimals": 8,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1940,7 +1698,6 @@
     "name": "Matic Token on xDai",
     "symbol": "WMATIC",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1948,7 +1705,6 @@
     "name": "Wrapped NXM on xDai",
     "symbol": "wNXM",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1956,7 +1712,6 @@
     "name": "SushiToken on xDai",
     "symbol": "WSUSHI",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1964,7 +1719,6 @@
     "name": "Bricks on xDai",
     "symbol": "xBRICK",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1972,7 +1726,6 @@
     "name": "xMOON on xDai",
     "symbol": "XMOON",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1980,7 +1733,6 @@
     "name": "Robonomics on xDai",
     "symbol": "XRT",
     "decimals": 9,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1988,7 +1740,6 @@
     "name": "Seed on xDai",
     "symbol": "xSEED",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -1996,7 +1747,6 @@
     "name": "XY Oracle on xDai",
     "symbol": "XYO",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -2004,7 +1754,6 @@
     "name": "yCurve on xDai",
     "symbol": "yCRV",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -2012,7 +1761,6 @@
     "name": "Yield on xDai",
     "symbol": "YLD",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   },
   {
@@ -2020,7 +1768,6 @@
     "name": "0x Protocol Token on xDai",
     "symbol": "ZRX",
     "decimals": 18,
-    "wallet": true,
     "stable": false
   }
 ]
