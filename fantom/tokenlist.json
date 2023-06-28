@@ -676,6 +676,53 @@
     "name": "FantomStarter",
     "symbol": "FS",
     "decimals": 18,
+    "coingeckoId": "fantomstarter",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xf15e88eef35bf4709a4c3e99c00358f9247d4531",
+    "name": "fSilver",
+    "symbol": "fSILVER",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xaa621d2002b5a6275ef62d7a065a865167914801",
+    "name": "Fantasm FSM Token",
+    "symbol": "FSM",
+    "decimals": 18,
+    "coingeckoId": "fantasm-fsm",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x595de67bc0a1ef8925807ea08f8dcb167831f80e",
+    "name": "FanTerra",
+    "symbol": "FTERRA",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x0000000000000000000000000000000000000000",
+    "name": "FTM",
+    "symbol": "FTM",
+    "decimals": 18,
+    "coingeckoId": "fantom",
+    "native": true,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x9613288dcf37c14324ab64eb53b2e7be7292d724",
+    "name": "FTMLaunch",
+    "symbol": "FTML",
+    "decimals": 18,
+    "coingeckoId": "ftmlaunch",
     "wallet": true,
     "stable": false
   },

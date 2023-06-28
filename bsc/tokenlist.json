@@ -21010,7 +21010,8 @@
     "name": "Venus XRP",
     "symbol": "VXRP",
     "decimals": 8,
-    "wallet": false,
+    "coingeckoId": "venus-xrp",
+    "wallet": true,
     "stable": false
   },
   {
