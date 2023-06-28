@@ -23,7 +23,7 @@ async function main() {
 
   for (const chain of chains) {
     const tokens = tokensChins[chain] as Array<Token & { coingeckoId: string }>
-    console.log(tokens.length)
+
     const llamaPriceChain = chain === 'avalanche' ? 'avax' : chain
     const withPriceId = tokens.map(({ address, ...token }) => ({
       address,
@@ -42,7 +42,7 @@ async function main() {
       .filter(({ address }) => returnedAddresses.includes(address))
       .map(({ coingeckoId, ...token }) => token)
 
-    console.log({ filteredLength: filtered.length, originalLength: tokens.length })
+    console.log({ [chain]: { lengthBefore: tokens.length, lengthAfter: filtered.length } })
 
     await Bun.write(`${chain}/tokenlist.json`, JSON.stringify(filtered, null, 2) + '\n')
   }
