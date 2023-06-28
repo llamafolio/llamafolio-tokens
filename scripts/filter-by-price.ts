@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import { chains as tokensChins, chainNames } from '../index.js'
+import { chains as tokensChins, chainNames, Token } from '../index.js'
 import { Chain } from '../index.js'
 import { arrayToChunks } from './utilities.js'
 
@@ -18,11 +18,11 @@ main()
   })
   .finally(() => process.exit(0))
 
-async function main(chain = process.argv[2]) {
+async function main() {
   const chains = (process.argv[2] ? [process.argv[2]] : chainNames) as Array<Chain>
 
   for (const chain of chains) {
-    const tokens = tokensChins[chain]
+    const tokens = tokensChins[chain] as Array<Token & { coingeckoId: string }>
     console.log(tokens.length)
     const llamaPriceChain = chain === 'avalanche' ? 'avax' : chain
     const withPriceId = tokens.map(({ address, ...token }) => ({
@@ -37,12 +37,12 @@ async function main(chain = process.argv[2]) {
     const prices = results.map(item => item.coins).flatMap(item => Object.entries(item))
     const returnedAddresses = prices.map(([chainAaddress, { price }]) => chainAaddress.split(':')[1])
 
-    console.log(returnedAddresses, returnedAddresses.length)
-
     // filter out tokens tokens whose address is not in returnedAddresses
-    const filtered = tokens.filter(({ address }) => returnedAddresses.includes(address))
+    const filtered = tokens
+      .filter(({ address }) => returnedAddresses.includes(address))
+      .map(({ coingeckoId, ...token }) => token)
 
-    console.log(filtered.length, tokens.length)
+    console.log({ filteredLength: filtered.length, originalLength: tokens.length })
 
     await Bun.write(`${chain}/tokenlist.json`, JSON.stringify(filtered, null, 2) + '\n')
   }
