@@ -15,7 +15,6 @@ export interface Token {
   name: string
   symbol: string
   decimals: number
-  wallet: boolean
   stable: boolean
   native?: boolean
 }
