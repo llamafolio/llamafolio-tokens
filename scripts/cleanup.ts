@@ -25,7 +25,6 @@ async function main() {
         symbol: found?.symbol || token.symbol,
         decimals: found?.decimals || token.decimals,
         native: found?.native || token.native,
-        wallet: found?.wallet || token.wallet,
         stable: found?.stable || token.stable
       }
 
