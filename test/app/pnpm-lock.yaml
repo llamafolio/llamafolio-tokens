@@ -1,0 +1,19 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  '@llamafolio/tokens':
+    specifier: file:llamafolio-tokens-0.1.72.tgz
+    version: file:llamafolio-tokens-0.1.72.tgz
+
+packages:
+
+  file:llamafolio-tokens-0.1.72.tgz:
+    resolution: {integrity: sha512-+I8hbDwB+qcNpnkviY9IdTg/smW4xGPBkI2YrQfVbrYplr9w+4R/pjOYzWMoEGDRHRdTDD6tHyM2Ovszs/45fg==, tarball: file:llamafolio-tokens-0.1.72.tgz}
+    name: '@llamafolio/tokens'
+    version: 0.1.72
+    engines: {node: '>=18', npm: '------>PLEASE USE PNPM<------', pnpm: '>=8.0.0', yarn: '------>PLEASE USE PNPM<------'}
+    dev: false

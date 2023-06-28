@@ -24,7 +24,6 @@ async function main() {
         name: found?.name || token.name,
         symbol: found?.symbol || token.symbol,
         decimals: found?.decimals || token.decimals,
-        coingeckoId: found?.coingeckoId || token.coingeckoId,
         native: found?.native || token.native,
         wallet: found?.wallet || token.wallet,
         stable: found?.stable || token.stable

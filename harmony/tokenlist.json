@@ -1,28 +1,9 @@
 [
   {
-    "address": "0xdc54046c0451f9269fee1840aec808d36015697d",
-    "name": "1BTC",
-    "symbol": "1BTC",
-    "decimals": 8,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xeb6c08ccb4421b6088e581ce04fcfbed15893ac3",
-    "name": "Frax",
-    "symbol": "1FRAX",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
     "address": "0x58f1b044d8308812881a1433d9bbeff99975e70c",
     "name": "1INCH Token",
     "symbol": "1INCH",
     "decimals": 18,
-    "coingeckoId": "1inch",
     "wallet": true,
     "stable": false
   },
@@ -31,16 +12,6 @@
     "name": "Yieldly",
     "symbol": "1YLDY",
     "decimals": 18,
-    "coingeckoId": "yieldly",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xcf323aad9e522b93f11c352caa519ad0e14eb40f",
-    "name": "Aave Token",
-    "symbol": "AAVE",
-    "decimals": 18,
-    "coingeckoId": "aave",
     "wallet": true,
     "stable": false
   },
@@ -49,34 +20,14 @@
     "name": "Aave DAI",
     "symbol": "ADAI",
     "decimals": 18,
-    "coingeckoId": "aave-dai",
     "wallet": false,
     "stable": true
-  },
-  {
-    "address": "0x03732a1b4297ec285999402a9129cfad62a65463",
-    "name": "ANY Bitcoin",
-    "symbol": "anyBTC",
-    "decimals": 8,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xd3a50c0dce15c12fe64941ffd2b864e887c9b9e1",
-    "name": "HarmonApe",
-    "symbol": "APE",
-    "decimals": 9,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
   },
   {
     "address": "0x6ab707aca953edaefbc4fd23ba73294241490620",
     "name": "Aave USDT",
     "symbol": "AUSDT",
     "decimals": 6,
-    "coingeckoId": "aave-usdt",
     "wallet": false,
     "stable": true
   },
@@ -85,7 +36,6 @@
     "name": "Aave WETH",
     "symbol": "AWETH",
     "decimals": 18,
-    "coingeckoId": "aave-weth",
     "wallet": false,
     "stable": false
   },
@@ -94,7 +44,6 @@
     "name": "Axie Infinity Shard",
     "symbol": "AXS",
     "decimals": 18,
-    "coingeckoId": "axie-infinity",
     "wallet": true,
     "stable": false
   },
@@ -103,7 +52,6 @@
     "name": "BakerySwap",
     "symbol": "BAKE",
     "decimals": 18,
-    "coingeckoId": "bakerytoken",
     "wallet": true,
     "stable": false
   },
@@ -112,7 +60,6 @@
     "name": "Balancer",
     "symbol": "BAL",
     "decimals": 18,
-    "coingeckoId": "balancer",
     "wallet": true,
     "stable": false
   },
@@ -121,7 +68,6 @@
     "name": "Basic Attention",
     "symbol": "BAT",
     "decimals": 18,
-    "coingeckoId": "basic-attention-token",
     "wallet": true,
     "stable": false
   },
@@ -130,7 +76,6 @@
     "name": "beefy.finance",
     "symbol": "BIFI",
     "decimals": 18,
-    "coingeckoId": "beefy-finance",
     "wallet": true,
     "stable": false
   },
@@ -139,25 +84,6 @@
     "name": "Cardano Token",
     "symbol": "bscADA",
     "decimals": 18,
-    "coingeckoId": "binance-peg-cardano",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xd6bad903e550822d51073afb79581bf5aae9243f",
-    "name": "Cosmos Token",
-    "symbol": "bscATOM",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xb1f6e61e1e113625593a22fa6aa94f8052bc39e0",
-    "name": "Binance BNB",
-    "symbol": "bscBNB",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -166,133 +92,6 @@
     "name": "BTCB Token",
     "symbol": "bscBTCB",
     "decimals": 18,
-    "coingeckoId": "binance-bitcoin",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x0ab43550a6915f9f67d0c454c2e90385e6497eaa",
-    "name": "BUSD Token",
-    "symbol": "bscBUSD",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x3e9d32580b0bf3ae72afcbebc68710d2fd9a18f0",
-    "name": "PancakeSwap Token",
-    "symbol": "bscCAKE",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x3aa9470bdf720d7ff3d3fb78231803431970a329",
-    "name": "COBRA",
-    "symbol": "bscCOBRA",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x1d374ed0700a0ad3cd4945d66a5b1e08e5db20a8",
-    "name": "Dai Token",
-    "symbol": "bscDAI",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x08cb2917245bbe75c8c9c6dc4a7b3765dae02b31",
-    "name": "Polkadot Token",
-    "symbol": "bscDOT",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x4261b6a6e3ca6d186c0fe7d0510e707aaf30a42b",
-    "name": "Ellipsis",
-    "symbol": "bscEPS",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x783ee3e955832a3d52ca4050c4c251731c156020",
-    "name": "Ethereum Token",
-    "symbol": "bscETH",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x44ced87b9f1492bf2dcf5c16004832569f7f6cba",
-    "name": "USD Coin Token",
-    "symbol": "bscUSDC",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x9a89d0e1b051640c6704dde4df881f73adfef39a",
-    "name": "Tether USD Token",
-    "symbol": "bscUSDT",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x04f308c988ec1c5a4e4a99d3d2a5b8f4287260bd",
-    "name": "Venus",
-    "symbol": "bscXVS",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x0341d02c0fd5439576742750e6f2a2c0993a520b",
-    "name": "Zilliqa",
-    "symbol": "bscZIL",
-    "decimals": 12,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xe176ebe47d621b984a73036b9da5d834411ef734",
-    "name": "Binance USD",
-    "symbol": "BUSD",
-    "decimals": 18,
-    "coingeckoId": "binance-usd",
-    "wallet": true,
-    "stable": true
-  },
-  {
-    "address": "0x6cc35220349c444c39b8e26b359757739aaec952",
-    "name": "Cougar Token",
-    "symbol": "CGS",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xbbd83ef0c9d347c85e60f1b5d2c58796dbe1ba0d",
-    "name": "Cheese",
-    "symbol": "CHEEZ",
-    "decimals": 9,
-    "coingeckoId": "cheesedao",
     "wallet": true,
     "stable": false
   },
@@ -301,16 +100,6 @@
     "name": "ColonyToken",
     "symbol": "CLNY",
     "decimals": 18,
-    "coingeckoId": "marscolony",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x702f78e81cf3dfae89648b5a9e2e1aa8db1de546",
-    "name": "Comfy",
-    "symbol": "COMFY",
-    "decimals": 18,
-    "coingeckoId": "comfy",
     "wallet": true,
     "stable": false
   },
@@ -319,52 +108,14 @@
     "name": "Compound",
     "symbol": "COMP",
     "decimals": 18,
-    "coingeckoId": "compound-governance-token",
     "wallet": true,
     "stable": false
-  },
-  {
-    "address": "0x5c99f47e749d2fb9f6002a2945df5ea3f7162dfe",
-    "name": "Cream",
-    "symbol": "CREAM",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x352cd428efd6f31b5cae636928b7b84149cf369f",
-    "name": "Curve DAO Token",
-    "symbol": "CRV",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x3cb98cacd44ee77eb35e99eb74ace91bf550c964",
-    "name": "Comfy Share",
-    "symbol": "CSHARE",
-    "decimals": 18,
-    "coingeckoId": "comfy-share",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xef977d2f931c1978db5f6747666fa1eacb0d0339",
-    "name": "Dai Stablecoin",
-    "symbol": "DAI",
-    "decimals": 18,
-    "coingeckoId": "dai",
-    "wallet": true,
-    "stable": true
   },
   {
     "address": "0xf155e1a57db0ca820ae37ab4050e0e4c7cfcecd0",
     "name": "Binance-Peg Dogecoin",
     "symbol": "DOGE",
     "decimals": 8,
-    "coingeckoId": "binance-peg-dogecoin",
     "wallet": true,
     "stable": false
   },
@@ -373,7 +124,6 @@
     "name": "DSLA",
     "symbol": "DSLA",
     "decimals": 18,
-    "coingeckoId": "stacktical",
     "wallet": true,
     "stable": false
   },
@@ -382,25 +132,6 @@
     "name": "Enjin Coin",
     "symbol": "ENJ",
     "decimals": 18,
-    "coingeckoId": "enjincoin",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x6983d1e6def3690c4d616b13597a09e6193ea013",
-    "name": "Ether",
-    "symbol": "ETH",
-    "decimals": 18,
-    "coingeckoId": "weth",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x5b747e23a9e4c509dd06fbd2c0e3cb8b846e398f",
-    "name": "EVO",
-    "symbol": "EVO",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -409,7 +140,6 @@
     "name": "Fira",
     "symbol": "FIRA",
     "decimals": 18,
-    "coingeckoId": "fira",
     "wallet": true,
     "stable": false
   },
@@ -418,7 +148,6 @@
     "name": "FarmersOnly Token2",
     "symbol": "FOX",
     "decimals": 18,
-    "coingeckoId": "farmers-only",
     "wallet": true,
     "stable": false
   },
@@ -427,34 +156,14 @@
     "name": "Frax",
     "symbol": "FRAX",
     "decimals": 18,
-    "coingeckoId": "frax",
     "wallet": true,
     "stable": true
-  },
-  {
-    "address": "0x52274a3af646153fab00b8605e1f6f7072ce71f3",
-    "name": "Fraterium Rent ",
-    "symbol": "fRENT",
-    "decimals": 9,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
   },
   {
     "address": "0x0767d8e1b05efa8d6a301a65b324b6b66a1cc14c",
     "name": "Frax Share",
     "symbol": "FXS",
     "decimals": 18,
-    "coingeckoId": "frax-share",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x0dd740db89b9fda3baadf7396ddad702b6e8d6f5",
-    "name": "MochiSwap Token",
-    "symbol": "hMOCHI",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -463,16 +172,6 @@
     "name": "Hundred Finance",
     "symbol": "HND",
     "decimals": 18,
-    "coingeckoId": "hundred-finance",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x40d2f81bd135b5282cb2aa18f19cf7098079d012",
-    "name": "Ikura",
-    "symbol": "IKURA",
-    "decimals": 9,
-    "coingeckoId": "ikura-token",
     "wallet": true,
     "stable": false
   },
@@ -481,16 +180,6 @@
     "name": "Immortl",
     "symbol": "IMRTL",
     "decimals": 18,
-    "coingeckoId": "immortl",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x2f459dd7cbcc9d8323621f6fb430cd0555411e7b",
-    "name": "TokenJenny",
-    "symbol": "JENN",
-    "decimals": 18,
-    "coingeckoId": "tokenjenny",
     "wallet": true,
     "stable": false
   },
@@ -499,7 +188,6 @@
     "name": "Jewels",
     "symbol": "JEWEL",
     "decimals": 18,
-    "coingeckoId": "defi-kingdoms",
     "wallet": true,
     "stable": false
   },
@@ -508,7 +196,6 @@
     "name": "Keep Network",
     "symbol": "KEEP",
     "decimals": 18,
-    "coingeckoId": "keep-network",
     "wallet": true,
     "stable": false
   },
@@ -517,16 +204,6 @@
     "name": "Kyber Network Crystal Legacy",
     "symbol": "KNCL",
     "decimals": 18,
-    "coingeckoId": "kyber-network",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x3e018675c0ef63eb361b9ef4bfea3a3294c74c7b",
-    "name": "Kuro Shiba",
-    "symbol": "KURO",
-    "decimals": 9,
-    "coingeckoId": "kuro-shiba",
     "wallet": true,
     "stable": false
   },
@@ -535,43 +212,6 @@
     "name": "ChainLink Token",
     "symbol": "LINK",
     "decimals": 18,
-    "coingeckoId": "chainlink",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x7d0546dbb1dca8108d99aa389a8e9ce0c40b2370",
-    "name": "LMA-Art-Gallery",
-    "symbol": "LMA",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x1c0869a9ee9e866288fd4a62342bfe8941dacf94",
-    "name": "Logecoin",
-    "symbol": "LOGE",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x95ce547d730519a90def30d647f37d9e5359b6ae",
-    "name": "Wrapped LUNA Token",
-    "symbol": "LUNA",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x892d81221484f690c0a97d3dd18b9144a3ecdfb7",
-    "name": "Magic",
-    "symbol": "MAGIC",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -580,7 +220,6 @@
     "name": "miMatic",
     "symbol": "MAI",
     "decimals": 18,
-    "coingeckoId": "mimatic",
     "wallet": true,
     "stable": true
   },
@@ -589,7 +228,6 @@
     "name": "Matic Token",
     "symbol": "MATIC",
     "decimals": 18,
-    "coingeckoId": "matic-network",
     "wallet": true,
     "stable": false
   },
@@ -598,34 +236,6 @@
     "name": "Metatr.one",
     "symbol": "MET",
     "decimals": 18,
-    "coingeckoId": "metatrone",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x1b2bc2683f85bfb9c4c90e8322d62a20b97cf87d",
-    "name": "Million",
-    "symbol": "MM",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x947394294f75d7502977ac6813fd99f77c2931ec",
-    "name": "ODAO",
-    "symbol": "ODAO",
-    "decimals": 9,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xc1873199284b4490a4aacbe7cd6710dc6aa95e08",
-    "name": "ONEUSD",
-    "symbol": "ONEUSD",
-    "decimals": 8,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -634,7 +244,6 @@
     "name": "OpenSwap",
     "symbol": "OpenX",
     "decimals": 18,
-    "coingeckoId": "openswap-token",
     "wallet": true,
     "stable": false
   },
@@ -643,16 +252,6 @@
     "name": "REN",
     "symbol": "REN",
     "decimals": 18,
-    "coingeckoId": "republic-protocol",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xed0b4b0f0e2c17646682fc98ace09feb99af3ade",
-    "name": "Reverse Protocol",
-    "symbol": "RVRS",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -661,7 +260,6 @@
     "name": "Synthetix Network Token",
     "symbol": "SNX",
     "decimals": 18,
-    "coingeckoId": "havven",
     "wallet": true,
     "stable": false
   },
@@ -670,34 +268,6 @@
     "name": "Staked One",
     "symbol": "stONE",
     "decimals": 18,
-    "coingeckoId": "tranquil-staked-one",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xbec775cb42abfa4288de81f387a9b1a3c4bc552a",
-    "name": "SushiToken",
-    "symbol": "SUSHI",
-    "decimals": 18,
-    "coingeckoId": "sushi",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xf38593388079f7f5130d605e38abf6090d981ec2",
-    "name": "Staked WAGMI",
-    "symbol": "sWAGMI",
-    "decimals": 9,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x50ae1aba372b836523c982d8ce88e89aa8a92863",
-    "name": "Telcoin",
-    "symbol": "TEL",
-    "decimals": 2,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -706,7 +276,6 @@
     "name": "TEmplar Token",
     "symbol": "TEM",
     "decimals": 9,
-    "coingeckoId": "templardao",
     "wallet": true,
     "stable": false
   },
@@ -715,7 +284,6 @@
     "name": "Tranquil",
     "symbol": "TRANQ",
     "decimals": 18,
-    "coingeckoId": "tranquil-finance",
     "wallet": true,
     "stable": false
   },
@@ -724,43 +292,6 @@
     "name": "Uniswap",
     "symbol": "UNI",
     "decimals": 18,
-    "coingeckoId": "uniswap",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x985458e523db3d53125813ed68c274899e9dfab4",
-    "name": "USD Coin",
-    "symbol": "USDC",
-    "decimals": 6,
-    "coingeckoId": "usd-coin",
-    "wallet": true,
-    "stable": true
-  },
-  {
-    "address": "0x3c2b8be99c50593081eaa2a724f0b8285f5aba8f",
-    "name": "Tether USD",
-    "symbol": "USDT",
-    "decimals": 6,
-    "coingeckoId": "tether",
-    "wallet": true,
-    "stable": true
-  },
-  {
-    "address": "0x224e64ec1bdce3870a6a6c777edd450454068fec",
-    "name": "Wrapped UST Token",
-    "symbol": "UST",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xb8e0497018c991e86311b64efd9d57b06aedbbae",
-    "name": "DaVinci Token",
-    "symbol": "VINCI",
-    "decimals": 18,
-    "coingeckoId": "davinci-token",
     "wallet": true,
     "stable": false
   },
@@ -769,7 +300,6 @@
     "name": "Viper",
     "symbol": "VIPER",
     "decimals": 18,
-    "coingeckoId": "viper",
     "wallet": true,
     "stable": false
   },
@@ -778,7 +308,6 @@
     "name": "Vitamin Coin",
     "symbol": "VITC",
     "decimals": 18,
-    "coingeckoId": "vitamin-coin",
     "wallet": true,
     "stable": false
   },
@@ -787,25 +316,6 @@
     "name": "Euphoria",
     "symbol": "WAGMI",
     "decimals": 9,
-    "coingeckoId": "euphoria-2",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x59fa612968f54080aba370fd822343c43f23c874",
-    "name": "Waru Token",
-    "symbol": "WARU",
-    "decimals": 18,
-    "coingeckoId": "waru",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x3095c7557bcb296ccc6e363de01b760ba031f2d9",
-    "name": "Wrapped BTC",
-    "symbol": "WBTC",
-    "decimals": 8,
-    "coingeckoId": "wrapped-bitcoin",
     "wallet": true,
     "stable": false
   },
@@ -814,7 +324,6 @@
     "name": "Wise Token",
     "symbol": "WISE",
     "decimals": 18,
-    "coingeckoId": "wise-token11",
     "wallet": true,
     "stable": false
   },
@@ -823,34 +332,6 @@
     "name": "Wrapped ONE",
     "symbol": "WONE",
     "decimals": 18,
-    "coingeckoId": "wrapped-one",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xbb948620fa9cd554ef9a331b13edea9b181f9d45",
-    "name": "Wrapped sWAGMI",
-    "symbol": "wsWAGMI",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xa7a22299918828d791240f9ec310c2e066592053",
-    "name": "xSUSHI",
-    "symbol": "xSUSHI",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xe064a68994e9380250cfee3e8c0e2ac5c0924548",
-    "name": "xVIPER",
-    "symbol": "xVIPER",
-    "decimals": 18,
-    "coingeckoId": "viperpit",
     "wallet": true,
     "stable": false
   },
@@ -859,7 +340,6 @@
     "name": "yearn.finance",
     "symbol": "YFI",
     "decimals": 18,
-    "coingeckoId": "yearn-finance",
     "wallet": true,
     "stable": false
   },
@@ -868,16 +348,158 @@
     "name": "Yield Guild Games Token",
     "symbol": "YGG",
     "decimals": 18,
-    "coingeckoId": "yield-guild-games",
     "wallet": true,
     "stable": false
   },
   {
-    "address": "0xe59aa7f9e91b4cc6c25d3542cecb851e0316138c",
-    "name": "YIN",
-    "symbol": "YIN",
+    "address": "0xd6bad903e550822d51073afb79581bf5aae9243f",
+    "name": "Cosmos Token",
+    "symbol": "bscATOM",
     "decimals": 18,
-    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x3e9d32580b0bf3ae72afcbebc68710d2fd9a18f0",
+    "name": "PancakeSwap Token",
+    "symbol": "bscCAKE",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x1d374ed0700a0ad3cd4945d66a5b1e08e5db20a8",
+    "name": "Dai Token",
+    "symbol": "bscDAI",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x08cb2917245bbe75c8c9c6dc4a7b3765dae02b31",
+    "name": "Polkadot Token",
+    "symbol": "bscDOT",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x4261b6a6e3ca6d186c0fe7d0510e707aaf30a42b",
+    "name": "Ellipsis",
+    "symbol": "bscEPS",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x783ee3e955832a3d52ca4050c4c251731c156020",
+    "name": "Ethereum Token",
+    "symbol": "bscETH",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x44ced87b9f1492bf2dcf5c16004832569f7f6cba",
+    "name": "USD Coin Token",
+    "symbol": "bscUSDC",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x9a89d0e1b051640c6704dde4df881f73adfef39a",
+    "name": "Tether USD Token",
+    "symbol": "bscUSDT",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x04f308c988ec1c5a4e4a99d3d2a5b8f4287260bd",
+    "name": "Venus",
+    "symbol": "bscXVS",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x0341d02c0fd5439576742750e6f2a2c0993a520b",
+    "name": "Zilliqa",
+    "symbol": "bscZIL",
+    "decimals": 12,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x6cc35220349c444c39b8e26b359757739aaec952",
+    "name": "Cougar Token",
+    "symbol": "CGS",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x5c99f47e749d2fb9f6002a2945df5ea3f7162dfe",
+    "name": "Cream",
+    "symbol": "CREAM",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x352cd428efd6f31b5cae636928b7b84149cf369f",
+    "name": "Curve DAO Token",
+    "symbol": "CRV",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x5b747e23a9e4c509dd06fbd2c0e3cb8b846e398f",
+    "name": "EVO",
+    "symbol": "EVO",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x892d81221484f690c0a97d3dd18b9144a3ecdfb7",
+    "name": "Magic",
+    "symbol": "MAGIC",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x1b2bc2683f85bfb9c4c90e8322d62a20b97cf87d",
+    "name": "Million",
+    "symbol": "MM",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x50ae1aba372b836523c982d8ce88e89aa8a92863",
+    "name": "Telcoin",
+    "symbol": "TEL",
+    "decimals": 2,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x224e64ec1bdce3870a6a6c777edd450454068fec",
+    "name": "Wrapped UST Token",
+    "symbol": "UST",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xa7a22299918828d791240f9ec310c2e066592053",
+    "name": "xSUSHI",
+    "symbol": "xSUSHI",
+    "decimals": 18,
     "wallet": true,
     "stable": false
   }

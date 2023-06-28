@@ -4,7 +4,6 @@
     "name": "Alium Finance",
     "symbol": "ALM",
     "decimals": 18,
-    "coingeckoId": "alium-finance",
     "wallet": true,
     "stable": false
   },
@@ -13,7 +12,6 @@
     "name": "Athos Finance",
     "symbol": "ATH",
     "decimals": 18,
-    "coingeckoId": "athos-finance",
     "wallet": true,
     "stable": false
   },
@@ -22,7 +20,6 @@
     "name": "Avalanche",
     "symbol": "AVAX",
     "decimals": 18,
-    "coingeckoId": "avalanche-2",
     "wallet": true,
     "stable": false
   },
@@ -31,7 +28,6 @@
     "name": "Axelar",
     "symbol": "AXL",
     "decimals": 6,
-    "coingeckoId": "axelar",
     "wallet": true,
     "stable": false
   },
@@ -40,25 +36,6 @@
     "name": "axlUSDC",
     "symbol": "AXLUSDC",
     "decimals": 6,
-    "coingeckoId": "axlusdc",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x65b09ef8c5a096c5fd3a80f1f7369e56eb932412",
-    "name": "MoonBeans",
-    "symbol": "BEANS",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xc9baa8cfdde8e328787e29b4b078abf2dadc2055",
-    "name": "Binance",
-    "symbol": "BNB",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -67,7 +44,6 @@
     "name": "Binance USD",
     "symbol": "BUSD",
     "decimals": 18,
-    "coingeckoId": "binance-usd",
     "wallet": true,
     "stable": true
   },
@@ -76,7 +52,6 @@
     "name": "USD Coin   Celer",
     "symbol": "CEUSDC",
     "decimals": 6,
-    "coingeckoId": "usd-coin-celer",
     "wallet": true,
     "stable": false
   },
@@ -85,7 +60,6 @@
     "name": "Dai",
     "symbol": "DAI",
     "decimals": 18,
-    "coingeckoId": "dai",
     "wallet": true,
     "stable": true
   },
@@ -94,7 +68,6 @@
     "name": "Energyfi",
     "symbol": "EFT",
     "decimals": 18,
-    "coingeckoId": "energyfi",
     "wallet": true,
     "stable": false
   },
@@ -103,7 +76,6 @@
     "name": "Ethereum",
     "symbol": "ETH",
     "decimals": 18,
-    "coingeckoId": "weth",
     "wallet": true,
     "stable": false
   },
@@ -112,7 +84,6 @@
     "name": "Solarflare",
     "symbol": "FLARE",
     "decimals": 18,
-    "coingeckoId": "solarflare",
     "wallet": true,
     "stable": false
   },
@@ -121,7 +92,6 @@
     "name": "Frax",
     "symbol": "FRAX",
     "decimals": 18,
-    "coingeckoId": "frax",
     "wallet": true,
     "stable": true
   },
@@ -130,25 +100,6 @@
     "name": "Frax Ether",
     "symbol": "FRXETH",
     "decimals": 18,
-    "coingeckoId": "frax-ether",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xc19281f22a075e0f10351cd5d6ea9f0ac63d4327",
-    "name": "Fantom",
-    "symbol": "FTM",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x2cc0a9d8047a5011defe85328a6f26968c8aaa1c",
-    "name": "Frax Share",
-    "symbol": "FXS",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -157,7 +108,6 @@
     "name": "BeamSwap",
     "symbol": "GLINT",
     "decimals": 18,
-    "coingeckoId": "beamswap",
     "wallet": true,
     "stable": false
   },
@@ -166,7 +116,6 @@
     "name": "Polygon",
     "symbol": "MATIC",
     "decimals": 18,
-    "coingeckoId": "matic-network",
     "wallet": true,
     "stable": false
   },
@@ -175,7 +124,6 @@
     "name": "MAI",
     "symbol": "MIMATIC",
     "decimals": 18,
-    "coingeckoId": "mimatic",
     "wallet": true,
     "stable": true
   },
@@ -184,7 +132,6 @@
     "name": "Raresama",
     "symbol": "POOP",
     "decimals": 18,
-    "coingeckoId": "raresama",
     "wallet": true,
     "stable": false
   },
@@ -193,16 +140,6 @@
     "name": "Statik",
     "symbol": "STATIK",
     "decimals": 18,
-    "coingeckoId": "statik",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x191cf2602ca2e534c5ccae7bcbf4c46a704bb949",
-    "name": "Lido Staked Polkadot",
-    "symbol": "STDOT",
-    "decimals": 10,
-    "coingeckoId": "lido-staked-polkadot",
     "wallet": true,
     "stable": false
   },
@@ -211,7 +148,6 @@
     "name": "StellaSwap",
     "symbol": "STELLA",
     "decimals": 18,
-    "coingeckoId": "stellaswap",
     "wallet": true,
     "stable": false
   },
@@ -220,25 +156,14 @@
     "name": "Thorus",
     "symbol": "THO",
     "decimals": 18,
-    "coingeckoId": "thorus",
     "wallet": true,
     "stable": false
-  },
-  {
-    "address": "0x8f552a71efe5eefc207bf75485b356a0b3f01ec9",
-    "name": "USD Coin",
-    "symbol": "USDC",
-    "decimals": 6,
-    "coingeckoId": "usd-coin",
-    "wallet": true,
-    "stable": true
   },
   {
     "address": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "coingeckoId": "usd-coin",
     "wallet": true,
     "stable": true
   },
@@ -247,34 +172,14 @@
     "name": "Tether",
     "symbol": "USDT",
     "decimals": 6,
-    "coingeckoId": "tether",
     "wallet": true,
     "stable": true
-  },
-  {
-    "address": "0x8e70cd5b4ff3f62659049e74b6649c6603a0e594",
-    "name": "Tether USD",
-    "symbol": "USDT",
-    "decimals": 6,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x085416975fe14c2a731a97ec38b9bf8135231f62",
-    "name": "TerraUSD",
-    "symbol": "UST",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
   },
   {
     "address": "0x922d641a426dcffaef11680e5358f34d97d112e1",
     "name": "Wrapped Bitcoin",
     "symbol": "WBTC",
     "decimals": 8,
-    "coingeckoId": "wrapped-bitcoin",
     "wallet": true,
     "stable": false
   },
@@ -283,7 +188,6 @@
     "name": "Moonwell Artemis",
     "symbol": "WELL",
     "decimals": 18,
-    "coingeckoId": "moonwell-artemis",
     "wallet": true,
     "stable": false
   },
@@ -292,7 +196,6 @@
     "name": "WETH",
     "symbol": "WETH",
     "decimals": 18,
-    "coingeckoId": "weth",
     "wallet": true,
     "stable": false
   },
@@ -301,7 +204,6 @@
     "name": "Wrapped Moonbeam",
     "symbol": "WGLMR",
     "decimals": 18,
-    "coingeckoId": "wrapped-moonbeam",
     "wallet": true,
     "stable": false
   },
@@ -310,7 +212,22 @@
     "name": "xcDOT",
     "symbol": "XCDOT",
     "decimals": 10,
-    "coingeckoId": "xcdot",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xc9baa8cfdde8e328787e29b4b078abf2dadc2055",
+    "name": "Binance",
+    "symbol": "BNB",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xc19281f22a075e0f10351cd5d6ea9f0ac63d4327",
+    "name": "Fantom",
+    "symbol": "FTM",
+    "decimals": 18,
     "wallet": true,
     "stable": false
   }
