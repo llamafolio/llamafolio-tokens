@@ -716,7 +716,26 @@
     "name": "Curve.fi gDAI/gUSDC/gUSDT",
     "symbol": "g3CRV",
     "decimals": 18,
+    "coingeckoId": "curve-fi-gdai-gusdc-gusdt",
     "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x70f9fd19f857411b089977e7916c05a0fc477ac9",
+    "name": "governanceALCX",
+    "symbol": "gALCX",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x07e6332dd090d287d3489245038daf987955dcfb",
+    "name": "Geist Dai",
+    "symbol": "GDAI",
+    "decimals": 18,
+    "coingeckoId": null,
+    "wallet": false,
     "stable": false
   },
   {
