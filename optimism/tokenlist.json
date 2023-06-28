@@ -396,16 +396,6 @@
     "stable": false
   },
   {
-    "address": "0x0000000000000000000000000000000000000000",
-    "name": "Ethereum",
-    "symbol": "ETH",
-    "decimals": 18,
-    "coingeckoId": "ethereum",
-    "native": true,
-    "wallet": true,
-    "stable": false
-  },
-  {
     "address": "0xd8737ca46aa6285de7b8777a8e3db232911bad41",
     "name": "StaFi Token",
     "symbol": "FIS",

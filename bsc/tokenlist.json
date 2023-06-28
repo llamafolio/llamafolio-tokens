@@ -8964,16 +8964,6 @@
     "stable": false
   },
   {
-    "address": "0x0000000000000000000000000000000000000000",
-    "name": "BNB",
-    "symbol": "BNB",
-    "decimals": 18,
-    "coingeckoId": "binancecoin",
-    "native": true,
-    "wallet": true,
-    "stable": false
-  },
-  {
     "address": "0x3d01755e06fd11a08cd2995abd183cd8990256df",
     "name": "Proof of Degen",
     "symbol": "bnb2.0",

@@ -6399,16 +6399,6 @@
     "stable": false
   },
   {
-    "address": "0x0000000000000000000000000000000000000000",
-    "name": "MATIC",
-    "symbol": "MATIC",
-    "decimals": 18,
-    "coingeckoId": "matic-network",
-    "native": true,
-    "wallet": true,
-    "stable": false
-  },
-  {
     "address": "0x0000000000000000000000000000000000001010",
     "name": "Polygon",
     "symbol": "MATIC",

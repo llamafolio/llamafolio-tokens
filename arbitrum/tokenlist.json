@@ -1323,16 +1323,6 @@
     "stable": false
   },
   {
-    "address": "0x0000000000000000000000000000000000000000",
-    "name": "Ethereum",
-    "symbol": "ETH",
-    "decimals": 18,
-    "coingeckoId": "ethereum",
-    "native": true,
-    "wallet": true,
-    "stable": false
-  },
-  {
     "address": "0x67c31056358b8977ea95a3a899dd380d4bced706",
     "name": "ETHforestAI",
     "symbol": "ethfai",

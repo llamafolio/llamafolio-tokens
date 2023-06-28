@@ -621,16 +621,6 @@
     "stable": false
   },
   {
-    "address": "0x0000000000000000000000000000000000000000",
-    "name": "ONE",
-    "symbol": "ONE",
-    "decimals": 18,
-    "coingeckoId": "harmony",
-    "native": true,
-    "wallet": true,
-    "stable": false
-  },
-  {
     "address": "0xc1873199284b4490a4aacbe7cd6710dc6aa95e08",
     "name": "ONEUSD",
     "symbol": "ONEUSD",

@@ -36,8 +36,8 @@
   "devDependencies": {
     "@types/node": "^20.3.1",
     "bumpp": "^9.1.1",
-    "bun": "^0.6.9",
-    "bun-types": "^0.6.9",
+    "bun": "^0.6.11",
+    "bun-types": "^0.6.11",
     "sharp": "^0.32.1",
     "tsup": "^7.0.0",
     "tsx": "^3.12.7",

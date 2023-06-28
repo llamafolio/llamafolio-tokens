@@ -2673,16 +2673,6 @@
     "stable": false
   },
   {
-    "address": "0x0000000000000000000000000000000000000000",
-    "name": "xDai",
-    "symbol": "xDai",
-    "decimals": 18,
-    "coingeckoId": "xdai",
-    "native": true,
-    "wallet": true,
-    "stable": true
-  },
-  {
     "address": "0xf1738912ae7439475712520797583ac784ea9033",
     "name": "XionGlobal Token",
     "symbol": "XGT",

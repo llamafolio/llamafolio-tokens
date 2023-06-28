@@ -1710,16 +1710,6 @@
     "stable": false
   },
   {
-    "address": "0x0000000000000000000000000000000000000000",
-    "name": "FTM",
-    "symbol": "FTM",
-    "decimals": 18,
-    "coingeckoId": "fantom",
-    "native": true,
-    "wallet": true,
-    "stable": false
-  },
-  {
     "address": "0x9613288dcf37c14324ab64eb53b2e7be7292d724",
     "name": "FTMLaunch",
     "symbol": "FTML",

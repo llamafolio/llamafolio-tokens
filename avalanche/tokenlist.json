@@ -621,16 +621,6 @@
     "stable": false
   },
   {
-    "address": "0x0000000000000000000000000000000000000000",
-    "name": "Avalanche",
-    "symbol": "AVAX",
-    "decimals": 18,
-    "coingeckoId": "avalanche-2",
-    "native": true,
-    "wallet": true,
-    "stable": false
-  },
-  {
     "address": "0x1aa76d4a622adaa89c443047c0e5955d1b575407",
     "name": "AvaxDAO",
     "symbol": "AVAXD",
