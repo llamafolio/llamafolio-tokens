@@ -16,30 +16,6 @@
     "stable": false
   },
   {
-    "address": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee",
-    "name": "Aave DAI",
-    "symbol": "ADAI",
-    "decimals": 18,
-    "wallet": false,
-    "stable": true
-  },
-  {
-    "address": "0x6ab707aca953edaefbc4fd23ba73294241490620",
-    "name": "Aave USDT",
-    "symbol": "AUSDT",
-    "decimals": 6,
-    "wallet": false,
-    "stable": true
-  },
-  {
-    "address": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
-    "name": "Aave WETH",
-    "symbol": "AWETH",
-    "decimals": 18,
-    "wallet": false,
-    "stable": false
-  },
-  {
     "address": "0x14a7b318fed66ffdcc80c1517c172c13852865de",
     "name": "Axie Infinity Shard",
     "symbol": "AXS",

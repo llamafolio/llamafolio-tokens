@@ -56,14 +56,6 @@
     "stable": false
   },
   {
-    "address": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee",
-    "name": "Aave DAI",
-    "symbol": "ADAI",
-    "decimals": 18,
-    "wallet": false,
-    "stable": true
-  },
-  {
     "address": "0xb648fa7a5f5ed3b3c743140346e3dc3fe94a9125",
     "name": "altFINS",
     "symbol": "AFINS",
@@ -152,14 +144,6 @@
     "stable": false
   },
   {
-    "address": "0x6ab707aca953edaefbc4fd23ba73294241490620",
-    "name": "Aave USDT",
-    "symbol": "AUSDT",
-    "decimals": 6,
-    "wallet": false,
-    "stable": true
-  },
-  {
     "address": "0x1337bedc9d22ecbe766df105c9623922a27963ec",
     "name": "Curve.fi avDAI/avUSDC/avUSDT",
     "symbol": "av3CRV",
@@ -221,14 +205,6 @@
     "symbol": "AVXT",
     "decimals": 6,
     "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
-    "name": "Aave WETH",
-    "symbol": "AWETH",
-    "decimals": 18,
-    "wallet": false,
     "stable": false
   },
   {
@@ -1712,14 +1688,6 @@
     "stable": false
   },
   {
-    "address": "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b",
-    "name": "Wrapped MEMO",
-    "symbol": "wMEMO",
-    "decimals": 18,
-    "wallet": false,
-    "stable": false
-  },
-  {
     "address": "0xabc9547b534519ff73921b1fba6e672b5f58d083",
     "name": "Wootrade Network",
     "symbol": "WOO.e",
@@ -2189,14 +2157,6 @@
     "symbol": "ggp",
     "decimals": 18,
     "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x9e295b5b976a184b14ad8cd72413ad846c299660",
-    "name": "GLP",
-    "symbol": "glp",
-    "decimals": 18,
-    "wallet": false,
     "stable": false
   },
   {

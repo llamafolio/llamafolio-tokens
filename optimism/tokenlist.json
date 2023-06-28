@@ -24,14 +24,6 @@
     "stable": false
   },
   {
-    "address": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee",
-    "name": "Aave DAI",
-    "symbol": "ADAI",
-    "decimals": 18,
-    "wallet": false,
-    "stable": true
-  },
-  {
     "address": "0x61baadcf22d2565b0f471b291c475db5555e0b76",
     "name": "Aelin",
     "symbol": "AELIN",
@@ -48,22 +40,6 @@
     "stable": false
   },
   {
-    "address": "0x3e29d3a9316dab217754d13b28646b76607c5f04",
-    "name": "Alchemix ETH",
-    "symbol": "ALETH",
-    "decimals": 18,
-    "wallet": false,
-    "stable": false
-  },
-  {
-    "address": "0x191c10aa4af7c30e871e70c95db0e4eb77237530",
-    "name": "Aave LINK",
-    "symbol": "ALINK",
-    "decimals": 18,
-    "wallet": false,
-    "stable": false
-  },
-  {
     "address": "0xcb8fa9a76b8e203d8c3797bf438d8fb81ea3326a",
     "name": "Alchemix USD",
     "symbol": "ALUSD",
@@ -77,46 +53,6 @@
     "symbol": "AMKT",
     "decimals": 18,
     "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x6d80113e533a2c0fe82eabd35f1875dcea89ea97",
-    "name": "Aave SUSD",
-    "symbol": "ASUSD",
-    "decimals": 18,
-    "wallet": false,
-    "stable": false
-  },
-  {
-    "address": "0x625e7708f30ca75bfd92586e17077590c60eb4cd",
-    "name": "Aave USDC",
-    "symbol": "AUSDC",
-    "decimals": 6,
-    "wallet": false,
-    "stable": false
-  },
-  {
-    "address": "0x6ab707aca953edaefbc4fd23ba73294241490620",
-    "name": "Aave USDT",
-    "symbol": "AUSDT",
-    "decimals": 6,
-    "wallet": false,
-    "stable": true
-  },
-  {
-    "address": "0x078f358208685046a11c85e8ad32895ded33a249",
-    "name": "Aave WBTC",
-    "symbol": "AWBTC",
-    "decimals": 8,
-    "wallet": false,
-    "stable": false
-  },
-  {
-    "address": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
-    "name": "Aave WETH",
-    "symbol": "AWETH",
-    "decimals": 18,
-    "wallet": false,
     "stable": false
   },
   {

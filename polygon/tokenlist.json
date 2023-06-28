@@ -136,28 +136,12 @@
     "stable": false
   },
   {
-    "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
-    "name": "Aave CRV",
-    "symbol": "ACRV",
-    "decimals": 18,
-    "wallet": false,
-    "stable": false
-  },
-  {
     "address": "0xf328b73b6c685831f238c30a23fc19140cb4d8fc",
     "name": "Across Protocol",
     "symbol": "ACX",
     "decimals": 18,
     "wallet": true,
     "stable": false
-  },
-  {
-    "address": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee",
-    "name": "Aave DAI",
-    "symbol": "ADAI",
-    "decimals": 18,
-    "wallet": false,
-    "stable": true
   },
   {
     "address": "0xc3fdbadc7c795ef1d6ba111e06ff8f16a20ea539",
@@ -272,14 +256,6 @@
     "stable": false
   },
   {
-    "address": "0x191c10aa4af7c30e871e70c95db0e4eb77237530",
-    "name": "Aave LINK",
-    "symbol": "ALINK",
-    "decimals": 18,
-    "wallet": false,
-    "stable": false
-  },
-  {
     "address": "0xa8fcee762642f156b5d757b6fabc36e06b6d4a1a",
     "name": "Aluna (PoS)",
     "symbol": "ALN",
@@ -304,14 +280,6 @@
     "stable": false
   },
   {
-    "address": "0x1d2a0e5ec8e5bbdca5cb219e649b565d8e5c3360",
-    "name": "Aave Polygon AAVE",
-    "symbol": "AMAAVE",
-    "decimals": 18,
-    "wallet": false,
-    "stable": false
-  },
-  {
     "address": "0x0e9b89007eee9c958c0eda24ef70723c2c93dd58",
     "name": "Ankr MATIC Reward Bearing Certificate",
     "symbol": "aMATICc",
@@ -320,51 +288,11 @@
     "stable": false
   },
   {
-    "address": "0x27f8d03b3a2196956ed754badc28d73be8830a6e",
-    "name": "Aave Polygon DAI",
-    "symbol": "AMDAI",
-    "decimals": 18,
-    "wallet": false,
-    "stable": false
-  },
-  {
     "address": "0xb87904db461005fc716a6bf9f2d451c33b10b80b",
     "name": "Alongside Crypto Market Index",
     "symbol": "amkt",
     "decimals": 18,
     "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x1a13f4ca1d028320a707d99520abfefca3998b7f",
-    "name": "Aave Polygon USDC",
-    "symbol": "AMUSDC",
-    "decimals": 6,
-    "wallet": false,
-    "stable": false
-  },
-  {
-    "address": "0x60d55f02a771d515e077c9c2403a1ef324885cec",
-    "name": "Aave Polygon USDT",
-    "symbol": "AMUSDT",
-    "decimals": 6,
-    "wallet": false,
-    "stable": false
-  },
-  {
-    "address": "0x5c2ed810328349100a66b82b78a1791b101c9d61",
-    "name": "Aave Polygon WBTC",
-    "symbol": "AMWBTC",
-    "decimals": 8,
-    "wallet": false,
-    "stable": false
-  },
-  {
-    "address": "0x28424507fefb6f7f8e9d3860f56504e4e5f5f390",
-    "name": "Aave Polygon WETH",
-    "symbol": "AMWETH",
-    "decimals": 18,
-    "wallet": false,
     "stable": false
   },
   {
@@ -512,22 +440,6 @@
     "stable": false
   },
   {
-    "address": "0x625e7708f30ca75bfd92586e17077590c60eb4cd",
-    "name": "Aave USDC",
-    "symbol": "AUSDC",
-    "decimals": 6,
-    "wallet": false,
-    "stable": false
-  },
-  {
-    "address": "0x6ab707aca953edaefbc4fd23ba73294241490620",
-    "name": "Aave USDT",
-    "symbol": "AUSDT",
-    "decimals": 6,
-    "wallet": false,
-    "stable": true
-  },
-  {
     "address": "0x925fadb35b73720238cc78777d02ed4dd3100816",
     "name": "AutoSingle",
     "symbol": "autos",
@@ -549,22 +461,6 @@
     "symbol": "AVAX",
     "decimals": 18,
     "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x078f358208685046a11c85e8ad32895ded33a249",
-    "name": "Aave WBTC",
-    "symbol": "AWBTC",
-    "decimals": 8,
-    "wallet": false,
-    "stable": false
-  },
-  {
-    "address": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
-    "name": "Aave WETH",
-    "symbol": "AWETH",
-    "decimals": 18,
-    "wallet": false,
     "stable": false
   },
   {
@@ -2128,14 +2024,6 @@
     "stable": false
   },
   {
-    "address": "0xee327f889d5947c1dc1934bb208a1e792f953e96",
-    "name": "Frax Ether",
-    "symbol": "FRXETH",
-    "decimals": 18,
-    "wallet": false,
-    "stable": false
-  },
-  {
     "address": "0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c",
     "name": "Fusion",
     "symbol": "FSN",
@@ -2736,14 +2624,6 @@
     "stable": false
   },
   {
-    "address": "0x0a3bb08b3a15a19b4de82f8acfc862606fb69a2d",
-    "name": "iZUMi Bond USD",
-    "symbol": "iUSD",
-    "decimals": 18,
-    "wallet": false,
-    "stable": true
-  },
-  {
     "address": "0x346404079b3792a6c548b072b9c4dddfb92948d5",
     "name": "GeniuX",
     "symbol": "IUX",
@@ -3197,14 +3077,6 @@
     "symbol": "MATIC2X-FLI-P",
     "decimals": 18,
     "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xfa68fb4628dff1028cfec22b4162fccd0d45efb6",
-    "name": "Liquid Staking Matic (PoS)",
-    "symbol": "MaticX",
-    "decimals": 18,
-    "wallet": false,
     "stable": false
   },
   {
@@ -5229,14 +5101,6 @@
     "symbol": "STG",
     "decimals": 18,
     "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x3a58a54c066fdc0f2d55fc9c89f0415c92ebf3c4",
-    "name": "Staked MATIC",
-    "symbol": "stMATIC",
-    "decimals": 18,
-    "wallet": false,
     "stable": false
   },
   {

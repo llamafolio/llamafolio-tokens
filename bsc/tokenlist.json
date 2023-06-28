@@ -22529,22 +22529,6 @@
     "stable": false
   },
   {
-    "address": "0x5f0388ebc2b94fa8e123f404b79ccf5f40b29176",
-    "name": "Venus BCH",
-    "symbol": "VBCH",
-    "decimals": 8,
-    "wallet": false,
-    "stable": false
-  },
-  {
-    "address": "0x972207a639cc1b374b893cc33fa251b55ceb7c07",
-    "name": "Venus BETH",
-    "symbol": "VBETH",
-    "decimals": 8,
-    "wallet": false,
-    "stable": false
-  },
-  {
     "address": "0xd347deffbb2e750c752b2d4aa5c26fd57ab90d64",
     "name": "VeriBlock",
     "symbol": "VBK",
@@ -22558,22 +22542,6 @@
     "symbol": "vBSWAP",
     "decimals": 18,
     "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x882c173bc7ff3b7786ca16dfed3dfffb9ee7847b",
-    "name": "Venus BTC",
-    "symbol": "VBTC",
-    "decimals": 8,
-    "wallet": false,
-    "stable": false
-  },
-  {
-    "address": "0x95c78222b3d6e262426483d42cfa53685a67ab9d",
-    "name": "Venus BUSD",
-    "symbol": "VBUSD",
-    "decimals": 8,
-    "wallet": false,
     "stable": false
   },
   {
@@ -22593,35 +22561,11 @@
     "stable": false
   },
   {
-    "address": "0x334b3ecb4dca3593bccc3c7ebd1a1c1d1780fbf1",
-    "name": "Venus DAI",
-    "symbol": "VDAI",
-    "decimals": 8,
-    "wallet": false,
-    "stable": false
-  },
-  {
-    "address": "0xec3422ef92b2fb59e84c8b02ba73f1fe84ed8d71",
-    "name": "Venus DOGE",
-    "symbol": "VDOGE",
-    "decimals": 8,
-    "wallet": false,
-    "stable": false
-  },
-  {
     "address": "0x3a5fccbdcc2684be588575f063acba78e09aad4a",
     "name": "VeldoraBSC",
     "symbol": "VDORA",
     "decimals": 9,
     "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x1610bc33319e9398de5f57b33a5b184c806ad217",
-    "name": "Venus DOT",
-    "symbol": "VDOT",
-    "decimals": 8,
-    "wallet": false,
     "stable": false
   },
   {
@@ -22705,14 +22649,6 @@
     "stable": false
   },
   {
-    "address": "0xf508fcd89b8bd15579dc79a6827cb4686a3592c8",
-    "name": "Venus ETH",
-    "symbol": "VETH",
-    "decimals": 8,
-    "wallet": false,
-    "stable": false
-  },
-  {
     "address": "0x6169b3b23e57de79a6146a2170980ceb1f83b9e0",
     "name": "Vetter Token",
     "symbol": "VETTER",
@@ -22726,14 +22662,6 @@
     "symbol": "VEX",
     "decimals": 9,
     "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xf91d58b5ae142dacc749f58a49fcbac340cb0343",
-    "name": "Venus FIL",
-    "symbol": "VFIL",
-    "decimals": 8,
-    "wallet": false,
     "stable": false
   },
   {
@@ -22849,27 +22777,11 @@
     "stable": false
   },
   {
-    "address": "0x650b940a1033b8a1b1873f78730fcfc73ec11f1f",
-    "name": "Venus LINK",
-    "symbol": "VLINK",
-    "decimals": 8,
-    "wallet": false,
-    "stable": false
-  },
-  {
     "address": "0x797bb0beea437d2762a755ea911c0046c1284568",
     "name": "Vulkania",
     "symbol": "vlk",
     "decimals": 18,
     "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x57a5297f2cb2c0aac9d554660acd6d385ab50c6b",
-    "name": "Venus LTC",
-    "symbol": "VLTC",
-    "decimals": 8,
-    "wallet": false,
     "stable": false
   },
   {
@@ -23009,14 +22921,6 @@
     "stable": false
   },
   {
-    "address": "0x2ff3d0f6990a40261c66e1ff2017acbc282eb6d0",
-    "name": "Venus SXP",
-    "symbol": "VSXP",
-    "decimals": 8,
-    "wallet": false,
-    "stable": false
-  },
-  {
     "address": "0xed66ec1acb7dbd0c01cccff33e3ff1f423057c21",
     "name": "Virtual Tourist",
     "symbol": "vt",
@@ -23038,38 +22942,6 @@
     "symbol": "vtr",
     "decimals": 18,
     "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xeca88125a5adbe82614ffc12d0db554e2e2867c8",
-    "name": "Venus USDC",
-    "symbol": "VUSDC",
-    "decimals": 8,
-    "wallet": false,
-    "stable": false
-  },
-  {
-    "address": "0xfd5840cd36d94d7229439859c0112a4185bc0255",
-    "name": "Venus USDT",
-    "symbol": "VUSDT",
-    "decimals": 8,
-    "wallet": false,
-    "stable": false
-  },
-  {
-    "address": "0xb248a295732e0225acd3337607cc01068e3b9c10",
-    "name": "Venus XRP",
-    "symbol": "VXRP",
-    "decimals": 8,
-    "wallet": false,
-    "stable": false
-  },
-  {
-    "address": "0x151b1e2635a717bcdc836ecd6fbb62b674fe3e1d",
-    "name": "Venus XVS",
-    "symbol": "VXVS",
-    "decimals": 8,
-    "wallet": false,
     "stable": false
   },
   {
@@ -23198,14 +23070,6 @@
     "symbol": "wbesc",
     "decimals": 18,
     "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xa2e3356610840701bdf5611a53974510ae27e2e1",
-    "name": "Wrapped Beacon ETH",
-    "symbol": "WBETH",
-    "decimals": 18,
-    "wallet": false,
     "stable": false
   },
   {

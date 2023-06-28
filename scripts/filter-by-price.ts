@@ -37,9 +37,12 @@ async function main() {
     const prices = results.map(item => item.coins).flatMap(item => Object.entries(item))
     const returnedAddresses = prices.map(([chainAaddress, { price }]) => chainAaddress.split(':')[1])
 
-    // filter out tokens tokens whose address is not in returnedAddresses
+    /**
+     * filter out tokens whose address is not in returnedAddresses &
+     * filter out tokens with `"wallet": false`
+     */
     const filtered = tokens
-      .filter(({ address }) => returnedAddresses.includes(address))
+      .filter(({ address, wallet }) => returnedAddresses.includes(address) && wallet !== false)
       .map(({ coingeckoId, ...token }) => token)
 
     console.log({ [chain]: { lengthBefore: tokens.length, lengthAfter: filtered.length } })

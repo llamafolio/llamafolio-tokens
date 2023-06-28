@@ -1,5 +1,5 @@
 {
-  "exclude": ["build", "node_modules", "dist", "coverage", "test", "./test/app"],
+  "exclude": ["build", "node_modules", "test", "./test/app"],
   "compilerOptions": {
     "resolveJsonModule": true,
     "moduleResolution": "node",

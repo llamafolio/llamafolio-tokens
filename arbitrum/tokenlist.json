@@ -88,14 +88,6 @@
     "stable": false
   },
   {
-    "address": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee",
-    "name": "Aave DAI",
-    "symbol": "ADAI",
-    "decimals": 18,
-    "wallet": false,
-    "stable": true
-  },
-  {
     "address": "0x155f0dd04424939368972f4e1838687d6a831151",
     "name": "ArbiDoge",
     "symbol": "ADOGE",
@@ -205,14 +197,6 @@
     "symbol": "alien",
     "decimals": 18,
     "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x191c10aa4af7c30e871e70c95db0e4eb77237530",
-    "name": "Aave LINK",
-    "symbol": "ALINK",
-    "decimals": 18,
-    "wallet": false,
     "stable": false
   },
   {
@@ -381,38 +365,6 @@
     "symbol": "AUC",
     "decimals": 18,
     "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x625e7708f30ca75bfd92586e17077590c60eb4cd",
-    "name": "Aave USDC",
-    "symbol": "AUSDC",
-    "decimals": 6,
-    "wallet": false,
-    "stable": false
-  },
-  {
-    "address": "0x6ab707aca953edaefbc4fd23ba73294241490620",
-    "name": "Aave USDT",
-    "symbol": "AUSDT",
-    "decimals": 6,
-    "wallet": false,
-    "stable": true
-  },
-  {
-    "address": "0x078f358208685046a11c85e8ad32895ded33a249",
-    "name": "Aave WBTC",
-    "symbol": "AWBTC",
-    "decimals": 8,
-    "wallet": false,
-    "stable": false
-  },
-  {
-    "address": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
-    "name": "Aave WETH",
-    "symbol": "AWETH",
-    "decimals": 18,
-    "wallet": false,
     "stable": false
   },
   {
@@ -1294,14 +1246,6 @@
     "decimals": 18,
     "wallet": true,
     "stable": false
-  },
-  {
-    "address": "0x0a3bb08b3a15a19b4de82f8acfc862606fb69a2d",
-    "name": "iZUMi Bond USD",
-    "symbol": "IUSD",
-    "decimals": 18,
-    "wallet": false,
-    "stable": true
   },
   {
     "address": "0x7241bc8035b65865156ddb5edef3eb32874a3af6",
@@ -2925,14 +2869,6 @@
     "symbol": "gg",
     "decimals": 18,
     "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x1addd80e6039594ee970e5872d247bf0414c8903",
-    "name": "GLP",
-    "symbol": "glp",
-    "decimals": 18,
-    "wallet": false,
     "stable": false
   },
   {
