@@ -1,37 +1,17 @@
 [
   {
+    "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
+    "name": "Wrapped XDAI",
+    "symbol": "WXDAI",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x8c88ea1fd60462ef7004b9e288afcb4680a3c50c",
     "name": "0xMonero from Ethereum",
     "symbol": "0xMR",
     "decimals": 18,
-    "coingeckoId": "0xmonero",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x7f7440c5098462f833e123b44b8a03e1d9785bab",
-    "name": "1INCH Token on xDai",
-    "symbol": "1INCH",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x5f1f81de1d21b97a5d0d5d62d89bde9ddec27325",
-    "name": "Adept Coin Governance from Ethereum",
-    "symbol": "AC",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xc81c785653d97766b995d867cf91f56367742eac",
-    "name": "AriesFinancial on xDai",
-    "symbol": "AFI",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -40,79 +20,6 @@
     "name": "Agave",
     "symbol": "AGVE",
     "decimals": 18,
-    "coingeckoId": "agave-token",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xd27e1ecc4748f42e052331bea917d89beb883fc3",
-    "name": "Akropolis on xDai",
-    "symbol": "AKRO",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xfb23cfd35046466fdba7f73dc2fccb5b17abf1aa",
-    "name": "AlbCoin from Ethereum",
-    "symbol": "ALBC",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x3581cc6a09de85e9b91ef93f2a5ef837706b84a5",
-    "name": "AllianceBlock Token on xDai",
-    "symbol": "ALBT",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x4bc97997883c0397f556bd0f9da6fb71da22f9a2",
-    "name": "aleph.im v2 on xDai",
-    "symbol": "ALEPH",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xd51e1ddd116fff9a71c1b8feeb58113afa2b4d93",
-    "name": "AMIS on xDai",
-    "symbol": "AMIS",
-    "decimals": 9,
-    "coingeckoId": "amis",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xc84dd5b971521b6c9fa5e10d25e6428b19710e05",
-    "name": "Ampleforth on xDai",
-    "symbol": "AMPL",
-    "decimals": 9,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x437a044fb4693890e61d2c1c88e3718e928b8e90",
-    "name": "Aragon Network Token on xDai",
-    "symbol": "ANTv1",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x6eeceab954efdbd7a8a8d9387bc719959b04b9ca",
-    "name": "Aragon Network Token on xDai v2",
-    "symbol": "ANTv2",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -121,43 +28,6 @@
     "name": "API3",
     "symbol": "API3",
     "decimals": 18,
-    "coingeckoId": "api3",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x743a991365ba94bfc90ad0002cad433c7a33cb4a",
-    "name": "AirSwap Token on xDai",
-    "symbol": "AST",
-    "decimals": 4,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x8a95ea379e1fa4c749dd0a7a21377162028c479e",
-    "name": "Audius on xDai",
-    "symbol": "AUDIO",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xcae40062a887581a3d1661d0ac2b481c32e3e938",
-    "name": "Autopia Token on xDai",
-    "symbol": "AUT",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xbde011911128f6bd4abb1d18f39fdc3614ca2cfe",
-    "name": "Axie Infinity",
-    "symbol": "AXS",
-    "decimals": 18,
-    "coingeckoId": "axie-infinity",
     "wallet": true,
     "stable": false
   },
@@ -166,7 +36,6 @@
     "name": "Badger on xDai",
     "symbol": "BADGER",
     "decimals": 18,
-    "coingeckoId": "badger-dao",
     "wallet": true,
     "stable": false
   },
@@ -175,106 +44,6 @@
     "name": "Balancer on xDai",
     "symbol": "BAL",
     "decimals": 18,
-    "coingeckoId": "balancer",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xe154a435408211ac89757b76c4fbe4dc9ed2ef27",
-    "name": "BandToken on xDai",
-    "symbol": "BAND",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x82dfe19164729949fd66da1a37bc70dd6c4746ce",
-    "name": "BaoToken on xDai",
-    "symbol": "BAO",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xe0d0b1dbbcf3dd5cac67edaf9243863fd70745da",
-    "name": "BaoToken Coupon",
-    "symbol": "BAOcx",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x699d001ef13b15335193bc5fad6cfc6747eee8be",
-    "name": "Base Protocol on xDai",
-    "symbol": "BASE",
-    "decimals": 9,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xc6cc63f4aa25bbd4453eb5f3a0dfe546fef9b2f3",
-    "name": "Basic Attention Token on xDai",
-    "symbol": "BAT",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xfc8b2690f66b46fec8b3ceeb95ff4ac35a0054bc",
-    "name": "Dai Token from BSC",
-    "symbol": "bDAI",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x778aa03021b0cd2b798b0b506403e070125d81c9",
-    "name": "BlackDragon Token on xDai",
-    "symbol": "BDT",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x2977893f4c04bfbd6efc68d0e46598d27810d3db",
-    "name": "Bidao on xDai",
-    "symbol": "BID",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xec84a3bb48d70553c2599ac2d0db07b2dfdf6364",
-    "name": "BNS Token on xDai",
-    "symbol": "BNS",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xbdb90bdadae84af0b07abf4cefcc7989f909f9bd",
-    "name": "bns.finance on xDai",
-    "symbol": "BNSD",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x9a495a281d959192343b0e007284bf130bd05f86",
-    "name": "Bancor Network Token on xDai",
-    "symbol": "BNT",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -283,7 +52,6 @@
     "name": "BarnBridge",
     "symbol": "BOND",
     "decimals": 18,
-    "coingeckoId": "barnbridge",
     "wallet": true,
     "stable": false
   },
@@ -292,7 +60,6 @@
     "name": "Bright",
     "symbol": "BRIGHT",
     "decimals": 18,
-    "coingeckoId": "bright-token",
     "wallet": true,
     "stable": false
   },
@@ -301,16 +68,6 @@
     "name": "BitcoinBR",
     "symbol": "BTCBR",
     "decimals": 18,
-    "coingeckoId": "bitcoin-br",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xb2ae7983a8142401d45546aab981e5fbff520991",
-    "name": "BTCCB",
-    "symbol": "BTCCB",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -319,106 +76,14 @@
     "name": "BUSD Token from BSC",
     "symbol": "BUSD",
     "decimals": 18,
-    "coingeckoId": "binance-usd",
     "wallet": true,
     "stable": true
-  },
-  {
-    "address": "0xd10cc63531a514bba7789682e487add1f15a51e2",
-    "name": "USD Coin on xDai binance-peg",
-    "symbol": "BUSDC",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xe6a1f98b0f4368559bd16639c844510f5db6fe48",
-    "name": "BZRX",
-    "symbol": "BZRX",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
   },
   {
     "address": "0xdbf3ea6f5bee45c02255b2c26a16f300502f68da",
     "name": "BZZ from Ethereum",
     "symbol": "BZZ",
     "decimals": 16,
-    "coingeckoId": "swarm-bzz",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x0acd91f92fe07606ab51ea97d8521e29d110fd09",
-    "name": "Celsius on xDai",
-    "symbol": "CEL",
-    "decimals": 4,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x248c54b3fc3bc8b20d0cdee059e17c67e4a3299d",
-    "name": "CelerToken on xDai",
-    "symbol": "CELR",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x64b17a95e6c45306fb23bc526eb2dc9e1331a1b1",
-    "name": "CFX Quantum from Ethereum",
-    "symbol": "CFXQ",
-    "decimals": 6,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xeaf7b3376173df8bc0c22ad6126943cc8353c1ee",
-    "name": "Cheemscoin",
-    "symbol": "CHEEMS",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x76eafffa1873a8acd43864b66a728bd873c5e08a",
-    "name": "SwissBorg Token on xDai",
-    "symbol": "CHSB",
-    "decimals": 8,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x14411aeca652f5131834bf0c8ff581b5ddf3bc03",
-    "name": "coin_artist on xDai",
-    "symbol": "COIN",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xdbcade285846131a5e7384685eaddbdfd9625557",
-    "name": "COLD TRUTH CASH",
-    "symbol": "COLD",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xdf6ff92bfdc1e8be45177dc1f4845d391d3ad8fd",
-    "name": "Compound on xDai",
-    "symbol": "COMP",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -427,7 +92,6 @@
     "name": "Circuits of Value V2",
     "symbol": "COVAL",
     "decimals": 8,
-    "coingeckoId": "circuits-of-value",
     "wallet": true,
     "stable": false
   },
@@ -436,34 +100,6 @@
     "name": "CoW Protocol Token from Mainnet",
     "symbol": "COW",
     "decimals": 18,
-    "coingeckoId": "cow-protocol",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x1939d3431cf0e44b1d63b86e2ce489e5a341b1bf",
-    "name": "Cream on xDai",
-    "symbol": "CREAM",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x712b3d230f3c1c19db860d80619288b1f0bdd0bd",
-    "name": "Curve DAO Token on xDai",
-    "symbol": "CRV",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x7da0bfe9d26c5b64c7580c04bb1425364273e4b0",
-    "name": "Concentrated Voting Power on xDai",
-    "symbol": "CVP",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -472,34 +108,14 @@
     "name": "Dai Stablecoin on xDai",
     "symbol": "DAI",
     "decimals": 18,
-    "coingeckoId": "dai",
     "wallet": true,
     "stable": true
-  },
-  {
-    "address": "0x4ef1d9a329a0cb0658156aff55c406cc4393a987",
-    "name": "Daibase xDAI v0.1.61",
-    "symbol": "DAIX",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
   },
   {
     "address": "0x256eb8a51f382650b2a1e946b8811953640ee47d",
     "name": "Streamr DATA on xDai",
     "symbol": "DATA",
     "decimals": 18,
-    "coingeckoId": "streamr",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x1319067e82f0b9981f19191e1c08bb6e6e055dd3",
-    "name": "DeFireX DAI on xDai",
-    "symbol": "DDAI",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -508,7 +124,6 @@
     "name": "DeHive.finance",
     "symbol": "DHV",
     "decimals": 18,
-    "coingeckoId": "dehive",
     "wallet": true,
     "stable": false
   },
@@ -517,16 +132,6 @@
     "name": "Decentralized Insurance Protocol on xDai",
     "symbol": "DIP",
     "decimals": 18,
-    "coingeckoId": "etherisc",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x7c16c63684d86bacc52e8793b08a5a1a3cb1ba1e",
-    "name": "Davincij15 Token on xDai",
-    "symbol": "DJ15",
-    "decimals": 9,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -535,16 +140,6 @@
     "name": "Donut on xDai",
     "symbol": "DONUT",
     "decimals": 18,
-    "coingeckoId": "donut",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x6d237bb2248d3b40b1a54f3417667b2f39984fc8",
-    "name": "PieDAO Dough",
-    "symbol": "DOUGH",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -553,7 +148,6 @@
     "name": "DefiPulse Index from Ethereum",
     "symbol": "DPI",
     "decimals": 18,
-    "coingeckoId": "defipulse-index",
     "wallet": true,
     "stable": false
   },
@@ -562,7 +156,6 @@
     "name": "Unit Protocol",
     "symbol": "DUCK",
     "decimals": 18,
-    "coingeckoId": "unit-protocol-duck",
     "wallet": true,
     "stable": false
   },
@@ -571,7 +164,6 @@
     "name": "DXdao from Ethereum",
     "symbol": "DXD",
     "decimals": 18,
-    "coingeckoId": "dxdao",
     "wallet": true,
     "stable": false
   },
@@ -580,25 +172,6 @@
     "name": "Elk",
     "symbol": "ELK",
     "decimals": 18,
-    "coingeckoId": "elk-finance",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x7a7d81657a1a66b38a6ca2565433a9873c6913b2",
-    "name": "Enigma on xDai",
-    "symbol": "ENG",
-    "decimals": 8,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x5a757f0bcadfdb78651b7bdbe67e44e8fd7f7f6b",
-    "name": "Enjin Coin on xDai",
-    "symbol": "ENJ",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -607,7 +180,6 @@
     "name": "EsportsRef",
     "symbol": "ESR",
     "decimals": 18,
-    "coingeckoId": "esportsref",
     "wallet": true,
     "stable": false
   },
@@ -616,16 +188,6 @@
     "name": "Ethix on xDai",
     "symbol": "ETHIX",
     "decimals": 18,
-    "coingeckoId": "ethichub",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x9bd5e0ce813d5172859b0b70ff7bb3c325cee913",
-    "name": "Ethereum Meta on xDai",
-    "symbol": "ETHM",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -634,7 +196,6 @@
     "name": "Wrapped ETHO",
     "symbol": "ETHO",
     "decimals": 18,
-    "coingeckoId": "ether-1",
     "wallet": true,
     "stable": false
   },
@@ -643,7 +204,6 @@
     "name": "Energy Web Token Bridged on xDai",
     "symbol": "EWTB",
     "decimals": 18,
-    "coingeckoId": "energy-web-token",
     "wallet": true,
     "stable": false
   },
@@ -652,7 +212,6 @@
     "name": "FOX",
     "symbol": "FOX",
     "decimals": 18,
-    "coingeckoId": "shapeshift-fox-token",
     "wallet": true,
     "stable": false
   },
@@ -661,7 +220,6 @@
     "name": "Freedom Reserve on xDai",
     "symbol": "FR",
     "decimals": 18,
-    "coingeckoId": "freedom-reserve",
     "wallet": true,
     "stable": false
   },
@@ -670,52 +228,6 @@
     "name": "Own a fraction",
     "symbol": "FRACTION",
     "decimals": 18,
-    "coingeckoId": "fraction",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xa106739de31fa7a9df4a93c9bea3e1bade0924e2",
-    "name": "FreeToken",
-    "symbol": "FREE",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xde1e70ed71936e4c249a7d43e550f0b99fccddfc",
-    "name": "FalconSwap Token on xDai",
-    "symbol": "FSW",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x75886f00c1a20ec1511111fb4ec3c51de65b1fe7",
-    "name": "FTX Token",
-    "symbol": "FTT",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x6f09cf96558d44584db07f8477dd3490599aa63e",
-    "name": "Bitgear on xDai",
-    "symbol": "GEAR",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x12dabe79cffc1fde82fcd3b96dbe09fa4d8cd599",
-    "name": "DAOstack on xDai",
-    "symbol": "GEN",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -724,16 +236,6 @@
     "name": "Giveth from Mainnet",
     "symbol": "GIV",
     "decimals": 18,
-    "coingeckoId": "giveth",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x30610f98b61593de963b2303aeeaee69823f561f",
-    "name": "Golden Bull Token on xDAI",
-    "symbol": "GLDB",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -742,25 +244,6 @@
     "name": "Gnosis on xDai",
     "symbol": "GNO",
     "decimals": 18,
-    "coingeckoId": "gnosis",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xfadc59d012ba3c110b08a15b7755a5cb7cbe77d7",
-    "name": "Graph Token on xDai",
-    "symbol": "GRT",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8",
-    "name": "Graviton",
-    "symbol": "GTON",
-    "decimals": 18,
-    "coingeckoId": "gton-capital",
     "wallet": true,
     "stable": false
   },
@@ -769,25 +252,6 @@
     "name": "Haus",
     "symbol": "HAUS",
     "decimals": 18,
-    "coingeckoId": "daohaus",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xd9fa47e33d4ff7a1aca489de1865ac36c042b07a",
-    "name": "HEX on xDai",
-    "symbol": "HEX",
-    "decimals": 8,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x97e4ebc14c117c1ac2d032a5a8140c84628b0d17",
-    "name": "HiveShares from Ethereum",
-    "symbol": "HIVESHARE",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -796,7 +260,6 @@
     "name": "hiveWater",
     "symbol": "hivewater",
     "decimals": 18,
-    "coingeckoId": "hivewater",
     "wallet": true,
     "stable": false
   },
@@ -805,7 +268,6 @@
     "name": "Honey",
     "symbol": "HNY",
     "decimals": 18,
-    "coingeckoId": "honey",
     "wallet": true,
     "stable": false
   },
@@ -814,7 +276,6 @@
     "name": "Hop Protocol",
     "symbol": "HOP",
     "decimals": 18,
-    "coingeckoId": "hop-protocol",
     "wallet": true,
     "stable": false
   },
@@ -823,16 +284,6 @@
     "name": "HOPR Token on xDai",
     "symbol": "HOPR",
     "decimals": 18,
-    "coingeckoId": "hopr",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x346b2968508d32f0192cd7a60ef3d9c39a3cf549",
-    "name": "HoloToken on xDai",
-    "symbol": "HOT",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -841,7 +292,6 @@
     "name": "Jarvis Synthetic Swiss Franc",
     "symbol": "jCHF",
     "decimals": 18,
-    "coingeckoId": "jarvis-synthetic-swiss-franc",
     "wallet": true,
     "stable": false
   },
@@ -850,16 +300,6 @@
     "name": "Jarvis Synthetic Euro",
     "symbol": "jEUR",
     "decimals": 18,
-    "coingeckoId": "jarvis-synthetic-euro",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x5fe9885226677f3eb5c9ad8ab6c421b4ea38535d",
-    "name": "JOON on xDai",
-    "symbol": "JOON",
-    "decimals": 4,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -868,7 +308,6 @@
     "name": "JPY Coin on xDai",
     "symbol": "JPYC",
     "decimals": 18,
-    "coingeckoId": "jpyc",
     "wallet": true,
     "stable": false
   },
@@ -877,97 +316,6 @@
     "name": "JPY Coin",
     "symbol": "JPYC",
     "decimals": 18,
-    "coingeckoId": "jpy-coin",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x1534fb3e82849314360c267fe20df3901a2ed3f9",
-    "name": "Kyber Network Crystal on xDai",
-    "symbol": "KNC",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xbd8ad53095d32b5e652b3fd26d61c5340126da10",
-    "name": "Laika Protocol",
-    "symbol": "LAIKA",
-    "decimals": 9,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x8fbedd16904b561e30ea402f459900e9d90614af",
-    "name": "Unilayer on xDai",
-    "symbol": "LAYER",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xc1b42bdb485deb24c74f58399288d7915a726c1d",
-    "name": "EthLend Token on xDai",
-    "symbol": "LEND",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x1698cd22278ef6e7c0df45a8dea72edbea9e42aa",
-    "name": "Levin",
-    "symbol": "LEVIN",
-    "decimals": 18,
-    "coingeckoId": "levin",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xf99efeb34aff6d3099c41605e9ee778caec39317",
-    "name": "Meridian Network on xDai",
-    "symbol": "LOCK",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x7db0be7a41b5395268e065776e800e27181c81ab",
-    "name": "Livepeer Token on xDai",
-    "symbol": "LPT",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x2be73bfeec620aa9b67535a4d3827bb1e29436d1",
-    "name": "LoopringCoin V2 on xDai",
-    "symbol": "LRC",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xcf9dc2de2a67d7db1a7171e3b8456d2171e4da75",
-    "name": "Layer 2 Index on xDai",
-    "symbol": "LTI",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x79cf2029717e2e78c8927f65f079ab8da21781ee",
-    "name": "LUKSO Token on xDai",
-    "symbol": "LYXe",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -976,70 +324,14 @@
     "name": "miMatic",
     "symbol": "MAI",
     "decimals": 18,
-    "coingeckoId": "mimatic",
     "wallet": true,
     "stable": true
-  },
-  {
-    "address": "0x7838796b6802b18d7ef58fc8b757705d6c9d12b3",
-    "name": "Decentraland MANA on xDai",
-    "symbol": "MANA",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xd361c1fd663d8f2dc36ae07ff6f3623532cabdd3",
-    "name": "MCDEX Token on xDai",
-    "symbol": "MCB",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xc577cddabb7893cc2ca15ef4b5d5e5e13c3feed3",
-    "name": "McDonaldsCoin on xDai",
-    "symbol": "MCDC",
-    "decimals": 2,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xbab3cbdcbcc578445480a79ed80269c50bb5b718",
-    "name": "MEDOOZA Ecosystem v2.0 from Ethereum",
-    "symbol": "MDZA",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
   },
   {
     "address": "0x512a2eb0277573ae9be0d48c782590b624048fdf",
     "name": "MEME on xDai",
     "symbol": "MEME",
     "decimals": 8,
-    "coingeckoId": "degenerator",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xe7ef58d8180cc269c6620ded3e6cc536a52e2ebd",
-    "name": "BLOCKMESH",
-    "symbol": "MESH",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xb4b6f80d8e573e9867c90163bfdb00e29d92716a",
-    "name": "Metronome on xDai",
-    "symbol": "MET",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -1048,25 +340,6 @@
     "name": "Minerva Wallet SuperToken",
     "symbol": "MIVA",
     "decimals": 18,
-    "coingeckoId": "minerva-wallet",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x5fd896d248fbfa54d26855c267859eb1b4daee72",
-    "name": "Maker on xDai",
-    "symbol": "MKR",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x5b917d4fb9b27591353211c32f1552a527987afc",
-    "name": "MoonToken on xDai",
-    "symbol": "MOON",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -1075,97 +348,6 @@
     "name": "MtPelerin Shares",
     "symbol": "MPS",
     "decimals": 0,
-    "coingeckoId": "mt-pelerin-shares",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xcc043d8820a6dc3e74ef6fb4772fae00c1563489",
-    "name": "MORPHINE",
-    "symbol": "MRP",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x26dc03e492763068ccfe7c39b93a22442807c360",
-    "name": "Nexo on xDai",
-    "symbol": "NEXO",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x1a186e7268f3ed5adfea6b9e0655f70059941e11",
-    "name": "Unifty on xDai",
-    "symbol": "NIF",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xc60e38c6352875c051b481cbe79dd0383adb7817",
-    "name": "DAppNode DAO Token from Ethereum",
-    "symbol": "NODE",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x26dd64bdcb2faf4f7e49a73145752e8d9cb34c94",
-    "name": "Pundi X Token on xDai",
-    "symbol": "NPXS",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x0dcfed2c3041e66b2d8c4ea39782c60355716316",
-    "name": "Energi on xDai",
-    "symbol": "NRGE",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x51732a6fc4673d1acca4c047f5465922716508ad",
-    "name": "Ocean Token on xDai",
-    "symbol": "OCEAN",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x309bc6dbcbfb9c84d26fdf65e8924367efccbdb9",
-    "name": "OM Token on xDai",
-    "symbol": "OM",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x8395f7123ba3ffad52e7414433d825931c81c879",
-    "name": "OMGToken on xDai",
-    "symbol": "OMG",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x0905ab807f8fd040255f0cf8fa14756c1d824931",
-    "name": "OWL on xDai",
-    "symbol": "OWL",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -1174,7 +356,6 @@
     "name": "Panvala pan on xDai",
     "symbol": "PAN",
     "decimals": 18,
-    "coingeckoId": "panvala-pan",
     "wallet": true,
     "stable": false
   },
@@ -1183,34 +364,6 @@
     "name": "Perpetual on xDai",
     "symbol": "PERP",
     "decimals": 18,
-    "coingeckoId": "perpetual-protocol",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x6099280dc5fc97cbb61b456246316a1b8f79534b",
-    "name": "Polyient Games Governance Token",
-    "symbol": "PGT",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x7ea8af7301b763451b7fb25f8fc2406819a7e36f",
-    "name": "Phala on xDai",
-    "symbol": "PHA",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x317eab07380d670ea814025cba40f5624354a32f",
-    "name": "DeFiPIE Token on xDai",
-    "symbol": "PIE",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -1219,34 +372,6 @@
     "name": "Pinakion on xDai",
     "symbol": "PNK",
     "decimals": 18,
-    "coingeckoId": "kleros",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x985e144eb355273c4b4d51e448b68b657f482e26",
-    "name": "POA20 on xDai",
-    "symbol": "POA20",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x75481a953a4bba6b3c445907db403e4b5d222174",
-    "name": "PolkastarterToken on xDai",
-    "symbol": "POLS",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xa9e5cd4efc86c01fae9a9fcd6e8669b97c92a937",
-    "name": "prophet.finance on xDai",
-    "symbol": "PROPHET",
-    "decimals": 9,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -1255,34 +380,6 @@
     "name": "Particle",
     "symbol": "PRTCLE",
     "decimals": 18,
-    "coingeckoId": "particle-2",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x53ef00be819a062533a0e699077c621a28eaded1",
-    "name": "PowerTrade Fuel Token on xDai",
-    "symbol": "PTF",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x988d1be68f2c5cde2516a2287c59bd6302b7d20d",
-    "name": "xDai Punks",
-    "symbol": "PUNK",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xdfa46478f9e5ea86d57387849598dbfb2e964b02",
-    "name": "QiDAO",
-    "symbol": "QiDAO",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -1291,25 +388,6 @@
     "name": "Raid Guild Token from Ethereum",
     "symbol": "RAID",
     "decimals": 18,
-    "coingeckoId": "raid-token",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x57e93bb58268de818b42e3795c97bad58afcd3fe",
-    "name": "Rare Coin v2",
-    "symbol": "RAREV2",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x4be85acc1cd711f403dc7bde9e6cadfc5a94744b",
-    "name": "Rarible on xDai",
-    "symbol": "RARI",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -1318,7 +396,6 @@
     "name": "RealToken S 10024-10028 Appoline St Detroit MI",
     "symbol": "REALTOKEN-10024-APPOLINE-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "10024-10028-appoline",
     "wallet": true,
     "stable": false
   },
@@ -1327,7 +404,6 @@
     "name": "RealToken S 15048 Freeland St Detroit MI",
     "symbol": "REALTOKEN-15048-FREELAND-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "15048-freeland",
     "wallet": true,
     "stable": false
   },
@@ -1336,7 +412,6 @@
     "name": "RealToken S 15634 Liberal St Detroit MI",
     "symbol": "REALTOKEN-15634-LIBERAL-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "15634-liberal",
     "wallet": true,
     "stable": false
   },
@@ -1345,7 +420,6 @@
     "name": "RealToken S 16200 Fullerton Ave Detroit MI",
     "symbol": "REALTOKEN-16200-FULLERTON-AVE-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "16200-fullerton",
     "wallet": true,
     "stable": false
   },
@@ -1354,7 +428,6 @@
     "name": "RealToken S 18900 Mansfield St Detroit MI",
     "symbol": "REALTOKEN-18900-MANSFIELD-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "18900-mansfield",
     "wallet": true,
     "stable": false
   },
@@ -1363,7 +436,6 @@
     "name": "RealToken S 20200 Lesure St Detroit MI",
     "symbol": "REALTOKEN-20200-LESURE-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "20200-lesure",
     "wallet": true,
     "stable": false
   },
@@ -1372,7 +444,6 @@
     "name": "RealToken S 25097 Andover Dr Dearborn MI",
     "symbol": "REALTOKEN-25097-ANDOVER-DRIVE-DEARBORN-MI",
     "decimals": 18,
-    "coingeckoId": "25097-andover",
     "wallet": true,
     "stable": false
   },
@@ -1381,7 +452,6 @@
     "name": "RealToken S 272 N.E. 42nd Court Deerfield Beach FL",
     "symbol": "REALTOKEN-272-NE42nd-COURT-DEERFIELDBEACH-FL",
     "decimals": 18,
-    "coingeckoId": "272-n-e-42nd-court",
     "wallet": true,
     "stable": false
   },
@@ -1390,7 +460,6 @@
     "name": "RealToken S 5942 Audubon Rd Detroit MI",
     "symbol": "REALTOKEN-5942-AUDUBON-RD-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "5942-audubon",
     "wallet": true,
     "stable": false
   },
@@ -1399,7 +468,6 @@
     "name": "RealToken S 9336 Patton St Detroit MI",
     "symbol": "REALTOKEN-9336-PATTON-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "9336-patton",
     "wallet": true,
     "stable": false
   },
@@ -1408,7 +476,6 @@
     "name": "RealToken S 10084 Grayton St Detroit MI",
     "symbol": "REALTOKEN-S-10084-GRAYTON-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "10084-grayton",
     "wallet": true,
     "stable": false
   },
@@ -1417,7 +484,6 @@
     "name": "RealToken S 10604 Somerset Ave MI",
     "symbol": "REALTOKEN-S-10604-SOMERSET-AVE-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "10604-somerset",
     "wallet": true,
     "stable": false
   },
@@ -1426,7 +492,6 @@
     "name": "RealToken S 10612 Somerset Ave Detroit MI",
     "symbol": "REALTOKEN-S-10612-SOMERSET-AVE-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "10612-somerset",
     "wallet": true,
     "stable": false
   },
@@ -1435,7 +500,6 @@
     "name": "RealToken S 10616 McKinney St Detroit MI",
     "symbol": "REALTOKEN-S-10616-McKINNEY-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "10616-mckinney",
     "wallet": true,
     "stable": false
   },
@@ -1444,7 +508,6 @@
     "name": "RealToken S 10617 Hathaway Ave Cleveland OH",
     "symbol": "REALTOKEN-S-10617-HATHAWAY-AVE-CLEVELAND-OH",
     "decimals": 18,
-    "coingeckoId": "10617-hathaway",
     "wallet": true,
     "stable": false
   },
@@ -1453,7 +516,6 @@
     "name": "RealToken S 10629 McKinney St Detroit MI",
     "symbol": "REALTOKEN-S-10629-MCKINNEY-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "10629-mckinney",
     "wallet": true,
     "stable": false
   },
@@ -1462,7 +524,6 @@
     "name": "RealToken S 10639 Stratman St Detroit MI",
     "symbol": "REALTOKEN-S-10639-STRATMAN-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "10639-stratman",
     "wallet": true,
     "stable": false
   },
@@ -1471,7 +532,6 @@
     "name": "RealToken S 10700 Whittier Ave Detroit MI",
     "symbol": "REALTOKEN-S-10700-WHITTIER-AVE-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "10700-whittier",
     "wallet": true,
     "stable": false
   },
@@ -1480,7 +540,6 @@
     "name": "RealToken S 11078 Longview St Detroit MI",
     "symbol": "REALTOKEN-S-11078-LONGVIEW-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "11078-longview",
     "wallet": true,
     "stable": false
   },
@@ -1489,7 +548,6 @@
     "name": "RealToken S 11078 Wayburn St Detroit MI",
     "symbol": "REALTOKEN-S-11078-WAYBURN-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "11078-wayburn",
     "wallet": true,
     "stable": false
   },
@@ -1498,7 +556,6 @@
     "name": "RealToken S 11201 College St Detroit MI",
     "symbol": "REALTOKEN-S-11201-COLLEGE-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "11201-college",
     "wallet": true,
     "stable": false
   },
@@ -1507,7 +564,6 @@
     "name": "RealToken S 11300 Roxbury St Detroit MI",
     "symbol": "REALTOKEN-S-11300-ROXBURY-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "11300-roxbury",
     "wallet": true,
     "stable": false
   },
@@ -1516,7 +572,6 @@
     "name": "RealToken S 11653 Nottingham Rd Detroit MI",
     "symbol": "REALTOKEN-S-11653-NOTTINGHAM-RD-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "11653-nottingham",
     "wallet": true,
     "stable": false
   },
@@ -1525,7 +580,6 @@
     "name": "RealToken S 11957 Olga St Detroit MI",
     "symbol": "REALTOKEN-S-11957-OLGA-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "11957-olga",
     "wallet": true,
     "stable": false
   },
@@ -1534,7 +588,6 @@
     "name": "RealToken S 12334 Lansdowne St Detroit MI",
     "symbol": "REALTOKEN-S-12334-LANSDOWNE-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "12334-lansdowne",
     "wallet": true,
     "stable": false
   },
@@ -1543,7 +596,6 @@
     "name": "RealToken S 12405 Santa Rosa Dr Detroit MI",
     "symbol": "REALTOKEN-S-12405-SANTA-ROSA-DR-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "12405-santa-rosa",
     "wallet": true,
     "stable": false
   },
@@ -1552,7 +604,6 @@
     "name": "RealToken S 12409 Whitehill St Detroit MI",
     "symbol": "REALTOKEN-S-12409-WHITEHILL-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "12409-whitehill",
     "wallet": true,
     "stable": false
   },
@@ -1561,7 +612,6 @@
     "name": "RealToken S 1244 S. Avers ST Chicago IL",
     "symbol": "REALTOKEN-S-1244-S.AVERS-ST-CHICAGO-IL",
     "decimals": 18,
-    "coingeckoId": "1244-s-avers",
     "wallet": true,
     "stable": false
   },
@@ -1570,7 +620,6 @@
     "name": "RealToken S 12866 Lauder St Detroit MI",
     "symbol": "REALTOKEN-S-12866-LAUDER-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "12866-lauder",
     "wallet": true,
     "stable": false
   },
@@ -1579,7 +628,6 @@
     "name": "RealToken S 13045 Wade St Detroit MI",
     "symbol": "REALTOKEN-S-13045-WADE-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "13045-wade",
     "wallet": true,
     "stable": false
   },
@@ -1588,7 +636,6 @@
     "name": "RealToken S 13114 Glenfield Ave Detroit MI",
     "symbol": "REALTOKEN-S-13114-GLENFIELD-AVE-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "13114-glenfield",
     "wallet": true,
     "stable": false
   },
@@ -1597,7 +644,6 @@
     "name": "RealToken S 13116 Kilbourne Ave Detroit MI",
     "symbol": "REALTOKEN-S-13116-KILBOURNE-AVE-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "13116-kilbourne",
     "wallet": true,
     "stable": false
   },
@@ -1606,7 +652,6 @@
     "name": "RealToken S 13895 Saratoga St Detroit MI",
     "symbol": "REALTOKEN-S-13895-SARATOGA-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "realtoken-s-13895-saratoga-st-detroit-mi",
     "wallet": true,
     "stable": false
   },
@@ -1615,7 +660,6 @@
     "name": "RealToken S 13991 Warwick St Detroit MI",
     "symbol": "REALTOKEN-S-13991-WARWICK-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "13991-warwick",
     "wallet": true,
     "stable": false
   },
@@ -1624,7 +668,6 @@
     "name": "RealToken S 14066 Santa Rosa Dr Detroit MI",
     "symbol": "REALTOKEN-S-14066-SANTA-ROSA-DR-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "14066-santa-rosa",
     "wallet": true,
     "stable": false
   },
@@ -1633,7 +676,6 @@
     "name": "RealToken S 14078 Carlisle St Detroit MI",
     "symbol": "REALTOKEN-S-14078-CARLISLE-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "14078-carlisle",
     "wallet": true,
     "stable": false
   },
@@ -1642,7 +684,6 @@
     "name": "RealToken S 14229 Wilshire Dr Detroit MI",
     "symbol": "REALTOKEN-S-14229-WILSHIRE-DR-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "14229-wilshire",
     "wallet": true,
     "stable": false
   },
@@ -1651,7 +692,6 @@
     "name": "RealToken S 14231 Strathmoor St Detroit MI",
     "symbol": "REALTOKEN-S-14231-STRATHMOOR-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "14231-strathmoor",
     "wallet": true,
     "stable": false
   },
@@ -1660,7 +700,6 @@
     "name": "RealToken S 14319 Rosemary St Detroit MI",
     "symbol": "REALTOKEN-S-14319-ROSEMARY-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "14319-rosemary",
     "wallet": true,
     "stable": false
   },
@@ -1669,7 +708,6 @@
     "name": "RealToken S 14494 Chelsea Ave Detroit MI",
     "symbol": "REALTOKEN-S-14494-CHELSEA-AVE-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "14494-chelsea",
     "wallet": true,
     "stable": false
   },
@@ -1678,7 +716,6 @@
     "name": "RealToken S 14825 Wilfried St Detroit MI",
     "symbol": "REALTOKEN-S-14825-WILFRIED-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "14825-wilfred",
     "wallet": true,
     "stable": false
   },
@@ -1687,7 +724,6 @@
     "name": "RealToken S 14882 Troester St Detroit MI",
     "symbol": "REALTOKEN-S-14882-TROESTER-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "14882-troester",
     "wallet": true,
     "stable": false
   },
@@ -1696,7 +732,6 @@
     "name": "RealToken S 14918 Joy Rd Detroit MI",
     "symbol": "REALTOKEN-S-14918-JOY-RD-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "14918-joy",
     "wallet": true,
     "stable": false
   },
@@ -1705,7 +740,6 @@
     "name": "RealToken S 15039 Ward Ave Detroit MI",
     "symbol": "REALTOKEN-S-15039-WARD-AVE-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "15039-ward",
     "wallet": true,
     "stable": false
   },
@@ -1714,7 +748,6 @@
     "name": "RealToken S 15095 Hartwell St Detroit MI",
     "symbol": "REALTOKEN-S-15095-HARTWELL-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "15095-hartwell",
     "wallet": true,
     "stable": false
   },
@@ -1723,7 +756,6 @@
     "name": "RealToken S 15350 Greydale St Detroit MI",
     "symbol": "REALTOKEN-S-15350-GREYDALE-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "15350-greydale",
     "wallet": true,
     "stable": false
   },
@@ -1732,7 +764,6 @@
     "name": "RealToken S 15373 Parkside St Detroit MI",
     "symbol": "REALTOKEN-S-15373-PARKSIDE-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "15373-parkside",
     "wallet": true,
     "stable": false
   },
@@ -1741,7 +772,6 @@
     "name": "RealToken S 15753 Hartwell St Detroit MI",
     "symbol": "REALTOKEN-S-15753-HARTWELL-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "15753-hartwell",
     "wallet": true,
     "stable": false
   },
@@ -1750,7 +780,6 @@
     "name": "RealToken S 15777 Ardmore St Detroit MI",
     "symbol": "REALTOKEN-S-1577-ARDMORE-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "15777-ardmore",
     "wallet": true,
     "stable": false
   },
@@ -1759,7 +788,6 @@
     "name": "RealToken S 15770 Prest St Detroit MI",
     "symbol": "REALTOKEN-S-15770-PREST-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "15770-prest",
     "wallet": true,
     "stable": false
   },
@@ -1768,7 +796,6 @@
     "name": "RealToken S 15784 Monte Vista St Detroit MI",
     "symbol": "REALTOKEN-S-15784-MONTEVISTA-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "15784-monte-vista",
     "wallet": true,
     "stable": false
   },
@@ -1777,7 +804,6 @@
     "name": "RealToken S 15796 Hartwell St Detroit MI",
     "symbol": "REALTOKEN-S-15796-HARTWELL-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "15796-hartwell",
     "wallet": true,
     "stable": false
   },
@@ -1786,7 +812,6 @@
     "name": "RealToken S 15860 Hartwell St Detroit MI",
     "symbol": "REALTOKEN-S-15860-HARTWELL-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "15860-hartwell",
     "wallet": true,
     "stable": false
   },
@@ -1795,7 +820,6 @@
     "name": "RealToken S 1617 S.Avers Ave Chicago IL",
     "symbol": "REALTOKEN-S-1617-S.AVERS-AVE-CHICAGO-IL",
     "decimals": 18,
-    "coingeckoId": "1617-s-avers",
     "wallet": true,
     "stable": false
   },
@@ -1804,7 +828,6 @@
     "name": "RealToken S 17500 Evergreen Rd Detroit MI",
     "symbol": "REALTOKEN-S-17500-EVERGREEN-RD-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "17500-evergreen",
     "wallet": true,
     "stable": false
   },
@@ -1813,7 +836,6 @@
     "name": "RealToken S 17809 Charest St Detroit MI",
     "symbol": "REALTOKEN-S-17809-CHAREST-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "17809-charest",
     "wallet": true,
     "stable": false
   },
@@ -1822,7 +844,6 @@
     "name": "RealToken S 17813 Bradford St Detroit MI",
     "symbol": "REALTOKEN-S-17813-BRADFORD-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "17813-bradford",
     "wallet": true,
     "stable": false
   },
@@ -1831,7 +852,6 @@
     "name": "RealToken S 1815 S.Avers Ave Chicago IL",
     "symbol": "REALTOKEN-S-1815-S.AVERS-AVE-CHICAGO-IL",
     "decimals": 18,
-    "coingeckoId": "1815-s-avers",
     "wallet": true,
     "stable": false
   },
@@ -1840,7 +860,6 @@
     "name": "RealToken S 18273 Monte-Vista St Detroit MI",
     "symbol": "REALTOKEN-S-18273-MONTEVISTA-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "18273-monte-vista",
     "wallet": true,
     "stable": false
   },
@@ -1849,7 +868,6 @@
     "name": "RealToken S 18433 Faust Ave Detroit MI",
     "symbol": "REALTOKEN-S-18433-FAUST-AVE-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "18433-faust",
     "wallet": true,
     "stable": false
   },
@@ -1858,7 +876,6 @@
     "name": "RealToken S 18466 Fielding St Detroit MI",
     "symbol": "REALTOKEN-S-18466-FIELDING-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "18466-fielding",
     "wallet": true,
     "stable": false
   },
@@ -1867,7 +884,6 @@
     "name": "RealToken S 18481 Westphalia St Detroit MI",
     "symbol": "REALTOKEN-S-18481-WESTPHALIA-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "18481-westphalia",
     "wallet": true,
     "stable": false
   },
@@ -1876,7 +892,6 @@
     "name": "RealToken S 18776 Sunderland Rd Detroit MI",
     "symbol": "REALTOKEN-S-18776-SUNDERLAND-RD-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "18776-sunderland",
     "wallet": true,
     "stable": false
   },
@@ -1885,7 +900,6 @@
     "name": "RealToken S 18983 Alcoy Ave Detroit MI",
     "symbol": "REALTOKEN-S-18983-ALCOY-AVE-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "18983-alcoy",
     "wallet": true,
     "stable": false
   },
@@ -1894,7 +908,6 @@
     "name": "RealToken S 19020 Rosemont Ave Detroit MI",
     "symbol": "REALTOKEN-S-19020-ROSEMONT-AVE-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "19020-rosemont",
     "wallet": true,
     "stable": false
   },
@@ -1903,7 +916,6 @@
     "name": "RealToken S 19136 Tracey St Detroit MI",
     "symbol": "REALTOKEN-S-19136-TRACEY-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "19136-tracey",
     "wallet": true,
     "stable": false
   },
@@ -1912,7 +924,6 @@
     "name": "RealToken S 19163 Mitchell St Detroit MI",
     "symbol": "REALTOKEN-S-19163-MITCHELL-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "19163-mitchell",
     "wallet": true,
     "stable": false
   },
@@ -1921,7 +932,6 @@
     "name": "RealToken S 19200 Strasburg St Detroit MI",
     "symbol": "REALTOKEN-S-19200-STRASBURG-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "19200-strasburg",
     "wallet": true,
     "stable": false
   },
@@ -1930,7 +940,6 @@
     "name": "RealToken S 19201 Westphalia St Detroit MI",
     "symbol": "REALTOKEN-S-19201-WESTPHALIA-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "19201-westphalia",
     "wallet": true,
     "stable": false
   },
@@ -1939,7 +948,6 @@
     "name": "RealToken S 19311 Keystone St Detroit MI",
     "symbol": "REALTOKEN-S-19311-KEYSTONE-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "19311-keystone",
     "wallet": true,
     "stable": false
   },
@@ -1948,7 +956,6 @@
     "name": "RealToken S 19317 Gable St Detroit MI",
     "symbol": "REALTOKEN-S-19314-GABLE-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "19317-gable",
     "wallet": true,
     "stable": false
   },
@@ -1957,7 +964,6 @@
     "name": "RealToken S 19333 Moenart St Detroit MI",
     "symbol": "REALTOKEN-S-19333-MOENART-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "19333-moenart",
     "wallet": true,
     "stable": false
   },
@@ -1966,7 +972,6 @@
     "name": "RealToken S 19596 Goulburn St Detroit MI",
     "symbol": "REALTOKEN-S-19596-GOULBURN-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "19596-goulburn",
     "wallet": true,
     "stable": false
   },
@@ -1975,7 +980,6 @@
     "name": "RealToken S 19996 Joann Ave Detroit MI",
     "symbol": "REALTOKEN-S-19996-JOANN-AVE-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "19996-joann",
     "wallet": true,
     "stable": false
   },
@@ -1984,7 +988,6 @@
     "name": "RealToken S 402 S Kostner Ave Chicago IL",
     "symbol": "REALTOKEN-S-402-S.KOSTNER-AVE-CHICAGO-IL",
     "decimals": 18,
-    "coingeckoId": "402-s-kostner",
     "wallet": true,
     "stable": false
   },
@@ -1993,7 +996,6 @@
     "name": "RealToken S 4061 Grand St Detroit MI",
     "symbol": "REALTOKEN-S-4061-GRAND-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "4061-grand",
     "wallet": true,
     "stable": false
   },
@@ -2002,7 +1004,6 @@
     "name": "RealToken S 4338-4340 East 71 Cleveland OH",
     "symbol": "REALTOKEN-S-4340-EAST-71-CLEVELAND-OH",
     "decimals": 18,
-    "coingeckoId": "4340-east-71",
     "wallet": true,
     "stable": false
   },
@@ -2011,7 +1012,6 @@
     "name": "RealToken S 4380 Beaconsfield St Detroit MI",
     "symbol": "REALTOKEN-S-4380-BEACONSFIELD-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "4380-beaconsfield",
     "wallet": true,
     "stable": false
   },
@@ -2020,7 +1020,6 @@
     "name": "RealToken S 4680 Buckingham Ave Detroit MI",
     "symbol": "REALTOKEN-S-4680-BUCKINGHAM-AVE-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "4680-buckingham",
     "wallet": true,
     "stable": false
   },
@@ -2029,7 +1028,6 @@
     "name": "RealToken S 4852-4854 W Cortez St Chicago IL",
     "symbol": "REALTOKEN-S-4852-4854-W.CORTEZ-ST-CHICAGO-IL",
     "decimals": 18,
-    "coingeckoId": "4852-4854-w-cortez",
     "wallet": true,
     "stable": false
   },
@@ -2038,7 +1036,6 @@
     "name": "RealToken S 5601 S Wood St Chicago IL",
     "symbol": "REALTOKEN-S-5601-S.WOOD-ST-CHICAGO-IL",
     "decimals": 18,
-    "coingeckoId": "5601-s-wood",
     "wallet": true,
     "stable": false
   },
@@ -2047,7 +1044,6 @@
     "name": "RealToken S 581-587 Jefferson Ave Rochester NY",
     "symbol": "REALTOKEN-S-587-JEFFERSON-AVE-ROCHESTER-NY",
     "decimals": 18,
-    "coingeckoId": "581-587-jefferson",
     "wallet": true,
     "stable": false
   },
@@ -2056,7 +1052,6 @@
     "name": "RealToken S 6923 Greenview Ave Detroit MI",
     "symbol": "REALTOKEN-S-6923-GREEVIEW-AVE-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "6923-greenview",
     "wallet": true,
     "stable": false
   },
@@ -2065,7 +1060,6 @@
     "name": "RealToken S 8181 Bliss St Detroit MI",
     "symbol": "REALTOKEN-S-8181-BLISS-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "8181-bliss",
     "wallet": true,
     "stable": false
   },
@@ -2074,7 +1068,6 @@
     "name": "RealToken S 9133 Devonshire Rd Detroit MI",
     "symbol": "REALTOKEN-S-9133-DEVONSHIRE-RD-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "9133-devonshire",
     "wallet": true,
     "stable": false
   },
@@ -2083,7 +1076,6 @@
     "name": "RealToken S 9165 Kensington Ave Detroit MI",
     "symbol": "REALTOKEN-S-9165-KENSINGTON-AVE-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "9165-kensington",
     "wallet": true,
     "stable": false
   },
@@ -2092,7 +1084,6 @@
     "name": "RealToken S 9166 Devonshire Rd Detroit MI",
     "symbol": "REALTOKEN-S-9166-DEVONSHIRE-RD-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "9166-devonshire",
     "wallet": true,
     "stable": false
   },
@@ -2101,7 +1092,6 @@
     "name": "RealToken S 9309 Courville St Detroit MI",
     "symbol": "REALTOKEN-S-9309-COURVILLE-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "9309-courville",
     "wallet": true,
     "stable": false
   },
@@ -2110,7 +1100,6 @@
     "name": "RealToken S 9465 Beaconsfield St Detroit MI",
     "symbol": "REALTOKEN-S-9465-BEACONSFIELD-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "9465-beaconsfield",
     "wallet": true,
     "stable": false
   },
@@ -2119,7 +1108,6 @@
     "name": "RealToken S 9481 Wayburn St Detroit MI",
     "symbol": "REALTOKEN-S-9481-WAYBURN-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "9481-wayburn",
     "wallet": true,
     "stable": false
   },
@@ -2128,7 +1116,6 @@
     "name": "RealToken S 9717 Everts St Detroit MI",
     "symbol": "REALTOKEN-S-9717-EVERTS-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "9717-everts",
     "wallet": true,
     "stable": false
   },
@@ -2137,34 +1124,6 @@
     "name": "RealToken S 9920 Bishop St Detroit MI",
     "symbol": "REALTOKEN-S-9920-BISHOP-ST-DETROIT-MI",
     "decimals": 18,
-    "coingeckoId": "9920-bishop",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x0da1a02cdf84c44021671d183d616925164e08aa",
-    "name": "Republic Token on xDai",
-    "symbol": "REN",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x4a88248baa5b39bb4a9caa697fb7f8ae0c3f0ddb",
-    "name": "renBTC on xDai",
-    "symbol": "renBTC",
-    "decimals": 8,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x5f2852afd20c39849f6f56f4102b8c29ee141add",
-    "name": "renZEC on xDai",
-    "symbol": "renZEC",
-    "decimals": 8,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2173,7 +1132,6 @@
     "name": "StakeWise Reward GNO",
     "symbol": "rGNO",
     "decimals": 18,
-    "coingeckoId": "stakewise-reward-gno",
     "wallet": true,
     "stable": false
   },
@@ -2182,88 +1140,6 @@
     "name": "DAOSquare Governance Token from Ethereum",
     "symbol": "RICE",
     "decimals": 18,
-    "coingeckoId": "daosquare",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x1479ebfe327b62bff255c0749a242748d3e7347a",
-    "name": "Darwinia Network Native Token on xDai",
-    "symbol": "RING",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x60e668f54106222adc1da80c169281b3355b8e5d",
-    "name": "iEx.ec Network Token on xDai",
-    "symbol": "RLC",
-    "decimals": 9,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x8d02b73904856de6998ffdf6e7ee18cc21137a79",
-    "name": "MetaFactory on xDai",
-    "symbol": "ROBOT",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x2f0e755efe6b58238a67db420ff3513ec1fb31ef",
-    "name": "Rocket Pool on xDai",
-    "symbol": "RPL",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x5a87eac5642bfed4e354ee8738dacd298e07d1af",
-    "name": "Reserve Rights on xDai",
-    "symbol": "RSR",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x5c8c83e5d5f7be815863b810d45d7bc706d7b15b",
-    "name": "rSURF",
-    "symbol": "rSURF",
-    "decimals": 9,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x6b0f8a3fb7cb257ad7c72ada469ba1d3c19c5094",
-    "name": "xdai dao",
-    "symbol": "RXDAI",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xc439e5b1dee4f866b681e7c5e5df140aa47fbf19",
-    "name": "Sai on xDai",
-    "symbol": "SAI",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x8f365b41b98fe84acb287540b4b4ab633e07edb2",
-    "name": "Synth sETH on xDai",
-    "symbol": "SETH",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2272,34 +1148,6 @@
     "name": "StakeWise Staked GNO",
     "symbol": "sGNO",
     "decimals": 18,
-    "coingeckoId": "stakewise-staked-gno",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x27b9c2bd4baea18abdf49169054c1c1c12af9862",
-    "name": "SNAFU",
-    "symbol": "SNAFU",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x044f6ae3aef34fdb8fddc7c05f9cc17f19acd516",
-    "name": "Status Network Token on xDai",
-    "symbol": "SNT",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x3a00e08544d589e19a8e7d97d0294331341cdbf6",
-    "name": "Synthetix Network Token on xDai",
-    "symbol": "SNX",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2308,16 +1156,6 @@
     "name": "Unisocks",
     "symbol": "SOCKS",
     "decimals": 18,
-    "coingeckoId": "unisocks",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x5bbfbfb123b72a255504be985bd2b474e481e866",
-    "name": "Sora Token on xDai",
-    "symbol": "SORA",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2326,43 +1164,6 @@
     "name": "Stake Token on xDai",
     "symbol": "STAKE",
     "decimals": 18,
-    "coingeckoId": "xdai-stake",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xbc650b9cc12db4da14b2417c60ccd6f4d77c3998",
-    "name": "StorjToken on xDai",
-    "symbol": "STORJ",
-    "decimals": 8,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xc12956b840b403b600014a3092f6ebd9259738fe",
-    "name": "SURF.Finance from Ethereum",
-    "symbol": "SURF",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xb1950fb2c9c0cbc8553578c67db52aa110a93393",
-    "name": "Synthetix USD on xDai",
-    "symbol": "sUSD",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xeaacce3e5bcc10fb32c2553f8d6fc4c3888ffdad",
-    "name": "TrustSwap Token on xDai",
-    "symbol": "SWAP",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2371,7 +1172,6 @@
     "name": "Swash Token",
     "symbol": "SWASH",
     "decimals": 18,
-    "coingeckoId": "swash",
     "wallet": true,
     "stable": false
   },
@@ -2380,25 +1180,6 @@
     "name": "Swapr on xDai",
     "symbol": "SWPR",
     "decimals": 18,
-    "coingeckoId": "swapr",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xc45b3c1c24d5f54e7a2cf288ac668c74dd507a84",
-    "name": "Symmetric",
-    "symbol": "SYMM",
-    "decimals": 18,
-    "coingeckoId": "symmetric",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x0811e451447d5819976a95a02f130c3b00d59346",
-    "name": "tBTC on xDai",
-    "symbol": "TBTC",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2407,16 +1188,6 @@
     "name": "Token Engineering Commons",
     "symbol": "TEC",
     "decimals": 18,
-    "coingeckoId": "token-engineering-commons",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x16afe6e6754fa3694afd0ce48f4bea102efacc17",
-    "name": "Testa on xDai",
-    "symbol": "TESTA",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2425,43 +1196,6 @@
     "name": "TORG on xDai",
     "symbol": "TORG",
     "decimals": 18,
-    "coingeckoId": "torg",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xeddd81e0792e764501aae206eb432399a0268db5",
-    "name": "Trace Token on xDai",
-    "symbol": "TRAC",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x860182180e146300df38aab8d328c6e80bec9547",
-    "name": "UniTrade on xDai",
-    "symbol": "TRADE",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xaad66432d27737ecf6ed183160adc5ef36ab99f2",
-    "name": "Tellor",
-    "symbol": "TRB",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xff0ce179a303f26017019acf78b951cb743b8d9b",
-    "name": "Contribute on xDai",
-    "symbol": "TRIB",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2470,34 +1204,6 @@
     "name": "Trips on xDai",
     "symbol": "TRIPS",
     "decimals": 18,
-    "coingeckoId": "trips-community",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xb714654e905edad1ca1940b7790a8239ece5a9ff",
-    "name": "TrueUSD on xDai",
-    "symbol": "TUSD",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xeb2bcabb0cdc099978a74cfe4ab4d45e7e677a45",
-    "name": "Terra Virtua Kolect",
-    "symbol": "TVK",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xd3b93ff74e43ba9568e5019b38addb804fef719b",
-    "name": "UniBright on xDai",
-    "symbol": "UBT",
-    "decimals": 8,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2506,7 +1212,6 @@
     "name": "UNCL on xDai",
     "symbol": "UNCL",
     "decimals": 18,
-    "coingeckoId": "uncl",
     "wallet": true,
     "stable": false
   },
@@ -2515,7 +1220,6 @@
     "name": "UniCrypt on xDai",
     "symbol": "UNCX",
     "decimals": 18,
-    "coingeckoId": "unicrypt-2",
     "wallet": true,
     "stable": false
   },
@@ -2524,7 +1228,6 @@
     "name": "Uniswap on xDai",
     "symbol": "UNI",
     "decimals": 18,
-    "coingeckoId": "uniswap",
     "wallet": true,
     "stable": false
   },
@@ -2533,7 +1236,6 @@
     "name": "USDC on xDai",
     "symbol": "USDC",
     "decimals": 6,
-    "coingeckoId": "usd-coin",
     "wallet": true,
     "stable": true
   },
@@ -2542,43 +1244,14 @@
     "name": "Tether on xDai",
     "symbol": "USDT",
     "decimals": 6,
-    "coingeckoId": "tether",
     "wallet": true,
     "stable": true
-  },
-  {
-    "address": "0x020ae8fc1c19f4d1312cf6a72291f52849791e7c",
-    "name": "VectorspaceAI on xDai",
-    "symbol": "VXV",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xdf613af6b44a31299e48131e9347f034347e2f00",
-    "name": "Aave Token on xDai",
-    "symbol": "WAAVE",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
   },
   {
     "address": "0x4291f029b9e7acb02d49428458cf6fceac545f81",
     "name": "Water Token",
     "symbol": "WATER",
     "decimals": 18,
-    "coingeckoId": "1hive-water",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xca8d20f3e0144a72c6b5d576e9bd3fd8557e2b04",
-    "name": "Wrapped BNB from BSC",
-    "symbol": "WBNB",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2587,16 +1260,6 @@
     "name": "Wrapped BTC on xDai",
     "symbol": "WBTC",
     "decimals": 8,
-    "coingeckoId": "wrapped-bitcoin",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x7211ab649a4139561a152b787de52d257cbaaee9",
-    "name": "Wrapped CHI from Ethereum",
-    "symbol": "WCHI",
-    "decimals": 8,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2605,7 +1268,6 @@
     "name": "Wrapped Ether on xDai",
     "symbol": "WETH",
     "decimals": 18,
-    "coingeckoId": "weth",
     "wallet": true,
     "stable": false
   },
@@ -2614,52 +1276,6 @@
     "name": "ChainLink Token on xDai",
     "symbol": "WLINK",
     "decimals": 18,
-    "coingeckoId": "chainlink",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x7122d7661c4564b7c6cd4878b06766489a6028a2",
-    "name": "Matic Token on xDai",
-    "symbol": "WMATIC",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x01e92e3791f8c1d6599b2f80a4bff9b43949ac7c",
-    "name": "Wrapped NXM on xDai",
-    "symbol": "wNXM",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x2995d1317dcd4f0ab89f4ae60f3f020a4f17c7ce",
-    "name": "SushiToken on xDai",
-    "symbol": "WSUSHI",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d",
-    "name": "Wrapped XDAI",
-    "symbol": "WXDAI",
-    "decimals": 18,
-    "coingeckoId": "wrapped-xdai",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x2f9cebf5de3bc25e0643d0e66134e5bf5c48e191",
-    "name": "Bricks on xDai",
-    "symbol": "xBRICK",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2668,26 +1284,6 @@
     "name": "xDai Native Comb",
     "symbol": "XCOMB",
     "decimals": 18,
-    "coingeckoId": "xdai-native-comb",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x0000000000000000000000000000000000000000",
-    "name": "xDai",
-    "symbol": "xDai",
-    "decimals": 18,
-    "coingeckoId": "xdai",
-    "native": true,
-    "wallet": true,
-    "stable": true
-  },
-  {
-    "address": "0xf1738912ae7439475712520797583ac784ea9033",
-    "name": "XionGlobal Token",
-    "symbol": "XGT",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2696,70 +1292,6 @@
     "name": "Xion Global Token",
     "symbol": "XGTV2",
     "decimals": 18,
-    "coingeckoId": "xion-finance",
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x3e33cf23073fd8d5ad1d48d1860a96c0d8e56193",
-    "name": "Standard on xDai",
-    "symbol": "xMARK",
-    "decimals": 9,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x1e16aa4df73d29c029d94ceda3e3114ec191e25a",
-    "name": "xMOON on xDai",
-    "symbol": "XMOON",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x42c6b3ac30ae82d754498f56d9372f0070349409",
-    "name": "xREAP",
-    "symbol": "xREAP",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xf54b47b00b6916974c73b81b7d9929a4f443db49",
-    "name": "Robonomics on xDai",
-    "symbol": "XRT",
-    "decimals": 9,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x2fd0c73ad006407f0a96c984f06a9ce8415b094e",
-    "name": "Seed on xDai",
-    "symbol": "xSEED",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0xfd4e5f45ea24ec50c4db4367380b014875caf219",
-    "name": "XY Oracle on xDai",
-    "symbol": "XYO",
-    "decimals": 18,
-    "coingeckoId": null,
-    "wallet": true,
-    "stable": false
-  },
-  {
-    "address": "0x22bd2a732b39dace37ae7e8f50a186f3d9702e87",
-    "name": "yCurve on xDai",
-    "symbol": "yCRV",
-    "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2768,7 +1300,710 @@
     "name": "Yearn Finance on xDai",
     "symbol": "YFI",
     "decimals": 18,
-    "coingeckoId": "yearn-finance",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x7f7440c5098462f833e123b44b8a03e1d9785bab",
+    "name": "1INCH Token on xDai",
+    "symbol": "1INCH",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xd27e1ecc4748f42e052331bea917d89beb883fc3",
+    "name": "Akropolis on xDai",
+    "symbol": "AKRO",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x3581cc6a09de85e9b91ef93f2a5ef837706b84a5",
+    "name": "AllianceBlock Token on xDai",
+    "symbol": "ALBT",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x4bc97997883c0397f556bd0f9da6fb71da22f9a2",
+    "name": "aleph.im v2 on xDai",
+    "symbol": "ALEPH",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xc84dd5b971521b6c9fa5e10d25e6428b19710e05",
+    "name": "Ampleforth on xDai",
+    "symbol": "AMPL",
+    "decimals": 9,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x6eeceab954efdbd7a8a8d9387bc719959b04b9ca",
+    "name": "Aragon Network Token on xDai v2",
+    "symbol": "ANTv2",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x743a991365ba94bfc90ad0002cad433c7a33cb4a",
+    "name": "AirSwap Token on xDai",
+    "symbol": "AST",
+    "decimals": 4,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x8a95ea379e1fa4c749dd0a7a21377162028c479e",
+    "name": "Audius on xDai",
+    "symbol": "AUDIO",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xe154a435408211ac89757b76c4fbe4dc9ed2ef27",
+    "name": "BandToken on xDai",
+    "symbol": "BAND",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x82dfe19164729949fd66da1a37bc70dd6c4746ce",
+    "name": "BaoToken on xDai",
+    "symbol": "BAO",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x699d001ef13b15335193bc5fad6cfc6747eee8be",
+    "name": "Base Protocol on xDai",
+    "symbol": "BASE",
+    "decimals": 9,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xc6cc63f4aa25bbd4453eb5f3a0dfe546fef9b2f3",
+    "name": "Basic Attention Token on xDai",
+    "symbol": "BAT",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xfc8b2690f66b46fec8b3ceeb95ff4ac35a0054bc",
+    "name": "Dai Token from BSC",
+    "symbol": "bDAI",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x778aa03021b0cd2b798b0b506403e070125d81c9",
+    "name": "BlackDragon Token on xDai",
+    "symbol": "BDT",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x2977893f4c04bfbd6efc68d0e46598d27810d3db",
+    "name": "Bidao on xDai",
+    "symbol": "BID",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xec84a3bb48d70553c2599ac2d0db07b2dfdf6364",
+    "name": "BNS Token on xDai",
+    "symbol": "BNS",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xbdb90bdadae84af0b07abf4cefcc7989f909f9bd",
+    "name": "bns.finance on xDai",
+    "symbol": "BNSD",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x9a495a281d959192343b0e007284bf130bd05f86",
+    "name": "Bancor Network Token on xDai",
+    "symbol": "BNT",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xd10cc63531a514bba7789682e487add1f15a51e2",
+    "name": "USD Coin on xDai binance-peg",
+    "symbol": "BUSDC",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xe6a1f98b0f4368559bd16639c844510f5db6fe48",
+    "name": "BZRX",
+    "symbol": "BZRX",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x0acd91f92fe07606ab51ea97d8521e29d110fd09",
+    "name": "Celsius on xDai",
+    "symbol": "CEL",
+    "decimals": 4,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x248c54b3fc3bc8b20d0cdee059e17c67e4a3299d",
+    "name": "CelerToken on xDai",
+    "symbol": "CELR",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x64b17a95e6c45306fb23bc526eb2dc9e1331a1b1",
+    "name": "CFX Quantum from Ethereum",
+    "symbol": "CFXQ",
+    "decimals": 6,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x76eafffa1873a8acd43864b66a728bd873c5e08a",
+    "name": "SwissBorg Token on xDai",
+    "symbol": "CHSB",
+    "decimals": 8,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xdf6ff92bfdc1e8be45177dc1f4845d391d3ad8fd",
+    "name": "Compound on xDai",
+    "symbol": "COMP",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x1939d3431cf0e44b1d63b86e2ce489e5a341b1bf",
+    "name": "Cream on xDai",
+    "symbol": "CREAM",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x712b3d230f3c1c19db860d80619288b1f0bdd0bd",
+    "name": "Curve DAO Token on xDai",
+    "symbol": "CRV",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x7da0bfe9d26c5b64c7580c04bb1425364273e4b0",
+    "name": "Concentrated Voting Power on xDai",
+    "symbol": "CVP",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x6d237bb2248d3b40b1a54f3417667b2f39984fc8",
+    "name": "PieDAO Dough",
+    "symbol": "DOUGH",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x7a7d81657a1a66b38a6ca2565433a9873c6913b2",
+    "name": "Enigma on xDai",
+    "symbol": "ENG",
+    "decimals": 8,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x5a757f0bcadfdb78651b7bdbe67e44e8fd7f7f6b",
+    "name": "Enjin Coin on xDai",
+    "symbol": "ENJ",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xde1e70ed71936e4c249a7d43e550f0b99fccddfc",
+    "name": "FalconSwap Token on xDai",
+    "symbol": "FSW",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x75886f00c1a20ec1511111fb4ec3c51de65b1fe7",
+    "name": "FTX Token",
+    "symbol": "FTT",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x12dabe79cffc1fde82fcd3b96dbe09fa4d8cd599",
+    "name": "DAOstack on xDai",
+    "symbol": "GEN",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xfadc59d012ba3c110b08a15b7755a5cb7cbe77d7",
+    "name": "Graph Token on xDai",
+    "symbol": "GRT",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xd9fa47e33d4ff7a1aca489de1865ac36c042b07a",
+    "name": "HEX on xDai",
+    "symbol": "HEX",
+    "decimals": 8,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x346b2968508d32f0192cd7a60ef3d9c39a3cf549",
+    "name": "HoloToken on xDai",
+    "symbol": "HOT",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x1534fb3e82849314360c267fe20df3901a2ed3f9",
+    "name": "Kyber Network Crystal on xDai",
+    "symbol": "KNC",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x8fbedd16904b561e30ea402f459900e9d90614af",
+    "name": "Unilayer on xDai",
+    "symbol": "LAYER",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xc1b42bdb485deb24c74f58399288d7915a726c1d",
+    "name": "EthLend Token on xDai",
+    "symbol": "LEND",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x7db0be7a41b5395268e065776e800e27181c81ab",
+    "name": "Livepeer Token on xDai",
+    "symbol": "LPT",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x2be73bfeec620aa9b67535a4d3827bb1e29436d1",
+    "name": "LoopringCoin V2 on xDai",
+    "symbol": "LRC",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x79cf2029717e2e78c8927f65f079ab8da21781ee",
+    "name": "LUKSO Token on xDai",
+    "symbol": "LYXe",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x7838796b6802b18d7ef58fc8b757705d6c9d12b3",
+    "name": "Decentraland MANA on xDai",
+    "symbol": "MANA",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xd361c1fd663d8f2dc36ae07ff6f3623532cabdd3",
+    "name": "MCDEX Token on xDai",
+    "symbol": "MCB",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xb4b6f80d8e573e9867c90163bfdb00e29d92716a",
+    "name": "Metronome on xDai",
+    "symbol": "MET",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x5b917d4fb9b27591353211c32f1552a527987afc",
+    "name": "MoonToken on xDai",
+    "symbol": "MOON",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x26dc03e492763068ccfe7c39b93a22442807c360",
+    "name": "Nexo on xDai",
+    "symbol": "NEXO",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x26dd64bdcb2faf4f7e49a73145752e8d9cb34c94",
+    "name": "Pundi X Token on xDai",
+    "symbol": "NPXS",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x51732a6fc4673d1acca4c047f5465922716508ad",
+    "name": "Ocean Token on xDai",
+    "symbol": "OCEAN",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x8395f7123ba3ffad52e7414433d825931c81c879",
+    "name": "OMGToken on xDai",
+    "symbol": "OMG",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x7ea8af7301b763451b7fb25f8fc2406819a7e36f",
+    "name": "Phala on xDai",
+    "symbol": "PHA",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x75481a953a4bba6b3c445907db403e4b5d222174",
+    "name": "PolkastarterToken on xDai",
+    "symbol": "POLS",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xa9e5cd4efc86c01fae9a9fcd6e8669b97c92a937",
+    "name": "prophet.finance on xDai",
+    "symbol": "PROPHET",
+    "decimals": 9,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x53ef00be819a062533a0e699077c621a28eaded1",
+    "name": "PowerTrade Fuel Token on xDai",
+    "symbol": "PTF",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x4be85acc1cd711f403dc7bde9e6cadfc5a94744b",
+    "name": "Rarible on xDai",
+    "symbol": "RARI",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x0da1a02cdf84c44021671d183d616925164e08aa",
+    "name": "Republic Token on xDai",
+    "symbol": "REN",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x4a88248baa5b39bb4a9caa697fb7f8ae0c3f0ddb",
+    "name": "renBTC on xDai",
+    "symbol": "renBTC",
+    "decimals": 8,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x60e668f54106222adc1da80c169281b3355b8e5d",
+    "name": "iEx.ec Network Token on xDai",
+    "symbol": "RLC",
+    "decimals": 9,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x8d02b73904856de6998ffdf6e7ee18cc21137a79",
+    "name": "MetaFactory on xDai",
+    "symbol": "ROBOT",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x5a87eac5642bfed4e354ee8738dacd298e07d1af",
+    "name": "Reserve Rights on xDai",
+    "symbol": "RSR",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x8f365b41b98fe84acb287540b4b4ab633e07edb2",
+    "name": "Synth sETH on xDai",
+    "symbol": "SETH",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x044f6ae3aef34fdb8fddc7c05f9cc17f19acd516",
+    "name": "Status Network Token on xDai",
+    "symbol": "SNT",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x3a00e08544d589e19a8e7d97d0294331341cdbf6",
+    "name": "Synthetix Network Token on xDai",
+    "symbol": "SNX",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x5bbfbfb123b72a255504be985bd2b474e481e866",
+    "name": "Sora Token on xDai",
+    "symbol": "SORA",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xbc650b9cc12db4da14b2417c60ccd6f4d77c3998",
+    "name": "StorjToken on xDai",
+    "symbol": "STORJ",
+    "decimals": 8,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xc12956b840b403b600014a3092f6ebd9259738fe",
+    "name": "SURF.Finance from Ethereum",
+    "symbol": "SURF",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xb1950fb2c9c0cbc8553578c67db52aa110a93393",
+    "name": "Synthetix USD on xDai",
+    "symbol": "sUSD",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xeaacce3e5bcc10fb32c2553f8d6fc4c3888ffdad",
+    "name": "TrustSwap Token on xDai",
+    "symbol": "SWAP",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x0811e451447d5819976a95a02f130c3b00d59346",
+    "name": "tBTC on xDai",
+    "symbol": "TBTC",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xeddd81e0792e764501aae206eb432399a0268db5",
+    "name": "Trace Token on xDai",
+    "symbol": "TRAC",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x860182180e146300df38aab8d328c6e80bec9547",
+    "name": "UniTrade on xDai",
+    "symbol": "TRADE",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xaad66432d27737ecf6ed183160adc5ef36ab99f2",
+    "name": "Tellor",
+    "symbol": "TRB",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xb714654e905edad1ca1940b7790a8239ece5a9ff",
+    "name": "TrueUSD on xDai",
+    "symbol": "TUSD",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xd3b93ff74e43ba9568e5019b38addb804fef719b",
+    "name": "UniBright on xDai",
+    "symbol": "UBT",
+    "decimals": 8,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x020ae8fc1c19f4d1312cf6a72291f52849791e7c",
+    "name": "VectorspaceAI on xDai",
+    "symbol": "VXV",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xdf613af6b44a31299e48131e9347f034347e2f00",
+    "name": "Aave Token on xDai",
+    "symbol": "WAAVE",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xca8d20f3e0144a72c6b5d576e9bd3fd8557e2b04",
+    "name": "Wrapped BNB from BSC",
+    "symbol": "WBNB",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x7211ab649a4139561a152b787de52d257cbaaee9",
+    "name": "Wrapped CHI from Ethereum",
+    "symbol": "WCHI",
+    "decimals": 8,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x7122d7661c4564b7c6cd4878b06766489a6028a2",
+    "name": "Matic Token on xDai",
+    "symbol": "WMATIC",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x01e92e3791f8c1d6599b2f80a4bff9b43949ac7c",
+    "name": "Wrapped NXM on xDai",
+    "symbol": "wNXM",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x2995d1317dcd4f0ab89f4ae60f3f020a4f17c7ce",
+    "name": "SushiToken on xDai",
+    "symbol": "WSUSHI",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x2f9cebf5de3bc25e0643d0e66134e5bf5c48e191",
+    "name": "Bricks on xDai",
+    "symbol": "xBRICK",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x1e16aa4df73d29c029d94ceda3e3114ec191e25a",
+    "name": "xMOON on xDai",
+    "symbol": "XMOON",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xf54b47b00b6916974c73b81b7d9929a4f443db49",
+    "name": "Robonomics on xDai",
+    "symbol": "XRT",
+    "decimals": 9,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x2fd0c73ad006407f0a96c984f06a9ce8415b094e",
+    "name": "Seed on xDai",
+    "symbol": "xSEED",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xfd4e5f45ea24ec50c4db4367380b014875caf219",
+    "name": "XY Oracle on xDai",
+    "symbol": "XYO",
+    "decimals": 18,
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0x22bd2a732b39dace37ae7e8f50a186f3d9702e87",
+    "name": "yCurve on xDai",
+    "symbol": "yCRV",
+    "decimals": 18,
     "wallet": true,
     "stable": false
   },
@@ -2777,7 +2012,6 @@
     "name": "Yield on xDai",
     "symbol": "YLD",
     "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   },
@@ -2786,7 +2020,6 @@
     "name": "0x Protocol Token on xDai",
     "symbol": "ZRX",
     "decimals": 18,
-    "coingeckoId": null,
     "wallet": true,
     "stable": false
   }
