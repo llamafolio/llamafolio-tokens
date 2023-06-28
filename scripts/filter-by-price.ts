@@ -4,13 +4,18 @@ import { chains as tokensChins, chainNames } from '../index.js'
 import { Chain } from '../index.js'
 import { arrayToChunks } from './utilities.js'
 
-/**
- * This loops through tokenlist and filters out tokens that llama price api doesn't support
- */
+console.info(
+  `/**
+  * This loops through tokenlist and filters out tokens that llama price api doesn't support
+  */`
+)
 
 main()
   .then(console.log)
-  .catch(console.error)
+  .catch(_ => {
+    console.error(_)
+    process.exit(1)
+  })
   .finally(() => process.exit(0))
 
 async function main(chain = process.argv[2]) {
@@ -35,9 +40,7 @@ async function main(chain = process.argv[2]) {
     console.log(returnedAddresses, returnedAddresses.length)
 
     // filter out tokens tokens whose address is not in returnedAddresses
-    const filtered = tokens
-      .filter(({ address }) => returnedAddresses.includes(address))
-
+    const filtered = tokens.filter(({ address }) => returnedAddresses.includes(address))
 
     console.log(filtered.length, tokens.length)
 
