@@ -707,14 +707,6 @@
     "stable": false
   },
   {
-    "address": "0x0000000000000000000000000000000000000000",
-    "name": "FTM",
-    "symbol": "FTM",
-    "decimals": 18,
-    "native": true,
-    "stable": false
-  },
-  {
     "address": "0x9bd0611610a0f5133e4dd1bfdd71c5479ee77f37",
     "name": "Fantom Oasis Token",
     "symbol": "FTMO",

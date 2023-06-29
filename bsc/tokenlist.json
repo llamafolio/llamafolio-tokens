@@ -2674,14 +2674,6 @@
     "stable": false
   },
   {
-    "address": "0x0000000000000000000000000000000000000000",
-    "name": "BNB",
-    "symbol": "BNB",
-    "decimals": 18,
-    "native": true,
-    "stable": false
-  },
-  {
     "address": "0x3c730718c97a77562866b5d29b33228c019eac68",
     "name": "BNB Diamond",
     "symbol": "BNBD",
