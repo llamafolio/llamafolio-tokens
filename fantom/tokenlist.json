@@ -630,13 +630,6 @@
     "stable": false
   },
   {
-    "address": "0x14418c22165553251b002b289f8abe4d1ed41d76",
-    "name": "Fear NFTs [via ChainPort.io]",
-    "symbol": "FEAR",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x5d5530eb3147152fe78d5c4bfeede054c8d1442a",
     "name": "Feeder.finance",
     "symbol": "FEED",
@@ -997,13 +990,6 @@
     "address": "0x40df1ae6074c35047bff66675488aa2f9f6384f3",
     "name": "MATIC",
     "symbol": "MATIC",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x5deb27e51dbeef691ba1175a2e563870499c2acb",
-    "name": "MillenniumClub Coin [NEW]",
-    "symbol": "mclb",
     "decimals": 18,
     "stable": false
   },
@@ -1641,13 +1627,6 @@
     "address": "0x65c9d9d080714cda7b5d58989dc27f897f165179",
     "name": "TETU Reward Token",
     "symbol": "TETU",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xa74bb2c6e5fe2805a0086d05e37c256274935690",
-    "name": "Tank Gold Token",
-    "symbol": "TGOLD",
     "decimals": 18,
     "stable": false
   },

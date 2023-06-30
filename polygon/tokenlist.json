@@ -1463,13 +1463,6 @@
     "stable": false
   },
   {
-    "address": "0x3050731a7ab18d05eaa5e01d66df33e04444e72c",
-    "name": "ECS Gold",
-    "symbol": "ecg",
-    "decimals": 6,
-    "stable": false
-  },
-  {
     "address": "0x21fdb8e43d84420afbd6351d645f50c9138daae0",
     "name": "EcoCREDIT",
     "symbol": "ECO",
@@ -2181,13 +2174,6 @@
     "name": "iFARM",
     "symbol": "iFARM",
     "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xe6fc6c7cb6d2c31b359a49a33ef08ab87f4de7ce",
-    "name": "IG Gold",
-    "symbol": "IGG",
-    "decimals": 6,
     "stable": false
   },
   {
@@ -3682,13 +3668,6 @@
     "stable": false
   },
   {
-    "address": "0x0184316f58b9a44acdd3e683257259dc0cf2202a",
-    "name": "PolyGold",
-    "symbol": "POLYGOLD",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x30ea765d4dda26e0f89e1b23a7c7b2526b7d29ec",
     "name": "PolyPad",
     "symbol": "polypad",
@@ -4914,13 +4893,6 @@
     "stable": false
   },
   {
-    "address": "0x64ee4f41a15d6c431ab6607d4e95462169d50f6c",
-    "name": "Unvest",
-    "symbol": "UNV",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x236eec6359fb44cce8f97e99387aa7f8cd5cde1f",
     "name": "USD+",
     "symbol": "USD+",
@@ -6142,13 +6114,6 @@
     "address": "0x20c750c57c3bc5145af4b7a33d4fb66a8e79fe05",
     "name": "KlayCity ORB",
     "symbol": "ORB",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x553d3d295e0f695b9228246232edf400ed3560b5",
-    "name": "Paxos Gold",
-    "symbol": "PAXG",
     "decimals": 18,
     "stable": false
   },
