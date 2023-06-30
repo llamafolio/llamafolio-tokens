@@ -35,8 +35,6 @@ async function main() {
       name: token.name,
       symbol: token.symbol,
       decimals: token.decimals,
-      coingeckoId: null,
-      wallet: true,
       stable: false
     })
   }
