@@ -24,11 +24,11 @@ async function main() {
         name: found?.name || token.name,
         symbol: found?.symbol || token.symbol,
         decimals: found?.decimals || token.decimals,
-        stable: found?.stable || token.stable
+        stable: found?.stable || token.stable,
       }
 
       const logo = Bun.file(`${chain}/logos/${token.address}.png`)
-      if(logo.size < 1){
+      if (logo.size < 1) {
         console.log(`logo ${token.address} not found`)
       }
     }

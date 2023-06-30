@@ -1,12 +1,5 @@
 [
   {
-    "address": "0x0000000000000000000000000000000000001010",
-    "name": "Polygon",
-    "symbol": "MATIC",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x554f074d9ccda8f483d1812d4874cbebd682644e",
     "name": "AnRKey X (PoS)",
     "symbol": "$ANRX",
