@@ -140,13 +140,6 @@
     "stable": false
   },
   {
-    "address": "0x0d8f04522c5792c7378e39c92ab348f315f4fc4f",
-    "name": "AIENGLISH",
-    "symbol": "aien",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x11524a5765066a5362ac184f7db9ff51286fe99a",
     "name": "ArbPanda AI",
     "symbol": "aipanda",
@@ -200,13 +193,6 @@
     "name": "Ankaa Exchange",
     "symbol": "ankaa",
     "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x4406509b532b111bd39b5b579561001cbf0d7acf",
-    "name": "Antspace",
-    "symbol": "ant",
-    "decimals": 9,
     "stable": false
   },
   {
@@ -665,13 +651,6 @@
     "stable": false
   },
   {
-    "address": "0xf0b5ceefc89684889e5f7e0a7775bd100fcd3709",
-    "name": "DigitalDollar",
-    "symbol": "DUSD",
-    "decimals": 6,
-    "stable": false
-  },
-  {
     "address": "0xa7aa2921618e3d63da433829d448b58c9445a4c3",
     "name": "Rhino fi",
     "symbol": "DVF",
@@ -703,13 +682,6 @@
     "address": "0x123389c2f0e9194d9ba98c21e63c375b67614108",
     "name": "EthereumMax",
     "symbol": "EMAX",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xbfbcfe8873fe28dfa25f1099282b088d52bbad9c",
-    "name": "Equilibria Finance",
-    "symbol": "eqb",
     "decimals": 18,
     "stable": false
   },
@@ -931,20 +903,6 @@
     "stable": false
   },
   {
-    "address": "0xf16585365bfe050eff7c926f22df87f46da2cafe",
-    "name": "Adv3nture.xyz Gold",
-    "symbol": "gold",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xc4be0798e5b5b1c15eda36d9b2d8c1a60717fa92",
-    "name": "Adventurer Gold",
-    "symbol": "gold",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x3d9907f9a368ad0a51be60f7da3b97cf940982d8",
     "name": "Camelot Token",
     "symbol": "grail",
@@ -1039,13 +997,6 @@
     "address": "0x10010078a54396f62c96df8532dc2b4847d47ed3",
     "name": "Hundred Finance",
     "symbol": "HND",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xb4bbfe92702730ef7f1d28e4b9e42381182f48a5",
-    "name": "Hold VIP",
-    "symbol": "hold",
     "decimals": 18,
     "stable": false
   },
@@ -1417,13 +1368,6 @@
     "address": "0xd474e6c0930e3b1b999e7b093abcf1a38018d4f4",
     "name": "MetaCity",
     "symbol": "mtc",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x748b5be12ac1ce2ef73035189f943591c1822b7d",
-    "name": "MetaLine Gold",
-    "symbol": "mtg",
     "decimals": 18,
     "stable": false
   },

@@ -98,13 +98,6 @@
     "stable": false
   },
   {
-    "address": "0xca1068444196cdfe676fd15a29f35e502580a69e",
-    "name": "AntGold",
-    "symbol": "ANTG",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0xb44a9b6905af7c801311e8f4e76932ee959c663c",
     "name": "Anyswap",
     "symbol": "ANY",
@@ -2012,13 +2005,6 @@
     "address": "0xe397784960f814ba35c9ee0bc4c9dffdf86925f9",
     "name": "Monsterra",
     "symbol": "MSTR",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xf7ed17f0fb2b7c9d3ddbc9f0679b2e1098993e81",
-    "name": "Mu Gold",
-    "symbol": "mug",
     "decimals": 18,
     "stable": false
   },

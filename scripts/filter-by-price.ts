@@ -42,7 +42,15 @@ async function main() {
      * filter out tokens with `"wallet": false`
      */
     const filtered = tokens
-      .filter(({ address, wallet }) => returnedAddresses.includes(address) && wallet !== false)
+      .filter(
+        ({ address, wallet, name, symbol }) =>
+          returnedAddresses.includes(address) &&
+          wallet !== false &&
+          name.length > 0 &&
+          !/scam\b/.test(name) &&
+          symbol.length > 0 &&
+          !/scam\b/.test(symbol)
+      )
       .map(({ coingeckoId, wallet, ...token }) => token)
 
     console.log({ [chain]: { lengthBefore: tokens.length, lengthAfter: filtered.length } })
