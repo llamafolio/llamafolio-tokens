@@ -16,7 +16,6 @@ export interface Token {
   symbol: string
   decimals: number
   stable: boolean
-  native?: boolean
 }
 
 export interface ChainToken extends Token {
