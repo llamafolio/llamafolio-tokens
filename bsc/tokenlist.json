@@ -525,13 +525,6 @@
     "stable": false
   },
   {
-    "address": "0x88888888faedeb25b94a015af705f18666079038",
-    "name": "AGAME",
-    "symbol": "ag",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x976e33b07565b0c05b08b2e13affd3113e3d178d",
     "name": "AGA Token",
     "symbol": "AGA",
@@ -1512,13 +1505,6 @@
     "stable": false
   },
   {
-    "address": "0x23c5d1164662758b3799103effe19cc064d897d6",
-    "name": "Aura Network [OLD]",
-    "symbol": "aura",
-    "decimals": 6,
-    "stable": false
-  },
-  {
     "address": "0x11fe7a37f2923566caa0de7d37c868631c695205",
     "name": "Aurora token",
     "symbol": "AURORA",
@@ -1967,13 +1953,6 @@
     "stable": false
   },
   {
-    "address": "0xa477a79a118a84a0d371a53c8f46f8ce883ec1dd",
-    "name": "BBS [via ChainPort.io]",
-    "symbol": "BBS",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0xd48474e7444727bf500a32d5abe01943f3a59a64",
     "name": "BitBook",
     "symbol": "BBT",
@@ -2383,13 +2362,6 @@
     "address": "0xe56842ed550ff2794f010738554db45e60730371",
     "name": "Binemon",
     "symbol": "BIN",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xa2df7a11baf8bb555e93b99684a2de0f105eb592",
-    "name": "Binopoly",
-    "symbol": "BINO",
     "decimals": 18,
     "stable": false
   },
@@ -2842,13 +2814,6 @@
     "stable": false
   },
   {
-    "address": "0x92d7756c60dcfd4c689290e8a9f4d263b3b32241",
-    "name": "BoringDAO [OLD]",
-    "symbol": "BOR",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0xffeecbf8d7267757c2dc3d13d730e97e15bfdf7f",
     "name": "BoringDAO",
     "symbol": "BORING",
@@ -3000,13 +2965,6 @@
     "name": "Bitrise Token",
     "symbol": "BRISE",
     "decimals": 9,
-    "stable": false
-  },
-  {
-    "address": "0x66cafcf6c32315623c7ffd3f2ff690aa36ebed38",
-    "name": "Brokoli Token [via ChainPort.io]",
-    "symbol": "BRKL",
-    "decimals": 18,
     "stable": false
   },
   {
@@ -3374,13 +3332,6 @@
     "stable": false
   },
   {
-    "address": "0x40225c6277b29bf9056b4acb7ee1512cbff11671",
-    "name": "Buying.com",
-    "symbol": "BUY",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x9bee0c15676a65ef3c8cdb38cb3dd31c675bbd12",
     "name": "BattleVerse",
     "symbol": "BVC",
@@ -3563,13 +3514,6 @@
     "stable": false
   },
   {
-    "address": "0x426c1c971fb00caaf1883bd801323a8becb0c919",
-    "name": "Alaska Gold Rush",
-    "symbol": "carat",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0xa52262da176186105199a597ac8cf094ff71b0c5",
     "name": "CleanCarbon",
     "symbol": "carbo",
@@ -3699,13 +3643,6 @@
     "address": "0xbfb8f92e8f3a9034019ac97fd9f85c6dfb513834",
     "name": "CeBioLabs",
     "symbol": "cbsl",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x0853eabe53157d911e0137a9ef987874289ae9d0",
-    "name": "CryptoBlast",
-    "symbol": "CBT",
     "decimals": 18,
     "stable": false
   },
@@ -3892,13 +3829,6 @@
     "stable": false
   },
   {
-    "address": "0x883da316c7971b19bfe25df9ace93b9529c50f22",
-    "name": "Clinq.Gold Token",
-    "symbol": "cgt",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x3d04edc843e74935c09f54cc4b2fe1870e347ac9",
     "name": "Curio Governance",
     "symbol": "CGT",
@@ -4036,13 +3966,6 @@
     "name": "CyberHarbor",
     "symbol": "CHT",
     "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x842defb310cace2b923c1fd7b3db067d3d0fcc34",
-    "name": "Cheems Inu [NEW]",
-    "symbol": "cinu",
-    "decimals": 9,
     "stable": false
   },
   {
@@ -4210,13 +4133,6 @@
     "address": "0x9ce116224459296abc7858627abd5879514bc629",
     "name": "Clash of Lilliput",
     "symbol": "col",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xa4cb040b85e94f5c0c32ea1151b20d3ab40b3493",
-    "name": "Collateral Pay",
-    "symbol": "COLL",
     "decimals": 18,
     "stable": false
   },
@@ -5656,13 +5572,6 @@
     "stable": false
   },
   {
-    "address": "0xae2df9f730c54400934c06a17462c41c08a06ed8",
-    "name": "DogeBonk.com",
-    "symbol": "DOBO",
-    "decimals": 9,
-    "stable": false
-  },
-  {
     "address": "0x67ee3cb086f8a16f34bee3ca72fad36f7db929e2",
     "name": "Dodo",
     "symbol": "DODO",
@@ -6048,13 +5957,6 @@
     "stable": false
   },
   {
-    "address": "0x6db3972c6a5535708e7a4f7ad52f24d178d9a93e",
-    "name": "DVX",
-    "symbol": "DRIVENx",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x27e2a0e643c7f17959f84c345d2123b77bbd412c",
     "name": "DopeWarz",
     "symbol": "DRUG",
@@ -6274,13 +6176,6 @@
   {
     "address": "0x47d42e0e864ceff8c4270f7b6e1f6f91da45882c",
     "name": "EverEarn",
-    "symbol": "EARN",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x63a18bc38d1101db7f0efcbcbdcbe927a5879039",
-    "name": "Yearn Classic",
     "symbol": "EARN",
     "decimals": 18,
     "stable": false
@@ -8085,13 +7980,6 @@
     "stable": false
   },
   {
-    "address": "0xe5431bcf8769fcc7f2f3dbdd93300b9696747c4c",
-    "name": "Gold Guaranteed Coin",
-    "symbol": "ggcm",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0xd8047afecb86e44eff3add991b9f063ed4ca716b",
     "name": "Good Games Guild",
     "symbol": "GGG",
@@ -8382,13 +8270,6 @@
     "address": "0xeb52620b04e8eacfd795353f2827673887f292e0",
     "name": "GOLCOIN",
     "symbol": "golc",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xb3a6381070b1a15169dea646166ec0699fdaea79",
-    "name": "CyberDragon Gold",
-    "symbol": "GOLD",
     "decimals": 18,
     "stable": false
   },
@@ -9019,13 +8900,6 @@
     "address": "0x41515885251e724233c6ca94530d6dcf3a20dec7",
     "name": "HALO Network",
     "symbol": "HO",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x19a4866a85c652eb4a2ed44c42e4cb2863a62d51",
-    "name": "Hodooi.comToken",
-    "symbol": "HOD",
     "decimals": 18,
     "stable": false
   },
@@ -9982,13 +9856,6 @@
     "stable": false
   },
   {
-    "address": "0xe5a09784b16e1065c37df14c6e2f06fdce317a1b",
-    "name": "Kai Inu",
-    "symbol": "KaiInu",
-    "decimals": 9,
-    "stable": false
-  },
-  {
     "address": "0x723b6795be37ad8a0376acfb50034fa21912b439",
     "name": "KAINET",
     "symbol": "KAINET",
@@ -10118,13 +9985,6 @@
     "address": "0x4e1b16ef22935a575a6811d4616f98c4077e4408",
     "name": "KEL",
     "symbol": "KEL",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x8ada51404f297bf2603912d1606340223c0a7784",
-    "name": "Kenshi",
-    "symbol": "KENSHI",
     "decimals": 18,
     "stable": false
   },
@@ -11907,13 +11767,6 @@
     "stable": false
   },
   {
-    "address": "0x62858686119135cc00c4a3102b436a0eb314d402",
-    "name": "METAVPAD.com",
-    "symbol": "METAV",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0xc75cbd824d5d40b30739905e8b857ba091b8bf2a",
     "name": "MetaXCosmos",
     "symbol": "metax",
@@ -12155,13 +12008,6 @@
     "address": "0x1f3af095cda17d63cad238358837321e95fc5915",
     "name": "Mint.club",
     "symbol": "MINT",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x138218c8e064ed2a011c9ff203759a8a1e23e6c8",
-    "name": "MintMe.com Coin",
-    "symbol": "MINTME",
     "decimals": 18,
     "stable": false
   },
@@ -12684,13 +12530,6 @@
     "stable": false
   },
   {
-    "address": "0x767b28a30e3a15dcece7bff7a020adfde9d19cf8",
-    "name": "Wrapped Metrix",
-    "symbol": "MRXb",
-    "decimals": 8,
-    "stable": false
-  },
-  {
     "address": "0x27d72484f1910f5d0226afa4e03742c9cd2b297a",
     "name": "Moonscape",
     "symbol": "MSCP",
@@ -12743,13 +12582,6 @@
     "address": "0xf1b602fc211e3e2976ef44e4017b764a778197e0",
     "name": "MTG Token",
     "symbol": "mtg",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x68d10dfe87a838d63bbef6c9a0d0b44beb799dc1",
-    "name": "MagnetGold",
-    "symbol": "MTG",
     "decimals": 18,
     "stable": false
   },
@@ -13195,13 +13027,6 @@
     "stable": false
   },
   {
-    "address": "0x201ec81532fca95fbb45204d6764d1a9eed08856",
-    "name": "Nexus Token",
-    "symbol": "NEXUS",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x6ae7e3bcb49a405061c6c5e18122aed853be26ba",
     "name": "NFTFundArt",
     "symbol": "NFA",
@@ -13307,13 +13132,6 @@
     "stable": false
   },
   {
-    "address": "0x0f5d8cd195a4539bcf2ec6118c6da50287c6d5f5",
-    "name": "Gold Fever Native Gold",
-    "symbol": "NGL",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x02030d968558fd429eafa6e5b0c7a95a4903233b",
     "name": "NGT",
     "symbol": "ngt",
@@ -13394,13 +13212,6 @@
     "address": "0xf0eb3c9088718a533c8fd64dbcaa5927faed6d18",
     "name": "Neonomad Finance",
     "symbol": "nni",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x5d5c5c1d14faf8ff704295b2f502daa9d06799a0",
-    "name": "Novem Gold",
-    "symbol": "nnn",
     "decimals": 18,
     "stable": false
   },
@@ -15561,13 +15372,6 @@
     "stable": false
   },
   {
-    "address": "0xd74b782e05aa25c50e7330af541d46e18f36661c",
-    "name": "RichQUACK.com",
-    "symbol": "QUACK",
-    "decimals": 9,
-    "stable": false
-  },
-  {
     "address": "0xcfa65d49541a0a930a19321c797e442123822fb4",
     "name": "STAR QUACKS",
     "symbol": "quacks",
@@ -16040,13 +15844,6 @@
     "address": "0x25382fb31e4b22e0ea09cb0761863df5ad97ed72",
     "name": "Paragen",
     "symbol": "RGEN",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x0496ccd13c9848f9c7d1507d1dd86a360b51b596",
-    "name": "Royal Gold",
-    "symbol": "RGOLD",
     "decimals": 18,
     "stable": false
   },
@@ -16604,13 +16401,6 @@
     "stable": false
   },
   {
-    "address": "0x0d36cc179019db9a65aa3b85db59e4bb52df0b12",
-    "name": "SpaceCowBoy",
-    "symbol": "SCB",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x6af2f57f61cec0883c71f3175774ebeb290a10e6",
     "name": "Scientia",
     "symbol": "SCIE",
@@ -17094,13 +16884,6 @@
     "stable": false
   },
   {
-    "address": "0xc944273b805debd35c63011943abc5ab9eddb8e3",
-    "name": "Crypto Shield",
-    "symbol": "SHIELD",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0xf2e00684457de1a3c87361bc4bfe2de92342306c",
     "name": "Shield Network",
     "symbol": "SHIELDNET",
@@ -17567,13 +17350,6 @@
     "name": "SpaceToken",
     "symbol": "SPACE",
     "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x69b14e8d3cebfdd8196bfe530954a0c226e5008e",
-    "name": "SpacePi Token",
-    "symbol": "SpacePi",
-    "decimals": 9,
     "stable": false
   },
   {
@@ -19474,13 +19250,6 @@
     "stable": false
   },
   {
-    "address": "0xf915fdda4c882731c0456a4214548cd13a822886",
-    "name": "Unvest",
-    "symbol": "UNV",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x5b65cd9feb54f1df3d0c60576003344079f8dc06",
     "name": "Uniwhale",
     "symbol": "unw",
@@ -20178,13 +19947,6 @@
     "name": "Wrapped BESC",
     "symbol": "wbesc",
     "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x19575b407e2dd49cb2ba46375a7fba37c8ec553a",
-    "name": "WB-Mining",
-    "symbol": "wbm",
-    "decimals": 9,
     "stable": false
   },
   {
@@ -20930,13 +20692,6 @@
     "stable": false
   },
   {
-    "address": "0x8f0342bf1063b1d947b0f2cc611301d611ac3487",
-    "name": "xRhodium",
-    "symbol": "xrc",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x7cc1c126be3128c1f0441a893cd6220498b27650",
     "name": "XROW",
     "symbol": "xrow",
@@ -21045,13 +20800,6 @@
     "address": "0x4ee438be38f8682abb089f2bfea48851c5e71eaf",
     "name": "Cryptonovae",
     "symbol": "YAE",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x2722c9db0fc6818dc9dd3a01254afc3804438b64",
-    "name": "Yaki Gold",
-    "symbol": "YAG",
     "decimals": 18,
     "stable": false
   },
@@ -21353,13 +21101,6 @@
     "address": "0xce6b8b2787c657f1b98b7a66b5b63178863fd719",
     "name": "ZFMCOIN",
     "symbol": "zfm",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xbf27da33a58de2bc6eb1c7dab6cf2e84e825d7dc",
-    "name": "ZambesiGold",
-    "symbol": "zgd",
     "decimals": 18,
     "stable": false
   },
