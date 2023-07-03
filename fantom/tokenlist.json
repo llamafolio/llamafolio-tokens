@@ -490,13 +490,6 @@
     "stable": true
   },
   {
-    "address": "0x27e611fd27b276acbd5ffd632e5eaebec9761e40",
-    "name": "Curve.fi DAI/USDC",
-    "symbol": "DAI+USDC",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0xeaf45b62d9d0bdc1d763baf306af5edd7c0d7e55",
     "name": "Death",
     "symbol": "Death",
@@ -731,13 +724,6 @@
     "address": "0x82f8cb20c14f134fe6ebf7ac3b903b2117aafa62",
     "name": "Frax Share",
     "symbol": "FXS",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xd02a30d33153877bc20e5721ee53dedee0422b2f",
-    "name": "Curve.fi gDAI/gUSDC/gUSDT",
-    "symbol": "g3CRV",
     "decimals": 18,
     "stable": false
   },
