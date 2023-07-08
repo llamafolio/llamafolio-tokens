@@ -1944,5 +1944,264 @@
     "symbol": "ZOO",
     "decimals": 0,
     "stable": false
+  },
+  {
+    "address": "0x07e6332dd090d287d3489245038daf987955dcfb",
+    "symbol": "gDAI",
+    "name": "Geist DAI",
+    "decimals": "18",
+    "stable": false
+  },
+  {
+    "address": "0x0f730d43d85f722903b8aded334b32332466b207",
+    "symbol": "PEPE",
+    "name": "Pepe",
+    "decimals": "18",
+    "stable": false
+  },
+  {
+    "address": "0x1c1d786f88eaf8fd1e0939757520bec1413310fe",
+    "symbol": "IMP",
+    "name": "Imp",
+    "decimals": "9",
+    "stable": false
+  },
+  {
+    "address": "0x2126be94443334fd71428dba3c638fb722d1838e",
+    "symbol": "LAMBDA",
+    "name": "Spartacus Money",
+    "decimals": "18",
+    "stable": false
+  },
+  {
+    "address": "0x2b6850bf31874d96a21ed4dc7c6415b9640be2a4",
+    "symbol": "WPGUNK",
+    "name": "Wrapped PlasmaGunk",
+    "decimals": "9",
+    "stable": false
+  },
+  {
+    "address": "0x3c1420df122ac809b9d1ba77906f833764d64501",
+    "symbol": "bb-rfWBTC",
+    "name": "Beets Reaper Boosted WBTC",
+    "decimals": "18",
+    "stable": false
+  },
+  {
+    "address": "0x44f7237df00e386af8e79b817d05ed9f6fe0f296",
+    "symbol": "SOL",
+    "name": "SOL",
+    "decimals": "18",
+    "stable": false
+  },
+  {
+    "address": "0x4a89338a2079a01edbf5027330eac10b615024e5",
+    "symbol": "USDL Stablecoin",
+    "name": "USDL",
+    "decimals": "18",
+    "stable": true
+  },
+  {
+    "address": "0x4f76664105ba7e35dd4904ec70f2042fc17563d9",
+    "symbol": "SOLO",
+    "name": "Sologenic",
+    "decimals": "15",
+    "stable": false
+  },
+  {
+    "address": "0x501e3d716a72e11e1e22edcf0365556b357da0c9",
+    "symbol": "axlWMAI",
+    "name": "Axelar Wrapped WMAI",
+    "decimals": "18",
+    "stable": false
+  },
+  {
+    "address": "0x524cabe5b2f66cbd6f6b08def086f18f8dde033a",
+    "symbol": "BICO",
+    "name": "Biconomy Token",
+    "decimals": "18",
+    "stable": false
+  },
+  {
+    "address": "0x58e57ca18b7a47112b877e31929798cd3d703b0f",
+    "symbol": "crv3crypto",
+    "name": "Curve.fi USD-BTC-ETH",
+    "decimals": "18",
+    "stable": true
+  },
+  {
+    "address": "0x5deb27e51dbeef691ba1175a2e563870499c2acb",
+    "symbol": "MCLB",
+    "name": "MCLB",
+    "decimals": "18",
+    "stable": false
+  },
+  {
+    "address": "0x5f0456f728e2d59028b4f5b8ad8c604100724c6a",
+    "symbol": "L3USD",
+    "name": "L3USD",
+    "decimals": "18",
+    "stable": true
+  },
+  {
+    "address": "0x67c10c397dd0ba417329543c1a40eb48aaa7cd00",
+    "symbol": "nETH",
+    "name": "nETH",
+    "decimals": "18",
+    "stable": false
+  },
+  {
+    "address": "0x70f9fd19f857411b089977e7916c05a0fc477ac9",
+    "symbol": "gALCX",
+    "name": "governanceALCX",
+    "decimals": "18",
+    "stable": false
+  },
+  {
+    "address": "0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979",
+    "symbol": "fBOMB",
+    "name": "Fantom Bomb",
+    "decimals": "18",
+    "stable": false
+  },
+  {
+    "address": "0x814c66594a22404e101fecfecac1012d8d75c156",
+    "symbol": "cLQDR",
+    "name": "cLQDR",
+    "decimals": "18",
+    "stable": false
+  },
+  {
+    "address": "0x92502cd8e00f5b8e737b2ba203fdd7cd27b23c8f",
+    "symbol": "bb-rfWFTM",
+    "name": "Beets Reaper Boosted WFTM",
+    "decimals": "18",
+    "stable": false
+  },
+  {
+    "address": "0x940f41f0ec9ba1a34cf001cc03347ac092f5f6b5",
+    "symbol": "gfUSDT",
+    "name": "Geist fUSDT",
+    "decimals": "6",
+    "stable": true
+  },
+  {
+    "address": "0x953e94caf91a1e32337d0548b9274f337920edfa",
+    "symbol": "USDV",
+    "name": "USDV",
+    "decimals": "18",
+    "stable": true
+  },
+  {
+    "address": "0x95dd59343a893637be1c3228060ee6afbf6f0730",
+    "symbol": "LUNA",
+    "name": "Luna",
+    "decimals": "6",
+    "stable": false
+  },
+  {
+    "address": "0xa0051ab2c3eb7f17758428b02a07cf72eb0ef1a3",
+    "symbol": "bb-rfWETH",
+    "name": "Beets Reaper Boosted WETH",
+    "decimals": "18",
+    "stable": false
+  },
+  {
+    "address": "0xa147268f35db4ae3932eabe42af16c36a8b89690",
+    "symbol": "liHND",
+    "name": "liHND",
+    "decimals": "18",
+    "stable": false
+  },
+  {
+    "address": "0xc09a82ad5075b3067d80f54f05e1e22229699cc1",
+    "symbol": "wBOMB",
+    "name": "Wrapped BOMB",
+    "decimals": "18",
+    "stable": false
+  },
+  {
+    "address": "0xc385e76e575b2d71eb877c27dcc1608f77fada99",
+    "symbol": "bb-rfUSDC",
+    "name": "Beets Reaper Boosted USDC",
+    "decimals": "18",
+    "stable": true
+  },
+  {
+    "address": "0xce1e3cc1950d2aaeb47de04de2dec2dc86380e0a",
+    "symbol": "ERN",
+    "name": "Ethos Reserve Note",
+    "decimals": "18",
+    "stable": false
+  },
+  {
+    "address": "0xd89cc0d2a28a769eadef50fff74ebc07405db9fc",
+    "symbol": "ELYS",
+    "name": "Elyseos",
+    "decimals": "5",
+    "stable": false
+  },
+  {
+    "address": "0xde12c7959e1a72bbe8a5f7a1dc8f8eef9ab011b3",
+    "symbol": "DEI",
+    "name": "DEI",
+    "decimals": "18",
+    "stable": false
+  },
+  {
+    "address": "0xde1e704dae0b4051e80dabb26ab6ad6c12262da0",
+    "symbol": "DEI",
+    "name": "DEI",
+    "decimals": "18",
+    "stable": false
+  },
+  {
+    "address": "0xdfc65c1f15ad3507754ef0fd4ba67060c108db7e",
+    "symbol": "bb-yv-deiusd",
+    "name": "From gods, boosted and blessed",
+    "decimals": "18",
+    "stable": true
+  },
+  {
+    "address": "0xe3e0eba90185e7292b9ca92c7409cdef504f9d07",
+    "symbol": "FUCK",
+    "name": "FUCK",
+    "decimals": "18",
+    "stable": false
+  },
+  {
+    "address": "0xe578c856933d8e1082740bf7661e379aa2a30b26",
+    "symbol": "gUSDC",
+    "name": "Geist USDC",
+    "decimals": "6",
+    "stable": true
+  },
+  {
+    "address": "0xeadcfa1f34308b144e96fcd7a07145e027a8467d",
+    "symbol": "BPT-cLQDR",
+    "name": "Pirate in C",
+    "decimals": "18",
+    "stable": false
+  },
+  {
+    "address": "0xed2a7edd7413021d440b09d654f3b87712abab66",
+    "symbol": "nUSD",
+    "name": "nUSD",
+    "decimals": "18",
+    "stable": true
+  },
+  {
+    "address": "0xf04a45b429eb5930a85884141c530147db0f609e",
+    "symbol": "ODIN",
+    "name": "Valhalla Dao",
+    "decimals": "18",
+    "stable": false
+  },
+  {
+    "address": "0xfcef8a994209d6916eb2c86cdd2afd60aa6f54b1",
+    "symbol": "fBEETS",
+    "name": "FreshBeets",
+    "decimals": "18",
+    "stable": false
   }
 ]
