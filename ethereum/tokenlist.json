@@ -287,13 +287,6 @@
     "stable": false
   },
   {
-    "address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
-    "name": "Curve.fi DAI/USDC/USDT",
-    "symbol": "3Crv",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0xfe60fba03048effb4acf3f0088ec2f53d779d3bb",
     "name": "3d3d",
     "symbol": "3d3d",
@@ -4399,27 +4392,6 @@
     "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
     "name": "CurveDAOToken",
     "symbol": "CRV",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x3175df0976dfa876431c2e9ee6bc45b65d3473cc",
-    "name": "Curve.fi FRAX/USDC",
-    "symbol": "crvfrax",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x49849c98ae39fff122806c06791fa73784fb3675",
-    "name": "Curve.fi renBTC/wBTC",
-    "symbol": "crvRenWBTC",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x075b1bb99792c9e1041ba13afef80c91a1e70fb3",
-    "name": "Curve.fi renBTC/wBTC/sBTC",
-    "symbol": "crvrenwsbtc",
     "decimals": 18,
     "stable": false
   },
@@ -22278,13 +22250,6 @@
     "name": "Y Coin",
     "symbol": "YCO",
     "decimals": 8,
-    "stable": false
-  },
-  {
-    "address": "0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8",
-    "name": "Curve.fi iearn pool token",
-    "symbol": "yCurve",
-    "decimals": 18,
     "stable": false
   },
   {

@@ -49,13 +49,6 @@
     "stable": false
   },
   {
-    "address": "0x7f90122bf0700f9e7e1f688fe926940e8839f353",
-    "name": "Curve.fi USDC/USDT",
-    "symbol": "2crv",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0xdd389517320720f09db75d20a27d8a2cfa5f8568",
     "name": "AI Card Render",
     "symbol": "acr",

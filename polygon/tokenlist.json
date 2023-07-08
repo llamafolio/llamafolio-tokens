@@ -231,13 +231,6 @@
     "stable": false
   },
   {
-    "address": "0xe7a24ef0c5e95ffb0f6684b813a78f2a3ad7d171",
-    "name": "Curve.fi amDAI/amUSDC/amUSDT",
-    "symbol": "am3crv",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x0e9b89007eee9c958c0eda24ef70723c2c93dd58",
     "name": "Ankr MATIC Reward Bearing Certificate",
     "symbol": "aMATICc",

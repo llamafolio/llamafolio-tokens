@@ -119,13 +119,6 @@
     "stable": false
   },
   {
-    "address": "0x1337bedc9d22ecbe766df105c9623922a27963ec",
-    "name": "Curve.fi avDAI/avUSDC/avUSDT",
-    "symbol": "av3CRV",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x346a59146b9b4a77100d369a3d18e8007a9f46a6",
     "name": "Orca DAO",
     "symbol": "AVAI",
