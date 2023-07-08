@@ -225,9 +225,9 @@
   },
   {
     "address": "0x69f078f27c7f8bfbac7000aa700701064797a48c",
-    "symbol": "pcUSD",
     "name": "O3-Peg Celo Dollar",
-    "decimals": "18",
+    "symbol": "pcUSD",
+    "decimals": 18,
     "stable": true
   }
 ]

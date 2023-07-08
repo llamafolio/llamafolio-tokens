@@ -82,7 +82,7 @@ async function main(addresses: Array<string> = process.argv.slice(2)) {
         !existingTokenListAddresses.includes(token.address.toLowerCase()) &&
         token.name.length > 0 &&
         token.symbol.length > 0 &&
-        token.decimals.length > 0 &&
+        `${token.decimals}`.length > 0 &&
         ['farm', 'lp', 'pool', 'vault', 'stake', 'staked'].every(word => !token.symbol.toLowerCase().includes(word)) &&
         ['farm', 'lp', 'pool', 'vault', 'stake', 'staked'].every(word => !token.name.toLowerCase().includes(word)) &&
         !/yv\w{2,}/i.test(token.name.toLowerCase()) &&
@@ -100,7 +100,7 @@ export async function batchRpcTokensInfo({ chain, addresses }: { chain: Chain; a
     address: string
     symbol: string
     name: string
-    decimals: string
+    decimals: number
     stable: boolean
   }>
 > {
@@ -163,7 +163,7 @@ export async function batchRpcTokensInfo({ chain, addresses }: { chain: Chain; a
       address,
       symbol,
       name,
-      decimals,
+      decimals: Number(decimals),
       stable: name.toLowerCase().includes('usd') || symbol.toLowerCase().includes('usd')
     })
   }
