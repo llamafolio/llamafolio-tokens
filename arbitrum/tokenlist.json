@@ -56,13 +56,6 @@
     "stable": false
   },
   {
-    "address": "0xebf1f92d4384118bfb91b4496660a95931c92861",
-    "name": "Aladdin cvxCRV",
-    "symbol": "ACRV",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x53691596d1bce8cea565b84d4915e69e03d9c99d",
     "name": "Across Protocol",
     "symbol": "ACX",
@@ -185,13 +178,6 @@
     "address": "0xc559afe7449a778a130fcf8193c7111625481bfe",
     "name": "Ankaa Exchange",
     "symbol": "ankaa",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
-    "name": "Arbitrum",
-    "symbol": "ARB",
     "decimals": 18,
     "stable": false
   },
@@ -850,13 +836,6 @@
     "address": "0xec13336bbd50790a00cdc0feddf11287eaf92529",
     "name": "gmUSD",
     "symbol": "gmusd",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
-    "name": "GMX",
-    "symbol": "GMX",
     "decimals": 18,
     "stable": false
   },
@@ -2226,13 +2205,6 @@
     "stable": false
   },
   {
-    "address": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
-    "name": "Wrapped Bitcoin",
-    "symbol": "WBTC",
-    "decimals": 8,
-    "stable": false
-  },
-  {
     "address": "0x43faaf76e1b8555c274092332bb1683fcffba1f3",
     "name": "Wednesday",
     "symbol": "wd",
@@ -2243,13 +2215,6 @@
     "address": "0xffa188493c15dfaf2c206c97d8633377847b6a52",
     "name": "Wefi Finance",
     "symbol": "wefi",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
-    "name": "WETH",
-    "symbol": "WETH",
     "decimals": 18,
     "stable": false
   },
@@ -2390,13 +2355,6 @@
     "address": "0x377c6e37633e390aef9afb4f5e0b16689351eed4",
     "name": "ZYX",
     "symbol": "ZYX",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xe05a08226c49b636acf99c40da8dc6af83ce5bb3",
-    "name": "Ankr Reward-Bearing Staked ETH",
-    "symbol": "AETHC",
     "decimals": 18,
     "stable": false
   },
@@ -3780,13 +3738,6 @@
     "stable": false
   },
   {
-    "address": "0x542f16da0efb162d20bf4358efa095b70a100f9e",
-    "name": "2BTC",
-    "symbol": "2BTC",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x545c12e7ddd680c5e99ce9169d1da583a6ebd41b",
     "name": "Yarloo $YARL",
     "symbol": "WOW",
@@ -4723,13 +4674,6 @@
     "symbol": "AMXS",
     "decimals": 18,
     "stable": false
-  },
-  {
-    "address": "0x8e0b8c8bb9db49a46697f3a5bb8a308e744821d2",
-    "name": "Curve.fi USD-BTC-ETH",
-    "symbol": "crv3crypto",
-    "decimals": 18,
-    "stable": true
   },
   {
     "address": "0x8ed4191f81f1e1d24a8a1195267d024d9358c9d7",

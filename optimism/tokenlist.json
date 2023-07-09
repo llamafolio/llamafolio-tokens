@@ -427,13 +427,6 @@
     "stable": true
   },
   {
-    "address": "0x6c2f7b6110a37b3b0fbdd811876be368df02e8b0",
-    "name": "StaFi Staked ETH",
-    "symbol": "rETH",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x9ed7e4b1bff939ad473da5e7a218c771d1569456",
     "name": "Reunit Wallet",
     "symbol": "reuni",
@@ -605,13 +598,6 @@
     "address": "0x4200000000000000000000000000000000000006",
     "name": "WETH",
     "symbol": "WETH",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x1f32b1c2345538c0c6f582fcb022739c4a194ebb",
-    "name": "Wrapped liquid staked Ether 2.0",
-    "symbol": "wstETH",
     "decimals": 18,
     "stable": false
   },
@@ -896,13 +882,6 @@
     "stable": false
   },
   {
-    "address": "0x1337bedc9d22ecbe766df105c9623922a27963ec",
-    "name": "Curve.fi DAI/USDC/USDT",
-    "symbol": "3CRV",
-    "decimals": 18,
-    "stable": true
-  },
-  {
     "address": "0x13b7f51bd865410c3acc4d56083c5b56ab38d203",
     "name": "Synthetix Network Token Hop Token",
     "symbol": "hSNX",
@@ -973,13 +952,6 @@
     "stable": false
   },
   {
-    "address": "0x43da214fab3315aa6c02e0b8f2bfb7ef2e3c60a5",
-    "name": "Overnight Pulse Act II",
-    "symbol": "BPT-overnight-II",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x4c66a27ecec5af2e87ad8c8ce5fb4cfc30437ec3",
     "name": "O3-Peg USD Coin",
     "symbol": "pUSDC",
@@ -1008,32 +980,11 @@
     "stable": false
   },
   {
-    "address": "0x62ec8b26c08ffe504f22390a65e6e3c1e45e9877",
-    "name": "Beets Reaper Sonne Boosted DAI",
-    "symbol": "bb-rf-soDAI",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x67c10c397dd0ba417329543c1a40eb48aaa7cd00",
     "name": "nUSD",
     "symbol": "nUSD",
     "decimals": 18,
     "stable": true
-  },
-  {
-    "address": "0x68f51d2aeb485ca3a65a7ff54e9266dd5ea4c58b",
-    "name": "RAKIS-46 Spice Harvester",
-    "symbol": "stRAKIS-46",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x6af3737f6d58ae8bcb9f2b597125d37244596e59",
-    "name": "Beets Reaper Sonne Boosted WBTC",
-    "symbol": "bb-rf-soWBTC",
-    "decimals": 18,
-    "stable": false
   },
   {
     "address": "0x6ca558bd3eab53da1b25ab97916dd14bf6cfee4e",
@@ -1084,13 +1035,7 @@
     "decimals": 18,
     "stable": false
   },
-  {
-    "address": "0x7e9250cc13559eb50536859e8c076ef53e275fb3",
-    "name": "Beets Reaper Sonne Boosted WSTETH",
-    "symbol": "bb-rf-soWSTETH",
-    "decimals": 18,
-    "stable": false
-  },
+
   {
     "address": "0x809dc529f07651bd43a172e8db6f4a7a0d771036",
     "name": "nETH",
@@ -1102,13 +1047,6 @@
     "address": "0x8453cc52f2108ff9d1636b6a108db06ac137b72f",
     "name": "VolatileV2 AMM - USDC/MTA",
     "symbol": "vAMMV2-USDC/MTA",
-    "decimals": 18,
-    "stable": true
-  },
-  {
-    "address": "0x88d07558470484c03d3bb44c3ecc36cafcf43253",
-    "name": "Beets Boosted USD+",
-    "symbol": "bb-USD+",
     "decimals": 18,
     "stable": true
   },
@@ -1190,27 +1128,6 @@
     "stable": false
   },
   {
-    "address": "0xb5ad7d6d6f92a77f47f98c28c84893fbccc94809",
-    "name": "Beets Boosted DAI+",
-    "symbol": "bb-DAI+",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xb720fbc32d60bb6dcc955be86b98d8fd3c4ba645",
-    "name": "StableV2 AMM - USDC/DOLA",
-    "symbol": "sAMMV2-USDC/DOLA",
-    "decimals": 18,
-    "stable": true
-  },
-  {
-    "address": "0xb96c5bada4bf6a70e71795a3197ba94751dae2db",
-    "name": "Beets Reaper Sonne Boosted USDT",
-    "symbol": "bb-rf-soUSDT",
-    "decimals": 18,
-    "stable": true
-  },
-  {
     "address": "0xc39b6d561cb3c3e6b9e95a7b455073da2a9ff122",
     "name": "O3-Peg ROOBEE",
     "symbol": "pROOBEE",
@@ -1250,13 +1167,6 @@
     "name": "Axelar Wrapped USDC",
     "symbol": "axlUSDC",
     "decimals": 6,
-    "stable": true
-  },
-  {
-    "address": "0xedcfaf390906a8f91fb35b7bac23f3111dbaee1c",
-    "name": "Beets Reaper Sonne Boosted USDC",
-    "symbol": "bb-rf-soUSDC",
-    "decimals": 18,
     "stable": true
   },
   {

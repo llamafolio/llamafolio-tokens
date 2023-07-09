@@ -126,76 +126,6 @@
     "stable": false
   },
   {
-    "address": "0xd3253fc0a42e6dcf4f66ab147f628e3f29e9b214",
-    "name": "Sandwich Network",
-    "symbol": "$SANDWICH",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x424aa711301c82252eccaccf01301ad7ad7b5d40",
-    "name": "Taroverse",
-    "symbol": "$taro",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x4aad6a01068c2621545d087a3c5281837112585b",
-    "name": "Madagascar Token",
-    "symbol": "$TIME",
-    "decimals": 9,
-    "stable": false
-  },
-  {
-    "address": "0xe097bceb09bfb18047cf259f321cc129b7beba5e",
-    "name": "TipsyCoin",
-    "symbol": "$tipsy",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x2cd24aaf0aeabde7f830d6719eeb8eb3837712de",
-    "name": "Two Monkey Juice Bar",
-    "symbol": "$tmon",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x42c1613dd2236cfd60b5cbec846b5ead71be99df",
-    "name": "WALTERINU",
-    "symbol": "$WINU",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xc07f685bcf67ed7069b67d28556835b7c3bda55f",
-    "name": "zkNFTex",
-    "symbol": "$zkn",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x22a213852cee93eb6d41601133414d180c5684c2",
-    "name": "0xMonero on xDai from xDai",
-    "symbol": "0xMR",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x1ae369a6ab222aff166325b7b87eb9af06c86e57",
-    "name": "Tenset",
-    "symbol": "10SET",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xd3c325848d7c6e29b574cb0789998b2ff901f17e",
-    "name": "ArtWallet ",
-    "symbol": "1ART",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x40619dc9f00ea34e51d96b6ec5d8a6ad75457434",
     "name": "1Doge",
     "symbol": "1DOGE",
@@ -213,62 +143,6 @@
     "address": "0x7c56d81ecb5e1d287a1e22b89b01348f07be3541",
     "name": "1Move Token",
     "symbol": "1mt",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x012a6a39eec345a0ea2b994b17875e721d17ee45",
-    "name": "1Reward Token",
-    "symbol": "1rt",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x3a6e8b36645d6c252714daddd28ec0673535a109",
-    "name": "2CrazyToken",
-    "symbol": "2CRZ",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x1a515bf4e35aa2df67109281de6b3b00ec37675e",
-    "name": "2G Carbon Coin",
-    "symbol": "2gcc",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x11f6ecc9e2658627e0876212f1078b9f84d3196e",
-    "name": "2local",
-    "symbol": "2LC",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x596834746b5b78f31a089ee7853fa595682824b7",
-    "name": "3air",
-    "symbol": "3air",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xed0353560c43f3e0336d197e4081c81e1015dd51",
-    "name": "FLOKI SHIBA PEPE CEO",
-    "symbol": "3ceo",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xbfb1a68962fb4ed040fd3a0a71dc2c2015bcc667",
-    "name": "4JNET",
-    "symbol": "4JNET",
-    "decimals": 9,
-    "stable": false
-  },
-  {
-    "address": "0x82bec5483dbab4305f32b191d76dc6cb020ae76d",
-    "name": "7Pixels",
-    "symbol": "7pxs",
     "decimals": 18,
     "stable": false
   },
@@ -333,20 +207,6 @@
     "name": "Able Finance",
     "symbol": "ABLE",
     "decimals": 8,
-    "stable": false
-  },
-  {
-    "address": "0xbb1aa6e59e5163d8722a122cd66eba614b59df0d",
-    "name": "Ankr BNB Reward Earning Bond",
-    "symbol": "aBNBb",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xe85afccdafbe7f2b096f268e31cce3da8da2990a",
-    "name": "Ankr BNB Reward Bearing Certificate",
-    "symbol": "aBNBc",
-    "decimals": 18,
     "stable": false
   },
   {
@@ -473,13 +333,6 @@
     "name": "Aerdrop",
     "symbol": "AER",
     "decimals": 9,
-    "stable": false
-  },
-  {
-    "address": "0xe05a08226c49b636acf99c40da8dc6af83ce5bb3",
-    "name": "Ankr Reward-Bearing Staked ETH",
-    "symbol": "AETHC",
-    "decimals": 18,
     "stable": false
   },
   {
@@ -882,13 +735,6 @@
     "stable": false
   },
   {
-    "address": "0x738d96caf7096659db4c1afbf1e1bdfd281f388c",
-    "name": "Ankr MATIC Reward Bearing Certificate",
-    "symbol": "aMATICc",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x44ece1031e5b5e2d9169546cc10ea5c95ba96237",
     "name": "AmazingTeamDAO",
     "symbol": "amazingteam",
@@ -993,13 +839,7 @@
     "decimals": 18,
     "stable": false
   },
-  {
-    "address": "0x52f24a5e03aee338da5fd9df68d2b6fae1178827",
-    "name": "Ankr Staked BNB",
-    "symbol": "ankrbnb",
-    "decimals": 18,
-    "stable": false
-  },
+
   {
     "address": "0x5224f552f110ec78e6e0468138950ae5f3040942",
     "name": "Anomus Coin",
@@ -6594,20 +6434,6 @@
     "stable": false
   },
   {
-    "address": "0x77e5cce02139814e7eff377244cac8b802cddab8",
-    "name": "ZeLoop Eco Reward",
-    "symbol": "ERW",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xfef0c1670cb569008bb3d070918922dbb4f92de4",
-    "name": "EverSAFUv2",
-    "symbol": "es2",
-    "decimals": 5,
-    "stable": false
-  },
-  {
     "address": "0x4c48cca6153db911002f965d22fdefcd95f33be9",
     "name": "The Essential Coin",
     "symbol": "ESC",
@@ -7549,13 +7375,6 @@
     "address": "0xe369fec23380f9f14ffd07a1dc4b7c1a9fdd81c9",
     "name": "Froyo",
     "symbol": "FROYO",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x8eca5c1b51a801a822912167153041ed0b92a397",
-    "name": "Fame Reward Plus",
-    "symbol": "frp",
     "decimals": 18,
     "stable": false
   },
@@ -10909,13 +10728,6 @@
     "address": "0x14a9a94e555fdd54c21d7f7e328e61d7ebece54b",
     "name": "LOOT",
     "symbol": "LOOT",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xd24616870ca41bc01074446988faeb0085a71190",
-    "name": "Lord of Dragons Reward Token",
-    "symbol": "lort",
     "decimals": 18,
     "stable": false
   },
@@ -15589,13 +15401,6 @@
     "stable": false
   },
   {
-    "address": "0xf027e525d491ef6ffcc478555fbb3cfabb3406a6",
-    "name": "StaFi Staked BNB",
-    "symbol": "rbnb",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x563ca064e41f3b5d80adeecfe49ab375fd7afbef",
     "name": "Rare Ball Shares",
     "symbol": "rbs",
@@ -15949,13 +15754,6 @@
     "address": "0xfc2037829f497ff68cc62771270ed1f409668439",
     "name": "REDMARS",
     "symbol": "RMARS",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x117eefdde5e5aed6626ffedbb5d2ac955f64dbf3",
-    "name": "StaFi Staked MATIC",
-    "symbol": "rmatic",
     "decimals": 18,
     "stable": false
   },
@@ -17577,13 +17375,6 @@
     "stable": false
   },
   {
-    "address": "0x66eff5221ca926636224650fd3b9c497ff828f7d",
-    "name": "Staked Spell Tokens",
-    "symbol": "sSPELL",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0xc3028fbc1742a16a5d69de1b334cbce28f5d7eb3",
     "name": "SSS",
     "symbol": "SSS",
@@ -17696,13 +17487,6 @@
     "stable": false
   },
   {
-    "address": "0x36530092b1413c21ab7e5203197cf76d4d598888",
-    "name": "ShopNEXT Reward Token",
-    "symbol": "ste",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0xc0924edefb2c0c303de2d0c21bff07ab763163b5",
     "name": "Steam Exchange",
     "symbol": "SteamX",
@@ -17748,13 +17532,6 @@
     "address": "0xdc42c3a92c4a03f9b9f3fbaba0125286fdaa6772",
     "name": "Drunk Skunks Drinking Club",
     "symbol": "stink",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xc2e9d07f66a89c44062459a47a0d2dc038e4fb16",
-    "name": "Staked BNB",
-    "symbol": "stkBNB",
     "decimals": 18,
     "stable": false
   },
@@ -19785,13 +19562,6 @@
     "address": "0xfdd2374be7ae7a71138b9f6b93d9ef034a49edb6",
     "name": "Virtual Reality Game World",
     "symbol": "vrgw",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x5f84ce30dc3cf7909101c69086c50de191895883",
-    "name": "Venus Reward Token",
-    "symbol": "VRT",
     "decimals": 18,
     "stable": false
   },

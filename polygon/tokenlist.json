@@ -105,13 +105,6 @@
     "stable": false
   },
   {
-    "address": "0x89c90e480a39fbe3886bb5bd53ba5b1acc69d4fb",
-    "name": "Aladdin cvxCRV",
-    "symbol": "aCRV",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0xf328b73b6c685831f238c30a23fc19140cb4d8fc",
     "name": "Across Protocol",
     "symbol": "ACX",
@@ -1032,13 +1025,6 @@
     "address": "0x76bf0c28e604cc3fe9967c83b3c3f31c213cfe64",
     "name": "CrystalToken",
     "symbol": "CRYSTL",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xfcbb00df1d663eee58123946a30ab2138bf9eb2a",
-    "name": "ClayStack Staked MATIC",
-    "symbol": "csmatic",
     "decimals": 18,
     "stable": false
   },
@@ -4014,13 +4000,6 @@
     "address": "0xc17c30e98541188614df99239cabd40280810ca3",
     "name": "EverRise",
     "symbol": "RISE",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x9f28e2455f9ffcfac9ebd6084853417362bc5dbb",
-    "name": "StaFi Staked MATIC",
-    "symbol": "rmatic",
     "decimals": 18,
     "stable": false
   },
@@ -8760,20 +8739,6 @@
     "address": "0xdab625853c2b35d0a9c6bd8e5a097a664ef4ccfb",
     "name": "Quadrant Protocol",
     "symbol": "eQUAD",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xdad97f7713ae9437fa9249920ec8507e5fbb23d3",
-    "name": "Curve USD-BTC-ETH",
-    "symbol": "crvUSDBTCETH",
-    "decimals": 18,
-    "stable": true
-  },
-  {
-    "address": "0xdb6df721a6e7fdb97363079b01f107860ac156f9",
-    "name": "Wrapped aDAI",
-    "symbol": "waDAI",
     "decimals": 18,
     "stable": false
   },

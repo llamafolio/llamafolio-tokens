@@ -21,13 +21,6 @@
     "stable": false
   },
   {
-    "address": "0xc3344870d52688874b06d844e0c36cc39fc727f6",
-    "name": "Ankr Avalanche Reward Bearing Certificate",
-    "symbol": "aAVAXc",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
     "name": "Aave",
     "symbol": "AAVE.e",
@@ -136,20 +129,6 @@
     "address": "0x1ecd47ff4d9598f89721a2866bfeb99505a413ed",
     "name": "AVME",
     "symbol": "AVME",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x686bef2417b6dc32c50a3cbfbcc3bb60e1e9a15d",
-    "name": "Aave Avalanche Market WBTC",
-    "symbol": "avWBTC",
-    "decimals": 8,
-    "stable": false
-  },
-  {
-    "address": "0x53f7c5869a859f0aec3d334ee8b4cf01e3492f21",
-    "name": "Aave Avalanche Market WETH",
-    "symbol": "avWETH",
     "decimals": 18,
     "stable": false
   },
@@ -1400,13 +1379,6 @@
     "stable": false
   },
   {
-    "address": "0x5817d4f0b62a59b17f75207da1848c2ce75e7af4",
-    "name": "Vector",
-    "symbol": "VTX",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x9e037de681cafa6e661e6108ed9c2bd1aa567ecd",
     "name": "Wrapped AllianceBlock Token",
     "symbol": "WALBT",
@@ -1498,13 +1470,6 @@
     "stable": false
   },
   {
-    "address": "0x060556209e507d30f2167a101bfc6d256ed2f3e1",
-    "name": "Vector PTP",
-    "symbol": "xPTP",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x59414b3089ce2af0010e7523dea7e2b35d776ec7",
     "name": "Yak Token",
     "symbol": "YAK",
@@ -1554,13 +1519,6 @@
     "stable": false
   },
   {
-    "address": "0x769bfeb9faacd6eb2746979a8dd0b7e9920ac2a4",
-    "name": "Vector JOE",
-    "symbol": "zJOE",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x1b88d7ad51626044ec62ef9803ea264da4442f32",
     "name": "Zoo Token",
     "symbol": "ZOO",
@@ -1589,13 +1547,6 @@
     "stable": false
   },
   {
-    "address": "0x12d8ce035c5de3ce39b1fdd4c1d5a745eaba3b8c",
-    "name": "Ankr Reward-Bearing Staked ETH",
-    "symbol": "AETHC",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x6fefd97f328342a8a840546a55fdcfee7542f9a8",
     "name": "agEUR",
     "symbol": "agEUR",
@@ -1606,13 +1557,6 @@
     "address": "0x13e7bcefdde72492e656f3fa58bae6029708e673",
     "name": "AGX Coin",
     "symbol": "agx",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x191c10aa4af7c30e871e70c95db0e4eb77237530",
-    "name": "Aave LINK",
-    "symbol": "ALINK",
     "decimals": 18,
     "stable": false
   },
@@ -1638,24 +1582,10 @@
     "stable": false
   },
   {
-    "address": "0x625e7708f30ca75bfd92586e17077590c60eb4cd",
-    "name": "Aave USDC",
-    "symbol": "AUSDC",
-    "decimals": 6,
-    "stable": false
-  },
-  {
     "address": "0x68327a91e79f87f501bc8522fc333fb7a72393cb",
     "name": "AUX Coin",
     "symbol": "aux",
     "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x078f358208685046a11c85e8ad32895ded33a249",
-    "name": "Aave WBTC",
-    "symbol": "AWBTC",
-    "decimals": 8,
     "stable": false
   },
   {
@@ -2170,13 +2100,6 @@
     "stable": false
   },
   {
-    "address": "0x3ee97d514bbef95a2f110e6b9b73824719030f7a",
-    "name": "Staked Spell Token",
-    "symbol": "sSPELL",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0xf44fb887334fa17d2c5c0f970b5d320ab53ed557",
     "name": "START",
     "symbol": "START",
@@ -2373,13 +2296,6 @@
     "stable": false
   },
   {
-    "address": "0x0da67235dd5787d67955420c84ca1cecd4e5bb3b",
-    "name": "Wrapped MEMO",
-    "symbol": "wMEMO",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x18cb11c9f2b6f45a7ac0a95efd322ed4cf9eeebf",
     "name": "Blizz USDT",
     "symbol": "bUSDT",
@@ -2485,13 +2401,6 @@
     "stable": false
   },
   {
-    "address": "0x334ad834cd4481bb02d09615e7c11a00579a7909",
-    "name": "Benqi ETH",
-    "symbol": "qiETH",
-    "decimals": 8,
-    "stable": false
-  },
-  {
     "address": "0x33f0a866d9024d44de2e0602f4c9b94755944b6f",
     "name": "gmdUSDC",
     "symbol": "gmdUSDC",
@@ -2569,23 +2478,9 @@
     "stable": false
   },
   {
-    "address": "0x46a51127c3ce23fb7ab1de06226147f446e4a857",
-    "name": "Aave Avalanche Market USDC",
-    "symbol": "avUSDC",
-    "decimals": 6,
-    "stable": true
-  },
-  {
     "address": "0x4735721ed62713e3a141c939f4aa55ca8ad5f66a",
     "name": "Chihuahuax",
     "symbol": "CHIHUA",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x47afa96cdc9fab46904a55a6ad4bf6660b53c38a",
-    "name": "Aave Avalanche Market DAI",
-    "symbol": "avDAI",
     "decimals": 18,
     "stable": false
   },
@@ -2625,31 +2520,10 @@
     "stable": false
   },
   {
-    "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
-    "name": "Aave Avalanche SAVAX",
-    "symbol": "aAvaSAVAX",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x532e6537fea298397212f09a61e03311686f548e",
-    "name": "Aave Avalanche Market USDT",
-    "symbol": "avUSDT",
-    "decimals": 6,
-    "stable": true
-  },
-  {
     "address": "0x536e911b8ba66c9a8697bf7d7b9924456abcc9e7",
     "name": "Stash",
     "symbol": "STASH",
     "decimals": 5,
-    "stable": false
-  },
-  {
-    "address": "0x5764b8d8039c6e32f1e5d8de8da05ddf974ef5d3",
-    "name": "Pangolin Liquidity",
-    "symbol": "PGL",
-    "decimals": 18,
     "stable": false
   },
   {
@@ -2688,13 +2562,6 @@
     "stable": false
   },
   {
-    "address": "0x6ab707aca953edaefbc4fd23ba73294241490620",
-    "name": "Aave Avalanche USDT",
-    "symbol": "aAvaUSDT",
-    "decimals": 6,
-    "stable": true
-  },
-  {
     "address": "0x740d1355342d1de9f6f4d9fc4f9db98f89fdf0bd",
     "name": "EatnSmile Star",
     "symbol": "STAR",
@@ -2719,13 +2586,6 @@
     "address": "0x788ae3b5d153d49f8db649aacba1857f744b739e",
     "name": "KITTY",
     "symbol": "KITTY",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x7c05d54fc5cb6e4ad87c6f5db3b807c94bb89c52",
-    "name": "Pangolin Liquidity",
-    "symbol": "PGL",
     "decimals": 18,
     "stable": false
   },
@@ -2758,20 +2618,6 @@
     "stable": false
   },
   {
-    "address": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee",
-    "name": "Aave Avalanche DAI",
-    "symbol": "aAvaDAI",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x835866d37afb8cb8f8334dccdaf66cf01832ff5d",
-    "name": "Benqi DAI",
-    "symbol": "qiDAI",
-    "decimals": 8,
-    "stable": false
-  },
-  {
     "address": "0x88f89be3e9b1dc1c5f208696fb9cabfcc684bd5f",
     "name": "Fold",
     "symbol": "FLD",
@@ -2779,24 +2625,10 @@
     "stable": false
   },
   {
-    "address": "0x89a415b3d20098e6a6c8f7a59001c67bd3129821",
-    "name": "Benqi BTC.b",
-    "symbol": "qiBTC.b",
-    "decimals": 8,
-    "stable": false
-  },
-  {
     "address": "0x8b6663725d7e7368b01eefddc16be085e492498e",
     "name": "Kishimoto Inu",
     "symbol": "KISHIMOTO",
     "decimals": 9,
-    "stable": false
-  },
-  {
-    "address": "0x8ffdf2de812095b1d19cb146e4c004587c0a0692",
-    "name": "Aave Avalanche BTC.b",
-    "symbol": "aAvaBTC.b",
-    "decimals": 8,
     "stable": false
   },
   {
@@ -2919,13 +2751,6 @@
     "stable": false
   },
   {
-    "address": "0xb715808a78f6041e46d61cb123c9b4a27056ae9c",
-    "name": "Benqi USDCn",
-    "symbol": "qiUSDCn",
-    "decimals": 8,
-    "stable": true
-  },
-  {
     "address": "0xb7e446ff1a2eeea8cd07331c7e06b0276d0b06b7",
     "name": "OT Wrapped MEMO 24FEB2022",
     "symbol": "OT-wMEMO-24FEB2022",
@@ -2945,13 +2770,6 @@
     "symbol": "STK",
     "decimals": 18,
     "stable": false
-  },
-  {
-    "address": "0xbeb5d47a3f720ec0a390d04b4d41ed7d9688bc7f",
-    "name": "Benqi USDC",
-    "symbol": "qiUSDC",
-    "decimals": 8,
-    "stable": true
   },
   {
     "address": "0xc16a1b60175d16be6f2ed0ba506ca0e6efba8e08",
@@ -3031,13 +2849,6 @@
     "stable": false
   },
   {
-    "address": "0xd8fcda6ec4bdc547c0827b8804e89acd817d56ef",
-    "name": "Benqi USDTn",
-    "symbol": "qiUSDTn",
-    "decimals": 8,
-    "stable": true
-  },
-  {
     "address": "0xdd33ef5704ada19d254cb636b5a0a1bad3936050",
     "name": "MMAC",
     "symbol": "MMAC",
@@ -3056,13 +2867,6 @@
     "name": "Valhalla",
     "symbol": "VAL",
     "decimals": 9,
-    "stable": false
-  },
-  {
-    "address": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
-    "name": "Aave Avalanche WETH",
-    "symbol": "aAvaWETH",
-    "decimals": 18,
     "stable": false
   },
   {
@@ -3098,13 +2902,6 @@
     "name": "Duo",
     "symbol": "DUO",
     "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xf362fea9659cf036792c9cb02f8ff8198e21b4cb",
-    "name": "Benqi sAVAX",
-    "symbol": "qisAVAX",
-    "decimals": 8,
     "stable": false
   },
   {
