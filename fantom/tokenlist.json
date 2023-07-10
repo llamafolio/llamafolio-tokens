@@ -1470,6 +1470,13 @@
     "stable": false
   },
   {
+    "address": "0x5cc61a78f164885776aa610fb0fe1257df78e59b",
+    "name": "SpiritSwap Token",
+    "symbol": "SPIRIT",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x89d5e71e275b4be094df9551627bcf4e3b24ce22",
     "name": "Statera",
     "symbol": "STA",
@@ -1536,6 +1543,13 @@
     "address": "0x1c174f6ab0753162befbb916c69def2cc1bfdec1",
     "name": "Tempus",
     "symbol": "TEMP",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x65c9d9d080714cda7b5d58989dc27f897f165179",
+    "name": "TETU Reward Token",
+    "symbol": "TETU",
     "decimals": 18,
     "stable": false
   },
@@ -1930,6 +1944,13 @@
     "symbol": "cLQDR",
     "decimals": 18,
     "stable": false
+  },
+  {
+    "address": "0x953e94caf91a1e32337d0548b9274f337920edfa",
+    "name": "USDV",
+    "symbol": "USDV",
+    "decimals": 18,
+    "stable": true
   },
   {
     "address": "0x95dd59343a893637be1c3228060ee6afbf6f0730",

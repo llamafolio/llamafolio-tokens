@@ -1379,6 +1379,13 @@
     "stable": false
   },
   {
+    "address": "0x5817d4f0b62a59b17f75207da1848c2ce75e7af4",
+    "name": "Vector",
+    "symbol": "VTX",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x9e037de681cafa6e661e6108ed9c2bd1aa567ecd",
     "name": "Wrapped AllianceBlock Token",
     "symbol": "WALBT",
@@ -1470,6 +1477,13 @@
     "stable": false
   },
   {
+    "address": "0x060556209e507d30f2167a101bfc6d256ed2f3e1",
+    "name": "Vector PTP",
+    "symbol": "xPTP",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x59414b3089ce2af0010e7523dea7e2b35d776ec7",
     "name": "Yak Token",
     "symbol": "YAK",
@@ -1515,6 +1529,13 @@
     "address": "0x44754455564474a89358b2c2265883df993b12f0",
     "name": "ZeroSwapToken",
     "symbol": "ZEE",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x769bfeb9faacd6eb2746979a8dd0b7e9920ac2a4",
+    "name": "Vector JOE",
+    "symbol": "zJOE",
     "decimals": 18,
     "stable": false
   },
@@ -2398,6 +2419,13 @@
     "name": "HAI DAMO",
     "symbol": "DAMO",
     "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x334ad834cd4481bb02d09615e7c11a00579a7909",
+    "name": "Benqi ETH",
+    "symbol": "qiETH",
+    "decimals": 8,
     "stable": false
   },
   {

@@ -427,6 +427,13 @@
     "stable": true
   },
   {
+    "address": "0x6c2f7b6110a37b3b0fbdd811876be368df02e8b0",
+    "name": "StaFi Staked ETH",
+    "symbol": "rETH",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x9ed7e4b1bff939ad473da5e7a218c771d1569456",
     "name": "Reunit Wallet",
     "symbol": "reuni",
@@ -598,6 +605,13 @@
     "address": "0x4200000000000000000000000000000000000006",
     "name": "WETH",
     "symbol": "WETH",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x1f32b1c2345538c0c6f582fcb022739c4a194ebb",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
     "decimals": 18,
     "stable": false
   },
@@ -1035,7 +1049,6 @@
     "decimals": 18,
     "stable": false
   },
-
   {
     "address": "0x809dc529f07651bd43a172e8db6f4a7a0d771036",
     "name": "nETH",

@@ -839,7 +839,6 @@
     "decimals": 18,
     "stable": false
   },
-
   {
     "address": "0x5224f552f110ec78e6e0468138950ae5f3040942",
     "name": "Anomus Coin",
@@ -19562,6 +19561,13 @@
     "address": "0xfdd2374be7ae7a71138b9f6b93d9ef034a49edb6",
     "name": "Virtual Reality Game World",
     "symbol": "vrgw",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x5f84ce30dc3cf7909101c69086c50de191895883",
+    "name": "Venus Reward Token",
+    "symbol": "VRT",
     "decimals": 18,
     "stable": false
   },

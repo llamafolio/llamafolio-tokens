@@ -2394,6 +2394,13 @@
     "stable": false
   },
   {
+    "address": "0xb9d7dddca9a4ac480991865efef82e01273f79c3",
+    "name": "Boosted LUSD",
+    "symbol": "BLUSD",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xf8ad7dfe656188a23e89da09506adf7ad9290d5d",
     "name": "Blocery",
     "symbol": "BLY",
@@ -10269,6 +10276,13 @@
     "stable": false
   },
   {
+    "address": "0x8a9c67fee641579deba04928c4bc45f66e26343a",
+    "name": "Jarvis Reward Token",
+    "symbol": "JRT",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x1426cc6d52d1b14e2b3b1cb04d57ea42b39c4c7c",
     "name": "Jomon Shiba",
     "symbol": "JSHIBA",
@@ -16349,6 +16363,13 @@
     "name": "RealTract",
     "symbol": "RET",
     "decimals": 8,
+    "stable": false
+  },
+  {
+    "address": "0x20bc832ca081b91433ff6c17f85701b6e92486c5",
+    "name": "StakeWise Reward ETH2",
+    "symbol": "rETH2",
+    "decimals": 18,
     "stable": false
   },
   {

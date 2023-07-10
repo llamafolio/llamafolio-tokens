@@ -1001,6 +1001,13 @@
     "stable": false
   },
   {
+    "address": "0xb7d311e2eb55f2f68a9440da38e7989210b9a05e",
+    "name": "Stake Token on xDai",
+    "symbol": "STAKE",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x84e2c67cbefae6b5148fca7d02b341b12ff4b5bb",
     "name": "Swash Token",
     "symbol": "SWASH",

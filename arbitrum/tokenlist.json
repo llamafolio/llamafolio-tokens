@@ -182,6 +182,13 @@
     "stable": false
   },
   {
+    "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "name": "Arbitrum",
+    "symbol": "ARB",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x07dd5beaffb65b8ff2e575d500bdf324a05295dc",
     "name": "ArbiPad",
     "symbol": "arbi",
@@ -836,6 +843,13 @@
     "address": "0xec13336bbd50790a00cdc0feddf11287eaf92529",
     "name": "gmUSD",
     "symbol": "gmusd",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+    "name": "GMX",
+    "symbol": "GMX",
     "decimals": 18,
     "stable": false
   },
@@ -2205,6 +2219,13 @@
     "stable": false
   },
   {
+    "address": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "stable": false
+  },
+  {
     "address": "0x43faaf76e1b8555c274092332bb1683fcffba1f3",
     "name": "Wednesday",
     "symbol": "wd",
@@ -2215,6 +2236,13 @@
     "address": "0xffa188493c15dfaf2c206c97d8633377847b6a52",
     "name": "Wefi Finance",
     "symbol": "wefi",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+    "name": "WETH",
+    "symbol": "WETH",
     "decimals": 18,
     "stable": false
   },
