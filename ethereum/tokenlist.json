@@ -7168,13 +7168,6 @@
     "stable": false
   },
   {
-    "address": "0x082646b22a3960da69ef7a778c16dd6fb85dd999",
-    "name": "Fuck Pepe",
-    "symbol": "fkpepe",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0xb1f1f47061a7be15c69f378cb3f69423bd58f2f8",
     "name": "Flashstake",
     "symbol": "flash",
@@ -16758,13 +16751,6 @@
     "stable": false
   },
   {
-    "address": "0xdd782657af86492771bdb369caeb8c246be362f5",
-    "name": "RUGAME",
-    "symbol": "rug",
-    "decimals": 12,
-    "stable": false
-  },
-  {
     "address": "0x5f4c148d17effd165c2e2d46b46d2bd6e3ebdc3e",
     "name": "FiveKM RUN",
     "symbol": "RUN",
@@ -19596,13 +19582,6 @@
     "address": "0xc89d9aa9d9e54bb196319c6195aea1038d2bc936",
     "name": "Trend X",
     "symbol": "trendx",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x93eeb426782bd88fcd4b48d7b0368cf061044928",
-    "name": "The Rug Game",
-    "symbol": "trg",
     "decimals": 18,
     "stable": false
   },
@@ -24556,13 +24535,6 @@
     "stable": false
   },
   {
-    "address": "0x00ff33802cb62bf8fa7ee8c5ba61e6d8f5477382",
-    "name": "Try To Rug Me",
-    "symbol": "RUGME",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x0100546f2cd4c9d97f798ffc9755e47865ff7ee6",
     "name": "Alchemix ETH",
     "symbol": "alETH",
@@ -26358,13 +26330,6 @@
     "address": "0x5510d26c504b21ef22ca85b7125390bc23ca50e7",
     "name": "Homer",
     "symbol": "Simpson 2.0",
-    "decimals": 9,
-    "stable": false
-  },
-  {
-    "address": "0x55332170cb7d36545b500f66a80291c83d40bba7",
-    "name": "Lets Fucking GO!",
-    "symbol": "LFG",
     "decimals": 9,
     "stable": false
   },

@@ -6608,13 +6608,6 @@
     "stable": true
   },
   {
-    "address": "0x1a13f4ca1d028320a707d99520abfefca3998b7f",
-    "name": "Aave Matic Market USDC",
-    "symbol": "amUSDC",
-    "decimals": 6,
-    "stable": true
-  },
-  {
     "address": "0x1a2f15cb66b59e79cbba88d1d2640b7d8e3cd0c0",
     "name": "Meta Universe",
     "symbol": "MUF",
@@ -6720,13 +6713,6 @@
     "stable": false
   },
   {
-    "address": "0x20d3922b4a1a8560e1ac99fba4fade0c849e2142",
-    "name": "Matic Aave interest bearing WETH",
-    "symbol": "maWETH",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x21f9b5b2626603e3f40bfc13d01afb8c431d382f",
     "name": "Zombie Inu",
     "symbol": "ZINU",
@@ -6811,13 +6797,6 @@
     "stable": false
   },
   {
-    "address": "0x27f8d03b3a2196956ed754badc28d73be8830a6e",
-    "name": "Aave Matic Market DAI",
-    "symbol": "amDAI",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x280724409b288de06c6d66c05965d3d456e2283a",
     "name": "DragonBite (PoS)",
     "symbol": "BITE",
@@ -6828,13 +6807,6 @@
     "address": "0x283366bb42ef49a994913baf22263c6562e588a4",
     "name": "PENT",
     "symbol": "PENT",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x28424507fefb6f7f8e9d3860f56504e4e5f5f390",
-    "name": "Aave Matic Market WETH",
-    "symbol": "amWETH",
     "decimals": 18,
     "stable": false
   },
@@ -7406,13 +7378,6 @@
     "stable": false
   },
   {
-    "address": "0x5c2ed810328349100a66b82b78a1791b101c9d61",
-    "name": "Aave Matic Market WBTC",
-    "symbol": "amWBTC",
-    "decimals": 8,
-    "stable": false
-  },
-  {
     "address": "0x5caf48453ef32b6502d45f08e9110094779af35b",
     "name": "Hoopoe Ventures",
     "symbol": "HOOP",
@@ -7462,25 +7427,11 @@
     "stable": false
   },
   {
-    "address": "0x604229c960e5cacf2aaeac8be68ac07ba9df81c3",
-    "name": "Uniswap V2",
-    "symbol": "UNI-V2",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x60d01ec2d5e98ac51c8b4cf84dfcce98d527c747",
     "name": "izumi Token",
     "symbol": "iZi",
     "decimals": 18,
     "stable": false
-  },
-  {
-    "address": "0x60d55f02a771d515e077c9c2403a1ef324885cec",
-    "name": "Aave Matic Market USDT",
-    "symbol": "amUSDT",
-    "decimals": 6,
-    "stable": true
   },
   {
     "address": "0x60ed6acef3a96f8cdaf0c0d207bbafa66e751af2",

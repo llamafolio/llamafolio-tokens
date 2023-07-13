@@ -2002,20 +2002,6 @@
     "stable": false
   },
   {
-    "address": "0xe3e0eba90185e7292b9ca92c7409cdef504f9d07",
-    "name": "FUCK",
-    "symbol": "FUCK",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xe578c856933d8e1082740bf7661e379aa2a30b26",
-    "name": "Geist USDC",
-    "symbol": "gUSDC",
-    "decimals": 6,
-    "stable": true
-  },
-  {
     "address": "0xeadcfa1f34308b144e96fcd7a07145e027a8467d",
     "name": "Pirate in C",
     "symbol": "BPT-cLQDR",
