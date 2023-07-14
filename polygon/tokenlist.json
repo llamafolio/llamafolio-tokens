@@ -2604,13 +2604,6 @@
     "stable": false
   },
   {
-    "address": "0x823cd4264c1b951c9209ad0deaea9988fe8429bf",
-    "name": "Matic Aave Interest Bearing AAVE",
-    "symbol": "MAAAVE",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0xedd6ca8a4202d4a36611e2fff109648c4863ae19",
     "name": "MahaDAO (PoS)",
     "symbol": "MAHA",
@@ -2657,13 +2650,6 @@
     "name": "Matrixswap",
     "symbol": "MATRIX",
     "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x9719d867a500ef117cc201206b8ab51e794d3f82",
-    "name": "Matic Aave Interest Bearing USDC",
-    "symbol": "MAUSDC",
-    "decimals": 6,
     "stable": false
   },
   {
@@ -6846,13 +6832,6 @@
     "stable": false
   },
   {
-    "address": "0x2cf7252e74036d1da831d11089d326296e64a728",
-    "name": "Uniswap V2",
-    "symbol": "UNI-V2",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x2d17c61e308e9b4f0b5cd6d3015a83ce135eca1e",
     "name": "OCI",
     "symbol": "OCI",
@@ -7123,13 +7102,6 @@
     "name": "Jigstack (PoS)",
     "symbol": "STAK",
     "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x47cac8a868e301afb89b52ac31665858938e96b5",
-    "name": "FOOTIE+ V2o8\u000f",
-    "symbol": "FOOTIE",
-    "decimals": 9,
     "stable": false
   },
   {
@@ -7592,13 +7564,6 @@
     "name": "Kai Inu",
     "symbol": "KAI",
     "decimals": 9,
-    "stable": false
-  },
-  {
-    "address": "0x6e7a5fafcec6bb1e78bae2a1f0b612012bf14827",
-    "name": "Uniswap V2",
-    "symbol": "UNI-V2",
-    "decimals": 18,
     "stable": false
   },
   {
@@ -8246,13 +8211,6 @@
     "stable": false
   },
   {
-    "address": "0xadbf1854e5883eb8aa7baf50705338739e558e5b",
-    "name": "Uniswap V2",
-    "symbol": "UNI-V2",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0xaea771ef1f24f67a2e8e6cd4dd1200f04d8ccf25",
     "name": "NTF",
     "symbol": "NTF",
@@ -8697,13 +8655,6 @@
     "address": "0xdb95f9188479575f3f718a245eca1b3bf74567ec",
     "name": "Gitcoin (PoS)",
     "symbol": "GTC",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xdc9232e2df177d7a12fdff6ecbab114e2231198d",
-    "name": "Uniswap V2",
-    "symbol": "UNI-V2",
     "decimals": 18,
     "stable": false
   },

@@ -25053,13 +25053,6 @@
     "stable": false
   },
   {
-    "address": "0x1b459aec393d604ae6468ae3f7d7422efa2af1ca",
-    "name": "Uniswap V2",
-    "symbol": "UNI-V2",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x1b76d0364e803fb94c1d5ca9faf55f05ee494731",
     "name": "Uniswap Community Network",
     "symbol": "UCN",
@@ -25865,13 +25858,6 @@
     "stable": false
   },
   {
-    "address": "0x3ed3b47dd13ec9a98b44e6204a523e766b225811",
-    "name": "Aave interest bearing USDT",
-    "symbol": "aUSDT",
-    "decimals": 6,
-    "stable": true
-  },
-  {
     "address": "0x3f14920c99beb920afa163031c4e47a3e03b3e4a",
     "name": "Send Token",
     "symbol": "send",
@@ -25883,13 +25869,6 @@
     "name": "Space Coin Project",
     "symbol": "SPJ",
     "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x3f9078b8fbcb1c4e03b41fa9e5a0532a28848db7",
-    "name": "EverApe | t.me/EverApe",
-    "symbol": "EverApe p\u001f\r\f",
-    "decimals": 9,
     "stable": false
   },
   {
@@ -26901,13 +26880,6 @@
     "stable": false
   },
   {
-    "address": "0x6c5024cd4f8a59110119c56f8933403a539555eb",
-    "name": "Aave interest bearing SUSD",
-    "symbol": "aSUSD",
-    "decimals": 18,
-    "stable": true
-  },
-  {
     "address": "0x6cfaf95457d7688022fc53e7abe052ef8dfbbdba",
     "name": "diesel Dai Stablecoin",
     "symbol": "dDAI",
@@ -27157,13 +27129,6 @@
     "name": "NIRVANA",
     "symbol": "VANA",
     "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x7930d45a9ed754396da3a0c864f951ae84ceaa35",
-    "name": "AVOCADOp\u001f%\u0011",
-    "symbol": "AVOCADOp\u001f%\u0011",
-    "decimals": 9,
     "stable": false
   },
   {
@@ -27529,20 +27494,6 @@
     "symbol": "CE",
     "decimals": 18,
     "stable": false
-  },
-  {
-    "address": "0x8fcb1783bf4b71a51f702af0c266729c4592204a",
-    "name": "OT Aave interest bearing USDC 29DEC2022",
-    "symbol": "OT-aUSDC-29DEC2022",
-    "decimals": 6,
-    "stable": true
-  },
-  {
-    "address": "0x9014f29610e904c8269726c74ebc79f5d512dafd",
-    "name": "PT Stargate USDT 27JUN2024",
-    "symbol": "PT-Stargate USDT-27JUN2024",
-    "decimals": 6,
-    "stable": true
   },
   {
     "address": "0x90b0916ec12704da969aeec1c04dbdbcd60a39c7",
@@ -28210,13 +28161,6 @@
     "stable": false
   },
   {
-    "address": "0xb4743bfabfce34537a4baf0f3eb2f269246d180a",
-    "name": "One Pearl",
-    "symbol": "(N\u0014)",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0xb475332d25d34b59176f5c1d94cb9bc9b5e3954a",
     "name": "Hobbes",
     "symbol": "HOBBES",
@@ -28390,13 +28334,6 @@
     "symbol": "PXLDY",
     "decimals": 18,
     "stable": false
-  },
-  {
-    "address": "0xbcca60bb61934080951369a648fb03df4f96263c",
-    "name": "Aave interest bearing USDC",
-    "symbol": "aUSDC",
-    "decimals": 6,
-    "stable": true
   },
   {
     "address": "0xbccd27062ae1a2bea5731c904b96edfb163aba21",
@@ -29152,13 +29089,6 @@
     "name": "Forgotten Runes Warriors Guild",
     "symbol": "WARRIOR",
     "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xe2a083397521968eb05585932750634bed4b7d56",
-    "name": "HODL | t.me/HOLDTokenFLC",
-    "symbol": "HODL p\u001f\u0012\u000e",
-    "decimals": 9,
     "stable": false
   },
   {
