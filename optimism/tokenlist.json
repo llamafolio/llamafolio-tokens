@@ -1022,13 +1022,6 @@
     "stable": true
   },
   {
-    "address": "0x6fd5bee1ddb4dbbb0b7368b080ab99b8ba765902",
-    "name": "StableV1 AMM - alETH/WETH",
-    "symbol": "sAMM-alETH/WETH",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x703d57164ca270b0b330a87fd159cfef1490c0a5",
     "name": "WardenSwap",
     "symbol": "WAD",
@@ -1055,13 +1048,6 @@
     "symbol": "nETH",
     "decimals": 18,
     "stable": false
-  },
-  {
-    "address": "0x8453cc52f2108ff9d1636b6a108db06ac137b72f",
-    "name": "VolatileV2 AMM - USDC/MTA",
-    "symbol": "vAMMV2-USDC/MTA",
-    "decimals": 18,
-    "stable": true
   },
   {
     "address": "0x88dfaaabaf06f3a41d2606ea98bc8eda109abebb",
@@ -1151,20 +1137,6 @@
     "address": "0xca0e54b636db823847b29f506bffee743f57729d",
     "name": "Chi USD",
     "symbol": "CHI",
-    "decimals": 18,
-    "stable": true
-  },
-  {
-    "address": "0xd16232ad60188b68076a235c65d692090caba155",
-    "name": "StableV1 AMM - USDC/sUSD",
-    "symbol": "sAMM-USDC/sUSD",
-    "decimals": 18,
-    "stable": true
-  },
-  {
-    "address": "0xd62c9d8a3d4fd98b27caaefe3571782a3af0a737",
-    "name": "StableV1 AMM - USDC/MAI",
-    "symbol": "sAMM-USDC/MAI",
     "decimals": 18,
     "stable": true
   },
