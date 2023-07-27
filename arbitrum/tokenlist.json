@@ -56,13 +56,6 @@
     "stable": false
   },
   {
-    "address": "0xebf1f92d4384118bfb91b4496660a95931c92861",
-    "name": "Aladdin cvxCRV",
-    "symbol": "ACRV",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x53691596d1bce8cea565b84d4915e69e03d9c99d",
     "name": "Across Protocol",
     "symbol": "ACX",
@@ -2390,13 +2383,6 @@
     "address": "0x377c6e37633e390aef9afb4f5e0b16689351eed4",
     "name": "ZYX",
     "symbol": "ZYX",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xe05a08226c49b636acf99c40da8dc6af83ce5bb3",
-    "name": "Ankr Reward-Bearing Staked ETH",
-    "symbol": "AETHC",
     "decimals": 18,
     "stable": false
   },
