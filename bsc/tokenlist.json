@@ -14889,13 +14889,6 @@
     "stable": false
   },
   {
-    "address": "0x5ca42204cdaa70d5c773946e69de942b85ca6706",
-    "name": "Position Token",
-    "symbol": "POSI",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x230f6e7904ffc156abd8adfd7556e56e2a358cb1",
     "name": "Posschain",
     "symbol": "poss",
@@ -21171,13 +21164,6 @@
     "address": "0x5dd1e31e1a0e2e077ac98d2a4b781f418ca50387",
     "name": "Zelwin",
     "symbol": "ZLW",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x50ba8bf9e34f0f83f96a340387d1d3888ba4b3b5",
-    "name": "RugZombie",
-    "symbol": "ZMBE",
     "decimals": 18,
     "stable": false
   },

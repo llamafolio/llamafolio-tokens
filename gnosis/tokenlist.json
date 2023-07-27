@@ -987,23 +987,9 @@
     "stable": false
   },
   {
-    "address": "0x6ac78efae880282396a335ca2f79863a1e6831d4",
-    "name": "StakeWise Reward GNO",
-    "symbol": "rGNO",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x97edc0e345fbbbd8460847fcfa3bc2a13bf8641f",
     "name": "DAOSquare Governance Token from Ethereum",
     "symbol": "RICE",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xa4ef9da5ba71cc0d2e5e877a910a37ec43420445",
-    "name": "StakeWise Staked GNO",
-    "symbol": "sGNO",
     "decimals": 18,
     "stable": false
   },
@@ -1746,27 +1732,6 @@
     "address": "0xfd4e5f45ea24ec50c4db4367380b014875caf219",
     "name": "XY Oracle on xDai",
     "symbol": "XYO",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x22bd2a732b39dace37ae7e8f50a186f3d9702e87",
-    "name": "yCurve on xDai",
-    "symbol": "yCRV",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xa2fec95b3d3fecb39098e81f108533e1abf22ccf",
-    "name": "Yield on xDai",
-    "symbol": "YLD",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x226bcf0e417428a25012d0fa2183d37f92bcedf6",
-    "name": "0x Protocol Token on xDai",
-    "symbol": "ZRX",
     "decimals": 18,
     "stable": false
   }

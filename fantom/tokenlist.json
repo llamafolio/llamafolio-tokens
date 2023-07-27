@@ -70,44 +70,9 @@
     "stable": false
   },
   {
-    "address": "0x666a3776b3e82f171cb1dff7428b6808d2cd7d02",
-    "name": "Aladdin cvxCRV",
-    "symbol": "aCRV",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
-    "name": "Aave CRV",
-    "symbol": "ACRV",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x12d8ce035c5de3ce39b1fdd4c1d5a745eaba3b8c",
-    "name": "Ankr Reward-Bearing Staked ETH",
-    "symbol": "AETHC",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xcfc785741dc0e98ad4c9f6394bb9d43cd1ef5179",
-    "name": "Ankr FTM Reward Bearing Certificate",
-    "symbol": "aFTMc",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x02a2b736f9150d36c0919f3acee8ba2a92fbbb40",
     "name": "agEUR",
     "symbol": "agEUR",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x191c10aa4af7c30e871e70c95db0e4eb77237530",
-    "name": "Aave LINK",
-    "symbol": "ALINK",
     "decimals": 18,
     "stable": false
   },
@@ -189,24 +154,10 @@
     "stable": false
   },
   {
-    "address": "0x625e7708f30ca75bfd92586e17077590c60eb4cd",
-    "name": "Aave USDC",
-    "symbol": "AUSDC",
-    "decimals": 6,
-    "stable": false
-  },
-  {
     "address": "0x511d35c52a3c244e7b8bd92c0c297755fbd89212",
     "name": "Avalanche",
     "symbol": "AVAX",
     "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x078f358208685046a11c85e8ad32895ded33a249",
-    "name": "Aave WBTC",
-    "symbol": "AWBTC",
-    "decimals": 8,
     "stable": false
   },
   {
@@ -1078,13 +1029,6 @@
     "stable": false
   },
   {
-    "address": "0x7f620d7d0b3479b1655cefb1b0bc67fb0ef4e443",
-    "name": "Staked Ice Tokens",
-    "symbol": "nICE",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0xfb4d42bed5618fb1a377ddb64eb56b92a6d117f2",
     "name": "NOKU v2",
     "symbol": "NOKU",
@@ -1533,13 +1477,6 @@
     "stable": false
   },
   {
-    "address": "0xbb29d2a58d880af8aa5859e30470134deaf84f2b",
-    "name": "Staked Spell",
-    "symbol": "sSPELL",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x89d5e71e275b4be094df9551627bcf4e3b24ce22",
     "name": "Statera",
     "symbol": "STA",
@@ -1778,13 +1715,6 @@
     "stable": false
   },
   {
-    "address": "0x911da02c1232a3c3e1418b834a311921143b04d7",
-    "name": "veDAO Token",
-    "symbol": "WeVE",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
     "name": "Wrapped FTM",
     "symbol": "WFTM",
@@ -1869,13 +1799,6 @@
     "stable": false
   },
   {
-    "address": "0xa48d959ae2e88f1daa7d5f611e01908106de7598",
-    "name": "Boo MirrorWorld",
-    "symbol": "XBOO",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x953cd009a490176fceb3a26b9753e6f01645ff28",
     "name": "xDEUS",
     "symbol": "xdeus",
@@ -1886,13 +1809,6 @@
     "address": "0xe1e6b01ae86ad82b1f1b4eb413b219ac32e17bf6",
     "name": "Thorstarter Token",
     "symbol": "XRUNE",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x74d1d2a851e339b8cb953716445be7e8abdf92f4",
-    "name": "Staked TAROT",
-    "symbol": "XTAROT",
     "decimals": 18,
     "stable": false
   },
