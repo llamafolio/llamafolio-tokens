@@ -546,13 +546,6 @@
     "stable": false
   },
   {
-    "address": "0xe95a203b1a91a908f9b9ce46459d101078c2c3cb",
-    "name": "Ankr Eth2 Reward Bearing Bond",
-    "symbol": "aETHc",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0xee9e5eff401ee921b138490d00ca8d1f13f67a72",
     "name": "Asian Fintech",
     "symbol": "Afin",
@@ -843,13 +836,6 @@
     "address": "0x65a8fba02f641a13bb7b01d5e1129b0521004f52",
     "name": "Amasa",
     "symbol": "AMAS",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x26dcfbfa8bc267b250432c01c982eaf81cc5480c",
-    "name": "Ankr MATIC Reward Bearing Certificate",
-    "symbol": "aMATICc",
     "decimals": 18,
     "stable": false
   },
@@ -4417,13 +4403,6 @@
     "stable": false
   },
   {
-    "address": "0x38b7bf4eecf3eb530b1529c9401fc37d2a71a912",
-    "name": "ClayStack Staked MATIC",
-    "symbol": "csmatic",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x75ecb52e403c617679fbd3e77a50f9d10a842387",
     "name": "CSR",
     "symbol": "CSR",
@@ -4652,13 +4631,6 @@
     "name": "Convex FPIS",
     "symbol": "CVXFPIS",
     "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xccf4429db6322d5c611ee964527d42e5d685dd6a",
-    "name": "cWBTC",
-    "symbol": "CWBTC",
-    "decimals": 8,
     "stable": false
   },
   {
@@ -5915,13 +5887,6 @@
     "stable": false
   },
   {
-    "address": "0x341c05c0e9b33c0e38d64de76516b2ce970bb3be",
-    "name": "Diversified Staked ETH",
-    "symbol": "dseth",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe",
     "name": "DSLA",
     "symbol": "DSLA",
@@ -7021,13 +6986,6 @@
     "stable": false
   },
   {
-    "address": "0xa0246c9032bc3a600820415ae600c6388619a14d",
-    "name": "FARM Reward Token",
-    "symbol": "FARM",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x5de597849cf72c72f073e9085bdd0dadd8e6c199",
     "name": "Finblox",
     "symbol": "fbx",
@@ -7199,13 +7157,6 @@
     "address": "0x3c72fca8523686fd9e5740b0826fa4bb376e0241",
     "name": "300FIT",
     "symbol": "FIT",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x082646b22a3960da69ef7a778c16dd6fb85dd999",
-    "name": "Fuck Pepe",
-    "symbol": "fkpepe",
     "decimals": 18,
     "stable": false
   },
@@ -8550,13 +8501,6 @@
     "address": "0xb70835d7822ebb9426b56543e391846c107bd32c",
     "name": "Game",
     "symbol": "GTC",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x36c833eed0d376f75d1ff9dfdee260191336065e",
-    "name": "Gitcoin Staked ETH Index",
-    "symbol": "gtceth",
     "decimals": 18,
     "stable": false
   },
@@ -11522,13 +11466,6 @@
     "stable": false
   },
   {
-    "address": "0x628ebc64a38269e031afbdd3c5ba857483b5d048",
-    "name": "Liquid Staked ETH Index",
-    "symbol": "lseth",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0xd64809f5f7d772d9112a6bd379de00a77188199e",
     "name": "Lyfe Silver",
     "symbol": "LSILVER",
@@ -11616,13 +11553,6 @@
     "address": "0x71a28feaee902966dc8d355e7b8aa427d421e7e0",
     "name": "LunchDao",
     "symbol": "LUNCH",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xed279fdd11ca84beef15af5d39bb4d4bee23f0ca",
-    "name": "LUSD3CRV-f",
-    "symbol": "lusd3crv",
     "decimals": 18,
     "stable": false
   },
@@ -16163,13 +16093,6 @@
     "stable": false
   },
   {
-    "address": "0x562d8e607bed7fc183ca84c0362c853680b99638",
-    "name": "Rewardz® Network",
-    "symbol": "rayn",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x5eaa69b29f99c84fe5de8200340b4e9b4ab38eac",
     "name": "Raze Network",
     "symbol": "RAZE",
@@ -16639,13 +16562,6 @@
     "stable": false
   },
   {
-    "address": "0x3dbb00c9be5a327e25caf4f650844c5dba81e34b",
-    "name": "StaFi Staked MATIC",
-    "symbol": "rmatic",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x2a039b1d9bbdccbb91be28691b730ca893e5e743",
     "name": "Rentible",
     "symbol": "RNB",
@@ -16825,13 +16741,6 @@
     "name": "RUFF",
     "symbol": "RUFF",
     "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xdd782657af86492771bdb369caeb8c246be362f5",
-    "name": "RUGAME",
-    "symbol": "rug",
-    "decimals": 12,
     "stable": false
   },
   {
@@ -17153,13 +17062,6 @@
     "address": "0x993864e43caa7f7f12953ad6feb1d1ca635b875f",
     "name": "Singularity Dao",
     "symbol": "SDAO",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xd1b5651e55d4ceed36251c61c50c889b36f6abb5",
-    "name": "Stake DAO CRV",
-    "symbol": "SDCRV",
     "decimals": 18,
     "stable": false
   },
@@ -18312,20 +18214,6 @@
     "stable": false
   },
   {
-    "address": "0x22987407fd1fc5a971e3fda3b3e74c88666cda91",
-    "name": "Smart Reward Token",
-    "symbol": "srt",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x0352557b007a4aae1511c114409b932f06f9e2f4",
-    "name": "sRUNE",
-    "symbol": "SRUNE",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x624d520bab2e4ad83935fa503fb130614374e850",
     "name": "Smartshare",
     "symbol": "SSP",
@@ -18336,13 +18224,6 @@
     "address": "0x9d65ff81a3c488d585bbfb0bfe3c7707c7917f54",
     "name": "SSV Network",
     "symbol": "SSV",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x27b5739e22ad9033bcbf192059122d163b60349d",
-    "name": "Staked Yearn CRV Vault",
-    "symbol": "st-ycrv",
     "decimals": 18,
     "stable": false
   },
@@ -18477,13 +18358,6 @@
     "name": "STIMA",
     "symbol": "stima",
     "decimals": 6,
-    "stable": false
-  },
-  {
-    "address": "0xb8b295df2cd735b15be5eb419517aa626fc43cd5",
-    "name": "Staked LINK",
-    "symbol": "stlink",
-    "decimals": 18,
     "stable": false
   },
   {
@@ -19701,13 +19575,6 @@
     "address": "0xc89d9aa9d9e54bb196319c6195aea1038d2bc936",
     "name": "Trend X",
     "symbol": "trendx",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x93eeb426782bd88fcd4b48d7b0368cf061044928",
-    "name": "The Rug Game",
-    "symbol": "trg",
     "decimals": 18,
     "stable": false
   },
@@ -22421,149 +22288,9 @@
     "stable": false
   },
   {
-    "address": "0xb8c3b7a2a618c552c23b1e4701109a9e756bab67",
-    "name": "1INCH yVault",
-    "symbol": "yv1inch",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x9d409a0a012cfba9b15f6d4b36ac57a46966ab9a",
-    "name": "Yearn Compounding veCRV yVault",
-    "symbol": "yvBOOST",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x4a3fe75762017db0ed73a71c9a06db7768db5e66",
-    "name": "COMP yVault",
-    "symbol": "yvcomp",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xda816459f1ab5631232fe5e97a05bbbb94970c95",
-    "name": "yvDAI",
-    "symbol": "yvdai",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xc5bddf9843308380375a611c18b50fb9341f502a",
-    "name": "veCRV-DAO yVault",
-    "symbol": "yveCRV-DAO",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xe11ba472f74869176652c35d30db89854b5ae84d",
-    "name": "HEGIC yVault",
-    "symbol": "yvhegic",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x671a912c10bba0cfa74cfc2d6fba9ba1ed9530b2",
-    "name": "LINK yVault",
-    "symbol": "yvlink",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x378cb52b00f9d0921cb46dfc099cff73b42419dc",
-    "name": "LUSD yVault",
-    "symbol": "yvlusd",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x873fb544277fd7b977b196a826459a69e27ea4ea",
-    "name": "RAI yVault",
-    "symbol": "yvrai",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0xec681f28f4561c2a9534799aa38e0d36a83cf478",
     "name": "YVS.Finance",
     "symbol": "YVS",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xf29ae508698bdef169b89834f76704c3b205aedf",
-    "name": "SNX yVault",
-    "symbol": "yvsnx",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xa5ca62d95d24a4a350983d5b8ac4eb8638887396",
-    "name": "sUSD yVault",
-    "symbol": "yvsusd",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x6d765cbe5bc922694afe112c140b8878b9fb0390",
-    "name": "SUSHI yVault",
-    "symbol": "yvsushi",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xfd0877d9095789caf24c98f7cce092fa8e120775",
-    "name": "TUSD yVault",
-    "symbol": "yvtusd",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xfbeb78a723b8087fd2ea7ef1afec93d35e8bed42",
-    "name": "UNI yVault",
-    "symbol": "yvuni",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xa354f35829ae975e850e23e9615b11da1b3dc4de",
-    "name": "USDC yVault",
-    "symbol": "yvusdc",
-    "decimals": 6,
-    "stable": false
-  },
-  {
-    "address": "0x3b27f92c0e212c671ea351827edf93db27cc0c65",
-    "name": "USDT yVault",
-    "symbol": "yvusdt",
-    "decimals": 6,
-    "stable": false
-  },
-  {
-    "address": "0xa696a63cc78dffa1a63e9e50587c197387ff6c7e",
-    "name": "WBTC yVault",
-    "symbol": "yvwbtc",
-    "decimals": 8,
-    "stable": false
-  },
-  {
-    "address": "0xa258c4606ca8206d8aa700ce2143d7db854d168c",
-    "name": "WETH yVault",
-    "symbol": "yvweth",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xdb25ca703181e7484a155dd612b06f57e12be5f0",
-    "name": "YFI yVault",
-    "symbol": "yvyfi",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x5dbcf33d8c2e976c6b560249878e6f1491bca25c",
-    "name": "yearn Curve.fi yDAI/yUSDC/yUSDT/yTUSD",
-    "symbol": "yyDAI+yUSDC+yUSDT+yTUSD",
     "decimals": 18,
     "stable": false
   },
@@ -23940,23 +23667,9 @@
     "stable": false
   },
   {
-    "address": "0xc97232527b62efb0d8ed38cf3ea103a6cca4037e",
-    "name": "LP Yearn CRV Vault",
-    "symbol": "lp-ycrv",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x6a4c76874e686a7d080d173987a35a9c48905583",
     "name": "Luxurious Pro Network Token",
     "symbol": "LPNT",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x8c1bed5b9a0928467c9b1341da1d7bd5e10b6549",
-    "name": "Liquid Staked Ethereum",
-    "symbol": "lseth",
     "decimals": 18,
     "stable": false
   },

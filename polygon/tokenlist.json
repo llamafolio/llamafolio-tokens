@@ -105,13 +105,6 @@
     "stable": false
   },
   {
-    "address": "0x89c90e480a39fbe3886bb5bd53ba5b1acc69d4fb",
-    "name": "Aladdin cvxCRV",
-    "symbol": "aCRV",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0xf328b73b6c685831f238c30a23fc19140cb4d8fc",
     "name": "Across Protocol",
     "symbol": "ACX",
@@ -1032,13 +1025,6 @@
     "address": "0x76bf0c28e604cc3fe9967c83b3c3f31c213cfe64",
     "name": "CrystalToken",
     "symbol": "CRYSTL",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xfcbb00df1d663eee58123946a30ab2138bf9eb2a",
-    "name": "ClayStack Staked MATIC",
-    "symbol": "csmatic",
     "decimals": 18,
     "stable": false
   },
@@ -2618,13 +2604,6 @@
     "stable": false
   },
   {
-    "address": "0x823cd4264c1b951c9209ad0deaea9988fe8429bf",
-    "name": "Matic Aave Interest Bearing AAVE",
-    "symbol": "MAAAVE",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0xedd6ca8a4202d4a36611e2fff109648c4863ae19",
     "name": "MahaDAO (PoS)",
     "symbol": "MAHA",
@@ -2671,13 +2650,6 @@
     "name": "Matrixswap",
     "symbol": "MATRIX",
     "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x9719d867a500ef117cc201206b8ab51e794d3f82",
-    "name": "Matic Aave Interest Bearing USDC",
-    "symbol": "MAUSDC",
-    "decimals": 6,
     "stable": false
   },
   {
@@ -4014,13 +3986,6 @@
     "address": "0xc17c30e98541188614df99239cabd40280810ca3",
     "name": "EverRise",
     "symbol": "RISE",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x9f28e2455f9ffcfac9ebd6084853417362bc5dbb",
-    "name": "StaFi Staked MATIC",
-    "symbol": "rmatic",
     "decimals": 18,
     "stable": false
   },

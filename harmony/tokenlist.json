@@ -210,13 +210,6 @@
     "stable": false
   },
   {
-    "address": "0x22d62b19b7039333ad773b7185bb61294f3adc19",
-    "name": "Staked One",
-    "symbol": "stONE",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0xd754ae7bb55feb0c4ba6bc037b4a140f14ebe018",
     "name": "TEmplar Token",
     "symbol": "TEM",

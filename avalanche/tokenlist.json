@@ -21,13 +21,6 @@
     "stable": false
   },
   {
-    "address": "0xc3344870d52688874b06d844e0c36cc39fc727f6",
-    "name": "Ankr Avalanche Reward Bearing Certificate",
-    "symbol": "aAVAXc",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
     "name": "Aave",
     "symbol": "AAVE.e",
@@ -136,20 +129,6 @@
     "address": "0x1ecd47ff4d9598f89721a2866bfeb99505a413ed",
     "name": "AVME",
     "symbol": "AVME",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x686bef2417b6dc32c50a3cbfbcc3bb60e1e9a15d",
-    "name": "Aave Avalanche Market WBTC",
-    "symbol": "avWBTC",
-    "decimals": 8,
-    "stable": false
-  },
-  {
-    "address": "0x53f7c5869a859f0aec3d334ee8b4cf01e3492f21",
-    "name": "Aave Avalanche Market WETH",
-    "symbol": "avWETH",
     "decimals": 18,
     "stable": false
   },
@@ -1589,13 +1568,6 @@
     "stable": false
   },
   {
-    "address": "0x12d8ce035c5de3ce39b1fdd4c1d5a745eaba3b8c",
-    "name": "Ankr Reward-Bearing Staked ETH",
-    "symbol": "AETHC",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x6fefd97f328342a8a840546a55fdcfee7542f9a8",
     "name": "agEUR",
     "symbol": "agEUR",
@@ -1606,13 +1578,6 @@
     "address": "0x13e7bcefdde72492e656f3fa58bae6029708e673",
     "name": "AGX Coin",
     "symbol": "agx",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x191c10aa4af7c30e871e70c95db0e4eb77237530",
-    "name": "Aave LINK",
-    "symbol": "ALINK",
     "decimals": 18,
     "stable": false
   },
@@ -1638,24 +1603,10 @@
     "stable": false
   },
   {
-    "address": "0x625e7708f30ca75bfd92586e17077590c60eb4cd",
-    "name": "Aave USDC",
-    "symbol": "AUSDC",
-    "decimals": 6,
-    "stable": false
-  },
-  {
     "address": "0x68327a91e79f87f501bc8522fc333fb7a72393cb",
     "name": "AUX Coin",
     "symbol": "aux",
     "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x078f358208685046a11c85e8ad32895ded33a249",
-    "name": "Aave WBTC",
-    "symbol": "AWBTC",
-    "decimals": 8,
     "stable": false
   },
   {
@@ -2166,13 +2117,6 @@
     "address": "0x2fd4d793c1905d82018d75e3b09d3035856890a1",
     "name": "Spherium",
     "symbol": "SPHRI",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x3ee97d514bbef95a2f110e6b9b73824719030f7a",
-    "name": "Staked Spell Token",
-    "symbol": "sSPELL",
     "decimals": 18,
     "stable": false
   },
