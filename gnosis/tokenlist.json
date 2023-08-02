@@ -1734,54 +1734,5 @@
     "symbol": "XYO",
     "decimals": 18,
     "stable": false
-  },
-  {
-    "address": "0x91f8490ec27cbb1b2faedd29c2ec23011d7355fb",
-    "name": "Tether USD Hop Token",
-    "symbol": "hUSDT",
-    "decimals": 6,
-    "stable": true
-  },
-  {
-    "address": "0x9ec9551d4a1a1593b0ee8124d98590cc71b3b09d",
-    "name": "USD Coin Hop Token",
-    "symbol": "hUSDC",
-    "decimals": 6,
-    "stable": true
-  },
-  {
-    "address": "0xb1ea9fed58a317f81eeefc18715dd323fdef45c4",
-    "name": "DAI Hop Token",
-    "symbol": "hDAI",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xc46f2004006d4c770346f60a7baa3f1cc67dfd1c",
-    "name": "ETH Hop Token",
-    "symbol": "hETH",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xcb444e90d8198415266c6a2724b7900fb12fc56e",
-    "name": "Monerium EUR emoney",
-    "symbol": "EURe",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xd9fb513766e60a569697d1f17ae466b0cb887454",
-    "name": "O3-Peg USD Coin",
-    "symbol": "pUSDC",
-    "decimals": 18,
-    "stable": true
-  },
-  {
-    "address": "0xe38faf9040c7f09958c638bbdb977083722c5156",
-    "name": "Matic Token Hop Token",
-    "symbol": "hMATIC",
-    "decimals": 18,
-    "stable": false
   }
 ]

@@ -4634,13 +4634,6 @@
     "stable": false
   },
   {
-    "address": "0xccf4429db6322d5c611ee964527d42e5d685dd6a",
-    "name": "cWBTC",
-    "symbol": "CWBTC",
-    "decimals": 8,
-    "stable": false
-  },
-  {
     "address": "0x374fb05c96c36348b92e38fb088b26b8511e3b3d",
     "name": "CROWD",
     "symbol": "CWD",
@@ -22291,6 +22284,13 @@
     "address": "0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9",
     "name": "Yup",
     "symbol": "YUP",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xec681f28f4561c2a9534799aa38e0d36a83cf478",
+    "name": "YVS.Finance",
+    "symbol": "YVS",
     "decimals": 18,
     "stable": false
   },
