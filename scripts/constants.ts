@@ -3,6 +3,7 @@ import type { Chain } from '../index.js'
 export const chainsIds = {
   '1': 'ethereum',
   '56': 'bsc',
+  '8453': 'base',
   '137': 'polygon',
   '250': 'fantom',
   '100': 'gnosis',

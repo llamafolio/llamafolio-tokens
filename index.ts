@@ -1,6 +1,7 @@
 import arbitrum from './arbitrum/tokenlist.json'
 import avalanche from './avalanche/tokenlist.json'
 import bsc from './bsc/tokenlist.json'
+import base from './base/tokenlist.json'
 import celo from './celo/tokenlist.json'
 import ethereum from './ethereum/tokenlist.json'
 import fantom from './fantom/tokenlist.json'
@@ -28,6 +29,7 @@ export const chainNames = [
   'arbitrum',
   'avalanche',
   'bsc',
+  'base',
   'celo',
   'ethereum',
   'fantom',
@@ -44,6 +46,7 @@ export const chains: { [chain in Chain]: Token[] } = {
   arbitrum,
   avalanche,
   bsc,
+  base,
   celo,
   ethereum,
   fantom,

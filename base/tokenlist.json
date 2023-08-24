@@ -1,0 +1,191 @@
+[
+  {
+    "address": "0x4158734D47Fc9692176B5085E0F52ee0Da5d47F1",
+    "name": "Balancer",
+    "symbol": "BAL",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x30136B90e532141FeD006c61105cff3668b5c774",
+    "name": "BlueSwap",
+    "symbol": "BLUE",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xE2B21D4684b2bA62F3BE1FE286eacb90D26E394d",
+    "name": "CryptoOracle Collective",
+    "symbol": "COC",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+    "name": "Compound",
+    "symbol": "COMP",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x8Ee73c484A26e0A5df2Ee2a4960B789967dd0415",
+    "name": "Curve DAO Token",
+    "symbol": "CRV",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "stable": true
+  },
+  {
+    "address": "0x4621b7A9c75199271F773Ebd9A499dbd165c3191",
+    "name": "Dola USD Stablecoin",
+    "symbol": "DOLA",
+    "decimals": 18,
+    "stable": true
+  },
+  {
+    "address": "0xD08a2917653d4E460893203471f0000826fb4034",
+    "name": "FARM Reward Token",
+    "symbol": "FARM",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x09188484e1Ab980DAeF53a9755241D759C5B7d60",
+    "name": "Rigo Token",
+    "symbol": "GRG",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3",
+    "name": "HanChain",
+    "symbol": "HAN",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
+    "name": "HANePlatform",
+    "symbol": "HANeP",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
+    "name": "Hop",
+    "symbol": "HOP",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xE7798f023fC62146e8Aa1b36Da45fb70855a77Ea",
+    "name": "iFARM",
+    "symbol": "iFARM",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x235226d2050C001FE78dED104364F9C2eB852E42",
+    "name": "Infected",
+    "symbol": "INFC",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x8Fbd0648971d56f1f2c35Fa075Ff5Bc75fb0e39D",
+    "name": "MBS",
+    "symbol": "MBS",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xc2106ca72996e49bBADcB836eeC52B765977fd20",
+    "name": "NFTEarthOFT",
+    "symbol": "NFTE",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x13741c5df9ab03e7aa9fb3bf1f714551dd5a5f8a",
+    "name": "Noggles",
+    "symbol": "NOGS",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x7C34073C56285944F9A5384137186abFAe1C3bf0",
+    "name": "Plague",
+    "symbol": "PLG",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x1f73EAf55d696BFFA9b0EA16fa987B93b0f4d302",
+    "name": "Rocket Pool Protocol",
+    "symbol": "RPL",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xA9C9Dcb054421DEDc9d9006CFfe843D0a5Cd6339",
+    "name": "Sustainable Growth",
+    "symbol": "SUS",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x7D49a065D17d6d4a55dc13649901fdBB98B2AFBA",
+    "name": "SushiToken",
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xf34e0cff046e154CAfCae502C7541b9E5FD8C249",
+    "name": "Optimistic Thales Token",
+    "symbol": "THALES",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xA81a52B4dda010896cDd386C7fBdc5CDc835ba23",
+    "name": "Trace Token",
+    "symbol": "TRAC",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "stable": true
+  },
+  {
+    "address": "0x4200000000000000000000000000000000000006",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x3bB4445D30AC020a84c1b5A8A2C6248ebC9779D0",
+    "name": "0x Protocol Token",
+    "symbol": "ZRX",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x236aa50979D5f3De3Bd1Eeb40E81137F22ab794b",
+    "name": "tBTC v2",
+    "symbol": "tBTC",
+    "decimals": 18,
+    "stable": false
+  }
+]
