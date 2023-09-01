@@ -56,6 +56,13 @@
     "stable": false
   },
   {
+    "address": "0x29faf5905bff9cfcc7cf56a5ed91e0f091f8664b",
+    "name": "Bankless Token",
+    "symbol": "BANK",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x97513e975a7fa9072c72c92d8000b0db90b163c5",
     "name": "Beethoven X",
     "symbol": "BEETS",
@@ -105,11 +112,32 @@
     "stable": false
   },
   {
+    "address": "0x0994206dfe8de6ec6920ff4d779b0d950605fb53",
+    "name": "Curve",
+    "symbol": "CRV",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xec6adef5e1006bb305bb1975333e8fc4071295bf",
+    "name": "Cartesi Token",
+    "symbol": "CTSI",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
     "name": "Dai",
     "symbol": "DAI",
     "decimals": 18,
     "stable": true
+  },
+  {
+    "address": "0x970d50d09f3a656b43e11b0d45241a84e3a6e011",
+    "name": "Overnight DAI+",
+    "symbol": "dai+",
+    "decimals": 18,
+    "stable": false
   },
   {
     "address": "0x1da650c3b2daa8aa9ff6f661d4156ce24d08a062",
@@ -140,6 +168,13 @@
     "stable": false
   },
   {
+    "address": "0x8ae125e8653821e851f12a49f7765db9a9ce7384",
+    "name": "Dola USD Stablecoin",
+    "symbol": "DOLA",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x65559aa14915a70190438ef90104769e5e890a00",
     "name": "Ethereum Name Service",
     "symbol": "ENS",
@@ -157,6 +192,13 @@
     "address": "0x7b0bcc23851bbf7601efc9e9fe532bf5284f65d3",
     "name": "Erica Social Token",
     "symbol": "EST",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xd8737ca46aa6285de7b8777a8e3db232911bad41",
+    "name": "StaFi Token",
+    "symbol": "FIS",
     "decimals": 18,
     "stable": false
   },
@@ -196,10 +238,45 @@
     "stable": false
   },
   {
+    "address": "0x67ccea5bb16181e7b4109c9c2143c24a1c2205be",
+    "name": "FXS",
+    "symbol": "FXS",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x528cdc92eab044e1e39fe43b9514bfdab4412b98",
+    "name": "Giveth Token",
+    "symbol": "GIV",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x922ddc3a6b500fdac244362610e9879ab1d6c73b",
+    "name": "Gravita Debt Token",
+    "symbol": "GRAI",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xfd389dc9533717239856190f42475d3f263a270d",
     "name": "Granary",
     "symbol": "grain",
     "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xecf46257ed31c329f204eb43e254c609dee143b3",
+    "name": "Rigo Token",
+    "symbol": "GRG",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x589d35656641d6ab57a545f08cf473ecd9b6d5f7",
+    "name": "GMO JPY",
+    "symbol": "GYEN",
+    "decimals": 6,
     "stable": false
   },
   {
@@ -210,9 +287,23 @@
     "stable": false
   },
   {
+    "address": "0x5465145a47260d5e715733997333a175d97285bb",
+    "name": "HairDAO Token",
+    "symbol": "HAIR",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x50bce64397c75488465253c0a034b8097fea6578",
     "name": "HanChain",
     "symbol": "HAN",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x01b8b6384298d4848e3be63d4c9d17830eee488a",
+    "name": "DAOhaus Token on Optimism",
+    "symbol": "HAUS",
     "decimals": 18,
     "stable": false
   },
@@ -245,6 +336,20 @@
     "stable": false
   },
   {
+    "address": "0x15e770b95edd73fd96b02ece0266247d50895e76",
+    "name": "Jarvis Network",
+    "symbol": "JRT",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xa00e3a3511aac35ca78530c85007afcd31753819",
+    "name": "Kyber Network Crystal v2",
+    "symbol": "KNC",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x7da25bc4cfaed3f29414c6779676e53b19a356f5",
     "name": "Kokomo Finance",
     "symbol": "koko",
@@ -273,9 +378,23 @@
     "stable": false
   },
   {
+    "address": "0xfdb794692724153d1488ccdbe0c56c252596735f",
+    "name": "Lido DAO Token",
+    "symbol": "LDO",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6",
     "name": "Chainlink",
     "symbol": "LINK",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xfeaa9194f9f8c1b65429e31341a103071464907e",
+    "name": "LoopringCoin V2",
+    "symbol": "LRC",
     "decimals": 18,
     "stable": false
   },
@@ -313,6 +432,13 @@
     "symbol": "MIMATIC",
     "decimals": 18,
     "stable": true
+  },
+  {
+    "address": "0x929b939f8524c3be977af57a4a0ad3fb1e374b50",
+    "name": "mStable Governance Token: Meta",
+    "symbol": "MTA",
+    "decimals": 18,
+    "stable": false
   },
   {
     "address": "0xc96f4f893286137ac17e07ae7f217ffca5db3ab6",
@@ -374,6 +500,13 @@
     "address": "0x9e1028f5f1d5ede59748ffcee5532509976840e0",
     "name": "Perpetual Protocol",
     "symbol": "PERP",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xfa956eb0c4b3e692ad5a6b2f08170ade55999aca",
+    "name": "PhunToken",
+    "symbol": "PHTK",
     "decimals": 18,
     "stable": false
   },
@@ -455,6 +588,27 @@
     "stable": false
   },
   {
+    "address": "0xc81d1f0eb955b0c020e5d5b264e1ff72c14d1401",
+    "name": "Rocket Pool Protocol",
+    "symbol": "RPL",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x298b9b95708152ff6968aafd889c6586e9169f1d",
+    "name": "Synthetic Bitcoin",
+    "symbol": "sBTC",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xae31207ac34423c41576ff59bfb4e036150f9cf7",
+    "name": "Saddle DAO",
+    "symbol": "SDL",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xe405de8f52ba7559f9df3c368500b6e6ae6cee49",
     "name": "Synthetic Ether",
     "symbol": "sETH",
@@ -497,6 +651,13 @@
     "stable": false
   },
   {
+    "address": "0xcfd1d50ce23c46d3cf6407487b2f8934e96dc8f9",
+    "name": "SPANK",
+    "symbol": "SPANK",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x296f55f8fb28e498b858d0bcda06d955b2cb3f97",
     "name": "Stargate Finance",
     "symbol": "STG",
@@ -509,6 +670,13 @@
     "symbol": "sUSD",
     "decimals": 18,
     "stable": true
+  },
+  {
+    "address": "0x3eaeb77b03dbc0f6321ae1b72b2e9adb0f60112b",
+    "name": "SushiToken",
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "stable": false
   },
   {
     "address": "0x5a5fff6f753d7c11a56a52fe47a177a87e431655",
@@ -532,9 +700,23 @@
     "stable": false
   },
   {
+    "address": "0xaf8ca653fa2772d58f4368b0a71980e9e3ceb888",
+    "name": "Tellor",
+    "symbol": "TRB",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xcb59a0a753fdb7491d5f3d794316f1ade197b21e",
     "name": "TrueUSD",
     "symbol": "TUSD",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xe7798f023fc62146e8aa1b36da45fb70855a77ea",
+    "name": "UMA Voting Token v1",
+    "symbol": "UMA",
     "decimals": 18,
     "stable": false
   },
@@ -567,11 +749,25 @@
     "stable": true
   },
   {
+    "address": "0x7113370218f31764c1b6353bdf6004d86ff6b9cc",
+    "name": "Decentralized USD",
+    "symbol": "USDD",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
     "name": "Tether",
     "symbol": "USDT",
     "decimals": 6,
     "stable": true
+  },
+  {
+    "address": "0xba28feb4b6a6b81e3f26f08b83a19e715c4294fd",
+    "name": "UST (Wormhole)",
+    "symbol": "UST",
+    "decimals": 6,
+    "stable": false
   },
   {
     "address": "0xbfd291da8a403daaf7e5e9dc1ec0aceacd4848b9",
@@ -609,9 +805,23 @@
     "stable": false
   },
   {
+    "address": "0x871f2f2ff935fd1ed867842ff2a7bfd051a5e527",
+    "name": "Wootrade Network",
+    "symbol": "WOO",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x1f32b1c2345538c0c6f582fcb022739c4a194ebb",
     "name": "Wrapped liquid staked Ether 2.0",
     "symbol": "wstETH",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xdb4ea87ff83eb1c80b8976fc47731da6a31d35e5",
+    "name": "wTBT(Bridge Token)",
+    "symbol": "wTBT",
     "decimals": 18,
     "stable": false
   },
@@ -654,216 +864,6 @@
     "address": "0xfa436399d0458dbe8ab890c3441256e3e09022a8",
     "name": "ZipSwap",
     "symbol": "ZIP",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x29faf5905bff9cfcc7cf56a5ed91e0f091f8664b",
-    "name": "Bankless Token",
-    "symbol": "BANK",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x0994206dfe8de6ec6920ff4d779b0d950605fb53",
-    "name": "Curve",
-    "symbol": "CRV",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xec6adef5e1006bb305bb1975333e8fc4071295bf",
-    "name": "Cartesi Token",
-    "symbol": "CTSI",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x970d50d09f3a656b43e11b0d45241a84e3a6e011",
-    "name": "Overnight DAI+",
-    "symbol": "dai+",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x8ae125e8653821e851f12a49f7765db9a9ce7384",
-    "name": "Dola USD Stablecoin",
-    "symbol": "DOLA",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xd8737ca46aa6285de7b8777a8e3db232911bad41",
-    "name": "StaFi Token",
-    "symbol": "FIS",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x67ccea5bb16181e7b4109c9c2143c24a1c2205be",
-    "name": "FXS",
-    "symbol": "FXS",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x528cdc92eab044e1e39fe43b9514bfdab4412b98",
-    "name": "Giveth Token",
-    "symbol": "GIV",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x922ddc3a6b500fdac244362610e9879ab1d6c73b",
-    "name": "Gravita Debt Token",
-    "symbol": "GRAI",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xecf46257ed31c329f204eb43e254c609dee143b3",
-    "name": "Rigo Token",
-    "symbol": "GRG",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x589d35656641d6ab57a545f08cf473ecd9b6d5f7",
-    "name": "GMO JPY",
-    "symbol": "GYEN",
-    "decimals": 6,
-    "stable": false
-  },
-  {
-    "address": "0x5465145a47260d5e715733997333a175d97285bb",
-    "name": "HairDAO Token",
-    "symbol": "HAIR",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x01b8b6384298d4848e3be63d4c9d17830eee488a",
-    "name": "DAOhaus Token on Optimism",
-    "symbol": "HAUS",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x15e770b95edd73fd96b02ece0266247d50895e76",
-    "name": "Jarvis Network",
-    "symbol": "JRT",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xa00e3a3511aac35ca78530c85007afcd31753819",
-    "name": "Kyber Network Crystal v2",
-    "symbol": "KNC",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xfdb794692724153d1488ccdbe0c56c252596735f",
-    "name": "Lido DAO Token",
-    "symbol": "LDO",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xfeaa9194f9f8c1b65429e31341a103071464907e",
-    "name": "LoopringCoin V2",
-    "symbol": "LRC",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x929b939f8524c3be977af57a4a0ad3fb1e374b50",
-    "name": "mStable Governance Token: Meta",
-    "symbol": "MTA",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xfa956eb0c4b3e692ad5a6b2f08170ade55999aca",
-    "name": "PhunToken",
-    "symbol": "PHTK",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xc81d1f0eb955b0c020e5d5b264e1ff72c14d1401",
-    "name": "Rocket Pool Protocol",
-    "symbol": "RPL",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x298b9b95708152ff6968aafd889c6586e9169f1d",
-    "name": "Synthetic Bitcoin",
-    "symbol": "sBTC",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xae31207ac34423c41576ff59bfb4e036150f9cf7",
-    "name": "Saddle DAO",
-    "symbol": "SDL",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xcfd1d50ce23c46d3cf6407487b2f8934e96dc8f9",
-    "name": "SPANK",
-    "symbol": "SPANK",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x3eaeb77b03dbc0f6321ae1b72b2e9adb0f60112b",
-    "name": "SushiToken",
-    "symbol": "SUSHI",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xaf8ca653fa2772d58f4368b0a71980e9e3ceb888",
-    "name": "Tellor",
-    "symbol": "TRB",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xe7798f023fc62146e8aa1b36da45fb70855a77ea",
-    "name": "UMA Voting Token v1",
-    "symbol": "UMA",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x7113370218f31764c1b6353bdf6004d86ff6b9cc",
-    "name": "Decentralized USD",
-    "symbol": "USDD",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xba28feb4b6a6b81e3f26f08b83a19e715c4294fd",
-    "name": "UST (Wormhole)",
-    "symbol": "UST",
-    "decimals": 6,
-    "stable": false
-  },
-  {
-    "address": "0x871f2f2ff935fd1ed867842ff2a7bfd051a5e527",
-    "name": "Wootrade Network",
-    "symbol": "WOO",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xdb4ea87ff83eb1c80b8976fc47731da6a31d35e5",
-    "name": "wTBT(Bridge Token)",
-    "symbol": "wTBT",
     "decimals": 18,
     "stable": false
   },

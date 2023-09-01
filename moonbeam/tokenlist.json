@@ -35,6 +35,13 @@
     "stable": false
   },
   {
+    "address": "0xc9baa8cfdde8e328787e29b4b078abf2dadc2055",
+    "name": "Binance",
+    "symbol": "BNB",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xa649325aa7c5093d12d6f98eb4378deae68ce23f",
     "name": "Binance USD",
     "symbol": "BUSD",
@@ -87,6 +94,13 @@
     "address": "0x82bbd1b6f6de2b7bb63d3e1546e6b1553508be99",
     "name": "Frax Ether",
     "symbol": "FRXETH",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xc19281f22a075e0f10351cd5d6ea9f0ac63d4327",
+    "name": "Fantom",
+    "symbol": "FTM",
     "decimals": 18,
     "stable": false
   },
@@ -186,20 +200,6 @@
     "name": "xcDOT",
     "symbol": "XCDOT",
     "decimals": 10,
-    "stable": false
-  },
-  {
-    "address": "0xc9baa8cfdde8e328787e29b4b078abf2dadc2055",
-    "name": "Binance",
-    "symbol": "BNB",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xc19281f22a075e0f10351cd5d6ea9f0ac63d4327",
-    "name": "Fantom",
-    "symbol": "FTM",
-    "decimals": 18,
     "stable": false
   }
 ]

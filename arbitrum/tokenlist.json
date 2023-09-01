@@ -182,6 +182,13 @@
     "stable": false
   },
   {
+    "address": "0x61a1ff55c5216b636a294a07d77c6f4df10d3b56",
+    "name": "ApeX Token",
+    "symbol": "apex",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
     "name": "Arbitrum",
     "symbol": "ARB",
@@ -329,9 +336,23 @@
     "stable": false
   },
   {
+    "address": "0xd978f8489e1245568704407a479a71fcce2afe8f",
+    "name": "ApeSwap Finance",
+    "symbol": "BANANA",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xb98058640970d8aa7bbce3b067b2d63c14143786",
     "name": "Baby Arbitrum",
     "symbol": "barb",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x86efb351b092a32d833a1ad7374d9bf0fc164aab",
+    "name": "BAMBOO TOKEN",
+    "symbol": "bbo",
     "decimals": 18,
     "stable": false
   },
@@ -532,6 +553,13 @@
     "stable": true
   },
   {
+    "address": "0xeb8e93a0c7504bffd8a8ffa56cd754c63aaebfe8",
+    "name": "Overnight DAI+",
+    "symbol": "dai+",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xd3f1da62cafb7e7bc6531ff1cef6f414291f03d3",
     "name": "Doubloon",
     "symbol": "DBL",
@@ -612,6 +640,13 @@
     "address": "0x6c2c06790b3e3e3c38e12ee22f8183b37a13ee55",
     "name": "Dopex",
     "symbol": "DPX",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x7ce746b45eabd0c4321538dec1b849c79a9a8476",
+    "name": "DSLA",
+    "symbol": "DSLA",
     "decimals": 18,
     "stable": false
   },
@@ -812,6 +847,13 @@
     "stable": false
   },
   {
+    "address": "0x2f27118e3d2332afb7d165140cf1bb127ea6975d",
+    "name": "GDX Token",
+    "symbol": "gdx",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x458a2df1a5c74c5dc9ed6e01dd1178e6d353243b",
     "name": "Adv3nture.xyz Gemstone",
     "symbol": "gem",
@@ -826,6 +868,13 @@
     "stable": false
   },
   {
+    "address": "0x9306f15e4cd8ab9ef017aa720a4a63da73418d00",
+    "name": "GudGuess",
+    "symbol": "gg",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xeca66820ed807c096e1bd7a1a091cd3d3152cc79",
     "name": "Ghast",
     "symbol": "gha",
@@ -836,6 +885,13 @@
     "address": "0x654c908305021b2eaf881cee774ece1d2bcac5fc",
     "name": "GMCash",
     "symbol": "gmc",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x4945970efeec98d393b4b979b9be265a3ae28a8b",
+    "name": "GMD Protocol",
+    "symbol": "gmd",
     "decimals": 18,
     "stable": false
   },
@@ -885,6 +941,13 @@
     "address": "0x8d9ba570d6cb60c7e3e0f31343efe75ab8e65fb1",
     "name": "Governance OHM",
     "symbol": "GOHM",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x07e49d5de43dda6162fa28d24d5935c151875283",
+    "name": "Govi",
+    "symbol": "GOVI",
     "decimals": 18,
     "stable": false
   },
@@ -1022,6 +1085,13 @@
     "stable": false
   },
   {
+    "address": "0xd91903d548f19c0fc0a6b9ed09d2f72b4dfe7144",
+    "name": "Impossible Decentralized Incubator Access",
+    "symbol": "IDIA",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xb41bd4c99da73510d9e081c5fadbe7a27ac1f814",
     "name": "Ideamarket",
     "symbol": "IMO",
@@ -1036,9 +1106,23 @@
     "stable": false
   },
   {
+    "address": "0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07",
+    "name": "Trader Joe",
+    "symbol": "JOE",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x10393c20975cf177a3513071bc110f7962cd67da",
     "name": "Jones DAO",
     "symbol": "JONES",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x6aa395f06986ea4efe0a4630c7865c1eb08d5e7e",
+    "name": "Jarvis Network",
+    "symbol": "JRT",
     "decimals": 18,
     "stable": false
   },
@@ -1435,6 +1519,13 @@
     "stable": false
   },
   {
+    "address": "0x640278bada847b7ce71bb22f20517a009a049640",
+    "name": "NGT",
+    "symbol": "ngt",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x1fae2a29940015632f2a6ce006dfa7e3225515a7",
     "name": "NitroFloki",
     "symbol": "nifloki",
@@ -1488,6 +1579,13 @@
     "name": "AsgardX",
     "symbol": "odin",
     "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xf0cb2dc0db5e6c66b9a70ac27b06b878da017028",
+    "name": "Olympus DAO",
+    "symbol": "OHM",
+    "decimals": 9,
     "stable": false
   },
   {
@@ -1600,6 +1698,13 @@
     "name": "Shiba Cartel",
     "symbol": "pesos",
     "decimals": 9,
+    "stable": false
+  },
+  {
+    "address": "0x43c25f828390de5a3648864eb485cc523e039e67",
+    "name": "Battle Pets",
+    "symbol": "PET",
+    "decimals": 18,
     "stable": false
   },
   {
@@ -2016,6 +2121,13 @@
     "stable": false
   },
   {
+    "address": "0xf763fa322dc58dee588252fafee5f448e863b633",
+    "name": "Switcheo",
+    "symbol": "SWTH",
+    "decimals": 8,
+    "stable": false
+  },
+  {
     "address": "0x080f6aed32fc474dd5717105dba5ea57268f46eb",
     "name": "Synapse",
     "symbol": "SYN",
@@ -2075,6 +2187,20 @@
     "address": "0xc47d9753f3b32aa9548a7c3f30b6aec3b2d2798c",
     "name": "Tender.fi",
     "symbol": "tnd",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xd58d345fd9c82262e087d2d0607624b410d88242",
+    "name": "Tellor",
+    "symbol": "TRB",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x982239d38af50b0168da33346d85fb12929c4c07",
+    "name": "Arbitrove Protocol",
+    "symbol": "trove",
     "decimals": 18,
     "stable": false
   },
@@ -2175,6 +2301,13 @@
     "symbol": "USX",
     "decimals": 18,
     "stable": true
+  },
+  {
+    "address": "0xcd14c3a2ba27819b352aae73414a26e2b366dc50",
+    "name": "Token dForce USD",
+    "symbol": "USX",
+    "decimals": 18,
+    "stable": false
   },
   {
     "address": "0x088cd8f5ef3652623c22d48b1605dcfe860cd704",
@@ -2296,6 +2429,13 @@
     "stable": false
   },
   {
+    "address": "0xd2568accd10a4c98e87c44e9920360031ad89fcb",
+    "name": "3xcalibur",
+    "symbol": "xcal",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x45a21e90a4e95582797982fb8c8318ecdf0a21ae",
     "name": "Wonderly Finance xETH",
     "symbol": "xeth",
@@ -2383,146 +2523,6 @@
     "address": "0x377c6e37633e390aef9afb4f5e0b16689351eed4",
     "name": "ZYX",
     "symbol": "ZYX",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x61a1ff55c5216b636a294a07d77c6f4df10d3b56",
-    "name": "ApeX Token",
-    "symbol": "apex",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xd978f8489e1245568704407a479a71fcce2afe8f",
-    "name": "ApeSwap Finance",
-    "symbol": "BANANA",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x86efb351b092a32d833a1ad7374d9bf0fc164aab",
-    "name": "BAMBOO TOKEN",
-    "symbol": "bbo",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xeb8e93a0c7504bffd8a8ffa56cd754c63aaebfe8",
-    "name": "Overnight DAI+",
-    "symbol": "dai+",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x7ce746b45eabd0c4321538dec1b849c79a9a8476",
-    "name": "DSLA",
-    "symbol": "DSLA",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x2f27118e3d2332afb7d165140cf1bb127ea6975d",
-    "name": "GDX Token",
-    "symbol": "gdx",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x9306f15e4cd8ab9ef017aa720a4a63da73418d00",
-    "name": "GudGuess",
-    "symbol": "gg",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x4945970efeec98d393b4b979b9be265a3ae28a8b",
-    "name": "GMD Protocol",
-    "symbol": "gmd",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x07e49d5de43dda6162fa28d24d5935c151875283",
-    "name": "Govi",
-    "symbol": "GOVI",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xd91903d548f19c0fc0a6b9ed09d2f72b4dfe7144",
-    "name": "Impossible Decentralized Incubator Access",
-    "symbol": "IDIA",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07",
-    "name": "Trader Joe",
-    "symbol": "JOE",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x6aa395f06986ea4efe0a4630c7865c1eb08d5e7e",
-    "name": "Jarvis Network",
-    "symbol": "JRT",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x640278bada847b7ce71bb22f20517a009a049640",
-    "name": "NGT",
-    "symbol": "ngt",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xf0cb2dc0db5e6c66b9a70ac27b06b878da017028",
-    "name": "Olympus DAO",
-    "symbol": "OHM",
-    "decimals": 9,
-    "stable": false
-  },
-  {
-    "address": "0x43c25f828390de5a3648864eb485cc523e039e67",
-    "name": "Battle Pets",
-    "symbol": "PET",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xf763fa322dc58dee588252fafee5f448e863b633",
-    "name": "Switcheo",
-    "symbol": "SWTH",
-    "decimals": 8,
-    "stable": false
-  },
-  {
-    "address": "0xd58d345fd9c82262e087d2d0607624b410d88242",
-    "name": "Tellor",
-    "symbol": "TRB",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x982239d38af50b0168da33346d85fb12929c4c07",
-    "name": "Arbitrove Protocol",
-    "symbol": "trove",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xcd14c3a2ba27819b352aae73414a26e2b366dc50",
-    "name": "Token dForce USD",
-    "symbol": "USX",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xd2568accd10a4c98e87c44e9920360031ad89fcb",
-    "name": "3xcalibur",
-    "symbol": "xcal",
     "decimals": 18,
     "stable": false
   },
