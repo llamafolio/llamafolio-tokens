@@ -10,35 +10,28 @@ import type { Chain } from '../index'
 
 main().catch(_ => console.error(_))
 
+// Note: review carefully logos as matching is done by symbol (different tokens can have the same symbol)
 async function main() {
-  const tokensByCoingeckoId = {} as Record<string, any>
+  const tokensBySymbol = {} as Record<string, any>
 
   for (const chain in chains) {
     for (const token of chains[chain as Chain]) {
-      if (token.coingeckoId) {
-        if (
-          !tokensByCoingeckoId[
-            token.coingeckoId as keyof typeof tokensByCoingeckoId
-          ]
-        ) {
-          tokensByCoingeckoId[token.coingeckoId] = []
-        }
-        tokensByCoingeckoId[token.coingeckoId].push({ ...token, chain })
+      if (!tokensBySymbol[token.symbol]) {
+        tokensBySymbol[token.symbol] = []
       }
+      tokensBySymbol[token.symbol].push({ ...token, chain })
     }
   }
 
-  for (const coingeckoId in tokensByCoingeckoId) {
-    const tokens = tokensByCoingeckoId[coingeckoId]
+  for (const symbol in tokensBySymbol) {
+    const tokens = tokensBySymbol[symbol]
     // multi chain
     if (tokens.length > 1) {
       const tokensWithLogos = []
       const tokensWithoutLogos = []
 
       for (const token of tokens) {
-        const exists = fs.existsSync(
-          `./${token.chain}/logos/${token.address}.png`
-        )
+        const exists = fs.existsSync(`./${token.chain}/logos/${token.address}.png`)
         if (exists) {
           tokensWithLogos.push(token)
         } else {
