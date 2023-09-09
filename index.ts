@@ -10,6 +10,7 @@ import harmony from './harmony/tokenlist.json'
 import moonbeam from './moonbeam/tokenlist.json'
 import optimism from './optimism/tokenlist.json'
 import polygon from './polygon/tokenlist.json'
+import polygonZkevm from './polygon-zkevm/tokenlist.json'
 
 export interface Token {
   address: string
@@ -37,7 +38,8 @@ export const chainNames = [
   'harmony',
   'moonbeam',
   'optimism',
-  'polygon'
+  'polygon',
+  'polygon-zkevm'
 ] as const
 
 export type Chain = (typeof chainNames)[number]
@@ -54,7 +56,8 @@ export const chains: { [chain in Chain]: Token[] } = {
   harmony,
   moonbeam,
   optimism,
-  polygon
+  polygon,
+  'polygon-zkevm': polygonZkevm
 }
 
 const registries: { [chain: string]: ChainTokenRegistry } = {}

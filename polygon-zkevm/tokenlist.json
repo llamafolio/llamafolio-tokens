@@ -1,0 +1,177 @@
+[
+  {
+    "address": "0x68791cfe079814c46e0e25c19bcc5bfc71a744f7",
+    "name": "Aave Token",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x120ef59b80774f02211563834d8e3b72cb1649d6",
+    "name": "Balancer",
+    "symbol": "BAL",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x3d5320821bfca19fb0b5428f2c79d63bd5246f89",
+    "name": "Curve DAO Token",
+    "symbol": "CRV",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "stable": true
+  },
+  {
+    "address": "0x7e5845b1bfc9e6620893e48346bdb8541995a8d9",
+    "name": "Frax Price Index",
+    "symbol": "FPI",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xde7df9036801676af0cb73661d93a098c0085fba",
+    "name": "Frax Price Index Share",
+    "symbol": "FPIS",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xff8544fed5379d9ffa8d47a74ce6b91e632ac44d",
+    "name": "Frax",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xcf7ecee185f19e2e970a301ee37f93536ed66179",
+    "name": "Frax Ether",
+    "symbol": "frxETH",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x6b856a14cea1d7dcfaf80fa6936c0b75972ccace",
+    "name": "Frax Share",
+    "symbol": "FXS",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x7e2feea957b7d1606335e339754f4e52b452b792",
+    "name": "Lido DAO Token",
+    "symbol": "LDO",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xea0b7a3256829190ea5f587509dee953d213461c",
+    "name": "Leet",
+    "symbol": "LEET",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x4b16e4752711a7abec32799c976f3cefc0111f2b",
+    "name": "ChainLink Token",
+    "symbol": "LINK",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x27a4bf80c2d63e42437258533dac7eaff9881bdb",
+    "name": "Mai Stablecoin",
+    "symbol": "MAI",
+    "decimals": 18,
+    "stable": true
+  },
+  {
+    "address": "0xa2036f0538221a77a3937f1379699f44945018d0",
+    "name": "Matic Token",
+    "symbol": "MATIC",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xf9ed88937b2d82707d0eabd8c3d9aa4870b714d3",
+    "name": "Liquid Staking Matic",
+    "symbol": "MaticX",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xb23c20efce6e24acca0cef9b7b7aa196b84ec942",
+    "name": "Rocket Pool ETH",
+    "symbol": "rETH",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x70d35152fbf63fb312709b11a9bac87519de0019",
+    "name": "Rocket Pool Protocol",
+    "symbol": "RPL",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x7c2af1fb79d0b1c67d4eb802d44c673d0a1d2c04",
+    "name": "Staked Frax Ether",
+    "symbol": "sfrxETH",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x83b874c1e09d316059d929da402dcb1a98e92082",
+    "name": "Staked MATIC",
+    "symbol": "stMATIC",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x2548c94a3092494db3af864cc2cf781a72f55678",
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "stable": true
+  },
+  {
+    "address": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "stable": true
+  },
+  {
+    "address": "0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "stable": false
+  },
+  {
+    "address": "0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x8aaebb46e1742f4623e6e1621f909f01846ca5e2",
+    "name": "ZENF Token",
+    "symbol": "ZENF",
+    "decimals": 18,
+    "stable": false
+  }
+]

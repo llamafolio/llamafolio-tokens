@@ -12,7 +12,8 @@ export const chainsIds = {
   '10': 'optimism',
   '1287': 'moonbeam',
   '43114': 'avalanche',
-  '1666600000': 'harmony'
+  '1666600000': 'harmony',
+  '1101': 'polygon-zkevm'
 } as Record<string, Chain>
 
 export const chainNamesArray = Object.values(chainsIds) as Array<Chain>
