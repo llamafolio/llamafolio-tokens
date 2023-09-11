@@ -3871,6 +3871,13 @@
     "stable": false
   },
   {
+    "address": "0x3294395e62f4eb6af3f1fcf89f5602d90fb3ef69",
+    "name": "Celo native asset",
+    "symbol": "CELO",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x4f9254c83eb525f9fcf346490bbb3ed28a81c667",
     "name": "CelerToken",
     "symbol": "CELR",
@@ -8239,6 +8246,13 @@
     "stable": false
   },
   {
+    "address": "0x5e8422345238f34275888049021821e8e08caa1f",
+    "name": "Frax Ether",
+    "symbol": "frxETH",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x55b1e2d8b13e7acad03353fad58fc3fa065c5822",
     "name": "TrueFreeze",
     "symbol": "frz",
@@ -11389,6 +11403,13 @@
     "stable": false
   },
   {
+    "address": "0xf34960d9d60be18cc1d5afc1a6f012a723a28811",
+    "name": "KuCoin Token",
+    "symbol": "KCS",
+    "decimals": 6,
+    "stable": false
+  },
+  {
     "address": "0x4c601dc69affb0d4fc8de1ac303705e432a4a27e",
     "name": "Konnect",
     "symbol": "kct",
@@ -13657,6 +13678,13 @@
     "stable": false
   },
   {
+    "address": "0x3c3a81e81dc49a522a592e7622a7e711c06bf354",
+    "name": "Mantle",
+    "symbol": "MNT",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x2c4f1df9c7de0c59778936c9b145ff56813f3295",
     "name": "AssetMantle",
     "symbol": "mntl",
@@ -14494,6 +14522,13 @@
     "name": "Indexed",
     "symbol": "NDX",
     "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x85f17cf997934a597031b2e18a9ab6ebd4b9f6a4",
+    "name": "NEAR",
+    "symbol": "NEAR",
+    "decimals": 24,
     "stable": false
   },
   {
@@ -17976,6 +18011,13 @@
     "stable": false
   },
   {
+    "address": "0x046eee2cc3188071c02bfc1745a6b17c656e3f3d",
+    "name": "Rollbit Coin",
+    "symbol": "RLB",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x607f4c5bb672230e8672085532f7e901544a7375",
     "name": "iEx.ec Network Token",
     "symbol": "RLC",
@@ -18701,6 +18743,20 @@
     "name": "Filecoin Standard Full Hashrate",
     "symbol": "SFIL",
     "decimals": 8,
+    "stable": false
+  },
+  {
+    "address": "0x12e2b8033420270db2f3b328e32370cb5b2ca134",
+    "name": "SafePalToken",
+    "symbol": "SFP",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xac3e018457b222d93114458476f3e3416abbe38f",
+    "name": "Staked Frax Ether",
+    "symbol": "sfrxETH",
+    "decimals": 18,
     "stable": false
   },
   {
@@ -20797,6 +20853,13 @@
     "stable": false
   },
   {
+    "address": "0x3883f5e181fccaf8410fa61e12b59bad963fb645",
+    "name": "Theta Token",
+    "symbol": "THETA",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xffd822149fa6749176c7a1424e71a417f26189c8",
     "name": "Nothing Token",
     "symbol": "thing",
@@ -21333,6 +21396,13 @@
     "name": "Dtravel",
     "symbol": "TRVL",
     "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x50327c6c5a14dcade707abad2e27eb517df87ab5",
+    "name": "TRON",
+    "symbol": "TRX",
+    "decimals": 6,
     "stable": false
   },
   {
@@ -22316,6 +22386,13 @@
     "stable": false
   },
   {
+    "address": "0xd850942ef8811f2a866692a623011bde52a462c1",
+    "name": "VeChain Token",
+    "symbol": "VEN",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x5f0bc16d50f72d10b719dbf6845de2e599eb5624",
     "name": "VENT",
     "symbol": "VENT",
@@ -22834,6 +22911,13 @@
     "stable": false
   },
   {
+    "address": "0xe452e6ea2ddeb012e20db73bf5d3863a3ac8d77a",
+    "name": "Wrapped Celo",
+    "symbol": "wCELO",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xc221b7e65ffc80de234bbb6667abdd46593d34f0",
     "name": "Wrapped Centrifuge",
     "symbol": "wCFG",
@@ -23051,6 +23135,13 @@
     "stable": false
   },
   {
+    "address": "0xfd09cf7cfffa9932e33668311c4777cb9db3c9be",
+    "name": "Wrapped Decentraland MANA",
+    "symbol": "wMANA",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x669c01caf0edcad7c2b8dc771474ad937a7ca4af",
     "name": "Wrapped Minima",
     "symbol": "wminima",
@@ -23208,6 +23299,13 @@
     "address": "0x4fd51cb87ffefdf1711112b5bd8ab682e54988ea",
     "name": "WPT Investing Corp",
     "symbol": "wpt",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x3103df8f05c4d8af16fd22ae63e406b97fec6938",
+    "name": "WQtum",
+    "symbol": "WQTUM",
     "decimals": 18,
     "stable": false
   },
@@ -23468,6 +23566,13 @@
     "name": "Xaurum",
     "symbol": "XAUR",
     "decimals": 8,
+    "stable": false
+  },
+  {
+    "address": "0x68749665ff8d2d112fa859aa293f07a622782f38",
+    "name": "Tether Gold",
+    "symbol": "XAUt",
+    "decimals": 6,
     "stable": false
   },
   {
@@ -24343,6 +24448,13 @@
     "name": "Ziktalk",
     "symbol": "ZIK",
     "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x05f4a42e251f2d52b8ed15e9fedaacfcef1fad27",
+    "name": "Zilliqa",
+    "symbol": "ZIL",
+    "decimals": 12,
     "stable": false
   },
   {
