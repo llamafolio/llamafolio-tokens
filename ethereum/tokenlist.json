@@ -13587,6 +13587,13 @@
     "stable": false
   },
   {
+    "address": "0x4591dbff62656e7859afe5e45f6f47d3669fbb28",
+    "name": "Prisma mkUSD",
+    "symbol": "MKUSD",
+    "decimals": 18,
+    "stable": true
+  },
+  {
     "address": "0x14449de7937fe1c1207006e92f89dee17bbe418a",
     "name": "Melecoin",
     "symbol": "mlc",
@@ -19975,6 +19982,15 @@
     "name": "Student Coin",
     "symbol": "STC",
     "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+    "name": "Lido Staked Ether",
+    "symbol": "STETH",
+    "decimals": 18,
+    "coingeckoId": "staked-ether",
+    "wallet": true,
     "stable": false
   },
   {

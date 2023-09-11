@@ -24,7 +24,7 @@
     "build": "tsup",
     "test": "node test/index.test.js",
     "stable": "tsx scripts/stable.ts",
-    "add-token": "tsx scripts/add-token.ts",
+    "add-token": "node_modules/.bin/bun scripts/add-token.ts",
     "resize-logos": "tsx scripts/resize-logos.ts",
     "resolve-tokens": "tsx scripts/resolve-tokens.ts",
     "cleanup": "node_modules/.bin/bun scripts/cleanup.ts",
