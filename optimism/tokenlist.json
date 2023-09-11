@@ -753,7 +753,7 @@
     "name": "Decentralized USD",
     "symbol": "USDD",
     "decimals": 18,
-    "stable": false
+    "stable": true
   },
   {
     "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",

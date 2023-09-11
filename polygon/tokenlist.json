@@ -5772,7 +5772,7 @@
     "name": "Decentralized USD (PoS)",
     "symbol": "USDD",
     "decimals": 18,
-    "stable": false
+    "stable": true
   },
   {
     "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",

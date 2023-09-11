@@ -84,6 +84,13 @@
     "stable": false
   },
   {
+    "address": "0xfa5ed56a203466cbbc2430a43c66b9d8723528e7",
+    "name": "agEUR",
+    "symbol": "agEUR",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xff191514a9baba76bfd19e3943a4d37e8ec9a111",
     "name": "Auragi",
     "symbol": "agi",
@@ -157,6 +164,13 @@
     "address": "0x9b3fa2a7c3eb36d048a5d38d81e7fafc6bc47b25",
     "name": "Aluna",
     "symbol": "ALN",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xc9cbf102c73fb77ec14f8b4c8bd88e050a6b2646",
+    "name": "AlphaToken",
+    "symbol": "ALPHA",
     "decimals": 18,
     "stable": false
   },
@@ -287,6 +301,13 @@
     "stable": false
   },
   {
+    "address": "0xac9ac2c17cdfed4abc80a53c5553388575714d03",
+    "name": "Automata",
+    "symbol": "ATA",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xfb9fbcb328317123f5275cda30b6589d5841216b",
     "name": "Antfarm Token",
     "symbol": "atf",
@@ -297,6 +318,20 @@
     "address": "0xea986d33ef8a20a96120ecc44dbdd49830192043",
     "name": "Auctus",
     "symbol": "AUC",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x1509706a6c66ca549ff0cb464de88231ddbe213b",
+    "name": "Aura",
+    "symbol": "AURA",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x223738a747383d6f9f827d95964e4d8e8ac754ce",
+    "name": "Aura BAL",
+    "symbol": "auraBAL",
     "decimals": 18,
     "stable": false
   },
@@ -539,6 +574,13 @@
     "stable": false
   },
   {
+    "address": "0x84f5c2cfba754e76dd5ae4fb369cfc920425e12b",
+    "name": "Cryptex",
+    "symbol": "CTX",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xdf0301d1964559d1fb29e41b68e15acbfe896955",
     "name": "CyOp",
     "symbol": "cyop",
@@ -581,6 +623,13 @@
     "stable": false
   },
   {
+    "address": "0xde5ed76e7c05ec5e4572cfc88d1acea165109e44",
+    "name": "DEUS",
+    "symbol": "DEUS",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xae6aab43c4f3e0cea4ab83752c278f8debaba689",
     "name": "dForce",
     "symbol": "DF",
@@ -605,6 +654,13 @@
     "address": "0x8038f3c971414fd1fc220ba727f2d4a0fc98cb65",
     "name": "dHEDGE DAO",
     "symbol": "DHT",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x39f91452a6e9994762876e1edd87be28a46d5c99",
+    "name": "DIAToken",
+    "symbol": "DIA",
     "decimals": 18,
     "stable": false
   },
@@ -777,6 +833,13 @@
     "stable": false
   },
   {
+    "address": "0x1b01514a2b3cdef16fd3c680a818a0ab97da8a09",
+    "name": "Frax Price Index",
+    "symbol": "FPI",
+    "decimals": 18,
+    "stable": true
+  },
+  {
     "address": "0x3405e88af759992937b84e58f2fe691ef0eea320",
     "name": "Frax Price Index Share",
     "symbol": "FPIS",
@@ -924,6 +987,13 @@
     "stable": false
   },
   {
+    "address": "0x18c11fd286c5ec11c3b683caa813b77f5163a122",
+    "name": "Gains Network",
+    "symbol": "GNS",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xd5a56b510247db33695b0bea29992ac6670081ea",
     "name": "Goons of Balatroon",
     "symbol": "gob",
@@ -973,6 +1043,13 @@
     "stable": false
   },
   {
+    "address": "0x7f4638a58c0615037decc86f1dae60e55fe92874",
+    "name": "Rigo Token",
+    "symbol": "GRG",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x23a941036ae778ac51ab04cea08ed6e2fe103614",
     "name": "The Graph",
     "symbol": "GRT",
@@ -1018,6 +1095,13 @@
     "address": "0x2e80259c9071b6176205ff5f5eb6f7ec8361b93f",
     "name": "HashDAO Token",
     "symbol": "hash",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x3404149e9ee6f17fb41db1ce593ee48fbdcd9506",
+    "name": "Hydranet",
+    "symbol": "HDN",
     "decimals": 18,
     "stable": false
   },
@@ -1085,8 +1169,29 @@
     "stable": false
   },
   {
+    "address": "0xadf5dd3e51bf28ab4f07e684ecf5d00691818790",
+    "name": "ICHI",
+    "symbol": "ICHI",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xaea8e2e7c97c5b7cd545d3b152f669bae29c4a63",
+    "name": "dForce DF",
+    "symbol": "iDF",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xd91903d548f19c0fc0a6b9ed09d2f72b4dfe7144",
     "name": "Impossible Decentralized Incubator Access",
+    "symbol": "IDIA",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xe6045890b20945d00e6f3c01878265c03c5435d3",
+    "name": "Impossible Decentralized Incubat",
     "symbol": "IDIA",
     "decimals": 18,
     "stable": false
@@ -1095,6 +1200,13 @@
     "address": "0xb41bd4c99da73510d9e081c5fadbe7a27ac1f814",
     "name": "Ideamarket",
     "symbol": "IMO",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x0385f851060c09a552f1a28ea3f612660256cbaa",
+    "name": "dForce USD",
+    "symbol": "iUSX",
     "decimals": 18,
     "stable": false
   },
@@ -1288,6 +1400,13 @@
     "stable": false
   },
   {
+    "address": "0x1a4da80967373fd929961e976b4b53ceec063a15",
+    "name": "LUNA",
+    "symbol": "LUNA",
+    "decimals": 6,
+    "stable": false
+  },
+  {
     "address": "0x93b346b6bc2548da6a1e7d98e9a421b42541425b",
     "name": "Liquity USD",
     "symbol": "LUSD",
@@ -1358,6 +1477,13 @@
     "stable": false
   },
   {
+    "address": "0xda661fa59320b808c5a6d23579fcfedf1fd3cf36",
+    "name": "Mobox",
+    "symbol": "MBOX",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
     "name": "MUX Protocol",
     "symbol": "MCB",
@@ -1375,6 +1501,13 @@
     "address": "0xfc77b86f3ade71793e1eec1e7944db074922856e",
     "name": "Mugen Finance",
     "symbol": "mgn",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xa61f74247455a40b01b0559ff6274441fafa22a3",
+    "name": "Magpie Token",
+    "symbol": "MGP",
     "decimals": 18,
     "stable": false
   },
@@ -1466,6 +1599,13 @@
     "address": "0x509fd25ee2ac7833a017f17ee8a6fb4aaf947876",
     "name": "Magpie WOM",
     "symbol": "mwom",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xaedf7656fbb47c5b97dd529ac1d0e807e051f2dd",
+    "name": "MXC Token",
+    "symbol": "MXC",
     "decimals": 18,
     "stable": false
   },
@@ -1589,6 +1729,13 @@
     "stable": false
   },
   {
+    "address": "0x6e6a3d8f1affac703b1aef1f43b8d2321be40043",
+    "name": "Olympus",
+    "symbol": "OHM",
+    "decimals": 9,
+    "stable": false
+  },
+  {
     "address": "0x500756c7d239aee30f52c7e52af4f4f008d1a98f",
     "name": "Petroleum OIL",
     "symbol": "oil",
@@ -1617,6 +1764,13 @@
     "stable": false
   },
   {
+    "address": "0x30424981429c8b944e9d44d5bd992ee874f1b188",
+    "name": "OpenOcean",
+    "symbol": "OOE",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x2c7513f299778a84797f293503db1a73a15fd48d",
     "name": "OpenbetAI",
     "symbol": "openbet",
@@ -1641,6 +1795,13 @@
     "address": "0xc72633f995e98ac3bb8a89e6a9c4af335c3d6e44",
     "name": "Omnisea",
     "symbol": "OSEA",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x55704a0e9e2eb59e176c5b69655dbd3dcdcfc0f0",
+    "name": "OVR",
+    "symbol": "OVR",
     "decimals": 18,
     "stable": false
   },
@@ -1967,6 +2128,13 @@
     "stable": false
   },
   {
+    "address": "0x5298060a95205be6dd4abc21910a4bb23d6dcd8b",
+    "name": "Route",
+    "symbol": "ROUTE",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xb766039cc6db368759c1e56b79affe831d0cc507",
     "name": "Rocket Pool",
     "symbol": "RPL",
@@ -1984,6 +2152,13 @@
     "address": "0x810cf1757b51963102e0b4fe9fdfcdf749dea98a",
     "name": "Sanctum Coin",
     "symbol": "sancta",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xabd587f2607542723b17f14d00d99b987c29b074",
+    "name": "SmarDex Token",
+    "symbol": "SDEX",
     "decimals": 18,
     "stable": false
   },
@@ -2219,6 +2394,20 @@
     "stable": true
   },
   {
+    "address": "0x2ad62674a64e698c24831faf824973c360430140",
+    "name": "UniBright",
+    "symbol": "UBT",
+    "decimals": 8,
+    "stable": false
+  },
+  {
+    "address": "0xd693ec944a85eeca4247ec1c3b130dca9b0c3b22",
+    "name": "UMA Voting Token v1",
+    "symbol": "UMA",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x1622bf67e6e5747b81866fe0b85178a93c7f86e3",
     "name": "Umami",
     "symbol": "UMAMI",
@@ -2293,6 +2482,13 @@
     "name": "unshETHing_Token",
     "symbol": "USH",
     "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x13780e6d5696dd91454f6d3bbc2616687fea43d0",
+    "name": "TerraUSD",
+    "symbol": "UST",
+    "decimals": 6,
     "stable": false
   },
   {
