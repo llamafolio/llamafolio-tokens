@@ -161,6 +161,13 @@
     "stable": false
   },
   {
+    "address": "0x90fbe9dfe76f6ef971c7a297641dfa397099a13e",
+    "name": "Atlantis Loans",
+    "symbol": "ATL",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x68327a91e79f87f501bc8522fc333fb7a72393cb",
     "name": "AUX Coin",
     "symbol": "aux",
@@ -315,6 +322,13 @@
     "stable": false
   },
   {
+    "address": "0x3cd790449cf7d187a143d4bd7f4654d4f2403e02",
+    "name": "BOBA Token",
+    "symbol": "BOBA",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x590eb2920486486c2d9bb3eb651f73b81df87bcf",
     "name": "Bobcoin",
     "symbol": "BOBC",
@@ -410,6 +424,13 @@
     "name": "Crypto Development Services",
     "symbol": "CDS",
     "decimals": 8,
+    "stable": false
+  },
+  {
+    "address": "0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece",
+    "name": "CheckDot",
+    "symbol": "CDT",
+    "decimals": 18,
     "stable": false
   },
   {
@@ -539,6 +560,13 @@
     "stable": false
   },
   {
+    "address": "0xde5ed76e7c05ec5e4572cfc88d1acea165109e44",
+    "name": "DEUS",
+    "symbol": "DEUS",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x28690ec942671ac8d9bc442b667ec338ede6dfd3",
     "name": "deBridge USD Coin",
     "symbol": "deUSDC",
@@ -623,10 +651,38 @@
     "stable": false
   },
   {
+    "address": "0x08d58f06ddfa9b99ae651f68232014be3914c5cd",
+    "name": "Ethos Reserve Note",
+    "symbol": "ERN",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xf20d962a6c8f70c731bd838a3a388d7d48fa6e15",
     "name": "Ether",
     "symbol": "ETH",
     "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x55b1a124c04a54eefdefe5fa2ef5f852fb5f2f26",
+    "name": "Ethereum Meta",
+    "symbol": "ETHM",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xc891eb4cbdeff6e073e859e987815ed1505c2acd",
+    "name": "Euro Coin",
+    "symbol": "EUROC",
+    "decimals": 6,
+    "stable": false
+  },
+  {
+    "address": "0x820802fa8a99901f52e39acd21177b0be6ee2974",
+    "name": "EUROe Stablecoin",
+    "symbol": "EUROe",
+    "decimals": 6,
     "stable": false
   },
   {
@@ -791,6 +847,13 @@
     "stable": false
   },
   {
+    "address": "0x0b53b5da7d0f275c31a6a182622bdf02474af253",
+    "name": "GhostMarket Token",
+    "symbol": "GM",
+    "decimals": 8,
+    "stable": false
+  },
+  {
     "address": "0x62edc0692bd897d2295872a9ffcac5425011c661",
     "name": "GMX",
     "symbol": "GMX",
@@ -945,6 +1008,13 @@
     "stable": false
   },
   {
+    "address": "0x80b010450fdaf6a3f8df033ee296e92751d603b3",
+    "name": "Jade Protocol",
+    "symbol": "JADE",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x4f60a160d8c2dddaafe16fcc57566db84d674bd6",
     "name": "JEWEL",
     "symbol": "JEWEL",
@@ -1032,6 +1102,13 @@
     "address": "0x056d114ff1e01de3bca30f0efa3655df42880e5b",
     "name": "KyteOne",
     "symbol": "KTE",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x4a4f77d74cf5fd4ea4ab71ba79988c055a5c27b2",
+    "name": "LessToken",
+    "symbol": "LESS",
     "decimals": 18,
     "stable": false
   },
@@ -1470,6 +1547,13 @@
     "stable": false
   },
   {
+    "address": "0x08287930ca952673b02d3b70eec2893dd7846743",
+    "name": "Parez",
+    "symbol": "PRX",
+    "decimals": 8,
+    "stable": false
+  },
+  {
     "address": "0xfac235f442ed946087c1db9f70075b51e698a487",
     "name": "Pterosaur Finance",
     "symbol": "pter",
@@ -1603,6 +1687,13 @@
     "stable": false
   },
   {
+    "address": "0x02d980a0d7af3fb7cf7df8cb35d9edbcf355f665",
+    "name": "SHIBA INU",
+    "symbol": "SHIB.e",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x440abbf18c54b2782a4917b80a1746d3a2c2cce1",
     "name": "SHIBAVAX",
     "symbol": "SHIBX",
@@ -1620,6 +1711,13 @@
     "address": "0xf9a075c9647e91410bf6c402bdf166e1540f67f0",
     "name": "Sing Token (Avalanche)",
     "symbol": "SING",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x3d9eab723df76808bb84c05b20de27a2e69ef293",
+    "name": "sJADE",
+    "symbol": "sJADE",
     "decimals": 18,
     "stable": false
   },
@@ -1827,6 +1925,13 @@
     "stable": false
   },
   {
+    "address": "0xda5b232fb6e3e897d2f84797d19c53cf3f5ae938",
+    "name": "TSHARE",
+    "symbol": "TSHARE",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x21c5402c3b7d40c89cc472c9df5dd7e51bbab1b1",
     "name": "Tundra",
     "symbol": "TUNDRA",
@@ -1865,6 +1970,20 @@
     "address": "0xf915fdda4c882731c0456a4214548cd13a822886",
     "name": "Unbound",
     "symbol": "UNB",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x7d86f1eaff29f076576b2ff09ce3bcc7533fd2c5",
+    "name": "UNCL",
+    "symbol": "UNCL",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x3b9e3b5c616a1a038fdc190758bbe9bab6c7a857",
+    "name": "UniCrypt",
+    "symbol": "UNCX",
     "decimals": 18,
     "stable": false
   },
@@ -1920,6 +2039,13 @@
   {
     "address": "0xb514cabd09ef5b169ed3fe0fa8dbd590741e81c2",
     "name": "USDD",
+    "symbol": "USDD",
+    "decimals": 18,
+    "stable": true
+  },
+  {
+    "address": "0xcf799767d366d789e8b446981c2d578e241fa25c",
+    "name": "Decentralized USD",
     "symbol": "USDD",
     "decimals": 18,
     "stable": true

@@ -32,7 +32,7 @@
     "name": "Frax Price Index",
     "symbol": "FPI",
     "decimals": 18,
-    "stable": false
+    "stable": true
   },
   {
     "address": "0xde7df9036801676af0cb73661d93a098c0085fba",
