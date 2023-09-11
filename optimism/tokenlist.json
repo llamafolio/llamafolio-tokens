@@ -49,6 +49,13 @@
     "stable": false
   },
   {
+    "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+    "name": "Axelar Wrapped USDC",
+    "symbol": "axlUSDC",
+    "decimals": 6,
+    "stable": true
+  },
+  {
     "address": "0xfe8b128ba8c78aabc59d4c64cee7ff28e9379921",
     "name": "Balancer",
     "symbol": "BAL",
@@ -70,9 +77,30 @@
     "stable": false
   },
   {
+    "address": "0x4e720dd3ac5cfe1e1fbde4935f386bb1c66f4642",
+    "name": "beefy.finance",
+    "symbol": "BIFI",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x5029c236320b8f15ef0a657054b84d90bfbeded3",
     "name": "BitANT",
     "symbol": "BitANT",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xd1a891e6eccb7471ebd6bc352f57150d4365db21",
+    "name": "SafeBLAST",
+    "symbol": "BLAST",
+    "decimals": 9,
+    "stable": false
+  },
+  {
+    "address": "0x048c6bad48c51436764ed1fdb3c9d1c25d2c0ada",
+    "name": "Bolide",
+    "symbol": "BLID",
     "decimals": 18,
     "stable": false
   },
@@ -175,9 +203,23 @@
     "stable": false
   },
   {
+    "address": "0xe7bc9b3a936f122f08aac3b1fac3c3ec29a78874",
+    "name": "ECO",
+    "symbol": "ECO",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x65559aa14915a70190438ef90104769e5e890a00",
     "name": "Ethereum Name Service",
     "symbol": "ENS",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x81ab7e0d570b01411fcc4afd3d50ec8c241cb74b",
+    "name": "Equalizer",
+    "symbol": "EQZ",
     "decimals": 18,
     "stable": false
   },
@@ -193,6 +235,20 @@
     "name": "Erica Social Token",
     "symbol": "EST",
     "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x2dad3a13ef0c6366220f989157009e501e7938f8",
+    "name": "Extra Finance",
+    "symbol": "EXTRA",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xb25ea095997f5bbaa6cea962c4fbf3bfc3c09776",
+    "name": "Promethios",
+    "symbol": "FIRE",
+    "decimals": 9,
     "stable": false
   },
   {
@@ -220,6 +276,20 @@
     "address": "0xf1a0da3367bc7aa04f8d94ba57b862ff37ced174",
     "name": "ShapeShift FOX",
     "symbol": "FOX",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xc5d43a94e26fca47a9b21cf547ae4aa0268670e1",
+    "name": "Frax Price Index",
+    "symbol": "FPI",
+    "decimals": 18,
+    "stable": true
+  },
+  {
+    "address": "0x8368dca5ce2a4db530c0f6e535d90b6826428dee",
+    "name": "Frax Price Index Share",
+    "symbol": "FPIS",
     "decimals": 18,
     "stable": false
   },
@@ -332,6 +402,34 @@
     "address": "0xbb6bbaa0f6d839a00c82b10747abc3b7e2eecc82",
     "name": "Impermax",
     "symbol": "IBEX",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xb344795f0e7cf65a55cb0dde1e866d46041a2cc2",
+    "name": "dForce USDC",
+    "symbol": "iUSDC",
+    "decimals": 6,
+    "stable": false
+  },
+  {
+    "address": "0x4b3488123649e8a671097071a02da8537fe09a16",
+    "name": "dForce wstETH",
+    "symbol": "iwstETH",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x9f46a936be9114bd2f71965a87c003341448b47e",
+    "name": "JARVIS",
+    "symbol": "JARVIS",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x79af5dd14e855823fa3e9ecacdf001d99647d043",
+    "name": "Jarvis Synthetic Euro",
+    "symbol": "jEUR",
     "decimals": 18,
     "stable": false
   },
@@ -490,9 +588,23 @@
     "stable": false
   },
   {
+    "address": "0xe0ce60af0850bf54072635e66e79df17082a1109",
+    "name": "OxAI",
+    "symbol": "OXAI",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x00f932f0fe257456b32deda4758922e56a4f4b42",
     "name": "Paper",
     "symbol": "PAPER",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xbc7b1ff1c6989f006a1185318ed4e7b5796e66e1",
+    "name": "Pendle",
+    "symbol": "PENDLE",
     "decimals": 18,
     "stable": false
   },
@@ -511,9 +623,23 @@
     "stable": false
   },
   {
+    "address": "0x0c5b4c92c948691eebf185c17eeb9c230dc019e9",
+    "name": "PickleToken",
+    "symbol": "PICKLE",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x9a601c5bb360811d96a23689066af316a30c3027",
     "name": "Pika Protocol",
     "symbol": "pika",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x395ae52bb17aef68c2888d941736a71dc6d4e125",
+    "name": "PoolTogether",
+    "symbol": "POOL",
     "decimals": 18,
     "stable": false
   },
@@ -574,6 +700,13 @@
     "stable": false
   },
   {
+    "address": "0xb548f63d4405466b36c0c0ac3318a22fdcec711a",
+    "name": "Rari Governance Token",
+    "symbol": "RGT",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x96d17e1301b31556e5e263389583a9331e6749e9",
     "name": "RillaFi",
     "symbol": "rilla",
@@ -616,9 +749,23 @@
     "stable": false
   },
   {
+    "address": "0x484c2d6e3cdd945a8b2df735e079178c1036578c",
+    "name": "Staked Frax Ether",
+    "symbol": "sfrxETH",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x66e8617d1df7ab523a316a6c01d16aa5bed93681",
     "name": "Shack",
     "symbol": "SHACK",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xc5db22719a06418028a40a9b5e9a7c02959d0d08",
+    "name": "Synth sLINK",
+    "symbol": "sLINK",
     "decimals": 18,
     "stable": false
   },
@@ -749,7 +896,21 @@
     "stable": true
   },
   {
+    "address": "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "stable": true
+  },
+  {
     "address": "0x7113370218f31764c1b6353bdf6004d86ff6b9cc",
+    "name": "Decentralized USD",
+    "symbol": "USDD",
+    "decimals": 18,
+    "stable": true
+  },
+  {
+    "address": "0xc22885e06cd8507c5c74a948c59af853aed1ea5c",
     "name": "Decentralized USD",
     "symbol": "USDD",
     "decimals": 18,
@@ -765,6 +926,13 @@
   {
     "address": "0xba28feb4b6a6b81e3f26f08b83a19e715c4294fd",
     "name": "UST (Wormhole)",
+    "symbol": "UST",
+    "decimals": 6,
+    "stable": false
+  },
+  {
+    "address": "0xfb21b70922b9f6e3c6274bcd6cb1aa8a0fe20b80",
+    "name": "TerraUSD",
     "symbol": "UST",
     "decimals": 6,
     "stable": false
@@ -801,6 +969,13 @@
     "address": "0x4200000000000000000000000000000000000006",
     "name": "WETH",
     "symbol": "WETH",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xdc6ff44d5d932cbd77b52e5612ba0529dc6226f1",
+    "name": "Worldcoin",
+    "symbol": "WLD",
     "decimals": 18,
     "stable": false
   },
