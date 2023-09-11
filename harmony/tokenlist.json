@@ -308,6 +308,15 @@
     "stable": false
   },
   {
+    "address": "0x7afb0e2eba6dc938945fe0f42484d3b8f442d0ac",
+    "name": "PAX Gold",
+    "symbol": "PAXG",
+    "decimals": 18,
+    "coingeckoId": "pax-gold",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x451e129b6045b6e4f48e7247388f21163f7743b7",
     "name": "REN",
     "symbol": "REN",
