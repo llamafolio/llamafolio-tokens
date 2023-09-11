@@ -154,6 +154,13 @@
     "stable": false
   },
   {
+    "address": "0xc4e82ba0fe6763cbe5e9cbca0ba7cbd6f91c6018",
+    "name": "Ankr Eth2 Reward Bearing Bond (PoS)",
+    "symbol": "aETH",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x033d942a6b495c4071083f4cde1f17e986fe856c",
     "name": "AGA Token",
     "symbol": "AGA",
@@ -180,6 +187,13 @@
     "symbol": "agEUR",
     "decimals": 18,
     "stable": true
+  },
+  {
+    "address": "0x190eb8a183d22a4bdf278c6791b152228857c033",
+    "name": "SingularityNET Token (PoS)",
+    "symbol": "AGIX",
+    "decimals": 8,
+    "stable": false
   },
   {
     "address": "0xd6a33f67b733d422c821c36f0f79ca145b930d01",
@@ -283,6 +297,13 @@
     "address": "0x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8",
     "name": "Anyswap",
     "symbol": "ANY",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xb7b31a6bc18e48888545ce79e83e06003be70930",
+    "name": "ApeCoin (PoS)",
+    "symbol": "APE",
     "decimals": 18,
     "stable": false
   },
@@ -616,6 +637,13 @@
     "stable": false
   },
   {
+    "address": "0x07cc1cc3628cc1615120df781ef9fc8ec2feae09",
+    "name": "BetProtocolToken (PoS)",
+    "symbol": "BEPRO",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xac3090b7042fca2cdbf233022e4a9823a032600c",
     "name": "PolyBeta Finance",
     "symbol": "BETA",
@@ -693,6 +721,13 @@
     "stable": false
   },
   {
+    "address": "0x438b28c5aa5f00a817b7def7ce2fb3d5d1970974",
+    "name": "Bluzelle Token (PoS)",
+    "symbol": "BLZ",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x1a47e3316282d57df146f87c58a1fb4b26992bbf",
     "name": "Bridge Mutual (PoS)",
     "symbol": "BMI",
@@ -702,6 +737,13 @@
   {
     "address": "0x5c4b7ccbf908e64f32e12c6650ec0c96d717f03f",
     "name": "Binance Token",
+    "symbol": "BNB",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x3ba4c387f786bfee076a58914f5bd38d668b42c3",
+    "name": "BNB (PoS)",
     "symbol": "BNB",
     "decimals": 18,
     "stable": false
@@ -1064,6 +1106,20 @@
     "stable": false
   },
   {
+    "address": "0x67ce67ec4fcd4aca0fcb738dd080b2a21ff69d75",
+    "name": "SwissBorg (PoS)",
+    "symbol": "CHSB",
+    "decimals": 8,
+    "stable": false
+  },
+  {
+    "address": "0xf1938ce12400f9a761084e7a80d37e732a4da056",
+    "name": "CHZ (PoS)",
+    "symbol": "CHZ",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x300211def2a644b036a9bdd3e58159bb2074d388",
     "name": "Crosschain IOTX",
     "symbol": "CIOTX",
@@ -1208,6 +1264,13 @@
     "name": "CRISP Scored Mangroves",
     "symbol": "crisp-m",
     "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xada58df0f643d959c2a47c9d4d4c1a4defe3f11c",
+    "name": "CRO (PoS)",
+    "symbol": "CRO",
+    "decimals": 8,
     "stable": false
   },
   {
@@ -1778,6 +1841,13 @@
     "stable": false
   },
   {
+    "address": "0x7ec26842f195c852fa843bb9f6d8b583a274a157",
+    "name": "Enjin Coin (PoS)",
+    "symbol": "ENJ",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x7f36c54da31b2dd355caffec0249f26da41e3fcd",
     "name": "ENO",
     "symbol": "eno",
@@ -1862,6 +1932,13 @@
     "stable": false
   },
   {
+    "address": "0x43e4b063f96c33f0433863a927f5bad34bb4b03d",
+    "name": "Energy Web Token Bridged (PoS)",
+    "symbol": "EWTB",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x0c9b3ab1bd0cf0745625381f5c3aa1cd9bbc7abb",
     "name": "exeno coin",
     "symbol": "exn",
@@ -1886,6 +1963,13 @@
     "address": "0xa2ca40dbe72028d3ac78b5250a8cb8c404e7fb8c",
     "name": "Fear NFTs",
     "symbol": "FEAR",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x7583feddbcefa813dc18259940f76a02710a8905",
+    "name": "Fetch (PoS)",
+    "symbol": "FET",
     "decimals": 18,
     "stable": false
   },
@@ -2047,6 +2131,13 @@
     "address": "0xa3ed22eee92a3872709823a6970069e12a4540eb",
     "name": "Frontier",
     "symbol": "FRONT",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xee327f889d5947c1dc1934bb208a1e792f953e96",
+    "name": "Frax Ether",
+    "symbol": "frxETH",
     "decimals": 18,
     "stable": false
   },
@@ -2275,6 +2366,13 @@
     "stable": false
   },
   {
+    "address": "0x0b220b82f3ea3b7f6d9a1d8ab58930c064a2b5bf",
+    "name": "Golem Network Token (PoS)",
+    "symbol": "GLM",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x0cfc9a713a5c17bc8a5ff0379467f6558bacd0e0",
     "name": "GraphLinq (PoS)",
     "symbol": "GLQ",
@@ -2366,6 +2464,20 @@
     "stable": false
   },
   {
+    "address": "0xdb95f9188479575f3f718a245eca1b3bf74567ec",
+    "name": "Gitcoin (PoS)",
+    "symbol": "GTC",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xc8a94a3d3d2dabc3c1caffffdca6a7543c3e3e65",
+    "name": "Gemini dollar (PoS)",
+    "symbol": "GUSD",
+    "decimals": 2,
+    "stable": false
+  },
+  {
     "address": "0xc48f61a288a08f1b80c2edd74652e1276b6a168c",
     "name": "Geyser",
     "symbol": "GYSR",
@@ -2446,6 +2558,13 @@
     "address": "0x0c51f415cf478f8d08c246a6c6ee180c5dc3a012",
     "name": "HOLO (PoS)",
     "symbol": "HOT",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xfad65eb62a97ff5ed91b23afd039956aaca6e93b",
+    "name": "HuobiToken (PoS)",
+    "symbol": "HT",
     "decimals": 18,
     "stable": false
   },
@@ -2593,6 +2712,13 @@
     "address": "0xd6d3b4254b4526c3095d8ab00b75f186c56dd72c",
     "name": "Lithium Ventures",
     "symbol": "ions",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xf6372cdb9c1d3674e83842e3800f2a62ac9f3c66",
+    "name": "IoTeX Network (PoS)",
+    "symbol": "IOTX",
     "decimals": 18,
     "stable": false
   },
@@ -2947,6 +3073,13 @@
     "stable": false
   },
   {
+    "address": "0x06d02e9d62a13fc76bb229373fb3bbbd1101d2fc",
+    "name": "Bitfinex LEO Token (PoS)",
+    "symbol": "LEO",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xf9a4bbaa7fa1dd2352f1a47d6d3fcff259a6d05f",
     "name": "Lepasa (PoS)",
     "symbol": "LEPA",
@@ -2975,6 +3108,13 @@
     "stable": false
   },
   {
+    "address": "0xb0897686c545045afc77cf20ec7a532e3120e0f1",
+    "name": "ChainLink Token",
+    "symbol": "LINK",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xa5ff48e326958e0ce6fdf9518de561f2b5f57da3",
     "name": "Lokr",
     "symbol": "lkr",
@@ -2992,6 +3132,13 @@
     "address": "0x1c0a798b5a5273a9e54028eb1524fd337b24145f",
     "name": "Loser Coin",
     "symbol": "LOWB",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x3962f4a0a0051dcce0be73a7e09cef5756736712",
+    "name": "Livepeer Token (PoS)",
+    "symbol": "LPT",
     "decimals": 18,
     "stable": false
   },
@@ -3087,9 +3234,23 @@
     "stable": false
   },
   {
+    "address": "0x0000000000000000000000000000000000001010",
+    "name": "Matic Token",
+    "symbol": "MATIC",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xf287d97b6345bad3d88856b26fb7c0ab3f2c7976",
     "name": "Index Coop - MATIC 2x Flexible Leverage Index",
     "symbol": "MATIC2X-FLI-P",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xfa68fb4628dff1028cfec22b4162fccd0d45efb6",
+    "name": "Liquid Staking Matic (PoS)",
+    "symbol": "MaticX",
     "decimals": 18,
     "stable": false
   },
@@ -3759,6 +3920,13 @@
     "stable": false
   },
   {
+    "address": "0x62414d03084eeb269e18c970a21f45d2967f0170",
+    "name": "OMGToken (PoS)",
+    "symbol": "OMG",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xbc2659ead8d2d13a157a75bfc5acc156e1ea06df",
     "name": "Ommniverse",
     "symbol": "ommi",
@@ -3920,6 +4088,20 @@
     "stable": false
   },
   {
+    "address": "0x6f3b3286fd86d8b47ec737ceb3d0d354cc657b3e",
+    "name": "Paxos Standard (PoS)",
+    "symbol": "PAX",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x553d3d295e0f695b9228246232edf400ed3560b5",
+    "name": "Paxos Gold (PoS)",
+    "symbol": "PAXG",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xc79ae93d9c215eaa8c8da5c77e465bac7de28891",
     "name": "pax.world",
     "symbol": "paxw",
@@ -3937,6 +4119,13 @@
     "address": "0x60eec374a1ba3907e9bdd8a74ce368d041d89c79",
     "name": "Parrotly",
     "symbol": "pbirb",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x0ef39e52704ad52e2882bbfa6781167e1b6c4510",
+    "name": "pBORA",
+    "symbol": "pBORA",
     "decimals": 18,
     "stable": false
   },
@@ -4130,6 +4319,13 @@
     "stable": false
   },
   {
+    "address": "0xcb059c5573646047d6d88dddb87b745c18161d3b",
+    "name": "Polymath (PoS)",
+    "symbol": "POLY",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x4c16f69302ccb511c5fac682c7626b9ef0dc126a",
     "name": "Polygon Bunny Token",
     "symbol": "polyBUNNY",
@@ -4154,6 +4350,13 @@
     "address": "0x30ea765d4dda26e0f89e1b23a7c7b2526b7d29ec",
     "name": "PolyPad",
     "symbol": "polypad",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x73580a2416a57f1c4b6391dba688a9e4f7dbece0",
+    "name": "Marlin POND (PoS)",
+    "symbol": "POND",
     "decimals": 18,
     "stable": false
   },
@@ -4190,6 +4393,13 @@
     "name": "UniPower",
     "symbol": "POWER",
     "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x0aab8dc887d34f00d50e19aee48371a941390d14",
+    "name": "PowerLedger (PoS)",
+    "symbol": "POWR",
+    "decimals": 6,
     "stable": false
   },
   {
@@ -4494,6 +4704,13 @@
     "stable": false
   },
   {
+    "address": "0x0266f4f08d82372cf0fcbccc0ff74309089c74d1",
+    "name": "Rocket Pool ETH (PoS)",
+    "symbol": "rETH",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x70c006878a5a50ed185ac4c87d837633923de296",
     "name": "REVV",
     "symbol": "REVV",
@@ -4547,6 +4764,13 @@
     "name": "EverRise",
     "symbol": "RISE",
     "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xbe662058e00849c3eef2ac9664f37fefdf2cdbfe",
+    "name": "iEx.ec Network Token (PoS)",
+    "symbol": "RLC",
+    "decimals": 9,
     "stable": false
   },
   {
@@ -4683,6 +4907,13 @@
     "stable": false
   },
   {
+    "address": "0x6899face15c14348e1759371049ab64a3a06bfa6",
+    "name": "SmarDex Token",
+    "symbol": "SDEX",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x361a5a4993493ce00f61c32d4ecca5512b82ce90",
     "name": "Stake DAO Token",
     "symbol": "SDT",
@@ -4714,6 +4945,13 @@
     "address": "0xd1f9c58e33933a993a3891f8acfe05a68e1afc05",
     "name": "Sunflower Land",
     "symbol": "SFL",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x6d1fdbb266fcc09a16a22016369210a15bb95761",
+    "name": "Staked Frax Ether",
+    "symbol": "sfrxETH",
     "decimals": 18,
     "stable": false
   },
@@ -5089,6 +5327,13 @@
     "stable": false
   },
   {
+    "address": "0x6abb753c1893194de4a83c6e8b4eadfc105fd5f5",
+    "name": "Swipe (PoS)",
+    "symbol": "SXP",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x6b24e2771d6a18ba38c32f9b616eb1cd7948745f",
     "name": "SynchroCoin",
     "symbol": "syc",
@@ -5176,6 +5421,13 @@
     "address": "0x692c44990e4f408ba0917f5c78a83160c1557237",
     "name": "Thales",
     "symbol": "THALES",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xb46e0ae620efd98516f49bb00263317096c114b2",
+    "name": "Theta Token (PoS)",
+    "symbol": "THETA",
     "decimals": 18,
     "stable": false
   },
@@ -5513,6 +5765,13 @@
     "name": "USD Coin (Wormhole from Ethereum)",
     "symbol": "USDCET",
     "decimals": 6,
+    "stable": false
+  },
+  {
+    "address": "0xffa4d863c96e743a2e1513824ea006b8d0353c57",
+    "name": "Decentralized USD (PoS)",
+    "symbol": "USDD",
+    "decimals": 18,
     "stable": false
   },
   {
