@@ -312,8 +312,6 @@
     "name": "PAX Gold",
     "symbol": "PAXG",
     "decimals": 18,
-    "coingeckoId": "pax-gold",
-    "wallet": true,
     "stable": false
   },
   {

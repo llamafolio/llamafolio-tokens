@@ -8820,6 +8820,13 @@
     "stable": false
   },
   {
+    "address": "0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f",
+    "name": "GHO",
+    "symbol": "GHO",
+    "decimals": 18,
+    "stable": true
+  },
+  {
     "address": "0x3bb86d867a9f3addf994cdadb210fa82f0d4157a",
     "name": "Ghoul Token",
     "symbol": "GHOUL",
@@ -19982,15 +19989,6 @@
     "name": "Student Coin",
     "symbol": "STC",
     "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
-    "name": "Lido Staked Ether",
-    "symbol": "STETH",
-    "decimals": 18,
-    "coingeckoId": "staked-ether",
-    "wallet": true,
     "stable": false
   },
   {
