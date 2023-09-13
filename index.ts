@@ -28,6 +28,7 @@ export type ChainTokenRegistry = { [key: string]: ChainToken }
 
 export const chainNames = [
   'arbitrum',
+  'arbitrum-nova',
   'avalanche',
   'bsc',
   'base',
@@ -39,7 +40,8 @@ export const chainNames = [
   'moonbeam',
   'optimism',
   'polygon',
-  'polygon-zkevm'
+  'polygon-zkevm',
+  'zksync-era'
 ] as const
 
 export type Chain = (typeof chainNames)[number]

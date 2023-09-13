@@ -18,7 +18,10 @@ async function downloadLogo(url: string) {
 }
 
 export const coingeckoPlatformToChain = {
+  'arbitrum-one': 'arbitrum',
+  'arbitrum-nova': 'arbitrum-nova',
   avalanche: 'avalanche',
+  base: 'base',
   'binance-smart-chain': 'bsc',
   celo: 'celo',
   ethereum: 'ethereum',
@@ -26,9 +29,10 @@ export const coingeckoPlatformToChain = {
   'harmony-shard-0': 'harmony',
   moonbeam: 'moonbeam',
   'polygon-pos': 'polygon',
-  xdai: 'gnosis',
+  'polygon-zkevm': 'polygon-zkevm',
   'optimistic-ethereum': 'optimism',
-  'arbitrum-one': 'arbitrum'
+  xdai: 'gnosis',
+  zksync: 'zksync-era'
 }
 
 async function getCoingeckoTokens(id: string) {
