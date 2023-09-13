@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "address": "0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "stable": true
+  },
+  {
+    "address": "0x9e22d758629761fc5708c171d06c2fabb60b5159",
+    "name": "WOO Network",
+    "symbol": "WOO",
+    "decimals": 18,
+    "stable": false
+  }
+]
