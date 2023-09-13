@@ -14231,6 +14231,13 @@
     "stable": false
   },
   {
+    "address": "0x25d887ce7a35172c62febfd67a1856f20faebb00",
+    "name": "Pepe",
+    "symbol": "PEPE",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xadfaed188291ae479f458ee2d3f88fe7e8cc712f",
     "name": "Pepe CEO BSC",
     "symbol": "pepe ceo",
@@ -15297,6 +15304,13 @@
   {
     "address": "0xaaa7a10a8ee237ea61e8ac46c50a8db8bcc1baaa",
     "name": "QANX Token",
+    "symbol": "QANX",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xaaa9214f675316182eaa21c85f0ca99160cc3aaa",
+    "name": "QANplatform",
     "symbol": "QANX",
     "decimals": 18,
     "stable": false
@@ -19939,6 +19953,13 @@
     "address": "0x5e3344216adb2c19caa7f3fe90078e7c4ac71bb6",
     "name": "Wrapped BESC",
     "symbol": "wbesc",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xa2e3356610840701bdf5611a53974510ae27e2e1",
+    "name": "Wrapped Beacon ETH",
+    "symbol": "WBETH",
     "decimals": 18,
     "stable": false
   },

@@ -329,6 +329,13 @@
     "stable": false
   },
   {
+    "address": "0xbec775cb42abfa4288de81f387a9b1a3c4bc552a",
+    "name": "Sushi",
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x50ae1aba372b836523c982d8ce88e89aa8a92863",
     "name": "Telcoin",
     "symbol": "TEL",
@@ -355,6 +362,20 @@
     "symbol": "UNI",
     "decimals": 18,
     "stable": false
+  },
+  {
+    "address": "0x985458e523db3d53125813ed68c274899e9dfab4",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "stable": true
+  },
+  {
+    "address": "0x3c2b8be99c50593081eaa2a724f0b8285f5aba8f",
+    "name": "Tether",
+    "symbol": "USDT",
+    "decimals": 6,
+    "stable": true
   },
   {
     "address": "0x224e64ec1bdce3870a6a6c777edd450454068fec",

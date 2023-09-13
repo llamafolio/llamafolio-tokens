@@ -462,6 +462,13 @@
     "stable": false
   },
   {
+    "address": "0x2297aebd383787a160dd0d9f71508148769342e3",
+    "name": "Bitcoin Avalanche Bridged (BTC.b)",
+    "symbol": "BTC.B",
+    "decimals": 8,
+    "stable": false
+  },
+  {
     "address": "0xafd871f684f21ab9d7137608c71808f83d75e6fc",
     "name": "Arbucks",
     "symbol": "BUCK",
@@ -1837,6 +1844,13 @@
     "address": "0xef00278d7eadf3b2c05267a2f185e468ad7eab7d",
     "name": "PepePAD",
     "symbol": "pepe",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x25d887ce7a35172c62febfd67a1856f20faebb00",
+    "name": "Pepe",
+    "symbol": "PEPE",
     "decimals": 18,
     "stable": false
   },

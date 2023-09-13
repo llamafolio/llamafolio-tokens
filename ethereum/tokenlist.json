@@ -3136,6 +3136,13 @@
     "stable": false
   },
   {
+    "address": "0xf2b2f7b47715256ce4ea43363a867fdce9353e3a",
+    "name": "Bitgert",
+    "symbol": "BRISE",
+    "decimals": 9,
+    "stable": false
+  },
+  {
     "address": "0x4674a4f24c5f63d53f22490fb3a08eaaad739ff8",
     "name": "Brokoli",
     "symbol": "BRKL",
@@ -7393,6 +7400,13 @@
   },
   {
     "address": "0x97de57ec338ab5d51557da3434828c5dbfada371",
+    "name": "eUSD",
+    "symbol": "EUSD",
+    "decimals": 18,
+    "stable": true
+  },
+  {
+    "address": "0xdf3ac4f479375802a821f7b7b46cd7eb5e4262cc",
     "name": "eUSD",
     "symbol": "EUSD",
     "decimals": 18,
@@ -12677,6 +12691,13 @@
     "stable": false
   },
   {
+    "address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
+    "name": "Liquity USD",
+    "symbol": "LUSD",
+    "decimals": 18,
+    "stable": true
+  },
+  {
     "address": "0xd39a2cecba2657e125ba6a5c98ad2f6b6d7e83fd",
     "name": "Luxo",
     "symbol": "luxo",
@@ -17236,6 +17257,13 @@
   {
     "address": "0xaaa7a10a8ee237ea61e8ac46c50a8db8bcc1baaa",
     "name": "QANX Token",
+    "symbol": "QANX",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xaaa9214f675316182eaa21c85f0ca99160cc3aaa",
+    "name": "QANplatform",
     "symbol": "QANX",
     "decimals": 18,
     "stable": false
@@ -22886,6 +22914,13 @@
     "address": "0xf89060c99853bb52eaf5f2247d007d73de660252",
     "name": "Wrapped BESC",
     "symbol": "wbesc",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xa2e3356610840701bdf5611a53974510ae27e2e1",
+    "name": "Wrapped Beacon ETH",
+    "symbol": "WBETH",
     "decimals": 18,
     "stable": false
   },
