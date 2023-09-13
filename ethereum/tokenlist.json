@@ -22904,6 +22904,13 @@
     "stable": false
   },
   {
+    "address": "0xa2e3356610840701bdf5611a53974510ae27e2e1",
+    "name": "Wrapped Beacon ETH",
+    "symbol": "WBETH",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x418d75f65a02b3d53b2418fb8e1fe493759c7605",
     "name": "Wrapped BNB (Wormhole)",
     "symbol": "WBNB",

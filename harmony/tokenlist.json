@@ -329,6 +329,13 @@
     "stable": false
   },
   {
+    "address": "0xbec775cb42abfa4288de81f387a9b1a3c4bc552a",
+    "name": "Sushi",
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x50ae1aba372b836523c982d8ce88e89aa8a92863",
     "name": "Telcoin",
     "symbol": "TEL",

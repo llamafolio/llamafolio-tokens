@@ -19950,6 +19950,13 @@
     "stable": false
   },
   {
+    "address": "0xa2e3356610840701bdf5611a53974510ae27e2e1",
+    "name": "Wrapped Beacon ETH",
+    "symbol": "WBETH",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
     "name": "WBNB Token",
     "symbol": "WBNB",
