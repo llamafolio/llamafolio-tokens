@@ -14231,6 +14231,13 @@
     "stable": false
   },
   {
+    "address": "0x25d887ce7a35172c62febfd67a1856f20faebb00",
+    "name": "Pepe",
+    "symbol": "PEPE",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xadfaed188291ae479f458ee2d3f88fe7e8cc712f",
     "name": "Pepe CEO BSC",
     "symbol": "pepe ceo",

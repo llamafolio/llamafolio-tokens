@@ -1841,6 +1841,13 @@
     "stable": false
   },
   {
+    "address": "0x25d887ce7a35172c62febfd67a1856f20faebb00",
+    "name": "Pepe",
+    "symbol": "PEPE",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x7ddf25cb4861590578f1fb85fcf1c5afd00a01de",
     "name": "PEPER",
     "symbol": "peper",

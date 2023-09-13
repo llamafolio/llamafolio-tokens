@@ -12684,6 +12684,13 @@
     "stable": false
   },
   {
+    "address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
+    "name": "Liquity USD",
+    "symbol": "LUSD",
+    "decimals": 18,
+    "stable": true
+  },
+  {
     "address": "0xd39a2cecba2657e125ba6a5c98ad2f6b6d7e83fd",
     "name": "Luxo",
     "symbol": "luxo",
