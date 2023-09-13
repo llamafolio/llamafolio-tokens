@@ -7399,6 +7399,13 @@
     "stable": true
   },
   {
+    "address": "0xdf3ac4f479375802a821f7b7b46cd7eb5e4262cc",
+    "name": "eUSD",
+    "symbol": "EUSD",
+    "decimals": 18,
+    "stable": true
+  },
+  {
     "address": "0xd6caf5bd23cf057f5fccce295dcc50c01c198707",
     "name": "Evanesco Network",
     "symbol": "EVA",

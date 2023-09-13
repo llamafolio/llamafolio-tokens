@@ -357,6 +357,20 @@
     "stable": false
   },
   {
+    "address": "0x985458e523db3d53125813ed68c274899e9dfab4",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "stable": true
+  },
+  {
+    "address": "0x3c2b8be99c50593081eaa2a724f0b8285f5aba8f",
+    "name": "Tether",
+    "symbol": "USDT",
+    "decimals": 6,
+    "stable": true
+  },
+  {
     "address": "0x224e64ec1bdce3870a6a6c777edd450454068fec",
     "name": "Wrapped UST Token",
     "symbol": "UST",
