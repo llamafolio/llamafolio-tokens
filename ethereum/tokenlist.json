@@ -3136,6 +3136,13 @@
     "stable": false
   },
   {
+    "address": "0xf2b2f7b47715256ce4ea43363a867fdce9353e3a",
+    "name": "Bitgert",
+    "symbol": "BRISE",
+    "decimals": 9,
+    "stable": false
+  },
+  {
     "address": "0x4674a4f24c5f63d53f22490fb3a08eaaad739ff8",
     "name": "Brokoli",
     "symbol": "BRKL",
@@ -17250,6 +17257,13 @@
   {
     "address": "0xaaa7a10a8ee237ea61e8ac46c50a8db8bcc1baaa",
     "name": "QANX Token",
+    "symbol": "QANX",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xaaa9214f675316182eaa21c85f0ca99160cc3aaa",
+    "name": "QANplatform",
     "symbol": "QANX",
     "decimals": 18,
     "stable": false

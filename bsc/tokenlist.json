@@ -15309,6 +15309,13 @@
     "stable": false
   },
   {
+    "address": "0xaaa9214f675316182eaa21c85f0ca99160cc3aaa",
+    "name": "QANplatform",
+    "symbol": "QANX",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x238f5cc8bd082895d1f832cef967e7bb7ba4f992",
     "name": "QatarGrow",
     "symbol": "qatargrow",
