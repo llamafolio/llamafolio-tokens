@@ -1,4 +1,5 @@
 import arbitrum from './arbitrum/tokenlist.json'
+import arbitrumNova from './arbitrum-nova/tokenlist.json'
 import avalanche from './avalanche/tokenlist.json'
 import bsc from './bsc/tokenlist.json'
 import base from './base/tokenlist.json'
@@ -11,6 +12,7 @@ import moonbeam from './moonbeam/tokenlist.json'
 import optimism from './optimism/tokenlist.json'
 import polygon from './polygon/tokenlist.json'
 import polygonZkevm from './polygon-zkevm/tokenlist.json'
+import zksyncEra from './zksync-era/tokenlist.json'
 
 export interface Token {
   address: string
@@ -48,6 +50,7 @@ export type Chain = (typeof chainNames)[number]
 
 export const chains: { [chain in Chain]: Token[] } = {
   arbitrum,
+  'arbitrum-nova': arbitrumNova,
   avalanche,
   bsc,
   base,
@@ -59,7 +62,8 @@ export const chains: { [chain in Chain]: Token[] } = {
   moonbeam,
   optimism,
   polygon,
-  'polygon-zkevm': polygonZkevm
+  'polygon-zkevm': polygonZkevm,
+  'zksync-era': zksyncEra
 }
 
 const registries: { [chain: string]: ChainTokenRegistry } = {}
