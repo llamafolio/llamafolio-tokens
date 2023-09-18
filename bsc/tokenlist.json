@@ -19040,6 +19040,13 @@
     "stable": true
   },
   {
+    "address": "0x40af3827f39d0eacbf4a168f8d4ee67c121d11c9",
+    "name": "TrueUSD",
+    "symbol": "TUSD",
+    "decimals": 18,
+    "stable": true
+  },
+  {
     "address": "0xe500acdbd53a8fcbe2b01c0f9c2ccc676d0fc6f6",
     "name": "TiraVerse",
     "symbol": "tvrs",
