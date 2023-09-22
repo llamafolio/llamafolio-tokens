@@ -23415,13 +23415,6 @@
     "stable": false
   },
   {
-    "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
-    "name": "Wrapped stETH",
-    "symbol": "WSTETH",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0xf0dc76c22139ab22618ddfb498be1283254612b1",
     "name": "Wrapped Star",
     "symbol": "WSTR",
