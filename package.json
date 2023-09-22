@@ -1,6 +1,6 @@
 {
   "name": "@llamafolio/tokens",
-  "version": "0.1.93",
+  "version": "0.1.94",
   "description": "List of tokens used by LlamaFolio.",
   "type": "module",
   "source": "index.ts",
