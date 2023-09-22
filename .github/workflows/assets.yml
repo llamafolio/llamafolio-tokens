@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - run: mkdir -p public && cp -r arbitrum avalanche bsc celo ethereum fantom gnosis harmony optimism polygon public
+    - run: mkdir -p public && cp -r arbitrum arbitrum-nova avalanche base bsc celo ethereum fantom gnosis harmony moonbeam optimism polygon polygon-zkevm zksync-era public
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
