@@ -700,13 +700,6 @@
     "stable": false
   },
   {
-    "address": "0x91fa20244fb509e8289ca630e5db3e9166233fdc",
-    "name": "Governance OHM",
-    "symbol": "gOHM",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x02838746d9e1413e07ee064fcbada57055417f21",
     "name": "Granary",
     "symbol": "grain",

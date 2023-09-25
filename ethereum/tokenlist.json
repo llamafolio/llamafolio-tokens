@@ -9086,13 +9086,6 @@
     "stable": false
   },
   {
-    "address": "0x0ab87046fbb341d058f17cbc4c1133f25a20a52f",
-    "name": "Governance OHM",
-    "symbol": "gOHM",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0xa64dfe8d86963151e6496bee513e366f6e42ed79",
     "name": "Goku Inu",
     "symbol": "GOKU",
