@@ -2429,13 +2429,6 @@
     "stable": false
   },
   {
-    "address": "0xd8ca34fd379d9ca3c6ee3b3905678320f5b45195",
-    "name": "Governance Ohm",
-    "symbol": "gOHM",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x6f3cc27e17a0f2e52d8e7693ff0d892cea1854bf",
     "name": "Goo",
     "symbol": "GOO",
