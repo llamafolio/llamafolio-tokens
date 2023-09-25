@@ -861,13 +861,6 @@
     "stable": false
   },
   {
-    "address": "0x321e7092a180bb43555132ec53aaa65a5bf84251",
-    "name": "Governance OHM",
-    "symbol": "gOHM",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x2d052048fe7e4f59277e5e5ed5d21d35419fe747",
     "name": "MinerJoe",
     "symbol": "GOLD",
