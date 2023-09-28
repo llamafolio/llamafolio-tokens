@@ -19509,13 +19509,6 @@
     "stable": false
   },
   {
-    "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
-    "name": "Synthetix",
-    "symbol": "SNX",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x65032604dab202aff9adf89300cdb4bd0d059f55",
     "name": "SOBA Token",
     "symbol": "SOBA",

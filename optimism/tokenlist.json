@@ -777,13 +777,6 @@
     "stable": false
   },
   {
-    "address": "0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
-    "name": "Synthetix Network",
-    "symbol": "SNX",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0xba1cf949c382a32a09a17b2adf3587fc7fa664f1",
     "name": "Solana",
     "symbol": "SOL",
