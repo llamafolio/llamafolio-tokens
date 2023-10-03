@@ -5789,6 +5789,13 @@
     "stable": false
   },
   {
+    "address": "0x40379a439d4f6795b6fc9aa5687db461677a2dba",
+    "name": "Real USD",
+    "symbol": "USDR",
+    "decimals": 9,
+    "stable": true
+  },
+  {
     "address": "0x2f1b1662a895c6ba01a99dcaf56778e7d77e5609",
     "name": "Spice USD",
     "symbol": "USDS",
