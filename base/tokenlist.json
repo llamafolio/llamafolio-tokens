@@ -1,5 +1,12 @@
 [
   {
+    "address": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
+    "name": "Aerodrome Finance",
+    "symbol": "AERO",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x4158734d47fc9692176b5085e0f52ee0da5d47f1",
     "name": "Balancer",
     "symbol": "BAL",
