@@ -14,6 +14,13 @@
     "stable": false
   },
   {
+    "address": "0xcf323aad9e522b93f11c352caa519ad0e14eb40f",
+    "name": "Aave",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x14a7b318fed66ffdcc80c1517c172c13852865de",
     "name": "Axie Infinity Shard",
     "symbol": "AXS",
