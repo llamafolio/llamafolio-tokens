@@ -1,5 +1,12 @@
 [
   {
+    "address": "0x8e86e46278518efc1c5ced245cba2c7e3ef11557",
+    "name": "Overnight.fi USD+",
+    "symbol": "USD+",
+    "decimals": 6,
+    "stable": true
+  },
+  {
     "address": "0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4",
     "name": "USD Coin",
     "symbol": "USDC",
