@@ -49,6 +49,13 @@
     "stable": false
   },
   {
+    "address": "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f",
+    "name": "Axelar",
+    "symbol": "AXL",
+    "decimals": 6,
+    "stable": false
+  },
+  {
     "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
     "name": "Axelar Wrapped USDC",
     "symbol": "axlUSDC",
@@ -1032,6 +1039,13 @@
     "address": "0x1e3c6c53f9f60bf8aae0d7774c21fa6b1afddc57",
     "name": "xShrap",
     "symbol": "xshrap",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x9046d36440290ffde54fe0dd84db8b1cfee9107b",
+    "name": "yearn.finance",
+    "symbol": "YFI",
     "decimals": 18,
     "stable": false
   },

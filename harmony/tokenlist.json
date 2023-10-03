@@ -168,6 +168,13 @@
     "stable": false
   },
   {
+    "address": "0xef977d2f931c1978db5f6747666fa1eacb0d0339",
+    "name": "Dai",
+    "symbol": "DAI",
+    "decimals": 18,
+    "stable": true
+  },
+  {
     "address": "0xf155e1a57db0ca820ae37ab4050e0e4c7cfcecd0",
     "name": "Binance-Peg Dogecoin",
     "symbol": "DOGE",

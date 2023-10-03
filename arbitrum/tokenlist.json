@@ -2450,6 +2450,13 @@
     "stable": false
   },
   {
+    "address": "0xe80772eaf6e2e18b651f160bc9158b2a5cafca65",
+    "name": "Overnight.fi USD+",
+    "symbol": "USD+",
+    "decimals": 6,
+    "stable": true
+  },
+  {
     "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
     "name": "USD Coin",
     "symbol": "USDC",

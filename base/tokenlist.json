@@ -7,9 +7,30 @@
     "stable": false
   },
   {
+    "address": "0x1dd2d631c92b1acdfcdd51a0f7145a50130050c4",
+    "name": "AlienBase",
+    "symbol": "ALB",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f",
+    "name": "Axelar",
+    "symbol": "AXL",
+    "decimals": 6,
+    "stable": false
+  },
+  {
     "address": "0x4158734d47fc9692176b5085e0f52ee0da5d47f1",
     "name": "Balancer",
     "symbol": "BAL",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x27d2decb4bfc9c76f0309b8e88dec3a601fe25a8",
+    "name": "Bald",
+    "symbol": "BALD",
     "decimals": 18,
     "stable": false
   },
@@ -24,6 +45,13 @@
     "address": "0x30136b90e532141fed006c61105cff3668b5c774",
     "name": "BlueSwap",
     "symbol": "BLUE",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x78a087d713be963bf307b18f2ff8122ef9a63ae9",
+    "name": "BaseSwap",
+    "symbol": "BSWAP",
     "decimals": 18,
     "stable": false
   },
@@ -87,6 +115,13 @@
     "address": "0x4e0da40b9063dc48364c1c0ffb4ae9d091fc2270",
     "name": "Edgeware",
     "symbol": "EDG",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x2dad3a13ef0c6366220f989157009e501e7938f8",
+    "name": "Extra Finance",
+    "symbol": "EXTRA",
     "decimals": 18,
     "stable": false
   },
@@ -196,6 +231,13 @@
     "stable": false
   },
   {
+    "address": "0xafb2820316e7bc5ef78d295ab9b8bb2257534576",
+    "name": "R",
+    "symbol": "R",
+    "decimals": 18,
+    "stable": true
+  },
+  {
     "address": "0x6653dd4b92a0e5bf8ae570a98906d9d6fd2eec09",
     "name": "RocketSwap",
     "symbol": "RCKT",
@@ -273,6 +315,13 @@
     "stable": false
   },
   {
+    "address": "0xda3de145054ed30ee937865d31b500505c4bdfe7",
+    "name": "Overnight.fi USD+",
+    "symbol": "USD+",
+    "decimals": 18,
+    "stable": true
+  },
+  {
     "address": "0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca",
     "name": "USD Coin",
     "symbol": "USDC",
@@ -287,6 +336,13 @@
     "stable": true
   },
   {
+    "address": "0xff8adec2221f9f4d8dfbafa6b9a297d17603493d",
+    "name": "Moonwell",
+    "symbol": "WELL",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x4200000000000000000000000000000000000006",
     "name": "Wrapped Ether",
     "symbol": "WETH",
@@ -297,6 +353,13 @@
     "address": "0x01cc6b33c63cee896521d63451896c14d42d05ea",
     "name": "Synth escrowed token",
     "symbol": "xSYNTH",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x9eaf8c1e34f05a589eda6bafdf391cf6ad3cb239",
+    "name": "yearn.finance",
+    "symbol": "YFI",
     "decimals": 18,
     "stable": false
   },
