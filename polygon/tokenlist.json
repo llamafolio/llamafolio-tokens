@@ -4704,6 +4704,13 @@
     "stable": false
   },
   {
+    "address": "0xbfa35599c7aebb0dace9b5aa3ca5f2a79624d8eb",
+    "name": "Retro Finance",
+    "symbol": "RETRO",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x70c006878a5a50ed185ac4c87d837633923de296",
     "name": "REVV",
     "symbol": "REVV",
