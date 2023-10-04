@@ -12019,6 +12019,13 @@
     "stable": false
   },
   {
+    "address": "0xed1167b6dc64e8a366db86f2e952a482d0981ebd",
+    "name": "Lybra",
+    "symbol": "LBR",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xffe510a92434a0df346c5e72a3494b043cf249eb",
     "name": "LUX BIO EXCHANGE COIN",
     "symbol": "LBXC",
