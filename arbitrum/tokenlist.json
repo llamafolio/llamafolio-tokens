@@ -1288,6 +1288,13 @@
     "stable": false
   },
   {
+    "address": "0xa23e44aea714fbbc08ef28340d78067b9a8cad73",
+    "name": "Lybra",
+    "symbol": "LBR",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x13ad51ed4f1b7e9dc168d8a00cb3f4ddd85efa60",
     "name": "Lido DAO",
     "symbol": "LDO",
