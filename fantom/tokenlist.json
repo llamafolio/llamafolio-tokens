@@ -1358,13 +1358,6 @@
     "stable": false
   },
   {
-    "address": "0xd7028092c830b5c8fce061af2e593413ebbc1fc1",
-    "name": "sFTMX",
-    "symbol": "sFTMX",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x462fa81050f0ff732d59df121bfd9b8bab072018",
     "name": "Shack Token",
     "symbol": "SHACK",
