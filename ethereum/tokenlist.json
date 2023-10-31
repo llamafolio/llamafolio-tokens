@@ -16940,6 +16940,13 @@
     "stable": false
   },
   {
+    "address": "0xda47862a83dac0c112ba89c6abc2159b95afd71c",
+    "name": "Prisma Governance Token",
+    "symbol": "PRISMA",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x3adfc4999f77d04c8341bac5f3a76f58dff5b37a",
     "name": "Privatix",
     "symbol": "PRIX",
