@@ -5795,7 +5795,7 @@
     "decimals": 6,
     "coingeckoId": "usd-coin",
     "wallet": true,
-    "stable": false
+    "stable": true
   },
   {
     "address": "0x4318cb63a2b8edf2de971e2f17f77097e499459d",
