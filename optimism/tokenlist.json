@@ -49,6 +49,13 @@
     "stable": false
   },
   {
+    "address": "0xaeaeed23478c3a4b798e4ed40d8b7f41366ae861",
+    "name": "Ankr Network",
+    "symbol": "ANKR",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f",
     "name": "Axelar",
     "symbol": "AXL",
@@ -157,6 +164,13 @@
     "address": "0xec6adef5e1006bb305bb1975333e8fc4071295bf",
     "name": "Cartesi Token",
     "symbol": "CTSI",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x14778860e937f509e651192a90589de711fb88a9",
+    "name": "CyberConnect",
+    "symbol": "CYBER",
     "decimals": 18,
     "stable": false
   },
@@ -469,6 +483,13 @@
     "stable": false
   },
   {
+    "address": "0x3a18dcc9745edcd1ef33ecb93b0b6eba5671e7ca",
+    "name": "Kujira",
+    "symbol": "KUJI",
+    "decimals": 6,
+    "stable": false
+  },
+  {
     "address": "0x920cf626a271321c151d027030d5d08af699456b",
     "name": "Kwenta",
     "symbol": "KWENTA",
@@ -542,13 +563,6 @@
     "address": "0x929b939f8524c3be977af57a4a0ad3fb1e374b50",
     "name": "mStable Governance Token: Meta",
     "symbol": "MTA",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0xc96f4f893286137ac17e07ae7f217ffca5db3ab6",
-    "name": "NFTEarth",
-    "symbol": "NFTE",
     "decimals": 18,
     "stable": false
   },

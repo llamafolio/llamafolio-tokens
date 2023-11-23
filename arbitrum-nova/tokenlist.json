@@ -1,5 +1,12 @@
 [
   {
+    "address": "0xf823c3cd3cebe0a1fa952ba88dc9eef8e0bf46ad",
+    "name": "Arbitrum",
+    "symbol": "ARB",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
     "name": "Dai",
     "symbol": "DAI",

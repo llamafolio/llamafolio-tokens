@@ -28,6 +28,13 @@
     "stable": false
   },
   {
+    "address": "0x06b19a0ce12dc71f1c7a6dd39e8983e089c40e0d",
+    "name": "Badger",
+    "symbol": "BADGER",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x4da9464daf2b878e32e29115e2cfd786fe84692a",
     "name": "BakerySwap",
     "symbol": "BAKE",
@@ -140,6 +147,20 @@
     "stable": false
   },
   {
+    "address": "0xe176ebe47d621b984a73036b9da5d834411ef734",
+    "name": "BUSD",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "stable": true
+  },
+  {
+    "address": "0xd562c88e0f8e7dae43076018bb1ea3115617984d",
+    "name": "Celsius Network",
+    "symbol": "CEL",
+    "decimals": 4,
+    "stable": false
+  },
+  {
     "address": "0x6cc35220349c444c39b8e26b359757739aaec952",
     "name": "Cougar Token",
     "symbol": "CGS",
@@ -238,9 +259,30 @@
     "stable": false
   },
   {
+    "address": "0x002fa662f2e09de7c306d2bab0085ee9509488ff",
+    "name": "The Graph",
+    "symbol": "GRT",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x10010078a54396f62c96df8532dc2b4847d47ed3",
     "name": "Hundred Finance",
     "symbol": "HND",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x5dfeadcdd2d4eb29ac5ae876daa07ffd07bf6483",
+    "name": "Holo",
+    "symbol": "HOT",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xbaa0974354680b0e8146d64bb27fb92c03c4a2f2",
+    "name": "Huobi",
+    "symbol": "HT",
     "decimals": 18,
     "stable": false
   },
@@ -276,6 +318,13 @@
     "address": "0x218532a12a389a4a92fc0c5fb22901d1c19198aa",
     "name": "ChainLink Token",
     "symbol": "LINK",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xbd3e698b51d340cc53b0cc549b598c13e0172b7c",
+    "name": "Livepeer",
+    "symbol": "LPT",
     "decimals": 18,
     "stable": false
   },
@@ -336,6 +385,13 @@
     "stable": false
   },
   {
+    "address": "0x35de8649e1e4fd1a7bd3b14f7e24e5e7887174ed",
+    "name": "The Sandbox",
+    "symbol": "SAND",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x7b9c523d59aefd362247bd5601a89722e3774dd2",
     "name": "Synthetix Network Token",
     "symbol": "SNX",
@@ -343,9 +399,23 @@
     "stable": false
   },
   {
+    "address": "0x266f341e33aa61c30c6a9af89314811a5b097cb4",
+    "name": "Storj",
+    "symbol": "STORJ",
+    "decimals": 8,
+    "stable": false
+  },
+  {
     "address": "0xbec775cb42abfa4288de81f387a9b1a3c4bc552a",
     "name": "Sushi",
     "symbol": "SUSHI",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x77d046614710fddf5ca3e3ce85f4f09f7abc283c",
+    "name": "SXP",
+    "symbol": "SXP",
     "decimals": 18,
     "stable": false
   },
@@ -417,6 +487,27 @@
     "name": "Euphoria",
     "symbol": "WAGMI",
     "decimals": 9,
+    "stable": false
+  },
+  {
+    "address": "one14tvk6p8spdcch8k58cuahrnnmesua79he3xzld",
+    "name": "Wrapped AVAX",
+    "symbol": "WAVAX",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x673d2ec54e0a6580fc7e098295b70e3ce0350d03",
+    "name": "Wrapped BNB",
+    "symbol": "WBNB",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x3095c7557bcb296ccc6e363de01b760ba031f2d9",
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC",
+    "decimals": 8,
     "stable": false
   },
   {

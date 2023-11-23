@@ -1323,6 +1323,13 @@
     "stable": false
   },
   {
+    "address": "0x6e2a43be0b1d33b726f0ca3b8de60b3482b8b050",
+    "name": "Arkham",
+    "symbol": "ARKM",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x1337def16f9b486faed0293eb623dc8395dfe46a",
     "name": "Armor",
     "symbol": "ARMOR",
@@ -2226,6 +2233,13 @@
     "stable": false
   },
   {
+    "address": "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce",
+    "name": "Beam",
+    "symbol": "BEAM",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xbea0000029ad1c77d3d5d23ba2d8893db9d1efab",
     "name": "Bean",
     "symbol": "BEAN",
@@ -2919,6 +2933,13 @@
     "stable": false
   },
   {
+    "address": "0x1151cb3d861920e07a38e03eead12c32178567f6",
+    "name": "Bonk",
+    "symbol": "BONK",
+    "decimals": 5,
+    "stable": false
+  },
+  {
     "address": "0x55af5865807b196bd0197e0902746f31fbccfa58",
     "name": "Spookyswap",
     "symbol": "BOO",
@@ -2936,6 +2957,13 @@
     "address": "0x26fb86579e371c7aedc461b2ddef0a8628c93d3b",
     "name": "BORA",
     "symbol": "BORA",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x64d0f55cd8c7133a9d7102b13987235f486f2224",
+    "name": "SwissBorg",
+    "symbol": "BORG",
     "decimals": 18,
     "stable": false
   },
@@ -3594,6 +3622,13 @@
     "address": "0x152649ea73beab28c5b49b26eb48f7ead6d4c898",
     "name": "PancakeSwap",
     "symbol": "CAKE",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x56c03b8c4fa80ba37f5a7b60caaaef749bb5b220",
+    "name": "CANTO",
+    "symbol": "CANTO",
     "decimals": 18,
     "stable": false
   },
@@ -4585,6 +4620,13 @@
     "stable": false
   },
   {
+    "address": "0x6b431b8a964bfcf28191b07c91189ff4403957d0",
+    "name": "CorgiAI",
+    "symbol": "CORGIAI",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x26a604dffe3ddab3bee816097f81d3c4a2a4cf97",
     "name": "CorionX",
     "symbol": "CORX",
@@ -5124,6 +5166,15 @@
     "stable": false
   },
   {
+    "address": "0xccf4429db6322d5c611ee964527d42e5d685dd6a",
+    "name": "cWBTC",
+    "symbol": "CWBTC",
+    "decimals": 8,
+    "coingeckoId": "compound-wrapped-btc",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x374fb05c96c36348b92e38fb088b26b8511e3b3d",
     "name": "CROWD",
     "symbol": "CWD",
@@ -5148,6 +5199,13 @@
     "address": "0xb6ee9668771a79be7967ee29a63d4184f8097143",
     "name": "CargoX",
     "symbol": "CXO",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x14778860e937f509e651192a90589de711fb88a9",
+    "name": "CyberConnect",
+    "symbol": "CYBER",
     "decimals": 18,
     "stable": false
   },
@@ -6853,6 +6911,13 @@
     "stable": false
   },
   {
+    "address": "0x26aad156ba8efa501b32b42ffcdc8413f90e9c99",
+    "name": "Open Campus",
+    "symbol": "EDU",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x656c00e1bcd96f256f224ad9112ff426ef053733",
     "name": "Efinity Token",
     "symbol": "EFI",
@@ -7222,6 +7287,13 @@
     "symbol": "ERN",
     "decimals": 18,
     "stable": false
+  },
+  {
+    "address": "0x91a69021b0baef3445e51726458a0ce601471846",
+    "name": "Ethos Reserve Note",
+    "symbol": "ERN",
+    "decimals": 18,
+    "stable": true
   },
   {
     "address": "0x07bac35846e5ed502aa91adf6a9e7aa210f2dcbe",
@@ -7663,6 +7735,13 @@
     "symbol": "FCT",
     "decimals": 18,
     "stable": false
+  },
+  {
+    "address": "0xc5f0f7b66764f6ec8c8dff7ba683102295e16409",
+    "name": "First Digital USD",
+    "symbol": "FDUSD",
+    "decimals": 18,
+    "stable": true
   },
   {
     "address": "0x23352036e911a22cfc692b5e2e196692658aded9",
@@ -11858,6 +11937,13 @@
     "stable": false
   },
   {
+    "address": "0x96543ef8d2c75c26387c1a319ae69c0bee6f3fe7",
+    "name": "Kujira",
+    "symbol": "KUJI",
+    "decimals": 6,
+    "stable": false
+  },
+  {
     "address": "0x48c276e8d03813224bb1e55f953adb6d02fd3e02",
     "name": "Kuma Inu",
     "symbol": "KUMA",
@@ -12995,6 +13081,13 @@
     "address": "0xbe1dbe6741fb988fb571ab1e28cffb36e3c62629",
     "name": "Massive Protocol",
     "symbol": "mav",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x7448c7456a97769f6cd04f1e83a4a23ccdc46abd",
+    "name": "Maverick Protocol",
+    "symbol": "MAV",
     "decimals": 18,
     "stable": false
   },
@@ -14731,13 +14824,6 @@
     "address": "0x8e0fe2947752be0d5acf73aae77362daf79cb379",
     "name": "NFTrade",
     "symbol": "NFTD",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x0f9b80fc3c8b9123d0aef43df58ebdbc034a8901",
-    "name": "NFTEarth",
-    "symbol": "nfte",
     "decimals": 18,
     "stable": false
   },
@@ -17255,6 +17341,13 @@
     "stable": false
   },
   {
+    "address": "0x6c3ea9036406852006290770bedfcaba0e23a0e8",
+    "name": "PayPal USD",
+    "symbol": "PYUSD",
+    "decimals": 6,
+    "stable": true
+  },
+  {
     "address": "0x578dc16c47327429ff1594fa3eb77a96f38438e0",
     "name": "Paradigm Zero",
     "symbol": "pz",
@@ -17671,6 +17764,13 @@
     "address": "0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6",
     "name": "Raiden Token",
     "symbol": "RDN",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x137ddb47ee24eaa998a535ab00378d6bfa84f893",
+    "name": "Radiant Capital",
+    "symbol": "RDNT",
     "decimals": 18,
     "stable": false
   },
@@ -20381,13 +20481,6 @@
     "name": "SWTCoin",
     "symbol": "SWAT",
     "decimals": 8,
-    "stable": false
-  },
-  {
-    "address": "0xb4b9dc1c77bdbb135ea907fd5a08094d98883a35",
-    "name": "Sweatcoin (Sweat Economy)",
-    "symbol": "SWEAT",
-    "decimals": 18,
     "stable": false
   },
   {
@@ -23177,6 +23270,13 @@
     "stable": false
   },
   {
+    "address": "0x163f8c2467924be0ae7b5347228cabf260318753",
+    "name": "Worldcoin",
+    "symbol": "WLD",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x73a9fb46e228628f8f9bb9004eca4f4f529d3998",
     "name": "Wrapped LEO",
     "symbol": "WLEO",
@@ -23202,6 +23302,15 @@
     "name": "Wrapped Minima",
     "symbol": "wminima",
     "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x263b6b028f3e4ed8c4329eb2b5f409ee38d97296",
+    "name": "World Mobile Token",
+    "symbol": "WMT",
+    "decimals": 6,
+    "coingeckoId": "world-mobile-token",
+    "wallet": true,
     "stable": false
   },
   {
