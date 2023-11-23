@@ -23,7 +23,7 @@
     "prebuild": "rm -rf build",
     "build": "tsup",
     "test": "node test/index.test.js",
-    "stable": "tsx scripts/stable.ts",
+    "stable": "node_modules/.bin/bun scripts/stable.ts",
     "add-token": "node_modules/.bin/bun scripts/add-token.ts",
     "resize-logos": "tsx scripts/resize-logos.ts",
     "resolve-tokens": "tsx scripts/resolve-tokens.ts",

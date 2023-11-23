@@ -1,0 +1,25 @@
+[
+  {
+    "address": "0xa41b3067ec694dbec668c389550ba8fc589e5797",
+    "name": "Binary Swap",
+    "symbol": "0101",
+    "decimals": 18,
+    "coingeckoId": "binary-swap",
+    "wallet": true,
+    "stable": false
+  },
+  {
+    "address": "0xe7798f023fc62146e8aa1b36da45fb70855a77ea",
+    "name": "Bridged Binance-Peg Ethereum (opBNB)",
+    "symbol": "ETH",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x4200000000000000000000000000000000000006",
+    "name": "Wrapped BNB",
+    "symbol": "WBNB",
+    "decimals": 18,
+    "stable": false
+  }
+]

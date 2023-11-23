@@ -196,6 +196,13 @@
     "stable": false
   },
   {
+    "address": "0xaeaeed23478c3a4b798e4ed40d8b7f41366ae861",
+    "name": "Ankr Network",
+    "symbol": "ANKR",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x61a1ff55c5216b636a294a07d77c6f4df10d3b56",
     "name": "ApeX Token",
     "symbol": "apex",
@@ -336,6 +343,13 @@
     "stable": false
   },
   {
+    "address": "0x11bf4f05eb28b802ed3ab672594decb20ffe2313",
+    "name": "Aurory",
+    "symbol": "AURY",
+    "decimals": 9,
+    "stable": false
+  },
+  {
     "address": "0x2404572eaa937c5a64c84ee597faae4c13823782",
     "name": "Arbi Wiz",
     "symbol": "awiz",
@@ -348,6 +362,13 @@
     "symbol": "AXL",
     "decimals": 6,
     "stable": false
+  },
+  {
+    "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+    "name": "Bridged USD Coin (Axelar)",
+    "symbol": "AXLUSDC",
+    "decimals": 6,
+    "stable": true
   },
   {
     "address": "0xbfa641051ba0a0ad1b0acf549a89536a0d76472e",
@@ -445,6 +466,13 @@
     "name": "BarnBridge",
     "symbol": "BOND",
     "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x09199d9a5f4448d0848e4395d065e1ad9c4a1f74",
+    "name": "Bonk",
+    "symbol": "BONK",
+    "decimals": 5,
     "stable": false
   },
   {
@@ -609,6 +637,13 @@
     "stable": false
   },
   {
+    "address": "0xcaa38bcc8fb3077975bbe217acfaa449e6596a84",
+    "name": "DAO Maker",
+    "symbol": "DAO",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xd3f1da62cafb7e7bc6531ff1cef6f414291f03d3",
     "name": "Doubloon",
     "symbol": "DBL",
@@ -768,6 +803,13 @@
     "symbol": "EMAX",
     "decimals": 18,
     "stable": false
+  },
+  {
+    "address": "0xa334884bf6b0a066d553d19e507315e839409e62",
+    "name": "Ethos Reserve Note",
+    "symbol": "ERN",
+    "decimals": 18,
+    "stable": true
   },
   {
     "address": "0x67c31056358b8977ea95a3a899dd380d4bced706",
@@ -1274,6 +1316,13 @@
     "stable": false
   },
   {
+    "address": "0x3a18dcc9745edcd1ef33ecb93b0b6eba5671e7ca",
+    "name": "Kujira",
+    "symbol": "KUJI",
+    "decimals": 6,
+    "stable": false
+  },
+  {
     "address": "0x2cab3abfc1670d1a452df502e216a66883cdf079",
     "name": "Layer2DAO",
     "symbol": "L2DAO",
@@ -1652,13 +1701,6 @@
     "stable": false
   },
   {
-    "address": "0xb261104a83887ae92392fb5ce5899fcfe5481456",
-    "name": "NFTEarth",
-    "symbol": "nfte",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0xcfe3fbc98d80f7eca0bc76cd1f406a19dd425896",
     "name": "Scalara NFT Index",
     "symbol": "NFTI",
@@ -1788,6 +1830,13 @@
     "address": "0xd29f8a9e76ef42ba9f749583ed07cae7bfaec389",
     "name": "opxSliz",
     "symbol": "opxvesliz",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xf3c091ed43de9c270593445163a41a876a0bb3dd",
+    "name": "Orbs",
+    "symbol": "ORBS",
     "decimals": 18,
     "stable": false
   },
@@ -2495,6 +2544,13 @@
     "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
     "name": "Tether",
     "symbol": "USDT",
+    "decimals": 6,
+    "stable": true
+  },
+  {
+    "address": "0xb1084db8d3c05cebd5fa9335df95ee4b8a0edc30",
+    "name": "Overnight.fi USDT+",
+    "symbol": "USDT+",
     "decimals": 6,
     "stable": true
   },
