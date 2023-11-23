@@ -833,6 +833,13 @@
     "stable": false
   },
   {
+    "address": "0xe5b49820e5a1063f6f4ddf851327b5e8b2301048",
+    "name": "Bonk",
+    "symbol": "BONK",
+    "decimals": 5,
+    "stable": false
+  },
+  {
     "address": "0xff88434e29d1e2333ad6baa08d358b436196da6b",
     "name": "BoringDAO",
     "symbol": "BORING",
@@ -1792,6 +1799,13 @@
     "stable": false
   },
   {
+    "address": "0xb03e3b00baf9954bf1604d09a4dbd5cf88e1f695",
+    "name": "Open Campus",
+    "symbol": "EDU",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x51de72b17c7bd12e9e6d69eb506a669eb6b5249e",
     "name": "Waves Ducks",
     "symbol": "EGG",
@@ -1874,6 +1888,13 @@
     "symbol": "ERN",
     "decimals": 18,
     "stable": false
+  },
+  {
+    "address": "0xc3a9a54c043f348027fffaac0f2f996123a19bf4",
+    "name": "Ethos Reserve Note",
+    "symbol": "ERN",
+    "decimals": 18,
+    "stable": true
   },
   {
     "address": "0xa7051c5a22d963b81d71c2ba64d46a877fbc1821",
@@ -2391,6 +2412,13 @@
     "name": "GAMEE",
     "symbol": "GMEE",
     "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x714db550b574b3e927af3d93e26127d15721d4c2",
+    "name": "STEPN",
+    "symbol": "GMT",
+    "decimals": 8,
     "stable": false
   },
   {
@@ -5759,6 +5787,15 @@
     "symbol": "USDC",
     "decimals": 6,
     "stable": true
+  },
+  {
+    "address": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": 6,
+    "coingeckoId": "usd-coin",
+    "wallet": true,
+    "stable": false
   },
   {
     "address": "0x4318cb63a2b8edf2de971e2f17f77097e499459d",

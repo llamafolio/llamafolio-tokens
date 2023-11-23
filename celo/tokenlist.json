@@ -14,6 +14,13 @@
     "stable": false
   },
   {
+    "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+    "name": "Bridged USD Coin (Axelar)",
+    "symbol": "AXLUSDC",
+    "decimals": 6,
+    "stable": true
+  },
+  {
     "address": "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c",
     "name": "Beefy Finance",
     "symbol": "BIFI",
@@ -24,6 +31,13 @@
     "address": "0xa649325aa7c5093d12d6f98eb4378deae68ce23f",
     "name": "Anyswap BNB",
     "symbol": "BNB",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x471ece3750da237f93b8e339c536989b8978a438",
+    "name": "Celo",
+    "symbol": "CELO",
     "decimals": 18,
     "stable": false
   },
@@ -207,6 +221,13 @@
     "name": "Optics v2 WBTC",
     "symbol": "WBTC",
     "decimals": 8,
+    "stable": false
+  },
+  {
+    "address": "0xd629eb00deced2a080b7ec630ef6ac117e614f1b",
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC",
+    "decimals": 18,
     "stable": false
   },
   {

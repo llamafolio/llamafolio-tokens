@@ -8,7 +8,9 @@ import ethereum from './ethereum/tokenlist.json'
 import fantom from './fantom/tokenlist.json'
 import gnosis from './gnosis/tokenlist.json'
 import harmony from './harmony/tokenlist.json'
+import linea from './linea/tokenlist.json'
 import moonbeam from './moonbeam/tokenlist.json'
+import opbnb from './opbnb/tokenlist.json'
 import optimism from './optimism/tokenlist.json'
 import polygon from './polygon/tokenlist.json'
 import polygonZkevm from './polygon-zkevm/tokenlist.json'
@@ -39,7 +41,9 @@ export const chainNames = [
   'fantom',
   'gnosis',
   'harmony',
+  'linea',
   'moonbeam',
+  'opbnb',
   'optimism',
   'polygon',
   'polygon-zkevm',
@@ -59,7 +63,9 @@ export const chains: { [chain in Chain]: Token[] } = {
   fantom,
   gnosis,
   harmony,
+  linea,
   moonbeam,
+  opbnb,
   optimism,
   polygon,
   'polygon-zkevm': polygonZkevm,

@@ -7,6 +7,13 @@
     "stable": false
   },
   {
+    "address": "0xdf474b7109b73b7d57926d43598d5934131136b2",
+    "name": "Ankr Network",
+    "symbol": "ANKR",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x120ef59b80774f02211563834d8e3b72cb1649d6",
     "name": "Balancer",
     "symbol": "BAL",
@@ -59,6 +66,13 @@
     "address": "0x6b856a14cea1d7dcfaf80fa6936c0b75972ccace",
     "name": "Frax Share",
     "symbol": "FXS",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x6a80a465409ce8d36c513129c0feea61bed579ba",
+    "name": "Kyber Network Crystal",
+    "symbol": "KNC",
     "decimals": 18,
     "stable": false
   },

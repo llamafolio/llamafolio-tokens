@@ -5,6 +5,7 @@ import path from 'node:path'
 import url from 'node:url'
 
 import { updateTokenList } from './update-token-list'
+import { sleep } from './utilities'
 
 const __dirname = path.dirname(url.fileURLToPath(import.meta.url))
 
@@ -27,7 +28,9 @@ export const coingeckoPlatformToChain = {
   ethereum: 'ethereum',
   fantom: 'fantom',
   'harmony-shard-0': 'harmony',
+  linea: 'linea',
   moonbeam: 'moonbeam',
+  opbnb: 'opbnb',
   'polygon-pos': 'polygon',
   'polygon-zkevm': 'polygon-zkevm',
   'optimistic-ethereum': 'optimism',
@@ -36,29 +39,51 @@ export const coingeckoPlatformToChain = {
 }
 
 async function getCoingeckoTokens(id: string) {
-  const res = await fetch(`https://api.coingecko.com/api/v3/coins/${id}`)
-  const json = (await res.json()) as any
+  let retries = 0
 
-  const tokensByChain = {} as Record<string, any>
+  while (retries < 3) {
+    retries++
 
-  for (const coingecko_chain in json.detail_platforms) {
-    const chain = coingeckoPlatformToChain[coingecko_chain as keyof typeof coingeckoPlatformToChain]
-    if (!chain) {
-      console.log(`Chain ${coingecko_chain} not supported yet`)
-      continue
-    }
+    const res = await fetch(`https://api.coingecko.com/api/v3/coins/${id}`)
 
-    tokensByChain[chain] = {
-      logoUrl: json.image.large,
-      address: json.detail_platforms[coingecko_chain].contract_address.toLowerCase(),
-      name: json.name,
-      symbol: json.symbol.toUpperCase(),
-      decimals: json.detail_platforms[coingecko_chain].decimal_place,
-      coingeckoId: id
+    // rate limit, retry
+    if (res.status === 429) {
+      console.log(`Rate limit: ${id}, retries: ${retries}...`)
+      await sleep(60_000)
+    } else {
+      if (!res.ok) {
+        console.error(`Error [${res.status}]: ${res.statusText}`)
+        return {}
+      }
+
+      const json = (await res.json()) as any
+
+      const tokensByChain = {} as Record<string, any>
+
+      for (const coingecko_chain in json.detail_platforms) {
+        const chain = coingeckoPlatformToChain[coingecko_chain as keyof typeof coingeckoPlatformToChain]
+        if (!chain) {
+          console.log(`Chain ${coingecko_chain} not supported yet`)
+          continue
+        }
+
+        tokensByChain[chain] = {
+          logoUrl: json.image.large,
+          address: json.detail_platforms[coingecko_chain].contract_address.toLowerCase(),
+          name: json.name,
+          symbol: json.symbol.toUpperCase(),
+          decimals: json.detail_platforms[coingecko_chain].decimal_place,
+          coingeckoId: id
+        }
+      }
+
+      return tokensByChain
     }
   }
 
-  return tokensByChain
+  console.error(`Failed to get coin: ${id}`)
+
+  return {}
 }
 
 function help() {}

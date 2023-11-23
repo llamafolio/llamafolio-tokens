@@ -21,6 +21,13 @@
     "stable": false
   },
   {
+    "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+    "name": "Bridged USD Coin (Axelar)",
+    "symbol": "AXLUSDC",
+    "decimals": 6,
+    "stable": true
+  },
+  {
     "address": "0x4158734d47fc9692176b5085e0f52ee0da5d47f1",
     "name": "Balancer",
     "symbol": "BAL",
@@ -119,6 +126,13 @@
     "stable": false
   },
   {
+    "address": "0xa334884bf6b0a066d553d19e507315e839409e62",
+    "name": "Ethos Reserve Note",
+    "symbol": "ERN",
+    "decimals": 18,
+    "stable": true
+  },
+  {
     "address": "0x2dad3a13ef0c6366220f989157009e501e7938f8",
     "name": "Extra Finance",
     "symbol": "EXTRA",
@@ -203,13 +217,6 @@
     "stable": true
   },
   {
-    "address": "0xc2106ca72996e49bbadcb836eec52b765977fd20",
-    "name": "NFTEarthOFT",
-    "symbol": "NFTE",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x13741c5df9ab03e7aa9fb3bf1f714551dd5a5f8a",
     "name": "Noggles",
     "symbol": "NOGS",
@@ -252,6 +259,13 @@
     "stable": false
   },
   {
+    "address": "0xab36452dbac151be02b16ca17d8919826072f64a",
+    "name": "Reserve Rights",
+    "symbol": "RSR",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xfd4330b0312fdeec6d4225075b82e00493ff2e3f",
     "name": "SmarDex Token",
     "symbol": "SDEX",
@@ -276,6 +290,13 @@
     "address": "0x7d49a065d17d6d4a55dc13649901fdbb98b2afba",
     "name": "SushiToken",
     "symbol": "SUSHI",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xec4cb1148ec60e00a6bfcfce4482db724db6bdde",
+    "name": "Swirl Protocol",
+    "symbol": "SWI",
     "decimals": 18,
     "stable": false
   },
@@ -319,6 +340,13 @@
     "name": "Overnight.fi USD+",
     "symbol": "USD+",
     "decimals": 18,
+    "stable": true
+  },
+  {
+    "address": "0xb79dd08ea68a908a97220c76d19a6aa9cbde4376",
+    "name": "Overnight.fi USD+",
+    "symbol": "USD+",
+    "decimals": 6,
     "stable": true
   },
   {

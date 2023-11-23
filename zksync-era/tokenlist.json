@@ -1,5 +1,40 @@
 [
   {
+    "address": "0x4b9eb6c0b6ea15176bbf62841c6b2a8a398cb656",
+    "name": "Dai",
+    "symbol": "DAI",
+    "decimals": 18,
+    "stable": true
+  },
+  {
+    "address": "0x6ee46cb7cd2f15ee1ec9534cf29a5b51c83283e6",
+    "name": "Kyber Network Crystal",
+    "symbol": "KNC",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x503234f203fc7eb888eec8513210612a43cf6115",
+    "name": "Liquity USD",
+    "symbol": "LUSD",
+    "decimals": 18,
+    "stable": true
+  },
+  {
+    "address": "0x787c09494ec8bcb24dcaf8659e7d5d69979ee508",
+    "name": "Maverick Protocol",
+    "symbol": "MAV",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xdd9f72afed3631a6c85b5369d84875e6c42f1827",
+    "name": "Symbiosis",
+    "symbol": "SIS",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x8e86e46278518efc1c5ced245cba2c7e3ef11557",
     "name": "Overnight.fi USD+",
     "symbol": "USD+",
@@ -12,6 +47,27 @@
     "symbol": "USDC",
     "decimals": 6,
     "stable": true
+  },
+  {
+    "address": "0xb6841b40baafedf4e37935270357ff89df42e68e",
+    "name": "Stable USDLR",
+    "symbol": "USDLR",
+    "decimals": 6,
+    "stable": true
+  },
+  {
+    "address": "0x493257fd37edb34451f62edf8d2a0c418852ba4c",
+    "name": "Tether",
+    "symbol": "USDT",
+    "decimals": 6,
+    "stable": true
+  },
+  {
+    "address": "0xbbeb516fb02a01611cbbe0453fe3c580d7281011",
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "stable": false
   },
   {
     "address": "0x9e22d758629761fc5708c171d06c2fabb60b5159",

@@ -1589,6 +1589,13 @@
     "stable": false
   },
   {
+    "address": "0x4268b8f0b87b6eae5d897996e6b845ddbd99adf3",
+    "name": "Bridged USD Coin (Axelar)",
+    "symbol": "AXLUSDC",
+    "decimals": 6,
+    "stable": true
+  },
+  {
     "address": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
     "name": "Axie Infinity Shard",
     "symbol": "AXS",
@@ -2083,6 +2090,13 @@
     "name": "BeNFT Solutions",
     "symbol": "beai",
     "decimals": 9,
+    "stable": false
+  },
+  {
+    "address": "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce",
+    "name": "Beam",
+    "symbol": "BEAM",
+    "decimals": 18,
     "stable": false
   },
   {
@@ -2797,6 +2811,13 @@
     "name": "Bonfire",
     "symbol": "BONFIRE",
     "decimals": 9,
+    "stable": false
+  },
+  {
+    "address": "0xa697e272a73744b343528c3bc4702f2565b2f422",
+    "name": "Bonk",
+    "symbol": "BONK",
+    "decimals": 5,
     "stable": false
   },
   {
@@ -4760,6 +4781,13 @@
     "stable": false
   },
   {
+    "address": "0x14778860e937f509e651192a90589de711fb88a9",
+    "name": "CyberConnect",
+    "symbol": "CYBER",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x810ee35443639348adbbc467b33310d2ab43c168",
     "name": "Cyclone",
     "symbol": "CYC",
@@ -5209,6 +5237,13 @@
   },
   {
     "address": "0x039cb485212f996a9dbb85a9a75d898f94d38da6",
+    "name": "DeXe",
+    "symbol": "DEXE",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x6e88056e8376ae7709496ba64d37fa2f8015ce3e",
     "name": "DeXe",
     "symbol": "DEXE",
     "decimals": 18,
@@ -6587,6 +6622,13 @@
     "stable": false
   },
   {
+    "address": "0xce1e3cc1950d2aaeb47de04de2dec2dc86380e0a",
+    "name": "Ethos Reserve Note",
+    "symbol": "ERN",
+    "decimals": 18,
+    "stable": true
+  },
+  {
     "address": "0x8fe8df37335edb6e9f41f6baf550d2a973f48f21",
     "name": "Coinerr",
     "symbol": "ERR",
@@ -6977,6 +7019,13 @@
     "symbol": "fdt",
     "decimals": 18,
     "stable": false
+  },
+  {
+    "address": "0xc5f0f7b66764f6ec8c8dff7ba683102295e16409",
+    "name": "First Digital USD",
+    "symbol": "FDUSD",
+    "decimals": 18,
+    "stable": true
   },
   {
     "address": "0x9ba6a67a6f3b21705a46b380a1b97373a33da311",
@@ -7807,6 +7856,13 @@
   {
     "address": "0xf315cfc8550f6fca969d397ca8b807c5033fa122",
     "name": "Game Ace Token",
+    "symbol": "GAT",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xdacd068618fcdb358f8951eca2af3e2d7e7555c6",
+    "name": "GameAI",
     "symbol": "GAT",
     "decimals": 18,
     "stable": false
@@ -11361,6 +11417,13 @@
     "stable": false
   },
   {
+    "address": "0xd691d9a68c887bdf34da8c36f63487333acfd103",
+    "name": "Maverick Protocol",
+    "symbol": "MAV",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x5b8650cd999b23cf39ab12e3213fbc8709c7f5cb",
     "name": "MaziMatic",
     "symbol": "mazi",
@@ -13083,13 +13146,6 @@
     "stable": false
   },
   {
-    "address": "0xac83271abb4ec95386f08ad2b904a46c61777cef",
-    "name": "NFTrade Token [via ChainPort.io]",
-    "symbol": "NFTD",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x76f6cd75ce81e88916f8d933ab76efe18ced6ad3",
     "name": "NFT Global Platform",
     "symbol": "NFTG",
@@ -13811,6 +13867,13 @@
     "stable": false
   },
   {
+    "address": "0x43a8cab15d06d3a5fe5854d714c37e7e9246f170",
+    "name": "Orbs",
+    "symbol": "ORBS",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x968f9c44879f67a29b1bfccf93ea82d46a72881f",
     "name": "Orclands Metaverse",
     "symbol": "ORC",
@@ -14206,6 +14269,13 @@
     "address": "0xa5dec77c4d1b4eba2807c9926b182812a0cbf9eb",
     "name": "Protocon",
     "symbol": "pen",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xb3ed0a426155b79b898849803e3b36552f7ed507",
+    "name": "Pendle",
+    "symbol": "PENDLE",
     "decimals": 18,
     "stable": false
   },
@@ -16499,6 +16569,13 @@
     "stable": false
   },
   {
+    "address": "0xfdc66a08b0d0dc44c17bbd471b88f49f50cdd20f",
+    "name": "SmarDex",
+    "symbol": "SDEX",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0x91d5546564a31ce5f0f4f3302c55f6921e1916af",
     "name": "ShadowFi",
     "symbol": "sdf",
@@ -16642,13 +16719,6 @@
     "address": "0x37ac4d6140e54304d77437a5c11924f61a2d976f",
     "name": "SparkPoint Fuel",
     "symbol": "SFUEL",
-    "decimals": 18,
-    "stable": false
-  },
-  {
-    "address": "0x477bc8d23c634c154061869478bce96be6045d12",
-    "name": "SeedifyFund",
-    "symbol": "SFUND",
     "decimals": 18,
     "stable": false
   },
@@ -17210,13 +17280,6 @@
     "name": "Safe Nebula",
     "symbol": "SNB",
     "decimals": 8,
-    "stable": false
-  },
-  {
-    "address": "0x6f51a1674befdd77f7ab1246b83adb9f13613762",
-    "name": "SNFTS - Seedify NFT Space",
-    "symbol": "snfts",
-    "decimals": 18,
     "stable": false
   },
   {
@@ -19383,6 +19446,13 @@
     "stable": true
   },
   {
+    "address": "0x5335e87930b410b8c5bb4d43c3360aca15ec0c8c",
+    "name": "Overnight.fi USDT+",
+    "symbol": "USDT+",
+    "decimals": 18,
+    "stable": true
+  },
+  {
     "address": "0x524bc91dc82d6b90ef29f76a3ecaabafffd490bc",
     "name": "Tether USD (Wormhole from Ethereum)",
     "symbol": "USDTET",
@@ -20241,6 +20311,13 @@
     "name": "Wallax",
     "symbol": "wlx",
     "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x637c2173f6e678ac3c9b43b6665c760dc6021c13",
+    "name": "World Mobile Token",
+    "symbol": "WMT",
+    "decimals": 6,
     "stable": false
   },
   {

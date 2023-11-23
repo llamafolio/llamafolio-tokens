@@ -1,0 +1,149 @@
+[
+  {
+    "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+    "name": "Bridged USD Coin (Axelar)",
+    "symbol": "AXLUSDC",
+    "decimals": 6,
+    "stable": true
+  },
+  {
+    "address": "0x7d43aabc515c356145049227cee54b608342c0ad",
+    "name": "Binance USD (Linea)",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "stable": true
+  },
+  {
+    "address": "0x4af15ec2a0bd43db75dd04e62faa3b8ef36b00d5",
+    "name": "Bridged Dai Stablecoin (Linea)",
+    "symbol": "DAI",
+    "decimals": 18,
+    "stable": true
+  },
+  {
+    "address": "0xa334884bf6b0a066d553d19e507315e839409e62",
+    "name": "Ethos Reserve Note",
+    "symbol": "ERN",
+    "decimals": 18,
+    "stable": true
+  },
+  {
+    "address": "0x0b1a02a7309dfbfad1cd4adc096582c87e8a3ac1",
+    "name": "Horizon",
+    "symbol": "HZN",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x3b2f62d42db19b30588648bf1c184865d4c3b1d6",
+    "name": "Kyber Network Crystal",
+    "symbol": "KNC",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x0963a1abaf36ca88c21032b82e479353126a1c4b",
+    "name": "LeetSwap (Linea)",
+    "symbol": "LEET",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xcc22f6aa610d1b2a0e89ef228079cb3e1831b1d1",
+    "name": "Linea Velocore",
+    "symbol": "LVC",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x43e8809ea748eff3204ee01f08872f063e44065f",
+    "name": "Mendi Finance",
+    "symbol": "MENDI",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xdd3b8084af79b9bae3d1b668c0de08ccc2c9429a",
+    "name": "Magic Internet Money",
+    "symbol": "MIM",
+    "decimals": 18,
+    "stable": true
+  },
+  {
+    "address": "0x6ef95b6f3b0f39508e3e04054be96d5ee39ede0d",
+    "name": "Symbiosis",
+    "symbol": "SIS",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xec4cb1148ec60e00a6bfcfce4482db724db6bdde",
+    "name": "Swirl Protocol",
+    "symbol": "SWI",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xb79dd08ea68a908a97220c76d19a6aa9cbde4376",
+    "name": "Overnight.fi USD+",
+    "symbol": "USD+",
+    "decimals": 6,
+    "stable": true
+  },
+  {
+    "address": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
+    "name": "Bridged USD Coin (Linea)",
+    "symbol": "USDC",
+    "decimals": 6,
+    "stable": true
+  },
+  {
+    "address": "0x68592c5c98c4f4a8a4bc6da2121e65da3d1c0917",
+    "name": "Stable USDLR",
+    "symbol": "USDLR",
+    "decimals": 6,
+    "stable": true
+  },
+  {
+    "address": "0xa219439258ca9da29e9cc4ce5596924745e12b93",
+    "name": "Bridged Tether (Linea)",
+    "symbol": "USDT",
+    "decimals": 6,
+    "stable": true
+  },
+  {
+    "address": "0x1e1f509963a6d33e169d9497b11c7dbfe73b7f13",
+    "name": "Overnight.fi USDT+",
+    "symbol": "USDT+",
+    "decimals": 6,
+    "stable": true
+  },
+  {
+    "address": "0x5471ea8f739dd37e9b81be9c5c77754d8aa953e4",
+    "name": "Wrapped AVAX",
+    "symbol": "WAVAX",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xf5c6825015280cdfd0b56903f9f8b5a2233476f5",
+    "name": "Wrapped BNB",
+    "symbol": "WBNB",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
+    "name": "Bridged Wrapped Ether (Linea)",
+    "symbol": "WETH",
+    "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x265b25e22bcd7f10a5bd6e6410f10537cc7567e8",
+    "name": "Wrapped Matic",
+    "symbol": "WMATIC",
+    "decimals": 18,
+    "stable": false
+  }
+]
