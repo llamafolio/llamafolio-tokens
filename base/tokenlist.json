@@ -252,6 +252,15 @@
     "stable": false
   },
   {
+    "address": "0xb6fe221fe9eef5aba221c348ba20a1bf5e73624c",
+    "name": "Rocket Pool ETH",
+    "symbol": "RETH",
+    "decimals": 18,
+    "coingeckoId": "rocket-pool-eth",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x1f73eaf55d696bffa9b0ea16fa987b93b0f4d302",
     "name": "Rocket Pool Protocol",
     "symbol": "RPL",
