@@ -3269,13 +3269,6 @@
     "stable": false
   },
   {
-    "address": "0xfa68fb4628dff1028cfec22b4162fccd0d45efb6",
-    "name": "Liquid Staking Matic (PoS)",
-    "symbol": "MaticX",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0x211f4e76fcb811ed2b310a232a24b3445d95e3bc",
     "name": "Matrixswap",
     "symbol": "MATRIX",
@@ -5250,6 +5243,15 @@
     "stable": false
   },
   {
+    "address": "0x3a58a54c066fdc0f2d55fc9c89f0415c92ebf3c4",
+    "name": "Lido Staked Matic",
+    "symbol": "STMATIC",
+    "decimals": 18,
+    "coingeckoId": "lido-staked-matic",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x08be454de533509e8832b257116c5506e55b0b64",
     "name": "Standard",
     "symbol": "STND",
@@ -6292,6 +6294,15 @@
     "name": "Wrapped Statera",
     "symbol": "WSTA",
     "decimals": 18,
+    "stable": false
+  },
+  {
+    "address": "0x03b54a6e9a984069379fae1a4fc4dbae93b3bccd",
+    "name": "Wrapped stETH",
+    "symbol": "WSTETH",
+    "decimals": 18,
+    "coingeckoId": "wrapped-steth",
+    "wallet": true,
     "stable": false
   },
   {
