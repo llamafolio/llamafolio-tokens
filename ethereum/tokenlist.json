@@ -13043,13 +13043,6 @@
     "stable": false
   },
   {
-    "address": "0xf03a7eb46d01d9ecaa104558c732cf82f6b6b645",
-    "name": "Stader MaticX",
-    "symbol": "maticx",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0xc8d3dcb63c38607cb0c9d3f55e8ecce628a01c36",
     "name": "Matrixswap",
     "symbol": "MATRIX",
@@ -18902,13 +18895,6 @@
     "stable": false
   },
   {
-    "address": "0xac3e018457b222d93114458476f3e3416abbe38f",
-    "name": "Staked Frax Ether",
-    "symbol": "sfrxETH",
-    "decimals": 18,
-    "stable": false
-  },
-  {
     "address": "0xddf7fd345d54ff4b40079579d4c4670415dbfd0a",
     "name": "SocialGood",
     "symbol": "SG",
@@ -23022,6 +23008,8 @@
     "name": "Wrapped Beacon ETH",
     "symbol": "WBETH",
     "decimals": 18,
+    "coingeckoId": "wrapped-beacon-eth",
+    "wallet": true,
     "stable": false
   },
   {
