@@ -21898,6 +21898,13 @@
     "stable": false
   },
   {
+    "address": "0x35282d87011f87508d457f08252bc5bfa52e10a0",
+    "name": "ULTRA",
+    "symbol": "ULTRA",
+    "decimals": 18,
+    "stable": true
+  },
+  {
     "address": "0x035bfe6057e15ea692c0dfdcab3bb41a64dd2ad4",
     "name": "Universal Liquidity Union",
     "symbol": "ULU",
