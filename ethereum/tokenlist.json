@@ -7384,8 +7384,6 @@
     "name": "Ether.fi",
     "symbol": "ETHFI",
     "decimals": 18,
-    "coingeckoId": "ether-fi",
-    "wallet": true,
     "stable": false
   },
   {
