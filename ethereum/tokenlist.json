@@ -7380,6 +7380,13 @@
     "stable": false
   },
   {
+    "address": "0xfe0c30065b384f05761f15d0cc899d4f9f9cc0eb",
+    "name": "Ether.fi",
+    "symbol": "ETHFI",
+    "decimals": 18,
+    "stable": false
+  },
+  {
     "address": "0xfd09911130e6930bf87f2b0554c44f400bd80d3e",
     "name": "EthicHub",
     "symbol": "ETHIX",
