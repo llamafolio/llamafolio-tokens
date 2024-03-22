@@ -39,6 +39,14 @@ async function resizeImage(chain: string, filename: string) {
 async function main() {
   if (process.argv[2] in chains) {
     const chain = process.argv[2]
+    const address = process.argv[3]
+
+    // Resize single logo
+    if (address) {
+      await resizeImage(chain, `${address}.png`)
+      return
+    }
+
     const src = path.join(__dirname, '..', chain, 'logos')
 
     const logos: string[] = []
@@ -50,7 +58,7 @@ async function main() {
     await Promise.all(logos.map(logo => resizeImage(chain, logo)))
     return
   }
-  
+
   for (const chain in chains) {
     const src = path.join(__dirname, '..', chain, 'logos')
 
