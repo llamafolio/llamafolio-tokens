@@ -56,6 +56,15 @@
     "stable": false
   },
   {
+    "address": "0x532f27101965dd16442e59d40670faf5ebb142e4",
+    "name": "Brett",
+    "symbol": "BRETT",
+    "decimals": 18,
+    "coingeckoId": "based-brett",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0x78a087d713be963bf307b18f2ff8122ef9a63ae9",
     "name": "BaseSwap",
     "symbol": "BSWAP",
