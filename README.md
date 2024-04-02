@@ -6,7 +6,7 @@ List of tokens used by LlamaFolio.
 
 ## Add Token
 
-Using Coingecko:
+Using CoinGecko:
 
 ```sh
 npm run add-token coingecko <coingecko_id>
