@@ -107,6 +107,15 @@
     "stable": true
   },
   {
+    "address": "0x4ed4e862860bed51a9570b96d89af5e1b0efefed",
+    "name": "Degen (Base)",
+    "symbol": "DEGEN",
+    "decimals": 18,
+    "coingeckoId": "degen-base",
+    "wallet": true,
+    "stable": false
+  },
+  {
     "address": "0xde5ed76e7c05ec5e4572cfc88d1acea165109e44",
     "name": "DEUS",
     "symbol": "DEUS",
